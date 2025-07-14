@@ -577,8 +577,6 @@ https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlis
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
 #EXTINF:0,group-title="it",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
-#EXTINF:0,group-title="it",Ritmo 80
-https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0,group-title="it",Canale 2 TV
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0,group-title="it",Canale 7 TV
@@ -627,10 +625,10 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0,group-title="CH",RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0,Fox News
-https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:0,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,group-title="sk",Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0,group-title="sk",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,group-title="music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,group-title="music",Deluxe Dance
@@ -725,14 +723,6 @@ http://92.118.251.84:8080/Eurosport1/index.m3u8
 http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0,group-title="CH",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:0,group-title="CH",Al Arabiya
-https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:0,group-title="CH",2M Maroc
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-#EXTINF:0,group-title="CH",TV2 Algérie
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:0,group-title="CH",Tunis 1
-https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
 #EXTINF:0,group-title="CH",RTP Int
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="CH",TV Monaco
@@ -745,10 +735,14 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0,group-title="UA",Ukraina 24
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:0,group-title="sk",Rai 1
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0,group-title="sk",Rai 3
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0,group-title="CH",2M Maroc
+https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
+#EXTINF:0,group-title="CH",TV2 Algérie
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:0,group-title="CH",Tunis 1
+https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
+#EXTINF:0,group-title="CH",Al Arabiya
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 #EXTINF:0,group-title="sk",Al Jazeera AR
 https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
 #EXTINF:0,group-title="sk",Al Jazeera EN
@@ -795,8 +789,12 @@ http://103.49.40.100:27014/POLSATMUSICHD
 http://145.239.19.144:18088/174/mpegts
 #EXTINF:0,group-title="ru",Viva Russia
 https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
-#EXTINF:0,group-title="eu",DW News
+#EXTINF:0,group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,group-title="news",Fox News
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:0,group-title="news",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,group-title="RO",TVR 1 HD
 http://195.189.60.31:8003/play/a0i1/index.m3u8
 #EXTINF:0,group-title="RO",TVR 3
@@ -1555,6 +1553,8 @@ http://85.187.13.40:18000/CLUBLAND
 http://85.187.13.40:18000/tntint
 #EXTINF:0,test
 http://188.40.59.230:5100/mtv
+#EXTINF:0,group-title="it",Ritmo 80
+https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0,_
 http://85.14.32.15:8800/udp/239.100.20.2:8888
 #EXTINF:-1,_
