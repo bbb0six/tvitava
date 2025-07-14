@@ -1345,6 +1345,12 @@ http://185.236.230.212:9982/play/a099
 http://185.236.230.212:9982/play/a09a
 #EXTINF:0,BBC NL
 http://185.236.230.212:9982/play/a0ak
+#EXTINF:0,Pro Sieben
+http://85.14.32.15:8800/udp/239.100.20.13:8888
+#EXTINF:0,Sat 1
+http://85.14.32.15:8800/udp/239.100.20.19:8888
+#EXTINF:0,Sat 1 Gold
+http://85.14.32.15:8800/udp/239.100.20.24:8888
 #EXTINF:-1,Rai 1
 http://85.14.32.15:8800/udp/239.100.20.52:8888
 #EXTINF:-1,Rai 2
@@ -1564,4 +1570,8 @@ https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visu
 #EXTINF:-1,_
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1,_
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:-1,_
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:-1,_
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
