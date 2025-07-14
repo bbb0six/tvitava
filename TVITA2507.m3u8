@@ -1345,30 +1345,18 @@ http://185.236.230.212:9982/play/a099
 http://185.236.230.212:9982/play/a09a
 #EXTINF:0,BBC NL
 http://185.236.230.212:9982/play/a0ak
+#EXTINF:-1,Rai 1
+http://85.14.32.15:8800/udp/239.100.20.52:8888
+#EXTINF:-1,Rai 2
+http://85.14.32.15:8800/udp/239.100.20.56:8888
+#EXTINF:-1,Rai 3
+http://85.14.32.15:8800/udp/239.100.20.53:8888
 #EXTINF:0,Rete4 HD
 http://84.22.55.2:8013/play/s417
 #EXTINF:0,Canale5 HD
 http://84.22.55.2:8013/play/s418
 #EXTINF:0,Italia1 HD
 http://84.22.55.2:8013/play/s419
-#EXTINF:0,20Mediaset HD
-http://84.22.55.2:8013/play/s416
-#EXTINF:0,Mediaset Extra HD
-http://84.22.55.2:8013/play/s411
-#EXTINF:0,Boing HD
-http://84.22.55.2:8000/play/s17
-#EXTINF:0,Boing Plus
-http://84.22.55.2:8000/play/s16
-#EXTINF:0,Cartoonito HD
-http://84.22.55.2:8000/play/s18
-#EXTINF:0,Cine34 HD
-http://84.22.55.2:8000/play/s11
-#EXTINF:0,Focus HD
-http://84.22.55.2:8000/play/s14
-#EXTINF:0,QVC HD
-http://84.22.55.2:8000/play/s6
-#EXTINF:0,TOPcrime HD
-http://84.22.55.2:8000/play/s10
 #EXTINF:0,LA7 HD
 http://84.22.55.2:8003/play/s119
 #EXTINF:0,TV8 HD
@@ -1399,6 +1387,24 @@ http://84.22.55.2:8005/play/s173
 http://84.22.55.2:8005/play/s179
 #EXTINF:0,LA7d
 http://84.22.55.2:8003/play/s107
+#EXTINF:0,20Mediaset HD
+http://84.22.55.2:8013/play/s416
+#EXTINF:0,Mediaset Extra HD
+http://84.22.55.2:8013/play/s411
+#EXTINF:0,Boing HD
+http://84.22.55.2:8000/play/s17
+#EXTINF:0,Boing Plus
+http://84.22.55.2:8000/play/s16
+#EXTINF:0,Cartoonito HD
+http://84.22.55.2:8000/play/s18
+#EXTINF:0,Cine34 HD
+http://84.22.55.2:8000/play/s11
+#EXTINF:0,Focus HD
+http://84.22.55.2:8000/play/s14
+#EXTINF:0,QVC HD
+http://84.22.55.2:8000/play/s6
+#EXTINF:0,TOPcrime HD
+http://84.22.55.2:8000/play/s10
 #EXTINF:0,Deejay TV HD
 http://84.22.55.2:8006/play/s216
 #EXTINF:0,RTL 102.5
@@ -1437,6 +1443,8 @@ http://84.22.55.2:8032/play/s364
 http://84.22.55.2:8032/play/s366
 #EXTINF:0,TV33 TN
 http://84.22.55.2:8032/play/s368
+#EXTINF:0,Test HEVC Main10
+http://84.22.55.2:8013/play/s399
 #EXTINF:0,Primantenna
 http://84.22.55.2:8008/play/s249
 #EXTINF:0,Primocanale HD
@@ -1507,14 +1515,6 @@ http://84.22.55.2:8009/play/s257
 http://84.22.55.2:8009/play/s254
 #EXTINF:0,Wedding TV
 http://84.22.55.2:8009/play/s273
-#EXTINF:0,Test HEVC Main10
-http://84.22.55.2:8013/play/s399
-#EXTINF:-1,Rai 1
-http://85.14.32.15:8800/udp/239.100.20.52:8888
-#EXTINF:-1,Rai 2
-http://85.14.32.15:8800/udp/239.100.20.56:8888
-#EXTINF:-1,Rai 3
-http://85.14.32.15:8800/udp/239.100.20.53:8888
 #EXTINF:0,group-title="x",Canale 5
 http://89.34.226.81:8000/play/a0qt
 #EXTINF:0,group-title="x",Italia 1
@@ -1549,6 +1549,8 @@ http://85.187.13.40:18000/CLUBLAND
 http://85.187.13.40:18000/tntint
 #EXTINF:0,test
 http://188.40.59.230:5100/mtv
+#EXTINF:0,_
+http://85.14.32.15:8800/udp/239.100.20.2:8888
 #EXTINF:-1,_
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
 #EXTINF:-1,_
