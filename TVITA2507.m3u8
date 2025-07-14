@@ -327,16 +327,16 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0,group-title="CH",Cherie 25
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0,group-title="CH",CANAL+
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
-#EXTINF:0,group-title="CH",Planete+
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0,group-title="CH",BBC World News
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0,group-title="ES",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
 #EXTINF:0,group-title="CH",BBC 2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:0,group-title="CH",BBC 3
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:0,group-title="CH",BBC 4
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0,group-title="UK",ITV 1
 http://185.130.218.254:25007/ITV/mpegts
 #EXTINF:0,group-title="CH",ITV 2
@@ -425,10 +425,10 @@ https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0,group-title="it",ZeroUno TV Music
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:0,group-title="it",Radio Carina TV
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
-#EXTINF:0,group-title="CH",Mezzo
-https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
+#EXTINF:0,group-title="CH",CANAL+
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+#EXTINF:0,group-title="CH",Planete+
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0,group-title="CH",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0,group-title="CH",Video Italia
@@ -575,6 +575,8 @@ https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:0,group-title="it",Telecity Piemonte
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:0,group-title="it",Radio Carina TV
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="it",Ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0,group-title="it",Canale 2 TV
@@ -723,8 +725,6 @@ http://92.118.251.84:8080/Eurosport1/index.m3u8
 http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0,group-title="CH",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:0,group-title="CH",Al Jazeera EN
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-dash/aljazeera.mpd
 #EXTINF:0,group-title="CH",Al Arabiya
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 #EXTINF:0,group-title="CH",2M Maroc
@@ -773,8 +773,6 @@ https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:0,group-title="sk",Barrandov Krimi
-https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:0,group-title="sk",Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,group-title="sk",RIK TV
@@ -789,6 +787,8 @@ https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:0,group-title="sk",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:0,group-title="CH",Mezzo
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0,group-title="pl",Polsat Music HD
 http://103.49.40.100:27014/POLSATMUSICHD
 #EXTINF:0,group-title="pl",Stars TV
