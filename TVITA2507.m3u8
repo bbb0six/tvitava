@@ -755,6 +755,8 @@ https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
 https://dash3.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:0,group-title="sk",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:0,group-title="sk",Sky News
+https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0,group-title="sk",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,group-title="sk",CT24
@@ -767,8 +769,6 @@ https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:0,group-title="sk",Barrandov Krimi
-https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:0,group-title="sk",Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,group-title="sk",RIK TV
@@ -1031,10 +1031,10 @@ http://185.189.225.149/HitTV/index.m3u8
 http://185.130.218.254:25007/RTL/mpegts
 #EXTINF:0,group-title="FR",RTL 2
 http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0,group-title="DE",ProSieben HD
-http://149.62.177.108:8000/play/a006/index.m3u8
-#EXTINF:0,group-title="DE",Pro7 MAXX HD
-http://149.62.177.108:8000/play/a00d/index.m3u8
+#EXTINF:0,group-title="FR",France 2
+http://185.130.218.254:25007/France2/mpegts
+#EXTINF:0,group-title="FR",France 3
+http://185.130.218.254:25007/France3/mpegts
 #EXTINF:0,group-title="DE",Deluxe Music HD
 http://149.62.177.108:8000/play/a00t/index.m3u8
 #EXTINF:0,group-title="sports",match futbol 1
