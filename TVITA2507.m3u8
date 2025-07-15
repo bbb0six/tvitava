@@ -70,7 +70,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1,group-title="Cairo",LA7d
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+http://84.22.55.2:8003/play/s107
 #EXTINF:-1,group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -820,7 +820,7 @@ https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="IL",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:0,group-title="IL",Isr CH 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1678643062~acl=%2f*~data=hdntl~hmac=18c79b0af2b2719de95b2a0adb22904c97558548be9d2e7185eb045805a10abd/profileManifest.m3u8?_uid=9eb5dcb7-bbf0-4cf6-87d0-73127c4116b6&rK=a2
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
 #EXTINF:0,group-title="IL",Isr CH 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0,group-title="IL",Isr CH 14
