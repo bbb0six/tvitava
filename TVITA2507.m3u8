@@ -873,7 +873,7 @@ http://178.23.88.55/CNN/index.m3u8
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,group-title="bg",MTV Global
 http://213.169.39.30:5202
-#EXTINF:0,group-title="bg",MTV 00s
+#EXTINF:0,group-title="bg",_
 http://213.169.39.30:5139
 #EXTINF:0,group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
