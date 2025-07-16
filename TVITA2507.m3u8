@@ -149,9 +149,9 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 #EXTINF:-1,Sportitalia
 https://jmp2.uk/sam-ITBA2200010O1.m3u8
 #EXTINF:0,group-title="Sciscione",iL61
-http://84.22.55.2:8006/play/s193
+https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0,group-title="Sciscione",Donna TV
-http://84.22.55.2:8003/play/s116
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/master.m3u8
 #EXTINF:0,group-title="it",Canale 63
 http://84.22.55.2:8004/play/s157
 #EXTINF:-1,group-title="it",supertennis
@@ -165,7 +165,7 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0,group-title="it",BOMChannel 68
-http://84.22.55.2:8002/play/s50
+https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
 #EXTINF:-1,group-title="GEDI",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1,group-title="it",Radio Italia TV
