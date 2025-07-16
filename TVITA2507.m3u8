@@ -865,18 +865,18 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rete Italia TV
 https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
-#EXTINF:0,group-title="other",CNN International
+#EXTINF:0,group-title="ilglobotv",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:0,group-title="cz",CNN International
 http://178.23.88.55/CNN/index.m3u8
-#EXTINF:0,group-title="other",MTV Global
+#EXTINF:0,group-title="cz",MTV Global
 http://178.23.88.55/MTV/index.m3u8
-#EXTINF:0,group-title="bg",MTV Hits
-http://213.169.39.30:5257
-#EXTINF:0,group-title="bg",MTV 80s
-http://213.169.39.30:5137
-#EXTINF:0,group-title="bg",MTV 90s
-http://213.169.39.30:5203
+#EXTINF:0,group-title="bg",MTV Global
+http://213.169.39.30:5202
 #EXTINF:0,group-title="bg",MTV 00s
 http://213.169.39.30:5139
+#EXTINF:0,group-title="bg",Mediaset Italia
+http://213.169.39.30:5255
 #EXTINF:0,group-title="bg",BNT 1
 http://213.169.39.30:5086
 #EXTINF:0,group-title="bg",BNT 2
