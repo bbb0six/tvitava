@@ -212,9 +212,9 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1,group-title="mtv",MTV 90s
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1,group-title="mtv",MTV 00s
-http://95.216.97.235:7777/mtv00
+http://190.83.2.172:8081/play/a05n/index.m3u8
 #EXTINF:-1,group-title="mtv",MTV Live
-http://95.216.97.235:7777/mtvlivehd
+http://179.63.6.12:9000/play/a04r
 #EXTINF:-1,group-title="mtv",MTV Hits
 http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:-1,group-title="mtv",MTV Club
