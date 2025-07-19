@@ -681,8 +681,8 @@ http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0,group-title="AL",Top Ch
 http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
-#EXTINF:0,group-title="AL",_
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:0,group-title="AL",Top Ch
+http://89.187.191.99:8080/topchannel/index.m3u8
 #EXTINF:0,group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0,group-title="AL",Panorama
