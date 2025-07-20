@@ -335,7 +335,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0,group-title="ES",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
 #EXTINF:0,group-title="UK",BBC 2
-http://185.189.225.150:85/BBC2/index.m3u8
+http://185.130.218.254:25007/BBC2/mpegts
 #EXTINF:0,group-title="CH",BBC 3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:0,group-title="CH",BBC 4
