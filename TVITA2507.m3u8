@@ -38,9 +38,11 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1,group-title="ch",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1,group-title="ch",RSI La 1
-http://89.34.226.81:8000/play/a0rd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDg0MTEzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yc2lsYTFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjYzczMmI5NDI5YjUxYTdhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbMTAwXX0=.F8arMstAZdRER3T2JU8q-7FV-Sda3F0zpAS-rPsb1T_A7hafJbCgXd6vIVv0oDohZV6SKTcSkkmWmw-g6wMwOg==/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1,group-title="ch",RSI La 2
-http://89.34.226.81:8000/play/a0re
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDg0MTAyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yc2lsYTJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZDMyY2FlZWU5MDNmYjgyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMzhdfQ==.f6BkTeicprG5r6o9xHzhFzredbdxlGjFT5ZRruIDnYF3z-2_8WkKbbL9LAOFpGouAGL5wZoz6BKLDXJdyaAuKw==/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:0,group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,group-title="Mediaset",20 Mediaset
@@ -205,26 +207,27 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1,group-title="Rai",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1,group-title="mtv",MTV DE
-http://176.10.117.3:5000/play/a00y/index.m3u8
-#EXTINF:-1,group-title="mtv",MTV 80s
-http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1,group-title="mtv",MTV 90s
-http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:-1,group-title="mtv",MTV 00s
-http://190.83.2.172:8081/play/a05n/index.m3u8
-#EXTINF:-1,group-title="mtv",MTV Live
-http://179.63.6.12:9000/play/a04r
-#EXTINF:-1,group-title="mtv",MTV Hits
-http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1,group-title="mtv",MTV Club
-http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0,group-title="it",Radio 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:0,group-title="it",Radio Piterpan TV
 https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
 #EXTINF:0,group-title="it",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:-1,group-title="mtv",MTV Live
+http://95.216.97.235:7777/mtvlivehd
+#EXTINF:-1,group-title="mtv",MTV Hits
+http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
+#EXTINF:-1,group-title="mtv",MTV Club
+http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:-1,group-title="mtv",MTV 80s
+http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
+#EXTINF:-1,group-title="mtv",MTV 90s
+http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
+#EXTINF:-1,group-title="mtv",MTV 00s
+http://95.216.97.235:7777/mtv00
+#EXTINF:0,_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0,group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -871,10 +874,10 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 http://178.23.88.55/CNN/index.m3u8
 #EXTINF:0,group-title="cz",MTV Global
 http://178.23.88.55/MTV/index.m3u8
-#EXTINF:0,group-title="bg",Eurosport 1
-http://85.187.13.40:18000/eurosport
-#EXTINF:0,group-title="bg",Eurosport 2
-http://85.187.13.40:18000/eurosport2
+#EXTINF:0,group-title="179",MTV Live
+http://179.63.6.12:9000/play/a04r
+#EXTINF:0,group-title="de",_
+http://176.10.117.3:5000/play/a00y/index.m3u8
 #EXTINF:0,group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:0,group-title="bg",BNT 1
@@ -895,10 +898,10 @@ http://85.187.13.40:18000/novanews
 http://85.187.13.40:18000/kinonova
 #EXTINF:0,group-title="bg",_
 http://213.169.39.30:5134
-#EXTINF:0,group-title="bg",_
-http://213.169.39.30:5136
-#EXTINF:0,group-title="bg",_
-http://213.169.39.30:5216
+#EXTINF:0,group-title="bg",Eurosport 1
+http://85.187.13.40:18000/eurosport
+#EXTINF:0,group-title="bg",Eurosport 2
+http://85.187.13.40:18000/eurosport2
 #EXTINF:0,group-title="bg",Max Sport 1
 http://213.169.39.30:5138
 #EXTINF:0,group-title="bg",Max Sport 2
