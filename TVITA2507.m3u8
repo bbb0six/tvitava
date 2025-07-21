@@ -37,12 +37,10 @@ https://streamcdnm2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videoli
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1,group-title="ch",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1,group-title="ch",RSI La 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://cache1b.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDg0MTEzIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yc2lsYTFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJjYzczMmI5NDI5YjUxYTdhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMzgiLCJzb3VyY2VzIjpbMTAwXX0=.F8arMstAZdRER3T2JU8q-7FV-Sda3F0zpAS-rPsb1T_A7hafJbCgXd6vIVv0oDohZV6SKTcSkkmWmw-g6wMwOg==/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1,group-title="ch",RSI La 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDg0MTAyIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yc2lsYTJoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZDMyY2FlZWU5MDNmYjgyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMzhdfQ==.f6BkTeicprG5r6o9xHzhFzredbdxlGjFT5ZRruIDnYF3z-2_8WkKbbL9LAOFpGouAGL5wZoz6BKLDXJdyaAuKw==/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:0,group-title="CH",RSI LA 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTINF:0,group-title="CH",RSI LA 2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:0,group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,group-title="Mediaset",20 Mediaset
@@ -274,8 +272,8 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:0,group-title="CH",RTS 2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:0,group-title="CH",CNN International
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+#EXTINF:0,group-title="UK",CNN International
+http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,group-title="sk",Euronews EN
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0,group-title="CH",Euronews FR
@@ -330,16 +328,16 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0,group-title="CH",Cherie 25
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0,group-title="CH",BBC World News
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
+#EXTINF:0,group-title="BG",BBC World News
+http://83.228.75.166:8000/play/a0e0
 #EXTINF:0,group-title="ES",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
 #EXTINF:0,group-title="UK",BBC 2
 http://185.130.218.254:25007/BBC2/mpegts
 #EXTINF:0,group-title="CH",BBC 3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0,group-title="CH",BBC 4
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+#EXTINF:0,group-title="UK",BBC 4
+http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,group-title="UK",ITV 1
 http://185.130.218.254:25007/ITV/mpegts
 #EXTINF:0,group-title="UK",ITV 2
@@ -348,10 +346,10 @@ http://185.130.218.254:25007/ITV2/mpegts
 http://185.130.218.254:25007/ITV3/mpegts
 #EXTINF:0,group-title="UK",ITV 4
 http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0,group-title="CH",CHANNEL 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:0,group-title="CH",CHANNEL 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:0,group-title="UK",CHANNEL 4
+http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0,group-title="UK",CHANNEL 5
+http://176.65.146.224:4003/play/a06m/index.m3u8
 #EXTINF:0,group-title="CH",FILM 4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:0,group-title="CH",MORE 4
@@ -1560,6 +1558,12 @@ http://85.187.13.40:18000/tntint
 http://188.40.59.230:5100/mtv
 #EXTINF:0,group-title="it",Ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
+#EXTINF:-1,MTV SIM HD
+http://181.209.194.14:8000/play/a040/index.m3u8
+#EXTINF:-1,MTV HD
+http://181.209.194.14:8000/play/a01k/index.m3u8
+#EXTINF:-1,MTV 00s
+http://181.209.194.14:8000/play/a02r/index.m3u8
 #EXTINF:0,_
 http://85.14.32.15:8800/udp/239.100.20.2:8888
 #EXTINF:-1,_
