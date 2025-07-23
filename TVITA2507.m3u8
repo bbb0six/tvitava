@@ -430,8 +430,8 @@ https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:0,group-title="CH",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
-#EXTINF:0,group-title="CH",Deluxe Music
-https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:0,group-title="-",Deluxe Music
+http://145.239.19.144:18088/170/mpegts
 #EXTINF:0,group-title="CH",Video Italia
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0,group-title="-",Canale Italia
