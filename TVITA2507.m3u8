@@ -436,8 +436,8 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mp
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0,group-title="-",Canale Italia
 http://45.59.149.54:8041/play/s1928
-#EXTINF:0,group-title="CH",TVE INT
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+#EXTINF:0,group-title="-",RTVE INT
+http://85.14.32.15:8800/udp/239.100.20.7:8888
 #EXTINF:0,group-title="ES",RTVE La1
 http://185.189.225.150:85/TVE/index.m3u8
 #EXTINF:0,group-title="ES",RTVE La2
@@ -800,6 +800,8 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,group-title="RO",TVR 1 HD
 http://195.189.60.31:8003/play/a0i1/index.m3u8
+#EXTINF:0,group-title="RO",TVR 2
+http://89.44.229.22:7000/tvr2
 #EXTINF:0,group-title="RO",TVR 3
 http://195.189.60.31:8003/play/a0ev/index.m3u8
 #EXTINF:0,group-title="RO",TVR Sport
@@ -810,8 +812,6 @@ http://195.189.60.31:8003/play/a0eq/index.m3u8
 http://195.189.60.31:8003/play/a0eg/index.m3u8
 #EXTINF:0,group-title="RO",PRO TV HD
 http://195.189.60.31:8003/play/a0ae/index.m3u8
-#EXTINF:0,group-title="RO",TV2 HU
-http://195.189.60.31:8003/play/a0fa/index.m3u8
 #EXTINF:0,group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
 #EXTINF:0,group-title="AZ",ICTIMAI
@@ -1554,6 +1554,52 @@ http://85.187.13.40:18000/ProSieben
 http://85.187.13.40:18000/CLUBLAND
 #EXTINF:-1,TNT (Russia)
 http://85.187.13.40:18000/tntint
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+95.47.155.244:8001/play/a001
+#EXTINF:-1,02 РОССИЯ-1
+95.47.155.244:8001/play/a002
+#EXTINF:-1,03 МАТЧ!
+95.47.155.244:8001/play/a003
+#EXTINF:-1,04 НТВ
+95.47.155.244:8001/play/a004
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+95.47.155.244:8001/play/a005
+#EXTINF:-1,06 РОССИЯ-К
+95.47.155.244:8001/play/a006
+#EXTINF:-1,07 РОССИЯ-24
+95.47.155.244:8001/play/a007
+#EXTINF:-1,08 КАРУСЕЛЬ
+95.47.155.244:8001/play/a008
+#EXTINF:-1,09 ОТР
+95.47.155.244:8001/play/a009
+#EXTINF:-1,10 ТВ Центр
+95.47.155.244:8001/play/a010
+#EXTINF:-1,11 РЕН ТВ
+95.47.155.244:8001/play/a011
+#EXTINF:-1,12 Спас
+95.47.155.244:8001/play/a012
+#EXTINF:-1,13 СТС
+95.47.155.244:8001/play/a013
+#EXTINF:-1,14 Домашний
+95.47.155.244:8001/play/a014
+#EXTINF:-1,15 ТВ3
+95.47.155.244:8001/play/a015
+#EXTINF:-1,16 Пятница
+95.47.155.244:8001/play/a016
+#EXTINF:-1,17 Звезда
+95.47.155.244:8001/play/a017
+#EXTINF:-1,18 МИР
+95.47.155.244:8001/play/a018
+#EXTINF:-1,19 ТНТ
+95.47.155.244:8001/play/a019
+#EXTINF:-1,20 МУЗ ТВ
+95.47.155.244:8001/play/a020
+#EXTINF:-1,ЧерногорскИнофрм
+95.47.155.244:8001/play/a021
+#EXTINF:-1,Юг Сибири HD
+95.47.155.244:8001/play/a023
+#EXTINF:-1,21 РТС Хакасия HD
+95.47.155.244:8001/play/a022
 #EXTINF:0,test
 http://188.40.59.230:5100/mtv
 #EXTINF:0,group-title="it",Ritmo 80
@@ -1564,6 +1610,12 @@ http://181.209.194.14:8000/play/a040/index.m3u8
 http://181.209.194.14:8000/play/a01k/index.m3u8
 #EXTINF:-1,MTV 00s
 http://181.209.194.14:8000/play/a02r/index.m3u8
+#EXTINF:-1,test MTV DE
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
+#EXTINF:-1,test RSI La 1
+http://195.189.60.31:8004/play/a0be/index.m3u8
+#EXTINF:-1,test RSI La 2
+http://195.189.60.31:8004/play/a0bf/index.m3u8
 #EXTINF:0,_
 http://85.14.32.15:8800/udp/239.100.20.2:8888
 #EXTINF:-1,_
