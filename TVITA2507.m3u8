@@ -434,8 +434,8 @@ https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mp
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0,group-title="CH",Video Italia
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:0,group-title="CH",Canale Italia
-https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
+#EXTINF:0,group-title="-",Canale Italia
+http://45.59.149.54:8041/play/s1928
 #EXTINF:0,group-title="CH",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0,group-title="ES",RTVE La1
