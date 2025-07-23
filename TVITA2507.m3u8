@@ -38,10 +38,10 @@ https://streamcdnm2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videoli
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1,group-title="ch",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0,group-title="CH",RSI LA 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:0,group-title="CH",RSI LA 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1,group-title="ch",RSI La 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1,group-title="ch",RSI La 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:0,group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,group-title="Mediaset",20 Mediaset
