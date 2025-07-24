@@ -681,10 +681,10 @@ http://178.33.11.6:8696/live/scanott/playlist.m3u8
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0,group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0,group-title="AL",Top Ch
-http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
-#EXTINF:0,group-title="AL",Top Ch
+#EXTINF:0,group-title="AL",Top Channel
 http://89.187.191.99:8080/topchannel/index.m3u8
+#EXTINF:0,group-title="AL",Top News
+http://89.187.191.99:8080/topnews/index.m3u8
 #EXTINF:0,group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0,group-title="AL",Panorama
@@ -715,10 +715,10 @@ http://46.240.143.86:8065/rts2
 http://46.240.143.86:8065/rts3
 #EXTINF:0,group-title="CH",RTS SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:0,group-title="DE",Deluxe Music HD
+http://149.62.177.108:8000/play/a00t/index.m3u8
 #EXTINF:0,_
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12410
-#EXTINF:0,_
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12413
+http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
 #EXTINF:0,group-title="ES",Eurosport ES 1
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
@@ -1037,8 +1037,8 @@ http://185.130.218.254:25007/RTL2/mpegts
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="FR",France 3
 http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="DE",Deluxe Music HD
-http://149.62.177.108:8000/play/a00t/index.m3u8
+#EXTINF:0,group-title="-,_
+http://45.59.149.54:8047/play/s1766
 #EXTINF:0,group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:0,group-title="sports",match futbol 2
