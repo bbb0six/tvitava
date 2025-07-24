@@ -273,8 +273,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:0,group-title="CH",RTS 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:0,group-title="UK",CNN International
-http://176.65.146.224:4006/play/a06d/index.m3u8
+#EXTINF:0,group-title="CH",CNN International
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:0,group-title="sk",Euronews EN
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0,group-title="CH",Euronews FR
@@ -329,28 +329,28 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0,group-title="CH",Cherie 25
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0,group-title="BG",BBC World News
-http://83.228.75.166:8000/play/a0e0
+#EXTINF:0,group-title="CH",BBC World News
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0,group-title="ES",BBC 1
 http://185.189.225.150:85/BBC1/index.m3u8
-#EXTINF:0,group-title="UK",BBC 2
-http://185.130.218.254:25007/BBC2/mpegts
+#EXTINF:0,group-title="CH",BBC 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0,group-title="CH",BBC 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0,group-title="UK",BBC 4
-http://176.65.146.224:4001/play/a08g/index.m3u8
+#EXTINF:0,group-title="CH",BBC 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0,group-title="UK",ITV 1
 http://185.130.218.254:25007/ITV/mpegts
-#EXTINF:0,group-title="UK",ITV 2
-http://185.130.218.254:25007/ITV2/mpegts
-#EXTINF:0,group-title="UK",ITV 3
-http://185.130.218.254:25007/ITV3/mpegts
-#EXTINF:0,group-title="UK",ITV 4
-http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0,group-title="UK",CHANNEL 4
-http://176.65.146.224:4007/play/a074/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 5
-http://176.65.146.224:4003/play/a06m/index.m3u8
+#EXTINF:0,group-title="CH",ITV 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:0,group-title="CH",ITV 3
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:0,group-title="CH",ITV 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:0,group-title="CH",CHANNEL 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:0,group-title="CH",CHANNEL 5
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:0,group-title="CH",FILM 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:0,group-title="CH",MORE 4
@@ -435,13 +435,13 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 http://145.239.19.144:18088/170/mpegts
 #EXTINF:0,group-title="CH",Video Italia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:0,group-title="-",Canale Italia
-http://45.59.149.54:8041/play/s1928
-#EXTINF:0,group-title="-",RTVE INT
-http://85.14.32.15:8800/udp/239.100.20.7:8888
-#EXTINF:0,group-title="ES",RTVE La1
+#EXTINF:0,group-title="CH",Canale Italia
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
+#EXTINF:0,group-title="CH",TVE INT
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+#EXTINF:0,group-title="ES",TVE La1
 http://185.189.225.150:85/TVE/index.m3u8
-#EXTINF:0,group-title="ES",RTVE La2
+#EXTINF:0,group-title="ES",TVE La2
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:0,group-title="ES",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
@@ -799,8 +799,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,group-title="RO",TVR 1 HD
-http://195.189.60.31:8003/play/a0i1/index.m3u8
+#EXTINF:0,group-title="RO",TVR 1
+http://89.44.229.22:7000/tvr1
 #EXTINF:0,group-title="RO",TVR 2
 http://89.44.229.22:7000/tvr2
 #EXTINF:0,group-title="RO",TVR 3
@@ -1275,8 +1275,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0,|BE| DAZN PRO LEAGUE 1
 http://185.236.230.212:9982/play/a09q
-#EXTINF:0,|BE| ECLIPS TV
-http://185.236.230.212:9982/play/a09d
+#EXTINF:0,BBC4
+http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,|BE| KETNET
 http://185.236.230.212:9982/play/a09j
 #EXTINF:0,|BE| MENT POP
@@ -1499,14 +1499,14 @@ http://84.22.55.2:8009/play/s261
 http://84.22.55.2:8009/play/s263
 #EXTINF:0,L'altro corriere
 http://84.22.55.2:8009/play/s268
-#EXTINF:0,LaC OnAir
-http://84.22.55.2:8009/play/s265
-#EXTINF:0,LaC Tv
-http://84.22.55.2:8009/play/s259
+#EXTINF:0,group-title="UK",CHANNEL 4
+http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0,group-title="UK",CHANNEL 5
+http://176.65.146.224:4003/play/a06m/index.m3u8
+#EXTINF:0,group-title="UK",CNN INT
+http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,REGGIO TV HD
 http://84.22.55.2:8009/play/s258
-#EXTINF:0,RTC TELECALABRIA
-http://84.22.55.2:8009/play/s271
 #EXTINF:0,RTI
 http://84.22.55.2:8009/play/s262
 #EXTINF:0,TEN TV
@@ -1619,10 +1619,10 @@ http://195.189.60.31:8004/play/a0be/index.m3u8
 http://195.189.60.31:8004/play/a0bf/index.m3u8
 #EXTINF:-1,music box georgia
 http://85.117.61.97:8000/play/a02v/index.m3u8
+#EXTINF:0,group-title="-",RTVE INT
+http://85.14.32.15:8800/udp/239.100.20.7:8888
 #EXTINF:0,_
 http://85.14.32.15:8800/udp/239.100.20.2:8888
-#EXTINF:-1,_
-https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/e/26035/euronews-pt.m3u8
 #EXTINF:-1,_
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,_
