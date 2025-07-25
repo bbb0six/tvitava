@@ -165,7 +165,7 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTINF:-1,group-title="Mediaset",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-#EXTINF:0,group-title="it",BOMChannel 68
+#EXTINF:0,group-title="it",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
 #EXTINF:-1,group-title="GEDI",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -224,9 +224,8 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1,group-title="mtv",MTV 00s
 http://95.216.97.235:7777/mtv00
-#EXTINF:0,_
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
+#EXTINF:-1,group-title="mtv",MTV Global
+http://185.236.230.212:9982/play/a086
 #EXTINF:0,group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -432,7 +431,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0,group-title="CH",Planete+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0,group-title="-",Deluxe Music
-http://145.239.19.144:18088/170/mpegts
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0,group-title="CH",Video Italia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0,group-title="CH",Canale Italia
@@ -549,6 +548,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:0,group-title="CH",3sat
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:0,group-title="CH",NDR
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:0,group-title="CH",WDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
 #EXTINF:0,group-title="CH",ORF 1
@@ -557,8 +558,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:0,group-title="CH",DMAX DE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
-#EXTINF:0,group-title="CH",TELE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0,group-title="it",radioradio tv
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
 #EXTINF:0,group-title="it",byoblu
@@ -590,13 +589,11 @@ https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
 #EXTINF:0,group-title="it",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0,group-title="it",TCI
-https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0,group-title="it",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0,group-title="it",CS24 LIVE
 https://streaming.softwarecreation.it/CS24/CS24/master.m3u8
-#EXTINF:0,group-title="it",Italia Channel 123
-https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 #EXTINF:0,group-title="it",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/chunklist_w451288506.m3u8
 #EXTINF:0,group-title="it",barinews111
@@ -609,6 +606,8 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 https://srvx1.selftv.video/espansione/smil:live/chunklist_w741801577_b500000_sleng_t64NTAwa2Jwcw==.m3u8
 #EXTINF:0,group-title="it",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:0,group-title="it",Parole Di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 #EXTINF:0,group-title="it",TelePace
 https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0,group-title="it",Medjugorje TV Italia
@@ -657,7 +656,7 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:0,group-title="AL",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0,group-title="AL",KLAN Music
+#EXTINF:0,group-title="AL",Klan Music
 http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
 #EXTINF:0,group-title="AL",RTV Ora
 http://178.33.11.6:8696/live/rtvoraott/playlist.m3u8
@@ -687,18 +686,18 @@ http://89.187.191.99:8080/topchannel/index.m3u8
 http://89.187.191.99:8080/topnews/index.m3u8
 #EXTINF:0,group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
-#EXTINF:0,group-title="AL",Panorama
-http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:0,group-title="AL",Teuta
 http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 #EXTINF:0,group-title="AL",MCN TV
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0,group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:0,group-title="AL",albkanalmusic
-https://albportal.net/albkanalemusic.m3u8
-#EXTINF:0,group-title="HR",TV Nova
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1,group-title="SI",TVSlovenija 1 HD
+http://89.187.191.99:8080/slo1/index.m3u8
+#EXTINF:-1,group-title="SI",TVSlovenija 2 HD
+http://89.187.191.99:8080/slo2/index.m3u8
+#EXTINF:-1,group-title="SI",TVSlovenija 3 HD
+http://89.187.191.99:8080/slo3/index.m3u8
 #EXTINF:0,group-title="HR",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0,group-title="HR",HRT 2 HD
@@ -707,6 +706,10 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0,group-title="HR",HRT 4 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:0,group-title="HR",Nova
+http://89.187.191.99:8080/nova/index.m3u8
+#EXTINF:0,group-title="HR",Nova BH
+http://89.187.191.99:8080/novabh/index.m3u8
 #EXTINF:0,group-title="RS",RTS 1
 http://46.240.143.86:8065/rts1
 #EXTINF:0,group-title="RS",RTS 2
@@ -715,10 +718,6 @@ http://46.240.143.86:8065/rts2
 http://46.240.143.86:8065/rts3
 #EXTINF:0,group-title="CH",RTS SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
-#EXTINF:0,group-title="DE",Deluxe Music HD
-http://149.62.177.108:8000/play/a00t/index.m3u8
-#EXTINF:0,_
-http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
 #EXTINF:0,group-title="ES",Eurosport ES 1
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
@@ -875,8 +874,8 @@ http://178.23.88.55/CNN/index.m3u8
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,group-title="179",MTV Live
 http://179.63.6.12:9000/play/a04r
-#EXTINF:0,group-title="de",_
-http://176.10.117.3:5000/play/a00y/index.m3u8
+#EXTINF:0,group-title="de",Deluxe Music
+http://149.62.177.108:8000/play/a00t/index.m3u8
 #EXTINF:0,group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:0,group-title="bg",BNT 1
