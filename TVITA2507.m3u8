@@ -430,7 +430,7 @@ https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:0,group-title="CH",Planete+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
-#EXTINF:0,group-title="-",Deluxe Music
+#EXTINF:0,group-title="CH",Deluxe Music
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0,group-title="CH",Video Italia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
