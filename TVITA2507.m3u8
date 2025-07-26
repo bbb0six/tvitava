@@ -17,32 +17,32 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Mediaset",Italia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-#EXTINF:-1,group-title="Cairo",LA7
+#EXTINF:-1 group-title="Cairo",LA7
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
-#EXTINF:0,group-title="Sky IT",TV8
+#EXTINF:0 group-title="Sky IT",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1,group-title="Discovery IT",NOVE
+#EXTINF:-1 group-title="Discovery IT",NOVE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:0,group-title="IT",Euronews IT
+#EXTINF:0 group-title="IT",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php
-#EXTINF:0,group-title="SMRTV",San Marino RTV
+#EXTINF:0 group-title="SMRTV",San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:0,group-title="it",7Gold ER
+#EXTINF:0 group-title="Regionali",7Gold ER
 http://84.22.55.2:8011/play/s304
-#EXTINF:0,group-title="it",Tele A
+#EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
-#EXTINF:-1,group-title="it",Videolina
+#EXTINF:-1 group-title="Regionali",Videolina
 https://streamcdnm2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
-#EXTINF:-1,group-title="it",Primocanale
+#EXTINF:-1 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1,group-title="ch",TeleTicino
+#EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1,group-title="ch",RSI La 1
+#EXTINF:-1 group-title="Svizzera",RSI La 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1,group-title="ch",RSI La 2
+#EXTINF:-1 group-title="Svizzera",RSI La 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:0,group-title="Rai",Rai Südtirol
+#EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
