@@ -636,8 +636,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,group-title="music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0,group-title="CH",RTK 1 SAT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+#EXTINF:0,group-title="adria",RTSH Sat
+http://89.187.191.99:8080/tvsh/index.m3u8
 #EXTINF:0,group-title="AL",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0,group-title="AL",RTSH 2
@@ -680,9 +680,9 @@ http://178.33.11.6:8696/live/scanott/playlist.m3u8
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0,group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0,group-title="AL",Top Channel
+#EXTINF:0,group-title="adria",Top Channel
 http://89.187.191.99:8080/topchannel/index.m3u8
-#EXTINF:0,group-title="AL",Top News
+#EXTINF:0,group-title="adria",Top News
 http://89.187.191.99:8080/topnews/index.m3u8
 #EXTINF:0,group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
@@ -692,12 +692,32 @@ http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0,group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:-1,group-title="SI",TVSlovenija 1 HD
+#EXTINF:0,_
+http://89.34.226.81:8000/play/a0rd
+#EXTINF:0,_
+http://89.34.226.81:8000/play/a0re
+#EXTINF:0,group-title="CH",RTK 1 SAT
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+#EXTINF:-1,group-title="adria",RTK 1
+http://89.187.191.99:8080/rtk1/index.m3u8
+#EXTINF:-1,group-title="adria",RTK 2
+http://89.187.191.99:8080/rtk2/index.m3u8
+#EXTINF:-1,group-title="adria",RTK 3
+http://89.187.191.99:8080/rtk3/index.m3u8
+#EXTINF:-1,group-title="adria",RTK 4
+http://89.187.191.99:8080/rtk4/index.m3u8
+#EXTINF:-1,group-title="adria",RTV 21
+http://89.187.191.99:8080/rtv21/index.m3u8
+#EXTINF:-1,group-title="adria",TVSlovenija 1 HD
 http://89.187.191.99:8080/slo1/index.m3u8
-#EXTINF:-1,group-title="SI",TVSlovenija 2 HD
+#EXTINF:-1,group-title="adria",TVSlovenija 2 HD
 http://89.187.191.99:8080/slo2/index.m3u8
-#EXTINF:-1,group-title="SI",TVSlovenija 3 HD
+#EXTINF:-1,group-title="adria",TVSlovenija 3 HD
 http://89.187.191.99:8080/slo3/index.m3u8
+#EXTINF:0,group-title="adria",Nova
+http://89.187.191.99:8080/nova/index.m3u8
+#EXTINF:0,group-title="adria",Nova BH
+http://89.187.191.99:8080/novabh/index.m3u8
 #EXTINF:0,group-title="HR",HRT 1 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0,group-title="HR",HRT 2 HD
@@ -706,10 +726,8 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0,group-title="HR",HRT 4 HD
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0,group-title="HR",Nova
-http://89.187.191.99:8080/nova/index.m3u8
-#EXTINF:0,group-title="HR",Nova BH
-http://89.187.191.99:8080/novabh/index.m3u8
+#EXTINF:-1,group-title="adria",HRT INT
+http://89.187.191.99:8080/hrt5/index.m3u8
 #EXTINF:0,group-title="RS",RTS 1
 http://46.240.143.86:8065/rts1
 #EXTINF:0,group-title="RS",RTS 2
@@ -794,8 +812,10 @@ http://145.239.19.144:18088/174/mpegts
 https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
 #EXTINF:0,group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,group-title="news",Fox News
+#EXTINF:0,group-title="news",FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:0,group-title="news",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0,group-title="RO",TVR 1
@@ -815,29 +835,9 @@ http://195.189.60.31:8003/play/a0ae/index.m3u8
 #EXTINF:0,group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
 #EXTINF:0,_
-https://live.itv.az/itv.m3u8
-#EXTINF:0,_
-https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0rd
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0re
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0r9
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0ra
-#EXTINF:0,_
 http://89.34.226.81:8000/play/a0r7
 #EXTINF:0,_
 http://89.34.226.81:8000/play/a0r8
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0rc
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0q8
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0q9
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0qc
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai 2
@@ -1536,26 +1536,20 @@ http://84.22.55.2:8009/play/s257
 http://84.22.55.2:8009/play/s254
 #EXTINF:0,Wedding TV
 http://84.22.55.2:8009/play/s273
-#EXTINF:0,group-title="x",RSI La 1
+#EXTINF:0,group-title="x",test RSI La 1
 http://89.34.226.81:8000/play/a0rd
-#EXTINF:0,group-title="x",RSI La 2
+#EXTINF:0,group-title="x",test RSI La 2
 http://89.34.226.81:8000/play/a0re
-#EXTINF:0,group-title="x",RTS 1
+#EXTINF:0,group-title="x",test RTS 1
 http://89.34.226.81:8000/play/a0r9
-#EXTINF:0,group-title="x",RTS 2
+#EXTINF:0,group-title="x",test RTS 2
 http://89.34.226.81:8000/play/a0ra
-#EXTINF:0,group-title="x",SRF 1
+#EXTINF:0,group-title="x",test SRF 1
 http://89.34.226.81:8000/play/a0r7
-#EXTINF:0,group-title="x",SRF 2
+#EXTINF:0,group-title="x",test SRF 2
 http://89.34.226.81:8000/play/a0r8
-#EXTINF:0,group-title="x",SRF Info
+#EXTINF:0,group-title="x",test SRF Info
 http://89.34.226.81:8000/play/a0rc
-#EXTINF:0,group-title="x",SAT.1
-http://89.34.226.81:8000/play/a0q8
-#EXTINF:0,group-title="x",ProSieben
-http://89.34.226.81:8000/play/a0q9
-#EXTINF:0,group-title="x",Pro7 MAXX
-http://89.34.226.81:8000/play/a0qc
 #EXTINF:-1,PRO SIEBEN
 http://188.40.59.230:5100/pro7
 #EXTINF:-1,ProSieben (Germany)
