@@ -1044,6 +1044,14 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:0,group-title="sports",match futbol 3
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+#EXTINF:0 group-title="sports",arena sport 1
+http://89.187.191.99:8080/arena1/index.m3u8
+#EXTINF:0 group-title="sports",arena sport 2
+http://89.187.191.99:8080/arena2/index.m3u8
+#EXTINF:0 group-title="sports",arena sport 3
+http://89.187.191.99:8080/arena3/index.m3u8
+#EXTINF:0 group-title="sports",arena sport 4
+http://89.187.191.99:8080/arena4/index.m3u8
 #EXTINF:0,group-title="sports",espn 1
 http://45.235.37.254/espnhd/index.m3u8
 #EXTINF:0,group-title="sports",espn 2
@@ -1128,14 +1136,6 @@ http://170.83.240.134:8000/play/a014
 http://170.83.240.134:8000/play/a013
 #EXTINF:0,group-title="PY",ESPN CO
 http://170.83.240.134:8000/play/a023
-#EXTINF:0,group-title="PY",_
-http://170.83.240.134:8000/play/a033
-#EXTINF:0,group-title="PY",_
-http://170.83.240.134:8000/play/a015
-#EXTINF:0,_
-http://38.44.109.41:8003/play/a017/index.m3u8
-#EXTINF:0,MTV Latino
-http://38.44.109.41:8003/play/a03i/index.m3u8
 #EXTINF:0,San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0,_
