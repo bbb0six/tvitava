@@ -836,8 +836,8 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0r7
+#EXTINF:0,group-title="-,_
+http://45.59.149.54:8047/play/s1766
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai 2
@@ -876,6 +876,10 @@ http://179.63.6.12:9000/play/a04r
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,group-title="de",Deluxe Music
 http://149.62.177.108:8000/play/a00t/index.m3u8
+#EXTINF:0,_
+http://89.34.226.81:8000/play/a0r7
+#EXTINF:0,_
+http://89.34.226.81:8000/play/a0ol
 #EXTINF:0,group-title="bg",BNT 1
 http://85.187.13.40:18000/bnt
 #EXTINF:0,group-title="bg",BNT 2
@@ -906,6 +910,8 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
+#EXTINF:0,group-title="music",NickMusic
+http://146.59.54.156/6046/mpegts
 #EXTINF:0,group-title="az",ICTIMAI
 https://live.itv.az/itv.m3u8
 #EXTINF:0,group-title="ps",Palestine EDU
@@ -934,8 +940,6 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
-#EXTINF:0,group-title="music",NickMusic
-http://146.59.54.156/6046/mpegts
 #EXTINF:0,group-title="moveonjoy",MTV USA
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:0,group-title="moveonjoy",MTV 2
