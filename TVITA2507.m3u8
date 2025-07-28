@@ -416,8 +416,6 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:0,group-title="it",Gambero Rosso
 https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
-#EXTINF:0,group-title="it",Italian Fishing TV
-https://fms.premio.link/fishingtv/tracks-v2a1/mono.m3u8
 #EXTINF:0,group-title="it",Sport Outdoor TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,group-title="it",Radio Serie A TV
@@ -426,6 +424,8 @@ https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0,group-title="it",ZeroUno TV Music
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:0,group-title="CH",MEZZO
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0,group-title="CH",CANAL+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:0,group-title="CH",Planete+
@@ -822,8 +822,6 @@ https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0,group-title="sk",Arirang TV
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:0,group-title="CH",Mezzo
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0,group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0,group-title="news",FOX News
