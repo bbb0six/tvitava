@@ -478,9 +478,9 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 http://185.189.225.150:85/natgeowild/index.m3u8
 #EXTINF:0,group-title="ES",Nickelodeon ES
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:0,group-title="ES",TV3 CAT1
+#EXTINF:0,group-title="ES",TV3
 http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:0,group-title="ES",TV3 CAT2
+#EXTINF:0,group-title="ES",TV3 CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,group-title="ES",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
@@ -692,11 +692,11 @@ http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0,group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:-1,group-title="adria",_
+#EXTINF:-1,group-title="adria",SLO 1
 http://89.187.191.99:8080/slo1/index.m3u8
-#EXTINF:-1,group-title="adria",_
+#EXTINF:-1,group-title="adria",SLO 2
 http://89.187.191.99:8080/slo2/index.m3u8
-#EXTINF:-1,group-title="adria",_
+#EXTINF:-1,group-title="adria",SLO 3
 http://89.187.191.99:8080/slo3/index.m3u8
 #EXTINF:-1,group-title="adria",RTK 1
 http://89.187.191.99:8080/rtk1/index.m3u8
@@ -736,14 +736,14 @@ http://46.240.143.86:8065/rts3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0,group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
+#EXTINF:0,group-title="RO",TVR Sport
+http://195.189.60.31:8003/play/a0ey/index.m3u8
 #EXTINF:0,group-title="RO",TVR 1
 http://89.44.229.22:7000/tvr1
 #EXTINF:0,group-title="RO",TVR 2
 http://89.44.229.22:7000/tvr2
 #EXTINF:0,group-title="RO",TVR 3
 http://195.189.60.31:8003/play/a0ev/index.m3u8
-#EXTINF:0,group-title="RO",TVR Sport
-http://195.189.60.31:8003/play/a0ey/index.m3u8
 #EXTINF:0,group-title="RO",Antena 1 RO
 http://195.189.60.31:8003/play/a0eq/index.m3u8
 #EXTINF:0,group-title="RO",Antena 3 RO
@@ -758,6 +758,24 @@ http://103.49.40.100:27014/POLSATMUSICHD
 http://145.239.19.144:18088/174/mpegts
 #EXTINF:0,group-title="sk",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:0,group-title="sk",Rebel
+https://dash3.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:0,group-title="sk",Ochko Expres
+https://dash2.antik.sk/live/test_ocko_expres/playlist.m3u8
+#EXTINF:0,group-title="sk",Ochko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:0,group-title="sk",Ochko Star
+https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:0,group-title="sk",Stingray iConcerts
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:0,group-title="sk",Docu Box
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:0,group-title="sk",Fast&Fun Box
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:0,group-title="sk",Fashion Box
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:0,group-title="sk",Film Box Arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 1
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
@@ -776,6 +794,10 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:0,group-title="UA",Ukraina 24
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:0,group-title="sk",A11
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:0,group-title="sk",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0,group-title="CH",2M Maroc
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 #EXTINF:0,group-title="CH",TV2 Algérie
@@ -788,44 +810,20 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
 #EXTINF:0,group-title="sk",Al Jazeera EN
 https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:0,group-title="sk",TRT World
-https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,group-title="sk",TVP Info
 https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:0,group-title="sk",TVP Polonia
 https://dash3.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:0,group-title="sk",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:0,group-title="sk",TRT World
+https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,group-title="sk",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0,group-title="sk",A11
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:0,group-title="sk",CT24
-https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:0,group-title="sk",Docu Box
-https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Fast&Fun Box
-https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Fashion Box
-https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Film Box Arthouse
-https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:0,group-title="sk",Duck TV
-https://dash2.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:0,group-title="sk",RIK TV
-https://dash2.antik.sk/live/rik_atk/index.m3u8
 #EXTINF:0,group-title="sk",Arirang TV
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:0,group-title="sk",Ochko Black
-https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:0,group-title="sk",Ochko Star
-https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
-#EXTINF:0,group-title="sk",Stingray iConcerts
-https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0,group-title="CH",Mezzo
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
-#EXTINF:0,group-title="ru",Viva Russia
-https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
 #EXTINF:0,group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0,group-title="news",FOX News
