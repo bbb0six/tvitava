@@ -790,6 +790,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
 #EXTINF:0,group-title="sk",CGTN DOC
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0,group-title="sk",NHK World Japan
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:0,group-title="CH",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="CH",TV Monaco
@@ -834,8 +836,6 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,_
-http://iptv.prosto.tv:7000/ch137/video.m3u8
 #EXTINF:0,group-title="-,_
 http://45.59.149.54:8047/play/s1766
 #EXTINF:0,group-title="ilglobotv",Rai 1
