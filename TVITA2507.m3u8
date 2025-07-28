@@ -30,7 +30,7 @@ https://www.mytivu.it/Application/Channels/Euronews.php
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",7Gold ER
 http://84.22.55.2:8011/play/s304
-#EXTINF:0 group-title="Regionali",Tele A
+#EXTINF:0 group-title="Regionali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tele-a.jpg,Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
 https://streamcdnm2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
@@ -776,18 +776,24 @@ https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:0,group-title="CH",Eurosport DE
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0,group-title="ES",Eurosport ES 1
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="CH",Eurosport DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:0,group-title="sk",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:0,group-title="CH",CCTV 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+#EXTINF:0,group-title="sk",CGTN
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:0,group-title="sk",CGTN DOC
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:0,group-title="CH",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
-#EXTINF:0,group-title="CH",CCTV 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0,group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0,group-title="UA",Freedom UATV
@@ -820,8 +826,6 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0,group-title="sk",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0,group-title="sk",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:0,group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0,group-title="news",FOX News
