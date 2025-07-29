@@ -25,11 +25,11 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:0 group-title="Vari",Euronews IT
-https://www.mytivu.it/Application/Channels/Euronews.php
+http://45.59.149.54:8038/play/s1947
 #EXTINF:0 group-title="Vari",San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",7Gold ER
-https://streamcdng15-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
+http://84.22.55.2:8011/play/s304
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
@@ -837,7 +837,7 @@ https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:0,group-title="IT",SkyTG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:0,group-title="IT",Euronews
-http://45.59.149.54:8047/play/s1766
+https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai 2
@@ -1036,7 +1036,7 @@ https://jmp2.uk/sam-ITBD19000097D.m3u8
 https://jmp2.uk/sam-ITBA3300025F5.m3u8
 #EXTINF:0,group-title="samsung",Euronews EN
 https://jmp2.uk/sam-GB2600019ON.m3u8
-#EXTINF:0,group-title="-,_
+#EXTINF:0,group-title="-",Euronews IT
 http://45.59.149.54:8047/play/s1766
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
