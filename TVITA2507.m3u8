@@ -29,8 +29,8 @@ https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:0 group-title="Vari",San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",7Gold ER
-http://84.22.55.2:8011/play/s304
-#EXTINF:0 group-title="Regionali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tele-a.jpg,Tele A
+https://streamcdng15-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
+#EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
 https://streamcdnm2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
@@ -71,7 +71,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 group-title="Cairo",LA7d
-http://84.22.55.2:8003/play/s107
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -153,9 +153,9 @@ https://jmp2.uk/sam-ITBA2200010O1.m3u8
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/master.m3u8
-#EXTINF:0 group-title="it",Canale 63
+#EXTINF:0 group-title="Vari",Canale 63
 http://84.22.55.2:8004/play/s157
-#EXTINF:-1 group-title="it",supertennis
+#EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Sciscione",ALMA TV
 https://5a1178b42cc03.streamlock.net/alma/alma/index.m3u8
