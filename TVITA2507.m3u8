@@ -770,10 +770,10 @@ https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0,group-title="sk",Docu Box
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Fast&Fun Box
-https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Fashion Box
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:0,group-title="sk",Fast&Fun Box
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0,group-title="CH",Eurosport DE
@@ -782,26 +782,26 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="sk",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:0,group-title="CH",RTP Int
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0,group-title="sk",CGTN
 https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
 #EXTINF:0,group-title="sk",CGTN DOC
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0,group-title="sk",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:0,group-title="sk",NHK World Japan
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:0,group-title="CH",RTP Int
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 #EXTINF:0,group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0,group-title="UA",Freedom UATV
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0,group-title="sk",Freedom UATV
+https://dash3.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:0,group-title="UA",Ukraina 24
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0,group-title="sk",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,group-title="sk",CT24
@@ -836,7 +836,7 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,group-title="-,_
+#EXTINF:0,group-title="-",_
 http://45.59.149.54:8047/play/s1766
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
@@ -1280,8 +1280,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0,|BE| DAZN PRO LEAGUE 1
 http://185.236.230.212:9982/play/a09q
-#EXTINF:0,BBC4
-http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,|BE| KETNET
 http://185.236.230.212:9982/play/a09j
 #EXTINF:0,|BE| MENT POP
@@ -1512,6 +1510,8 @@ http://84.22.55.2:8009/play/s261
 http://84.22.55.2:8009/play/s263
 #EXTINF:0,L'altro corriere
 http://84.22.55.2:8009/play/s268
+#EXTINF:0,group-title="UK",BBC4
+http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,group-title="UK",CHANNEL 4
 http://176.65.146.224:4007/play/a074/index.m3u8
 #EXTINF:0,group-title="UK",CHANNEL 5
