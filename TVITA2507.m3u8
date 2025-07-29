@@ -71,7 +71,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 group-title="Cairo",LA7d
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+http://84.22.55.2:8003/play/s120
 #EXTINF:-1 group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -1304,6 +1304,52 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:0,group-title="VGTRK",Russia K +7
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1,02 РОССИЯ-1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1,03 МАТЧ!
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1,04 НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1,06 РОССИЯ-К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1,07 РОССИЯ-24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1,08 КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1,09 ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1,10 ТВ Центр
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1,11 РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1,12 Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1,13 СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1,14 Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1,15 ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1,16 Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1,17 Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1,18 МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1,19 ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1,20 МУЗ ТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1,ЧерногорскИнофрм
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1,Юг Сибири HD
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1,21 РТС Хакасия HD
+http://95.47.155.244:8001/play/a022
 #EXTINF:0,group-title="KP",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0,|BE| DAZN PRO LEAGUE 1
@@ -1376,7 +1422,7 @@ http://185.236.230.212:9982/play/a09f
 http://185.236.230.212:9982/play/a099
 #EXTINF:0,|NL| ZIGGO SPORT 6
 http://185.236.230.212:9982/play/a09a
-#EXTINF:0,BBC NL
+#EXTINF:0,|NL| BBC NL
 http://185.236.230.212:9982/play/a0ak
 #EXTINF:0,group-title="bg",Arte
 http://213.169.39.30:5280
@@ -1562,52 +1608,8 @@ http://188.40.59.230:5100/pro7
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1,Clubland (UK)
 http://85.187.13.40:18000/CLUBLAND
-#EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
-http://95.47.155.244:8001/play/a001
-#EXTINF:-1,02 РОССИЯ-1
-http://95.47.155.244:8001/play/a002
-#EXTINF:-1,03 МАТЧ!
-http://95.47.155.244:8001/play/a003
-#EXTINF:-1,04 НТВ
-http://95.47.155.244:8001/play/a004
-#EXTINF:-1,05 ПЯТЫЙ КАНАЛ
-http://95.47.155.244:8001/play/a005
-#EXTINF:-1,06 РОССИЯ-К
-http://95.47.155.244:8001/play/a006
-#EXTINF:-1,07 РОССИЯ-24
-http://95.47.155.244:8001/play/a007
-#EXTINF:-1,08 КАРУСЕЛЬ
-http://95.47.155.244:8001/play/a008
-#EXTINF:-1,09 ОТР
-http://95.47.155.244:8001/play/a009
-#EXTINF:-1,10 ТВ Центр
-http://95.47.155.244:8001/play/a010
-#EXTINF:-1,11 РЕН ТВ
-http://95.47.155.244:8001/play/a011
-#EXTINF:-1,12 Спас
-http://95.47.155.244:8001/play/a012
-#EXTINF:-1,13 СТС
-http://95.47.155.244:8001/play/a013
-#EXTINF:-1,14 Домашний
-http://95.47.155.244:8001/play/a014
-#EXTINF:-1,15 ТВ3
-http://95.47.155.244:8001/play/a015
-#EXTINF:-1,16 Пятница
-http://95.47.155.244:8001/play/a016
-#EXTINF:-1,17 Звезда
-http://95.47.155.244:8001/play/a017
-#EXTINF:-1,18 МИР
-http://95.47.155.244:8001/play/a018
-#EXTINF:-1,19 ТНТ
-http://95.47.155.244:8001/play/a019
-#EXTINF:-1,20 МУЗ ТВ
-http://95.47.155.244:8001/play/a020
-#EXTINF:-1,ЧерногорскИнофрм
-http://95.47.155.244:8001/play/a021
-#EXTINF:-1,Юг Сибири HD
-http://95.47.155.244:8001/play/a023
-#EXTINF:-1,21 РТС Хакасия HD
-http://95.47.155.244:8001/play/a022
+#EXTINF:-1,TNT INT (Russia)
+http://85.187.13.40:18000/tntint
 #EXTINF:0,test MTV
 http://188.40.59.230:5100/mtv
 #EXTINF:-1,test MTV DE
