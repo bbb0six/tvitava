@@ -942,14 +942,8 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 https://tv.mobyservice.ru/Ictimai/index.m3u8
 #EXTINF:0,group-title="az",AZ TV
 https://tv.mobyservice.ru/AZTV/index.m3u8
-#EXTINF:0,group-title="ps",Palestine EDU
-https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:0,group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:0,group-title="ps",Palestine Live
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:0,group-title="38",Rai Italia US
-http://38.7.204.232:8010/play/a2ma/index.m3u8
 #EXTINF:0,group-title="38",MTV LATINO
 http://38.7.204.232:8010/play/a2li/index.m3u8
 #EXTINF:0,group-title="38",MTV LIVE
@@ -980,6 +974,14 @@ http://185.130.218.254:25007/ITV4/mpegts
 http://31.121.110.30:4000/play/a00n/index.m3u8
 #EXTINF:0,group-title="UK",ITV 1+1
 http://31.121.110.30:4000/play/a00u/index.m3u8
+#EXTINF:0,group-title="UK",BBC4
+http://176.65.146.224:4001/play/a08g/index.m3u8
+#EXTINF:0,group-title="UK",CHANNEL 4
+http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0,group-title="UK",CHANNEL 5
+http://176.65.146.224:4003/play/a06m/index.m3u8
+#EXTINF:0,group-title="UK",CNN INT
+http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,group-title="UK",E4
 http://31.121.110.30:4000/play/a00b/index.m3u8
 #EXTINF:0,group-title="UK",E4 Extra
@@ -1016,8 +1018,6 @@ http://185.130.218.254:25007/AMC/mpegts
 http://185.130.218.254:25007/Hollywood/mpegts
 #EXTINF:0,group-title="FR",Premiere HD
 http://185.130.218.254:25007/Premiere/mpegts
-#EXTINF:0,group-title="ES",Hit TV
-http://185.189.225.149/HitTV/index.m3u8
 #EXTINF:0,group-title="FR",RTL
 http://185.130.218.254:25007/RTL/mpegts
 #EXTINF:0,group-title="FR",RTL 2
@@ -1538,14 +1538,6 @@ http://84.22.55.2:8009/play/s261
 http://84.22.55.2:8009/play/s263
 #EXTINF:0,L'altro corriere
 http://84.22.55.2:8009/play/s268
-#EXTINF:0,group-title="UK",BBC4
-http://176.65.146.224:4001/play/a08g/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 4
-http://176.65.146.224:4007/play/a074/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 5
-http://176.65.146.224:4003/play/a06m/index.m3u8
-#EXTINF:0,group-title="UK",CNN INT
-http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,REGGIO TV HD
 http://84.22.55.2:8009/play/s258
 #EXTINF:0,RTI
