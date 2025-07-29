@@ -498,6 +498,10 @@ http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12413
 http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0,group-title="ES",TEN
 http://92.118.251.84:8080/ten/index.m3u8
+#EXTINF:0,group-title="ES",Eurosport ES 1
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:0,group-title="ES",Eurosport ES 2
+http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0,group-title="ES",MTV Espana
 http://185.189.225.150:85/MTV/index.m3u8
 #EXTINF:0,group-title="ES",MTV Hits
@@ -508,24 +512,18 @@ http://185.189.225.150:85/MTVClub/index.m3u8
 http://185.189.225.150:85/MTV80s/index.m3u8
 #EXTINF:0,group-title="ES",MTV 90s
 http://185.189.225.150:85/MTV90s/index.m3u8
+#EXTINF:0,group-title="ES",MTV 00s
+http://185.189.225.150:85/MTV00s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0,group-title="FR",France 24 FR
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 EN
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 ES
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 AR
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",TV5Monde Europe
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0,group-title="FR",TV5Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:0,group-title="CH",TV5Monde FBS
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+#EXTINF:0,group-title="CH",ORF 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:0,group-title="CH",ORF 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:0,group-title="DE",Eurosport DE
+http://149.62.177.108:8000/play/a01b/index.m3u8
 #EXTINF:0,group-title="DE",SAT.1
 http://149.62.177.108:8000/play/a005/index.m3u8
 #EXTINF:0,group-title="DE",SAT.1 Gold
@@ -534,6 +532,8 @@ http://149.62.177.108:8000/play/a01a/index.m3u8
 http://149.62.177.108:8000/play/a006/index.m3u8
 #EXTINF:0,group-title="DE",Pro7 MAXX HD
 http://149.62.177.108:8000/play/a00d/index.m3u8
+#EXTINF:0,group-title="CH",TELE 5
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0,group-title="CH",Das Erste
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:0,group-title="CH",ZDF
@@ -542,20 +542,20 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:0,group-title="CH",ZDF neo
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:0,group-title="CH",3sat
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:0,group-title="CH",RTL
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:0,group-title="CH",RTL 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:0,group-title="CH",3sat
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:0,group-title="CH",VOX
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:0,group-title="CH",Super RTL
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:0,group-title="CH",NDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:0,group-title="CH",WDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
-#EXTINF:0,group-title="CH",ORF 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
-#EXTINF:0,group-title="CH",ORF 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:0,group-title="CH",DMAX DE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:0,group-title="it",radioradio tv
@@ -776,32 +776,26 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:0,group-title="CH",Eurosport DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
-#EXTINF:0,group-title="ES",Eurosport ES 1
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0,group-title="ES",Eurosport ES 2
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="CH",RTP Int
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
-#EXTINF:0,group-title="CH",CCTV 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-#EXTINF:0,group-title="sk",CGTN
-https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
-#EXTINF:0,group-title="sk",CGTN DOC
-https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:0,group-title="sk",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:0,group-title="sk",NHK World Japan
-https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:0,group-title="FR",France 24 FR
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:0,group-title="FR",France 24 EN
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:0,group-title="FR",France 24 ES
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:0,group-title="FR",France 24 AR
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:0,group-title="FR",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:0,group-title="FR",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:0,group-title="CH",TV5Monde FBS
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
 #EXTINF:0,group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
+#EXTINF:0,group-title="CH",RTP Int
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0,group-title="sk",Freedom UATV
-https://dash3.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0,group-title="UA",Ukraina 24
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0,group-title="sk",A11
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,group-title="sk",CT24
@@ -836,7 +830,13 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,group-title="-",_
+#EXTINF:0,group-title="IT",LA7
+https://jmp2.uk/sam-ITBD1500002NL.m3u8
+#EXTINF:0,group-title="IT",TV8
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:0,group-title="IT",SkyTG24
+https://www.mytivu.it/Application/Channels/SkyTG24.php
+#EXTINF:0,group-title="IT",Euronews
 http://45.59.149.54:8047/play/s1766
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
@@ -964,16 +964,6 @@ http://38.7.204.232:8010/play/a2li/index.m3u8
 http://38.7.204.232:8010/play/a2np/index.m3u8
 #EXTINF:0,group-title="38",Rai Italia US
 http://38.7.204.232:8010/play/a2ma/index.m3u8
-#EXTINF:0,group-title="samsung",LA7
-https://jmp2.uk/sam-ITBD1500002NL.m3u8
-#EXTINF:0,group-title="samsung",Euronews EN
-https://jmp2.uk/sam-GB2600019ON.m3u8
-#EXTINF:0,group-title="samsung",FASHION TV
-https://jmp2.uk/sam-ITAJ4500017PG.m3u8
-#EXTINF:0,group-title="samsung",CNN FAST
-https://jmp2.uk/sam-ITBD19000097D.m3u8
-#EXTINF:0,group-title="samsung",BLOOMBERG TV
-https://jmp2.uk/sam-ITBA3300025F5.m3u8
 #EXTINF:0,group-title="UK",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0,group-title="UK",BBC TWO HD
@@ -1036,6 +1026,16 @@ http://185.130.218.254:25007/RTL2/mpegts
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="FR",France 3
 http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0,group-title="FR",France 4
+http://185.130.218.254:25007/France4/mpegts
+#EXTINF:0,group-title="samsung",FASHION TV
+https://jmp2.uk/sam-ITAJ4500017PG.m3u8
+#EXTINF:0,group-title="samsung",CNN FAST
+https://jmp2.uk/sam-ITBD19000097D.m3u8
+#EXTINF:0,group-title="samsung",BLOOMBERG TV
+https://jmp2.uk/sam-ITBA3300025F5.m3u8
+#EXTINF:0,group-title="samsung",Euronews EN
+https://jmp2.uk/sam-GB2600019ON.m3u8
 #EXTINF:0,group-title="-,_
 http://45.59.149.54:8047/play/s1766
 #EXTINF:0 group-title="sports",match futbol 1
