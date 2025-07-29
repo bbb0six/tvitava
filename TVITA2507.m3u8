@@ -576,8 +576,6 @@ https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:0,group-title="it",Telecity Piemonte
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
-#EXTINF:0,group-title="it",Radio Carina TV
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="it",Canale 2 TV
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0,group-title="it",Canale 7 TV
@@ -588,14 +586,8 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
 #EXTINF:0,group-title="it",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
-#EXTINF:0,group-title="it",TCI
-https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0,group-title="it",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
-#EXTINF:0,group-title="it",CS24 LIVE
-https://streaming.softwarecreation.it/CS24/CS24/master.m3u8
-#EXTINF:0,group-title="it",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/chunklist_w451288506.m3u8
 #EXTINF:0,group-title="it",barinews111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0,group-title="it",e'tv rete 7
@@ -603,7 +595,17 @@ https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0,group-title="it",GRPTV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:0,group-title="it",espansione tv
-https://srvx1.selftv.video/espansione/smil:live/chunklist_w741801577_b500000_sleng_t64NTAwa2Jwcw==.m3u8
+https://srvx1.selftv.video/espansione/smil:live/master.m3u8
+#EXTINF:0,group-title="it",Radio Carina TV
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,group-title="it",Ritmo 80
+https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
+#EXTINF:0,group-title="it",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/chunklist_w451288506.m3u8
+#EXTINF:0,group-title="it",CS24 LIVE
+https://streaming.softwarecreation.it/CS24/CS24/master.m3u8
+#EXTINF:0,group-title="it",TCI
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0,group-title="it",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0,group-title="it",Parole Di Vita
@@ -612,10 +614,6 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0,group-title="it",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:0,group-title="IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:0,group-title="IT",SkyTG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:0,group-title="CH",RAI NEWS 24
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0,group-title="CH",RAI STORIA
