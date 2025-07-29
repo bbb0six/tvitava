@@ -876,8 +876,6 @@ http://179.63.6.12:9000/play/a04r
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,group-title="de",Deluxe Music
 http://149.62.177.108:8000/play/a00t/index.m3u8
-#EXTINF:0,_
-http://89.34.226.81:8000/play/a0ol
 #EXTINF:0,group-title="bg",BNT 1
 http://85.187.13.40:18000/bnt
 #EXTINF:0,group-title="bg",BNT 2
@@ -908,16 +906,10 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:0,group-title="music",NickMusic
-http://146.59.54.156/6046/mpegts
-#EXTINF:0,group-title="az",ICTIMAI
-https://live.itv.az/itv.m3u8
-#EXTINF:0,group-title="ps",Palestine EDU
-https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:0,group-title="ps",Palestine HD
-https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:0,group-title="ps",Palestine Live
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:0,group-title="sk",Freedom UATV
+https://dash3.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:0,group-title="ua",Ukraina 24
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0,group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:0,group-title="il",Isr CH 12
@@ -938,6 +930,14 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:0,group-title="az",ICTIMAI
+https://live.itv.az/itv.m3u8
+#EXTINF:0,group-title="ps",Palestine EDU
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:0,group-title="ps",Palestine HD
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0,group-title="ps",Palestine Live
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:0,group-title="moveonjoy",MTV USA
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:0,group-title="moveonjoy",MTV 2
