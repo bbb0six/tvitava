@@ -1556,8 +1556,6 @@ http://188.40.59.230:5100/pro7
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1,Clubland (UK)
 http://85.187.13.40:18000/CLUBLAND
-#EXTINF:-1,TNT (Russia)
-http://85.187.13.40:18000/tntint
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1,02 РОССИЯ-1
@@ -1606,8 +1604,6 @@ http://95.47.155.244:8001/play/a023
 http://95.47.155.244:8001/play/a022
 #EXTINF:0,test
 http://188.40.59.230:5100/mtv
-#EXTINF:0,group-title="it",Ritmo 80
-https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:-1,MTV SIM HD
 http://181.209.194.14:8000/play/a040/index.m3u8
 #EXTINF:-1,MTV HD
@@ -1632,9 +1628,13 @@ https://jmp2.uk/sam-IT900007I0.m3u8
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1,_
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1,_
-https://strm.hdtvizlecanli.com/live/sat1.m3u8
-#EXTINF:-1,_
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:-1,_
-https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:0,group-title="CH",CCTV 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+#EXTINF:0,group-title="sk",CGTN
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:0,group-title="sk",CGTN DOC
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0,group-title="sk",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:0,group-title="sk",NHK World Japan
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
