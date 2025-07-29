@@ -796,8 +796,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0,group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0,group-title="sk",A11
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0,group-title="CH",2M Maroc
@@ -830,6 +828,8 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,group-title="IT",Real Time
+https://jmp2.uk/sam-IT900007I0.m3u8
 #EXTINF:0,group-title="IT",LA7
 https://jmp2.uk/sam-ITBD1500002NL.m3u8
 #EXTINF:0,group-title="IT",TV8
@@ -1168,6 +1168,24 @@ http://170.83.240.134:8000/play/a014
 http://170.83.240.134:8000/play/a013
 #EXTINF:0,group-title="PY",ESPN CO
 http://170.83.240.134:8000/play/a023
+#EXTINF:-1 group-title="sp",ESPN 1
+http://181.209.194.14:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="sp",ESPN 2
+http://181.209.194.14:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="sp",ESPN 3
+http://181.209.194.14:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="sp",ESPN 4
+http://181.209.194.14:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="sp",ESPN 5
+http://181.209.194.14:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="sp",ESPN 6
+http://181.209.194.14:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="sp",MTV Latino HD
+http://181.209.194.14:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="sp",MTV Live HD
+http://181.209.194.14:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="sp",MTV 00s HD
+http://181.209.194.14:8000/play/a041/index.m3u8
 #EXTINF:0,group-title="hq",ESPN 1
 http://200.125.170.120:8000/play/a05v/index.m3u8
 #EXTINF:0,group-title="hq",ESPN 2
@@ -1600,22 +1618,12 @@ http://95.47.155.244:8001/play/a023
 http://95.47.155.244:8001/play/a022
 #EXTINF:0,test MTV
 http://188.40.59.230:5100/mtv
-#EXTINF:-1,MTV SIM HD
-http://181.209.194.14:8000/play/a040/index.m3u8
-#EXTINF:-1,MTV HD
-http://181.209.194.14:8000/play/a01k/index.m3u8
-#EXTINF:-1,MTV 00s
-http://181.209.194.14:8000/play/a02r/index.m3u8
 #EXTINF:-1,test MTV DE
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,test CNN
 http://104.255.88.155/cnn/index.m3u8
 #EXTINF:-1,_
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,group-title="test",DMax IT
-https://jmp2.uk/sam-IT9000113W.m3u8
-#EXTINF:-1,group-title="test",Real Time IT
-https://jmp2.uk/sam-IT900007I0.m3u8
 #EXTINF:-1,_
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1,_
