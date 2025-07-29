@@ -866,16 +866,6 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0,group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
-#EXTINF:0,group-title="cz",CNN International
-http://178.23.88.55/CNN/index.m3u8
-#EXTINF:0,group-title="cz",MTV Global
-http://178.23.88.55/MTV/index.m3u8
-#EXTINF:0,group-title="179",MTV Live
-http://179.63.6.12:9000/play/a04r
-#EXTINF:0,test MTV DE
-http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
-#EXTINF:0,group-title="de",Deluxe Music
-http://149.62.177.108:8000/play/a00t/index.m3u8
 #EXTINF:0,group-title="bg",BNT 1
 http://85.187.13.40:18000/bnt
 #EXTINF:0,group-title="bg",BNT 2
@@ -888,12 +878,12 @@ http://85.187.13.40:18000/bnt4
 http://85.187.13.40:18000/nova
 #EXTINF:0,group-title="bg",Diema
 http://85.187.13.40:18000/diema
-#EXTINF:0,group-title="bg",Nova News
-http://85.187.13.40:18000/novanews
-#EXTINF:0,group-title="bg",Kino Nova
-http://85.187.13.40:18000/kinonova
-#EXTINF:0,group-title="bg",_
+#EXTINF:0,group-title="bg",Diema Sport 1
 http://213.169.39.30:5134
+#EXTINF:0,group-title="bg",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:0,group-title="bg",Diema Sport 3
+http://213.169.39.30:5216
 #EXTINF:0,group-title="bg",Eurosport 1
 http://85.187.13.40:18000/eurosport
 #EXTINF:0,group-title="bg",Eurosport 2
@@ -906,6 +896,32 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
+#EXTINF:0,group-title="cz",CNN International
+http://178.23.88.55/CNN/index.m3u8
+#EXTINF:0,group-title="cz",MTV Global
+http://178.23.88.55/MTV/index.m3u8
+#EXTINF:0,group-title="179",MTV Live
+http://179.63.6.12:9000/play/a04r
+#EXTINF:0,test MTV DE
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
+#EXTINF:0,group-title="de",Deluxe Music
+http://149.62.177.108:8000/play/a00t/index.m3u8
+#EXTINF:0,group-title="38",MTV LATINO
+http://38.7.204.232:8010/play/a2li/index.m3u8
+#EXTINF:0,group-title="38",MTV LIVE
+http://38.7.204.232:8010/play/a2np/index.m3u8
+#EXTINF:0,group-title="38",Rai Italia US
+http://38.7.204.232:8010/play/a2ma/index.m3u8
+#EXTINF:0,group-title="CH",CCTV 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+#EXTINF:0,group-title="sk",CGTN
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:0,group-title="sk",CGTN DOC
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0,group-title="sk",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:0,group-title="sk",NHK World Japan
+https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:0,group-title="sk",Freedom UATV
 https://dash3.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:0,group-title="ua",Ukraina 24
@@ -938,32 +954,16 @@ https://pbc.furrera.ps/PalestineEDU/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0,group-title="ps",Palestine Live
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:0,group-title="moveonjoy",MTV USA
-http://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:0,group-title="moveonjoy",MTV 2
-http://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:0,group-title="moveonjoy",MTV U
-http://fl3.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:0,group-title="moveonjoy",MTV LIVE USA
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0,group-title="moveonjoy",MTV CLASSIC
-http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1,group-title="sk",MTV Hits
+#EXTINF:0,group-title="xk",MTV Hits
 http://95.216.97.235:7777/mtvhits
-#EXTINF:-1,group-title="sk",MTV Club
+#EXTINF:0,group-title="sk",MTV Club
 https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:-1,group-title="sk",MTV 80s
+#EXTINF:0,group-title="sk",MTV 80s
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1,group-title="sk",MTV 90s
+#EXTINF:0,group-title="xk",MTV 90s
 http://95.216.97.235:7777/mtv90
-#EXTINF:0,group-title="music",MTV 00s
+#EXTINF:0,group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n/index.m3u8
-#EXTINF:0,group-title="38",MTV LATINO
-http://38.7.204.232:8010/play/a2li/index.m3u8
-#EXTINF:0,group-title="38",MTV LIVE
-http://38.7.204.232:8010/play/a2np/index.m3u8
-#EXTINF:0,group-title="38",Rai Italia US
-http://38.7.204.232:8010/play/a2ma/index.m3u8
 #EXTINF:0,group-title="UK",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0,group-title="UK",BBC TWO HD
@@ -1238,6 +1238,16 @@ http://fl3.moveonjoy.com/VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0,group-title="USA",WGN
 http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:0,group-title="USA",MTV USA
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:0,group-title="USA",MTV 2
+http://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:0,group-title="USA",MTV U
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:0,group-title="USA",MTV LIVE USA
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:0,group-title="USA",MTV CLASSIC
+http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0,group-title="AL",ORA News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
