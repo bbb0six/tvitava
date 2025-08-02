@@ -856,8 +856,6 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai Storia
 https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai Scuola
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",TG Com 24
@@ -866,44 +864,6 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0,group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
-#EXTINF:0,group-title="bg",BNT 1
-http://78.128.125.60:9981/play/a00v/index.m3u8
-#EXTINF:0,group-title="bg",BNT 2
-http://78.128.125.60:9981/play/a010/index.m3u8
-#EXTINF:0,group-title="bg",BNT 3
-http://78.128.125.60:9981/play/a00w/index.m3u8
-#EXTINF:0,group-title="bg",BNT 4
-http://78.128.125.60:9981/play/a011/index.m3u8
-#EXTINF:0,group-title="bg",Nova
-http://78.128.125.60:9981/play/a002/index.m3u8
-#EXTINF:0,group-title="bg",Diema
-http://85.187.13.40:18000/diema
-#EXTINF:0,group-title="bg",Diema Sport 1
-http://213.169.39.30:5134
-#EXTINF:0,group-title="bg",Diema Sport 2
-http://213.169.39.30:5136
-#EXTINF:0,group-title="bg",Diema Sport 3
-http://213.169.39.30:5216
-#EXTINF:0,group-title="bg",Eurosport 1
-http://85.187.13.40:18000/eurosport
-#EXTINF:0,group-title="bg",Eurosport 2
-http://85.187.13.40:18000/eurosport2
-#EXTINF:0,group-title="bg",Max Sport 1
-http://213.169.39.30:5138
-#EXTINF:0,group-title="bg",Max Sport 2
-http://213.169.39.30:5140
-#EXTINF:0,group-title="bg",Max Sport 3
-http://213.169.39.30:5142
-#EXTINF:0,group-title="bg",Max Sport 4
-http://213.169.39.30:5130
-#EXTINF:0,group-title="cz",CNN International
-http://178.23.88.55/CNN/index.m3u8
-#EXTINF:0,group-title="cz",MTV Global
-http://178.23.88.55/MTV/index.m3u8
-#EXTINF:0,group-title="179",MTV Live
-http://179.63.6.12:9000/play/a04r
-#EXTINF:0,group-title="test",MTV DE
-http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0,group-title="sk",CGTN
@@ -944,6 +904,46 @@ https://tv.mobyservice.ru/Ictimai/index.m3u8
 https://tv.mobyservice.ru/AZTV/index.m3u8
 #EXTINF:0,group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0,_
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:0,group-title="bg",BNT 1
+http://78.128.125.60:9981/play/a00v/index.m3u8
+#EXTINF:0,group-title="bg",BNT 2
+http://78.128.125.60:9981/play/a010/index.m3u8
+#EXTINF:0,group-title="bg",BNT 3
+http://78.128.125.60:9981/play/a00w/index.m3u8
+#EXTINF:0,group-title="bg",BNT 4
+http://78.128.125.60:9981/play/a011/index.m3u8
+#EXTINF:0,group-title="bg",Nova
+http://78.128.125.60:9981/play/a002/index.m3u8
+#EXTINF:0,group-title="bg",Diema
+http://85.187.13.40:18000/diema
+#EXTINF:0,group-title="bg",Diema Sport 1
+http://213.169.39.30:5134
+#EXTINF:0,group-title="bg",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:0,group-title="bg",Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:0,group-title="bg",Eurosport 1
+http://85.187.13.40:18000/eurosport
+#EXTINF:0,group-title="bg",Eurosport 2
+http://85.187.13.40:18000/eurosport2
+#EXTINF:0,group-title="bg",Max Sport 1
+http://213.169.39.30:5138
+#EXTINF:0,group-title="bg",Max Sport 2
+http://213.169.39.30:5140
+#EXTINF:0,group-title="bg",Max Sport 3
+http://213.169.39.30:5142
+#EXTINF:0,group-title="bg",Max Sport 4
+http://213.169.39.30:5130
+#EXTINF:0,group-title="cz",CNN International
+http://178.23.88.55/CNN/index.m3u8
+#EXTINF:0,group-title="cz",MTV Global
+http://178.23.88.55/MTV/index.m3u8
+#EXTINF:0,group-title="179",MTV Live
+http://179.63.6.12:9000/play/a04r
+#EXTINF:0,group-title="test",MTV DE
+http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,group-title="38",MTV LATINO
 http://38.7.204.232:8010/play/a2li/index.m3u8
 #EXTINF:0,group-title="38",MTV LIVE
@@ -1634,3 +1634,8 @@ https://jmp2.uk/sam-ITBD44000047C.m3u8
 https://jmp2.uk/sam-ITBD4400010WK.m3u8
 #EXTINF:-1,_
 https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a04p/index.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a04q/index.m3u8
+
