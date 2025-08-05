@@ -1616,26 +1616,25 @@ http://188.40.59.230:5100/mtv
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,test CNN
 http://104.255.88.155/cnn/index.m3u8
-#EXTINF:-1,_
+#EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,_
+#EXTINF:-1,test RAI
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1,_
+#EXTINF:-1,test RAI
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1,_
 https://jmp2.uk/sam-IT600001L6.m3u8
 #EXTINF:-1,_
-https://jmp2.uk/sam-ITBD4400008Z5.m3u8
+https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1,_
-https://jmp2.uk/sam-ITAJ4500023ZX.m3u8
+https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:-1,_
-https://jmp2.uk/sam-ITBD44000047C.m3u8
+https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1,_
-https://jmp2.uk/sam-ITBD4400010WK.m3u8
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1,_
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
-
