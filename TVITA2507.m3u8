@@ -904,7 +904,7 @@ https://tv.mobyservice.ru/Ictimai/index.m3u8
 https://tv.mobyservice.ru/AZTV/index.m3u8
 #EXTINF:0,group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,group-title="ps",MUSAWA HD
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:0,group-title="bg",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
@@ -1135,7 +1135,7 @@ http://181.189.241.114:5050/play/a0bw
 #EXTINF:-1 group-title="hn",ESPN HD
 http://181.189.241.114:5050/play/a0q6
 #EXTINF:0,_
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0,group-title="co",ESPN
@@ -1638,3 +1638,4 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
