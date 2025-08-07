@@ -477,9 +477,9 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 #EXTINF:0,group-title="ES",Nat Geo Wild
 http://185.189.225.150:85/natgeowild/index.m3u8
 #EXTINF:0,group-title="ES",Nickelodeon ES
-http://185.189.225.150:85/nickelodeon/index.m3u8
+http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0,group-title="ES",TV3
-http://185.189.225.150:85/tv3/index.m3u8
+http://185.189.225.157/tv3/index.m3u8
 #EXTINF:0,group-title="ES",TV3 CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,group-title="ES",TeleMadrid
@@ -502,10 +502,10 @@ http://92.118.251.84:8080/ten/index.m3u8
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0,group-title="ES",Eurosport ES 2
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="ES",MTV Espana
-http://185.189.225.150:85/MTV/index.m3u8
+#EXTINF:0,group-title="ES",MTV Spain
+http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0,group-title="ES",MTV Hits
-http://185.189.225.150:85/MTVHits/index.m3u8
+http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0,group-title="ES",MTV Club
 http://185.189.225.150:85/MTVClub/index.m3u8
 #EXTINF:0,group-title="ES",MTV 80s
@@ -1638,6 +1638,7 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
 
