@@ -330,8 +330,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
 #EXTINF:0,group-title="CH",BBC World News
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:0,group-title="ES",BBC 1
-http://185.189.225.150:85/BBC1/index.m3u8
+#EXTINF:0,group-title="UK",BBC 1
+http://92.118.251.84:8080/bbc1/index.m3u8
 #EXTINF:0,group-title="CH",BBC 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0,group-title="CH",BBC 3
@@ -1638,5 +1638,6 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
