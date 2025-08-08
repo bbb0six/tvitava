@@ -439,43 +439,43 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0,group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0,group-title="ES",TVE La1
-http://185.189.225.150:85/TVE/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12334
 #EXTINF:0,group-title="ES",TVE La2
 http://185.189.225.150:85/TV2/index.m3u8
 #EXTINF:0,group-title="ES",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:0,group-title="ES",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12331
 #EXTINF:0,group-title="ES",TeleCinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12330
 #EXTINF:0,group-title="ES",La Sexta
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:0,group-title="ES",RTVE 24h
-http://185.189.225.150:85/24horas/index.m3u8
+#EXTINF:0,group-title="CH",RTVE 24h
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0,group-title="ES",8 Madrid
-http://185.189.225.150:85/8madrid/index.m3u8
+http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0,group-title="ES",FDF
-http://185.189.225.150:85/fdf/index.m3u8
+http://185.189.225.149/fdf/index.m3u8
 #EXTINF:0,group-title="ES",Mega
-http://185.189.225.150:85/mega/index.m3u8
+http://185.189.225.149/mega/index.m3u8
 #EXTINF:0,group-title="ES",Neox
-http://185.189.225.150:85/neox/index.m3u8
+http://185.189.225.157/neox/index.m3u8
 #EXTINF:0,group-title="ES",Nova
-http://185.189.225.150:85/nova/index.m3u8
+http://185.189.225.157/nova/index.m3u8
 #EXTINF:0,group-title="ES",Calle 13
-http://185.189.225.150:85/calle13/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
 #EXTINF:0,group-title="ES",Comedy Central ES
-http://185.189.225.150:85/comedycentral/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12417
 #EXTINF:0,group-title="ES",Paramount ES
-http://185.189.225.150:85/Paramount/index.m3u8
+http://185.189.225.149/paramount/index.m3u8
 #EXTINF:0,group-title="ES",BOM Cine
-http://185.189.225.150:85/BOM/index.m3u8
+http://185.189.225.149/BOM/index.m3u8
 #EXTINF:0,group-title="ES",Boing ES
-http://185.189.225.150:85/boing/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12430
 #EXTINF:0,group-title="ES",BabyTV ES
-http://185.189.225.150:85/BabyTV/index.m3u8
-#EXTINF:0,group-title="ES",Nat Geo Wild
-http://185.189.225.150:85/natgeowild/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12366
+#EXTINF:0,group-title="ES",Nat Geo ES
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12461
 #EXTINF:0,group-title="ES",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0,group-title="ES",TV3
@@ -484,10 +484,10 @@ http://185.189.225.157/tv3/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,group-title="ES",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1,group-title="ES",AMC
-http://185.189.225.150:85/AMC/index.m3u8
-#EXTINF:-1,group-title="ES",AXN
-http://185.189.225.150:85/AXN/index.m3u8
+#EXTINF:-1,group-title="CH",TV Galicia
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
+#EXTINF:-1,group-title="CH",Aragon TV
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0,group-title="ES",CLAN
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12419
 #EXTINF:0,group-title="ES",DKiss
@@ -511,7 +511,7 @@ http://185.189.225.150:85/MTVClub/index.m3u8
 #EXTINF:0,group-title="ES",MTV 80s
 http://185.189.225.150:85/MTV80s/index.m3u8
 #EXTINF:0,group-title="ES",MTV 90s
-http://185.189.225.150:85/MTV90s/index.m3u8
+http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0,group-title="ES",MTV 00s
 http://185.189.225.150:85/MTV00s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
@@ -1638,7 +1638,3 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
-
-
-
-
