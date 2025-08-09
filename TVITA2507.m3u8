@@ -464,8 +464,8 @@ http://185.189.225.157/neox/index.m3u8
 http://185.189.225.157/nova/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
 http://185.189.225.149/BOM/index.m3u8
-#EXTINF:0 group-title="España",Be Mad
-http://79.112.31.52:8069/udp/239.10.20.36:1234
+#EXTINF:0 group-title="España",Energy
+http://79.112.31.52:8069/udp/239.10.20.49:1234
 #EXTINF:0 group-title="España",Divinity
 http://79.112.31.52:8069/udp/239.10.20.18:1234
 #EXTINF:0 group-title="España",Clan
@@ -492,27 +492,27 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
 #EXTINF:0 group-title="España",DMax ES
 http://79.112.31.52:8069/udp/239.10.20.53:1234
-#EXTINF:0,group-title="ES",TDP
-http://92.118.251.84:8080/POP/index.m3u8
-#EXTINF:0,group-title="ES",TDP
+#EXTINF:0 group-title="España",BeMad TV
+http://79.112.31.52:8069/udp/239.10.20.36:1234
+#EXTINF:0 group-title="España",TDP
 http://92.118.251.84:8080/tdp/index.m3u8
-#EXTINF:0,group-title="ES",TEN
+#EXTINF:0 group-title="España",TEN
 http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:0,group-title="ES",Eurosport ES 1
+#EXTINF:0 group-title="España",Eurosport ES 1
 http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0,group-title="ES",Eurosport ES 2
+#EXTINF:0 group-title="España",Eurosport ES 2
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0,group-title="ES",MTV Spain
+#EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
-#EXTINF:0,group-title="ES",MTV Hits
+#EXTINF:0 group-title="España",MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:0,group-title="ES",MTV Club
+#EXTINF:0 group-title="España",MTV Club
 http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:0,group-title="-",MTV 80s
 http://87.118.142.91:6064/play/a07g
-#EXTINF:0,group-title="ES",MTV 90s
+#EXTINF:0 group-title="España",MTV 90s
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:0,group-title="ES",MTV 00s
+#EXTINF:0 group-title="España",MTV 00s
 http://185.189.225.157/MTV00s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
@@ -910,6 +910,8 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 http://185.207.34.107:8000/play/culture
 #EXTINF:0,group-title="ua",1+1 UA
 http://185.207.34.107:8000/play/1plus1
+#EXTINF:0,group-title="ua",2+2 UA
+http://85.187.13.40:18000/2+2
 #EXTINF:0,group-title="bg",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
 #EXTINF:0,group-title="bg",BNT 2
@@ -1026,8 +1028,6 @@ http://185.130.218.254:25007/RTL2/mpegts
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="FR",France 3
 http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="FR",France 4
-http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,group-title="samsung",FASHION TV
 https://jmp2.uk/sam-ITAJ4500017PG.m3u8
 #EXTINF:0,group-title="samsung",CNN FAST
@@ -1638,6 +1638,7 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
 
