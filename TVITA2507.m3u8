@@ -438,17 +438,17 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0,group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0,group-title="ES",TVE La1
+#EXTINF:0,group-title="es",TVE La1
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12334
-#EXTINF:0,group-title="ES",TVE La2
+#EXTINF:0,group-title="es",TVE La2
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12454
-#EXTINF:0,group-title="ES",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:0,group-title="ES",Cuatro
+#EXTINF:0,group-title="es",Antena 3
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12453
+#EXTINF:0,group-title="es",Cuatro
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12331
-#EXTINF:0,group-title="ES",TeleCinco
+#EXTINF:0,group-title="es",TeleCinco
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12330
-#EXTINF:0,group-title="ES",La Sexta
+#EXTINF:0,group-title="es",La Sexta
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12451
 #EXTINF:0,group-title="CH",RTVE 24h
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
@@ -462,19 +462,19 @@ http://185.189.225.149/mega/index.m3u8
 http://185.189.225.157/neox/index.m3u8
 #EXTINF:0,group-title="ES",Nova
 http://185.189.225.157/nova/index.m3u8
-#EXTINF:0,group-title="ES",Calle 13
+#EXTINF:0,group-title="es",Calle 13
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
-#EXTINF:0,group-title="ES",Comedy Central ES
+#EXTINF:0,group-title="es",Comedy Central
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12417
-#EXTINF:0,group-title="ES",Paramount ES
+#EXTINF:0,group-title="ES",Paramount
 http://185.189.225.149/paramount/index.m3u8
 #EXTINF:0,group-title="ES",BOM Cine
 http://185.189.225.149/BOM/index.m3u8
 #EXTINF:0,group-title="ES",Boing ES
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12430
+http://185.189.225.157/BOING/index.m3u8
 #EXTINF:0,group-title="ES",BabyTV ES
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12366
-#EXTINF:0,group-title="ES",Nat Geo ES
+http://185.189.225.149/BabyTV/index.m3u8
+#EXTINF:0,group-title="es",Nat Geo ES
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12461
 #EXTINF:0,group-title="ES",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
@@ -488,11 +488,11 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:-1,group-title="CH",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0,group-title="ES",CLAN
+#EXTINF:0,group-title="es",CLAN
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12419
-#EXTINF:0,group-title="ES",DKiss
+#EXTINF:0,group-title="es",DKiss
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12410
-#EXTINF:0,group-title="ES",Divinity
+#EXTINF:0,group-title="es",Divinity
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12413
 #EXTINF:0,group-title="ES",TDP
 http://92.118.251.84:8080/tdp/index.m3u8
@@ -507,13 +507,13 @@ http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0,group-title="ES",MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0,group-title="ES",MTV Club
-http://185.189.225.150:85/MTVClub/index.m3u8
-#EXTINF:0,group-title="ES",MTV 80s
-http://185.189.225.150:85/MTV80s/index.m3u8
+http://185.189.225.149/MTVClub/index.m3u8
+#EXTINF:0,group-title="-",MTV 80s
+http://87.118.142.91:6064/play/a07g
 #EXTINF:0,group-title="ES",MTV 90s
 http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0,group-title="ES",MTV 00s
-http://185.189.225.150:85/MTV00s/index.m3u8
+http://185.189.225.157/MTV00s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
@@ -1638,4 +1638,5 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
