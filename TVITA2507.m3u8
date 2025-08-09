@@ -438,20 +438,20 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0,group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0,group-title="es",TVE La1
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12334
-#EXTINF:0,group-title="es",TVE La2
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12454
-#EXTINF:0,group-title="es",Antena 3
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12453
-#EXTINF:0,group-title="es",Cuatro
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12331
-#EXTINF:0,group-title="es",TeleCinco
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12330
-#EXTINF:0,group-title="es",La Sexta
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12451
-#EXTINF:0,group-title="CH",RTVE 24h
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
+#EXTINF:0 group-title="España",La1
+http://79.112.31.52:8069/udp/239.10.20.5:1234
+#EXTINF:0 group-title="España",La2
+http://79.112.31.52:8069/udp/239.10.20.8:1234
+#EXTINF:0 group-title="España",Antena 3
+http://79.112.31.52:8069/udp/239.10.20.9:1234
+#EXTINF:0 group-title="España",Cuatro
+http://79.112.31.52:8069/udp/239.10.20.20:1234
+#EXTINF:0 group-title="España",TeleCinco
+http://79.112.31.52:8069/udp/239.10.20.19:1234
+#EXTINF:0 group-title="España",LaSexta
+http://79.112.31.52:8069/udp/239.10.20.11:1234
+#EXTINF:0 group-title="España",24h
+http://79.112.31.52:8069/udp/239.10.20.4:1234
 #EXTINF:0,group-title="ES",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0,group-title="ES",FDF
@@ -462,10 +462,10 @@ http://185.189.225.149/mega/index.m3u8
 http://185.189.225.157/neox/index.m3u8
 #EXTINF:0,group-title="ES",Nova
 http://185.189.225.157/nova/index.m3u8
-#EXTINF:0,group-title="es",Calle 13
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
-#EXTINF:0,group-title="es",Comedy Central
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12417
+#EXTINF:0 group-title="España",Be Mad
+http://79.112.31.52:8069/udp/239.10.20.36:1234
+#EXTINF:0 group-title="España",Divinity
+http://79.112.31.52:8069/udp/239.10.20.18:1234
 #EXTINF:0,group-title="ES",Paramount
 http://185.189.225.149/paramount/index.m3u8
 #EXTINF:0,group-title="ES",BOM Cine
@@ -488,12 +488,12 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:-1,group-title="CH",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0,group-title="es",CLAN
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12419
 #EXTINF:0,group-title="es",DKiss
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12410
-#EXTINF:0,group-title="es",Divinity
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12413
+#EXTINF:0,group-title="es",Calle 13
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
+#EXTINF:0 group-title="España",Clan
+http://79.112.31.52:8069/udp/239.10.20.21:1234
 #EXTINF:0,group-title="ES",TDP
 http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0,group-title="ES",TEN
@@ -1638,5 +1638,6 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
