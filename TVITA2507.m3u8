@@ -441,7 +441,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0,group-title="ES",TVE La1
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12334
 #EXTINF:0,group-title="ES",TVE La2
-http://185.189.225.150:85/TV2/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12454
 #EXTINF:0,group-title="ES",Antena 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:0,group-title="ES",Cuatro
@@ -449,7 +449,7 @@ http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12331
 #EXTINF:0,group-title="ES",TeleCinco
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12330
 #EXTINF:0,group-title="ES",La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12451
 #EXTINF:0,group-title="CH",RTVE 24h
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0,group-title="ES",8 Madrid
@@ -1638,3 +1638,4 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
