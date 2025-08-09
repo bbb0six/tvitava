@@ -451,49 +451,49 @@ http://79.112.31.52:8069/udp/239.10.20.19:1234
 #EXTINF:0 group-title="España",LaSexta
 http://79.112.31.52:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="España",24h
-http://79.112.31.52:8069/udp/239.10.20.4:1234
-#EXTINF:0,group-title="ES",8 Madrid
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
+#EXTINF:0 group-title="España",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
-#EXTINF:0,group-title="ES",FDF
+#EXTINF:0 group-title="España",FDF
 http://185.189.225.149/fdf/index.m3u8
-#EXTINF:0,group-title="ES",Mega
+#EXTINF:0 group-title="España",Mega
 http://185.189.225.149/mega/index.m3u8
-#EXTINF:0,group-title="ES",Neox
+#EXTINF:0 group-title="España",Neox
 http://185.189.225.157/neox/index.m3u8
-#EXTINF:0,group-title="ES",Nova
+#EXTINF:0 group-title="España",Nova
 http://185.189.225.157/nova/index.m3u8
+#EXTINF:0 group-title="España",BOM Cine
+http://185.189.225.149/BOM/index.m3u8
 #EXTINF:0 group-title="España",Be Mad
 http://79.112.31.52:8069/udp/239.10.20.36:1234
 #EXTINF:0 group-title="España",Divinity
 http://79.112.31.52:8069/udp/239.10.20.18:1234
-#EXTINF:0,group-title="ES",Paramount
-http://185.189.225.149/paramount/index.m3u8
-#EXTINF:0,group-title="ES",BOM Cine
-http://185.189.225.149/BOM/index.m3u8
-#EXTINF:0,group-title="ES",Boing ES
+#EXTINF:0 group-title="España",Clan
+http://79.112.31.52:8069/udp/239.10.20.21:1234
+#EXTINF:0 group-title="España",Boing
 http://185.189.225.157/BOING/index.m3u8
-#EXTINF:0,group-title="ES",BabyTV ES
+#EXTINF:0 group-title="España",Baby TV 
 http://185.189.225.149/BabyTV/index.m3u8
-#EXTINF:0,group-title="es",Nat Geo ES
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12461
-#EXTINF:0,group-title="ES",Nickelodeon ES
+#EXTINF:0 group-title="España",Nickelodeon
 http://185.189.225.157/Nick/index.m3u8
-#EXTINF:0,group-title="ES",TV3
+#EXTINF:0 group-title="España",Paramount
+http://185.189.225.149/paramount/index.m3u8
+#EXTINF:0 group-title="España",TV3
 http://185.189.225.157/tv3/index.m3u8
-#EXTINF:0,group-title="ES",TV3 CAT
+#EXTINF:0 group-title="España",TV3 CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0,group-title="ES",TeleMadrid
+#EXTINF:0 group-title="España",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,group-title="CH",TV Galicia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:-1,group-title="CH",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0,group-title="es",DKiss
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12410
-#EXTINF:0,group-title="es",Calle 13
+#EXTINF:0 group-title="España",Calle 13
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
-#EXTINF:0 group-title="España",Clan
-http://79.112.31.52:8069/udp/239.10.20.21:1234
+#EXTINF:0 group-title="España",DMax ES
+http://79.112.31.52:8069/udp/239.10.20.53:1234
+#EXTINF:0,group-title="ES",TDP
+http://92.118.251.84:8080/POP/index.m3u8
 #EXTINF:0,group-title="ES",TDP
 http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0,group-title="ES",TEN
@@ -1638,6 +1638,7 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
 
