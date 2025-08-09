@@ -1614,8 +1614,8 @@ http://85.187.13.40:18000/tntint
 http://188.40.59.230:5100/mtv
 #EXTINF:-1,test MTV DE
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
-#EXTINF:0,test CNN
-http://104.255.88.155/cnn/index.m3u8
+#EXTINF:0,test MTV DE
+http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
@@ -1638,8 +1638,3 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
-
-
-
-
-
