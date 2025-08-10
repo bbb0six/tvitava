@@ -216,7 +216,7 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 http://95.216.97.235:7777/mtvlivehd
 #EXTINF:-1 group-title="MTV",MTV Hits
 http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="MTV",MTV Club
+#EXTINF:-1 group-title="MTV",Club MTV
 http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 80s
 http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
@@ -455,7 +455,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="España",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0 group-title="España",FDF
-http://185.189.225.149/fdf/index.m3u8
+http://79.112.31.52:8069/udp/239.250.5.3:1234
 #EXTINF:0 group-title="España",Mega
 http://185.189.225.149/mega/index.m3u8
 #EXTINF:0 group-title="España",Neox
@@ -484,9 +484,9 @@ http://185.189.225.157/tv3/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 group-title="España",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:-1,group-title="CH",TV Galicia
+#EXTINF:0 group-title="España",TV Galicia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
-#EXTINF:-1,group-title="CH",Aragon TV
+#EXTINF:0 group-title="España",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="España",Calle 13
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
@@ -502,18 +502,18 @@ http://92.118.251.84:8080/ten/index.m3u8
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport ES 2
 http://92.118.251.84:8080/Eurosport2/index.m3u8
+#EXTINF:0 group-title="España",SYFY ES
+http://92.118.251.84:8080/syfy/index.m3u8
 #EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0 group-title="España",MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0 group-title="España",MTV Club
 http://185.189.225.149/MTVClub/index.m3u8
-#EXTINF:0,group-title="-",MTV 80s
-http://87.118.142.91:6064/play/a07g
-#EXTINF:0 group-title="España",MTV 90s
-http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0 group-title="España",MTV 00s
 http://185.189.225.157/MTV00s/index.m3u8
+#EXTINF:0 group-title="España",MTV 90s
+http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
@@ -1612,9 +1612,9 @@ http://85.187.13.40:18000/CLUBLAND
 http://85.187.13.40:18000/tntint
 #EXTINF:0,test MTV
 http://188.40.59.230:5100/mtv
-#EXTINF:-1,test MTV DE
+#EXTINF:-1,test MTV DE 1
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
-#EXTINF:0,test MTV DE
+#EXTINF:0,test MTV DE 2
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
@@ -1625,6 +1625,8 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1,_
 https://jmp2.uk/sam-IT600001L6.m3u8
 #EXTINF:-1,_
+https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1,_
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1,_
 https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
@@ -1633,9 +1635,6 @@ https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1,_
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1,_
-https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:-1,_
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
-
