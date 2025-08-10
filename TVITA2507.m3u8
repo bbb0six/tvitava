@@ -24,8 +24,8 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 group-title="Discovery IT",NOVE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:0 group-title="Vari",Euronews IT
-http://45.59.149.54:8038/play/s1947
+#EXTINF:0 group-title="-",Euronews IT
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",7Gold ER
@@ -1028,6 +1028,8 @@ http://185.130.218.254:25007/RTL2/mpegts
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="FR",France 3
 http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0,group-title="FR",France 4
+http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,group-title="samsung",FASHION TV
 https://jmp2.uk/sam-ITAJ4500017PG.m3u8
 #EXTINF:0,group-title="samsung",CNN FAST
@@ -1036,8 +1038,6 @@ https://jmp2.uk/sam-ITBD19000097D.m3u8
 https://jmp2.uk/sam-ITBA3300025F5.m3u8
 #EXTINF:0,group-title="samsung",Euronews EN
 https://jmp2.uk/sam-GB2600019ON.m3u8
-#EXTINF:0,group-title="-",Euronews IT
-http://45.59.149.54:8047/play/s1766
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:0 group-title="sports",match futbol 2
@@ -1638,3 +1638,4 @@ https://jmp2.uk/sam-US4000033L.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
