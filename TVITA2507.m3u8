@@ -331,7 +331,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0,group-title="CH",BBC World News
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0,group-title="UK",BBC 1
-http://92.118.251.84:8080/bbc1/index.m3u8
+http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0,group-title="CH",BBC 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0,group-title="CH",BBC 3
@@ -488,22 +488,22 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:0 group-title="España",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0 group-title="España",Calle 13
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
-#EXTINF:0 group-title="España",DMax ES
+#EXTINF:0 group-title="España",A3S
+http://79.112.31.52:8069/udp/239.10.20.35:1234
+#EXTINF:0 group-title="España",DMax ESt
 http://79.112.31.52:8069/udp/239.10.20.53:1234
 #EXTINF:0 group-title="España",BeMad TV
 http://79.112.31.52:8069/udp/239.10.20.36:1234
 #EXTINF:0 group-title="España",TDP
-http://92.118.251.84:8080/tdp/index.m3u8
+http://79.112.31.52:8069/udp/239.10.20.3:1234
 #EXTINF:0 group-title="España",TEN
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:0 group-title="España",Eurosport ES 1
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0 group-title="España",Eurosport ES 2
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0 group-title="España",SYFY ES
-http://92.118.251.84:8080/syfy/index.m3u8
+http://79.112.31.52:8069/udp/239.10.20.38:1234
+#EXTINF:0 group-title="España",Eurosport 1
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12358
+#EXTINF:0 group-title="España",Comedy Central
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12359
+#EXTINF:0 group-title="España",Calle 13
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
 #EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0 group-title="España",MTV Hits
@@ -1638,4 +1638,5 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
