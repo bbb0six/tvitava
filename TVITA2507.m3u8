@@ -960,22 +960,32 @@ https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://95.216.97.235:7777/mtv90
 #EXTINF:0,group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n/index.m3u8
-#EXTINF:0,group-title="UK",BBC ONE LON HD
-http://185.130.218.254:25007/BBC1/mpegts
-#EXTINF:0,group-title="UK",BBC TWO HD
-http://185.130.218.254:25007/BBC2/mpegts
-#EXTINF:0,group-title="UK",ITV 1
-http://31.121.110.30:4000/play/a004/index.m3u8
-#EXTINF:0,group-title="UK",ITV 2
-http://185.130.218.254:25007/ITV2/mpegts
-#EXTINF:0,group-title="UK",ITV 3
-http://185.130.218.254:25007/ITV3/mpegts
-#EXTINF:0,group-title="UK",ITV 4
-http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0,group-title="UK",ITV BE
+#EXTINF:0,group-title="UK",_
 http://31.121.110.30:4000/play/a00n/index.m3u8
-#EXTINF:0,group-title="UK",ITV 1+1
+#EXTINF:0,group-title="UK",_
 http://31.121.110.30:4000/play/a00u/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://31.121.110.30:4000/play/a00b/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://31.121.110.30:4000/play/a00q/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://31.121.110.30:4000/play/a00p/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://31.121.110.30:4000/play/a00y/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/bbc1hd/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/bbc2hd/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/itv4/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/itvbe/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/4seven/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/e4/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://92.118.251.84:8080/SkyNews/index.m3u8
 #EXTINF:0,group-title="UK",BBC4
 http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,group-title="UK",CHANNEL 4
@@ -984,51 +994,41 @@ http://176.65.146.224:4007/play/a074/index.m3u8
 http://176.65.146.224:4003/play/a06m/index.m3u8
 #EXTINF:0,group-title="UK",CNN INT
 http://176.65.146.224:4006/play/a06d/index.m3u8
-#EXTINF:0,group-title="UK",E4
-http://31.121.110.30:4000/play/a00b/index.m3u8
-#EXTINF:0,group-title="UK",E4 Extra
-http://31.121.110.30:4000/play/a00q/index.m3u8
-#EXTINF:0,group-title="UK",E4+1
-http://31.121.110.30:4000/play/a00p/index.m3u8
-#EXTINF:0,group-title="UK",DMAX UK
-http://31.121.110.30:4000/play/a00y/index.m3u8
-#EXTINF:0,group-title="UK",BBC1
-http://92.118.251.84:8080/bbc1hd/index.m3u8
-#EXTINF:0,group-title="UK",BBC2
-http://92.118.251.84:8080/bbc2hd/index.m3u8
 #EXTINF:0,group-title="UK",ITV1
-http://92.118.251.84:8080/UTV/index.m3u8
+http://176.65.146.224:4004/play/a07n/index.m3u8
 #EXTINF:0,group-title="UK",ITV2
-http://92.118.251.84:8080/itv2/index.m3u8
+http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,group-title="UK",ITV3
-http://92.118.251.84:8080/itv3/index.m3u8
-#EXTINF:0,group-title="UK",ITV4
-http://92.118.251.84:8080/itv4/index.m3u8
-#EXTINF:0,group-title="UK",ITV5
-http://92.118.251.84:8080/itvbe/index.m3u8
-#EXTINF:0,group-title="UK",4Seven
-http://92.118.251.84:8080/4seven/index.m3u8
-#EXTINF:0,group-title="UK",E4
-http://92.118.251.84:8080/e4/index.m3u8
-#EXTINF:0,group-title="UK",Sky News
-http://92.118.251.84:8080/SkyNews/index.m3u8
-#EXTINF:0,group-title="FR",NatGeo HD
+http://176.65.146.224:4004/play/a07o/index.m3u8
+#EXTINF:0,group-title="EU",BBC ONE LON HD
+http://185.130.218.254:25007/BBC1/mpegts
+#EXTINF:0,group-title="EU",BBC TWO HD
+http://185.130.218.254:25007/BBC2/mpegts
+#EXTINF:0,group-title="EU",ITV 1
+http://185.130.218.254:25007/ITV/mpegts
+#EXTINF:0,group-title="EU",ITV 2
+http://185.130.218.254:25007/ITV2/mpegts
+#EXTINF:0,group-title="EU",ITV 3
+http://185.130.218.254:25007/ITV3/mpegts
+#EXTINF:0,group-title="EU",ITV 4
+http://185.130.218.254:25007/ITV4/mpegts
+#EXTINF:0,group-title="EU",NatGeo HD
 http://185.130.218.254:25007/NatGeo/mpegts
-#EXTINF:0,group-title="FR",AMC ES
+#EXTINF:0,group-title="EU",AMC ES
 http://185.130.218.254:25007/AMC/mpegts
-#EXTINF:0,group-title="FR",HOLLYWOOD ES
+#EXTINF:0,group-title="EU",HOLLYWOOD ES
 http://185.130.218.254:25007/Hollywood/mpegts
-#EXTINF:0,group-title="FR",Premiere HD
+#EXTINF:0,group-title="EU",Premiere HD
 http://185.130.218.254:25007/Premiere/mpegts
-#EXTINF:0,group-title="FR",RTL
+#EXTINF:0,group-title="EU",RTL
 http://185.130.218.254:25007/RTL/mpegts
-#EXTINF:0,group-title="FR",RTL 2
+#EXTINF:0,group-title="EU",RTL 2
 http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0,group-title="FR",France 2
+#EXTINF:0,group-title="EU",France 2
 http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="FR",France 3
+#EXTINF:0,group-title="EU",France 3
 http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="FR",France 4
+#EXTINF:0,group-title="EU",France 4
 http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,group-title="samsung",FASHION TV
 https://jmp2.uk/sam-ITAJ4500017PG.m3u8
@@ -1638,5 +1638,6 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
 
 
