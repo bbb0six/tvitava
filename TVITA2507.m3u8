@@ -455,7 +455,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="España",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0 group-title="España",FDF
-http://79.112.31.52:8069/udp/239.250.5.3:1234
+http://185.189.225.149/fdf/index.m3u8
 #EXTINF:0 group-title="España",Mega
 http://185.189.225.149/mega/index.m3u8
 #EXTINF:0 group-title="España",Neox
@@ -476,7 +476,7 @@ http://185.189.225.157/BOING/index.m3u8
 http://185.189.225.149/BabyTV/index.m3u8
 #EXTINF:0 group-title="España",Nickelodeon
 http://185.189.225.157/Nick/index.m3u8
-#EXTINF:0 group-title="España",Paramount
+#EXTINF:0 group-title="España",Paramount ES
 http://185.189.225.149/paramount/index.m3u8
 #EXTINF:0 group-title="España",TV3
 http://185.189.225.157/tv3/index.m3u8
@@ -833,11 +833,11 @@ https://jmp2.uk/sam-IT900007I0.m3u8
 #EXTINF:0,group-title="IT",LA7
 https://jmp2.uk/sam-ITBD1500002NL.m3u8
 #EXTINF:0,group-title="IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php
+https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0,group-title="IT",SkyTG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php
+https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0,group-title="IT",Euronews
-https://www.mytivu.it/Application/Channels/Euronews.php
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0,group-title="ilglobotv",Rai 2
@@ -942,12 +942,12 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
+#EXTINF:0,group-title="lt",2tv
+http://195.12.167.222:1100/2tv
 #EXTINF:0,group-title="cz",MTV Global
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,group-title="38",MTV LATINO
 http://38.7.204.232:8010/play/a2li/index.m3u8
-#EXTINF:0,group-title="38",MTV LIVE
-http://38.7.204.232:8010/play/a2np/index.m3u8
 #EXTINF:0,group-title="179",MTV Live
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="xk",MTV Hits
@@ -1638,3 +1638,4 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
+
