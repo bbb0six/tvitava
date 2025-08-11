@@ -906,12 +906,18 @@ https://tv.mobyservice.ru/AZTV/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0,group-title="ps",MUSAWA HD
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:0,group-title="ua",Suspilne Kultura
-http://185.207.34.107:8000/play/culture
 #EXTINF:0,group-title="ua",1+1 UA
 http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,group-title="ua",2+2 UA
 http://85.187.13.40:18000/2+2
+#EXTINF:0,group-title="ua",Suspilne Kultura
+http://185.207.34.107:8000/play/culture
+#EXTINF:0,TNT Music RU
+http://195.26.83.96:7029/play/9
+#EXTINF:0,2TV LT
+http://195.12.167.222:1100/2tv
+#EXTINF:0,_
+http://87.118.142.91:6064/play/a078
 #EXTINF:0,group-title="bg",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
 #EXTINF:0,group-title="bg",BNT 2
@@ -930,10 +936,6 @@ http://213.169.39.30:5134
 http://213.169.39.30:5136
 #EXTINF:0,group-title="bg",Diema Sport 3
 http://213.169.39.30:5216
-#EXTINF:0,group-title="bg",Eurosport 1
-http://85.187.13.40:18000/eurosport
-#EXTINF:0,group-title="bg",Eurosport 2
-http://85.187.13.40:18000/eurosport2
 #EXTINF:0,group-title="bg",Max Sport 1
 http://213.169.39.30:5138
 #EXTINF:0,group-title="bg",Max Sport 2
@@ -942,9 +944,17 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:0,group-title="lt",2tv
-http://195.12.167.222:1100/2tv
-#EXTINF:0,group-title="cz",MTV Global
+#EXTINF:0,group-title="bg",Eurosport 1 BG
+http://85.187.13.40:18000/eurosport
+#EXTINF:0,group-title="bg",Eurosport 2 BG
+http://85.187.13.40:18000/eurosport2
+#EXTINF:-1,Eurosport 1 PL
+http://103.141.159.249:4000/play/a04p/index.m3u8
+#EXTINF:-1,Eurosport 2 PL
+http://103.141.159.249:4000/play/a04q/index.m3u8
+#EXTINF:0,MTV DE
+http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
+#EXTINF:0,MTV EU
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,group-title="38",MTV LATINO
 http://38.7.204.232:8010/play/a2li/index.m3u8
@@ -961,41 +971,31 @@ http://95.216.97.235:7777/mtv90
 #EXTINF:0,group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n/index.m3u8
 #EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00n/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00u/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00b/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00q/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00p/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://31.121.110.30:4000/play/a00y/index.m3u8
-#EXTINF:0,group-title="UK",_
 http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/bbc2hd/index.m3u8
+http://103.141.159.249:4000/play/a073/index.m3u8
 #EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/itv4/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/itvbe/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/4seven/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/e4/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/SkyNews/index.m3u8
+http://103.141.159.249:4000/play/a072/index.m3u8
+#EXTINF:0,group-title="UK",DMAX UK
+http://176.65.146.224:4007/play/a06r/index.m3u8
+#EXTINF:0,group-title="UK",HGTV UK
+http://176.65.146.224:4002/play/a06z/index.m3u8
+#EXTINF:0,group-title="UK",BBC2 Wales
+http://176.65.146.224:4001/play/a08f/index.m3u8
 #EXTINF:0,group-title="UK",BBC4
 http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0,group-title="UK",CHANNEL 4
 http://176.65.146.224:4007/play/a074/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 5
+#EXTINF:0,group-title="UK",E4 Extra
+http://176.65.146.224:4002/play/a06w/index.m3u8
+#EXTINF:0,group-title="UK",4seven
+http://176.65.146.224:4002/play/a06x/index.m3u8
+#EXTINF:0,group-title="UK",5
 http://176.65.146.224:4003/play/a06m/index.m3u8
 #EXTINF:0,group-title="UK",CNN INT
 http://176.65.146.224:4006/play/a06d/index.m3u8
-#EXTINF:0,group-title="UK",ITV1
-http://176.65.146.224:4004/play/a07n/index.m3u8
+#EXTINF:0,group-title="UK",ITV1 Wales HD
+http://176.65.146.224:4004/play/a07m/index.m3u8
 #EXTINF:0,group-title="UK",ITV2
 http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,group-title="UK",ITV3
@@ -1610,8 +1610,6 @@ http://85.187.13.40:18000/ProSieben
 http://85.187.13.40:18000/CLUBLAND
 #EXTINF:-1,TNT INT (Russia)
 http://85.187.13.40:18000/tntint
-#EXTINF:0,test MTV
-http://188.40.59.230:5100/mtv
 #EXTINF:-1,test MTV DE 1
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,test MTV DE 2
@@ -1638,6 +1636,5 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04q/index.m3u8
-
-
-
+#EXTINF:0,_
+http://188.40.59.230:5100/mtv
