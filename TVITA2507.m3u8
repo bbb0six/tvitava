@@ -470,11 +470,11 @@ http://79.112.31.52:8069/udp/239.10.20.49:1234
 http://79.112.31.52:8069/udp/239.10.20.18:1234
 #EXTINF:0 group-title="España",Clan
 http://79.112.31.52:8069/udp/239.10.20.21:1234
-#EXTINF:0 group-title="España",Boing
+#EXTINF:0 group-title="España",Boing ES
 http://185.189.225.157/BOING/index.m3u8
-#EXTINF:0 group-title="España",Baby TV 
+#EXTINF:0 group-title="España",Baby TV ES
 http://185.189.225.149/BabyTV/index.m3u8
-#EXTINF:0 group-title="España",Nickelodeon
+#EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
 http://185.189.225.149/paramount/index.m3u8
@@ -498,12 +498,14 @@ http://79.112.31.52:8069/udp/239.10.20.36:1234
 http://79.112.31.52:8069/udp/239.10.20.3:1234
 #EXTINF:0 group-title="España",TEN
 http://79.112.31.52:8069/udp/239.10.20.38:1234
-#EXTINF:0 group-title="España",Eurosport 1
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12358
-#EXTINF:0 group-title="España",Comedy Central
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12359
+#EXTINF:0 group-title="España",Eurosport 1 ES
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:0 group-title="España",Eurosport 2 ES
+http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0 group-title="España",Calle 13
 http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
+#EXTINF:0 group-title="España",Comedy Central ES
+http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12359
 #EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0 group-title="España",MTV Hits
@@ -512,8 +514,6 @@ http://185.189.225.157/MTVHits/index.m3u8
 http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:0 group-title="España",MTV 00s
 http://185.189.225.157/MTV00s/index.m3u8
-#EXTINF:0 group-title="España",MTV 90s
-http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
@@ -1638,3 +1638,4 @@ http://103.141.159.249:4000/play/a04p/index.m3u8
 http://103.141.159.249:4000/play/a04q/index.m3u8
 #EXTINF:0,_
 http://188.40.59.230:5100/mtv
+
