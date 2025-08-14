@@ -829,10 +829,10 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,group-title="IT",Real Time
+#EXTINF:0,_
 https://jmp2.uk/sam-IT900007I0.m3u8
-#EXTINF:0,group-title="IT",LA7
-https://jmp2.uk/sam-ITBD1500002NL.m3u8
+#EXTINF:0,_
+http://185.236.230.212:9982/play/a0a1
 #EXTINF:0,group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0,group-title="IT",SkyTG24
@@ -1027,18 +1027,18 @@ http://185.130.218.254:25007/RTL/mpegts
 http://185.130.218.254:25007/RTL2/mpegts
 #EXTINF:0,group-title="EU",France 2
 http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="EU",France 3
-http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="EU",France 4
-http://185.130.218.254:25007/France4/mpegts
-#EXTINF:0,group-title="samsung",FASHION TV
-https://jmp2.uk/sam-ITAJ4500017PG.m3u8
-#EXTINF:0,group-title="samsung",CNN FAST
-https://jmp2.uk/sam-ITBD19000097D.m3u8
-#EXTINF:0,group-title="samsung",BLOOMBERG TV
-https://jmp2.uk/sam-ITBA3300025F5.m3u8
-#EXTINF:0,group-title="samsung",Euronews EN
-https://jmp2.uk/sam-GB2600019ON.m3u8
+#EXTINF:0,_
+http://91.222.174.221/Globo/index.m3u8
+#EXTINF:0,_
+http://91.222.174.221/Bloomberg/index.m3u8
+#EXTINF:0,_
+http://91.222.174.221/Paramount/index.m3u8
+#EXTINF:0,_
+http://91.222.174.221/Nickelodeon/index.m3u8
+#EXTINF:0,_
+http://91.222.174.221/MTV/index.m3u8
+#EXTINF:0,_
+http://91.222.174.221/Rai/index.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:0 group-title="sports",match futbol 2
@@ -1439,12 +1439,12 @@ http://85.14.32.15:8800/udp/239.100.20.13:8888
 http://125hvt.ddns.net:21585/vtv4/mpegts
 #EXTINF:0,_
 http://125hvt.ddns.net:21585/tv5/mpegts
-#EXTINF:-1,_
-http://85.14.32.15:8800/udp/239.100.20.52:8888
-#EXTINF:-1,_
-http://85.14.32.15:8800/udp/239.100.20.56:8888
-#EXTINF:-1,_
-http://85.14.32.15:8800/udp/239.100.20.53:8888
+#EXTINF:-1,Rai 1
+http://87.246.54.249:8085/Rai1/mpegts
+#EXTINF:-1,Rai 2
+http://87.246.54.249:8085/Rai2/mpegts
+#EXTINF:-1,Rai 3
+http://87.246.54.249:8085/Rai3/mpegts
 #EXTINF:0,Rete4 HD
 http://84.22.55.2:8013/play/s417
 #EXTINF:0,Canale5 HD
@@ -1639,6 +1639,7 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
+
 
 
 
