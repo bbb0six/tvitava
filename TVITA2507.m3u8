@@ -27,6 +27,7 @@ https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/
 #EXTINF:0 group-title="-",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",7Gold ER
 http://84.22.55.2:8011/play/s304
@@ -148,7 +149,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://jmp2.uk/sam-ITBA2200010O1.m3u8
+http://84.22.55.2:8006/play/s196
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
@@ -1638,6 +1639,7 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
+
 
 
 
