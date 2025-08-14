@@ -1435,9 +1435,9 @@ http://213.169.39.30:5283
 #EXTINF:0,_
 http://85.14.32.15:8800/udp/239.100.20.13:8888
 #EXTINF:0,_
-http://85.14.32.15:8800/udp/239.100.20.19:8888
+http://125hvt.ddns.net:21585/vtv4/mpegts
 #EXTINF:0,_
-http://85.14.32.15:8800/udp/239.100.20.24:8888
+http://125hvt.ddns.net:21585/tv5/mpegts
 #EXTINF:-1,_
 http://85.14.32.15:8800/udp/239.100.20.52:8888
 #EXTINF:-1,_
@@ -1638,6 +1638,7 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
+
 
 
 
