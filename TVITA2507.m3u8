@@ -953,11 +953,13 @@ http://85.187.13.40:18000/eurosport2
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,Eurosport 2 PL
 http://103.141.159.249:4000/play/a04q/index.m3u8
+#EXTINF:0,MTV PL
+http://146.59.54.154/227/mpegts
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,MTV EU
 http://178.23.88.55/MTV/index.m3u8
-#EXTINF:0 group-title="38",MTV LATINO
+#EXTINF:0,MTV LA
 http://38.7.204.232:8010/play/a2li/index.m3u8
 #EXTINF:0 group-title="179",MTV Live
 http://179.63.6.12:9000/play/a04r
@@ -1027,17 +1029,15 @@ http://185.130.218.254:25007/RTL/mpegts
 http://185.130.218.254:25007/RTL2/mpegts
 #EXTINF:0,group-title="EU",France 2
 http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,_
-http://91.222.174.221/Globo/index.m3u8
-#EXTINF:0,_
-http://91.222.174.221/Bloomberg/index.m3u8
+#EXTINF:0,group-title="EU",France 3
+http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0,group-title="EU",France 4
+http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,_
 http://91.222.174.221/Paramount/index.m3u8
 #EXTINF:0,_
-http://91.222.174.221/Nickelodeon/index.m3u8
-#EXTINF:0,MTV
 http://91.222.174.221/MTV/index.m3u8
-#EXTINF:0,Rai
+#EXTINF:0,_
 http://91.222.174.221/Rai/index.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
@@ -1615,6 +1615,8 @@ http://85.187.13.40:18000/tntint
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:0,test MTV DE 2
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
+#EXTINF:-1,test MTV Live
+http://45.159.74.22:80/Channel_117/mpegts
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
@@ -1623,8 +1625,6 @@ https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visu
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1,_
 https://jmp2.uk/sam-IT600001L6.m3u8
-#EXTINF:-1,_
-https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1,_
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1,_
@@ -1639,12 +1639,5 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
-
-
-
-
-
-
-
 
 
