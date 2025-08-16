@@ -503,10 +503,8 @@ http://79.112.31.52:8069/udp/239.10.20.38:1234
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 2 ES
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0 group-title="España",Calle 13
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12323
-#EXTINF:0 group-title="España",Comedy Central ES
-http://booklife.space:8080/OmarVal0905/wey9quZbkVTd/12359
+#EXTINF:0 group-title="España",MTV ES
+http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0 group-title="España",MTV Hits
@@ -515,6 +513,8 @@ http://185.189.225.157/MTVHits/index.m3u8
 http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:0 group-title="España",MTV 00s
 http://185.189.225.157/MTV00s/index.m3u8
+#EXTINF:0 group-title="España",MTV 90s
+http://185.189.225.157/mtv90s/index.m3u8
 #EXTINF:0,group-title="US",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
@@ -1639,6 +1639,7 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
+
 
 
 
