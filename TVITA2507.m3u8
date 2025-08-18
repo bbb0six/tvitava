@@ -1267,6 +1267,94 @@ http://fl3.moveonjoy.com/MTV_U/index.m3u8
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0,group-title="USA",MTV CLASSIC
 http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:0,_
+http://104.255.88.155/cnn/index.m3u8
+#EXTINF:0,group-title="bg",Arte
+http://213.169.39.30:5280
+#EXTINF:0 group-title="NL",MTV NL
+http://185.236.230.212:9982/play/a0af
+#EXTINF:0 group-title="NL",BBC NL
+http://185.236.230.212:9982/play/a0ak
+#EXTINF:0 group-title="NL",NPO 1
+http://185.236.230.212:9982/play/a0a1
+#EXTINF:0 group-title="NL",NPO 2
+http://185.236.230.212:9981/play/a09q
+#EXTINF:0 group-title="NL",NPO 3
+http://185.236.230.212:9982/play/a0a4
+#EXTINF:0 group-title="NL",RTL 4
+http://185.236.230.212:9981/play/a0a7
+#EXTINF:0 group-title="NL",RTL 5
+http://185.236.230.212:9981/play/a0a8
+#EXTINF:0 group-title="NL",SBS 6
+http://185.236.230.212:9981/play/a09r
+#EXTINF:0 group-title="NL",RTL 7
+http://185.236.230.212:9981/play/a0a9
+#EXTINF:0 group-title="NL",VERONICA/DISNEYXD 
+http://185.236.230.212:9982/play/a0a3
+#EXTINF:0 group-title="NL",NET 5
+http://185.236.230.212:9982/play/a09z
+#EXTINF:0 group-title="NL",RTL 8
+http://185.236.230.212:9981/play/a0ab
+#EXTINF:0,|BE| KETNET
+http://185.236.230.212:9982/play/a09j
+#EXTINF:0,|BE| MENT POP
+http://185.236.230.212:9982/play/a09c
+#EXTINF:0,|BE| PLAY 5
+http://185.236.230.212:9982/play/a09o
+#EXTINF:0,|BE| PLAY 7
+http://185.236.230.212:9982/play/a09p
+#EXTINF:0,|BE| VRT 1 HD
+http://185.236.230.212:9982/play/a0a0
+#EXTINF:0,|BE| VRT CANVAS HD
+http://185.236.230.212:9982/play/a0a2
+#EXTINF:0,|BE| VTM 3
+http://185.236.230.212:9982/play/a09l
+#EXTINF:0,|BE| VTM 4
+http://185.236.230.212:9982/play/a09m
+#EXTINF:0,|BE| VTM GOLD
+http://185.236.230.212:9982/play/a09i
+#EXTINF:0,|BE| VTM XMAS
+http://185.236.230.212:9982/play/a09k
+#EXTINF:0,|CZ| CT 1 JM HD
+http://185.236.230.212:9982/play/a0b6
+#EXTINF:0,|CZ| CT 1 JZC HD
+http://185.236.230.212:9982/play/a0ba
+#EXTINF:0,|CZ| CT 1 PHA HD
+http://185.236.230.212:9982/play/a0b0
+#EXTINF:0,|CZ| CT 1 SM HD
+http://185.236.230.212:9982/play/a0b5
+#EXTINF:0,|CZ| CT 1 SVC HD
+http://185.236.230.212:9982/play/a0b8
+#EXTINF:0,|CZ| CT 2 HD
+http://185.236.230.212:9982/play/a0b1
+#EXTINF:0,|CZ| CT 24 HD
+http://185.236.230.212:9982/play/a0b2
+#EXTINF:0,|CZ| CT :D/ART HD
+http://185.236.230.212:9982/play/a0b4
+#EXTINF:0,|CZ| CT SPORT HD
+http://185.236.230.212:9982/play/a0b3
+#EXTINF:0,|CZ| NOVA SPORT 1 HD
+http://185.236.230.212:9982/play/a0an
+#EXTINF:0,|CZ| MTV EUROPE
+http://185.236.230.212:9982/play/a086
+#EXTINF:0,|CZ| FILM EUROPE+ HD
+http://185.236.230.212:9982/play/a08v
+#EXTINF:0,|CZ| FILM+ HD
+http://185.236.230.212:9982/play/a08q
+#EXTINF:0,|CZ| FILMBOX PREMIUM HD
+http://185.236.230.212:9982/play/a08t
+#EXTINF:0,|CZ| FILMBOX STARS
+http://185.236.230.212:9982/play/a08x
+#EXTINF:0,|LU| CHAMBER TV HD
+http://185.236.230.212:9982/play/a09x
+#EXTINF:0,|LU| RTL TELE LETZEBUERG
+http://185.236.230.212:9982/play/a09y
+#EXTINF:0 group-title="NL",ZIGGO SPORT 1 HD
+http://185.236.230.212:9982/play/a09f
+#EXTINF:0 group-title="NL",ZIGGO SPORT 2
+http://185.236.230.212:9982/play/a099
+#EXTINF:0 group-title="NL",ZIGGO SPORT 6
+http://185.236.230.212:9982/play/a09a
 #EXTINF:0,group-title="AL",ORA News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
@@ -1347,92 +1435,6 @@ http://95.47.155.244:8001/play/a019
 http://95.47.155.244:8001/play/a020
 #EXTINF:-1,21 РТС Хакасия HD
 http://95.47.155.244:8001/play/a022
-#EXTINF:0 group-title="NL",MTV NL
-http://185.236.230.212:9982/play/a0af
-#EXTINF:0 group-title="NL",NPO 1
-http://185.236.230.212:9982/play/a0a1
-#EXTINF:0 group-title="NL",NPO 2
-http://185.236.230.212:9981/play/a09q
-#EXTINF:0 group-title="NL",NPO 3
-http://185.236.230.212:9982/play/a0a4
-#EXTINF:0 group-title="NL",RTL 4
-http://185.236.230.212:9981/play/a0a7
-#EXTINF:0 group-title="NL",RTL 5
-http://185.236.230.212:9981/play/a0a8
-#EXTINF:0 group-title="NL",SBS 6
-http://185.236.230.212:9981/play/a09r
-#EXTINF:0 group-title="NL",RTL 7
-http://185.236.230.212:9981/play/a0a9
-#EXTINF:0 group-title="NL",VERONICA/DISNEYXD 
-http://185.236.230.212:9982/play/a0a3
-#EXTINF:0 group-title="NL",NET 5
-http://185.236.230.212:9982/play/a09z
-#EXTINF:0 group-title="NL",RTL 8
-http://185.236.230.212:9981/play/a0ab
-#EXTINF:0 group-title="NL",BBC NL
-http://185.236.230.212:9982/play/a0ak
-#EXTINF:0,|BE| KETNET
-http://185.236.230.212:9982/play/a09j
-#EXTINF:0,|BE| MENT POP
-http://185.236.230.212:9982/play/a09c
-#EXTINF:0,|BE| PLAY 5
-http://185.236.230.212:9982/play/a09o
-#EXTINF:0,|BE| PLAY 7
-http://185.236.230.212:9982/play/a09p
-#EXTINF:0,|BE| VRT 1 HD
-http://185.236.230.212:9982/play/a0a0
-#EXTINF:0,|BE| VRT CANVAS HD
-http://185.236.230.212:9982/play/a0a2
-#EXTINF:0,|BE| VTM 3
-http://185.236.230.212:9982/play/a09l
-#EXTINF:0,|BE| VTM 4
-http://185.236.230.212:9982/play/a09m
-#EXTINF:0,|BE| VTM GOLD
-http://185.236.230.212:9982/play/a09i
-#EXTINF:0,|BE| VTM XMAS
-http://185.236.230.212:9982/play/a09k
-#EXTINF:0,|CZ| CT 1 JM HD
-http://185.236.230.212:9982/play/a0b6
-#EXTINF:0,|CZ| CT 1 JZC HD
-http://185.236.230.212:9982/play/a0ba
-#EXTINF:0,|CZ| CT 1 PHA HD
-http://185.236.230.212:9982/play/a0b0
-#EXTINF:0,|CZ| CT 1 SM HD
-http://185.236.230.212:9982/play/a0b5
-#EXTINF:0,|CZ| CT 1 SVC HD
-http://185.236.230.212:9982/play/a0b8
-#EXTINF:0,|CZ| CT 2 HD
-http://185.236.230.212:9982/play/a0b1
-#EXTINF:0,|CZ| CT 24 HD
-http://185.236.230.212:9982/play/a0b2
-#EXTINF:0,|CZ| CT :D/ART HD
-http://185.236.230.212:9982/play/a0b4
-#EXTINF:0,|CZ| CT SPORT HD
-http://185.236.230.212:9982/play/a0b3
-#EXTINF:0,|CZ| NOVA SPORT 1 HD
-http://185.236.230.212:9982/play/a0an
-#EXTINF:0,|CZ| MTV EUROPE
-http://185.236.230.212:9982/play/a086
-#EXTINF:0,|CZ| FILM EUROPE+ HD
-http://185.236.230.212:9982/play/a08v
-#EXTINF:0,|CZ| FILM+ HD
-http://185.236.230.212:9982/play/a08q
-#EXTINF:0,|CZ| FILMBOX PREMIUM HD
-http://185.236.230.212:9982/play/a08t
-#EXTINF:0,|CZ| FILMBOX STARS
-http://185.236.230.212:9982/play/a08x
-#EXTINF:0,|LU| CHAMBER TV HD
-http://185.236.230.212:9982/play/a09x
-#EXTINF:0,|LU| RTL TELE LETZEBUERG
-http://185.236.230.212:9982/play/a09y
-#EXTINF:0 group-title="NL",ZIGGO SPORT 1 HD
-http://185.236.230.212:9982/play/a09f
-#EXTINF:0 group-title="NL",ZIGGO SPORT 2
-http://185.236.230.212:9982/play/a099
-#EXTINF:0 group-title="NL",ZIGGO SPORT 6
-http://185.236.230.212:9982/play/a09a
-#EXTINF:0,group-title="bg",Arte
-http://213.169.39.30:5280
 #EXTINF:0,_
 http://125hvt.ddns.net:21585/vtv4/mpegts
 #EXTINF:0,_
@@ -1637,3 +1639,4 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
