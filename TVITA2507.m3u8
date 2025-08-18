@@ -368,7 +368,7 @@ https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 #EXTINF:0 group-title="Regionali",Teleregione Color
 https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
 #EXTINF:0 group-title="Regionali",Telebari
-https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
+https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Teledehon
 https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",Delta TV
@@ -376,19 +376,19 @@ http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
 http://84.22.55.2:8008/play/s240
 #EXTINF:0 group-title="Regionali",Telecupole
-https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
+https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
 #EXTINF:0 group-title="Regionali",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Regionali",TVA Vicenza
-https://fms.telemar.it:1936/live/diretta_1/chunklist_w983395792.m3u8
+https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete Veneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w426656819.m3u8
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
 #EXTINF:0 group-title="Regionali",Canale 21
-https://streamcdnr19-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
+https://streamcdnr19-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/master.m3u8
 #EXTINF:0 group-title="Regionali",Canale 21 Extra
-https://streamcdnr12-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/chunklist.m3u8
+https://streamcdnr12-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/master.m3u8
 #EXTINF:0 group-title="Regionali",TV Luna Napoli
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:0 group-title="Regionali",Video Nola
@@ -574,9 +574,9 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="Vari",111 TV
 https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecity Lombardia
-https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/master.m3u8
 #EXTINF:0 group-title="Vari",Telecity Piemonte
-https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 2 TV
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 7 TV
@@ -589,7 +589,7 @@ http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
-#EXTINF:0 group-title="Regionali",GRPTV
+#EXTINF:0 group-title="Regionali",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:0 group-title="Regionali",e'tv rete 7
 https://live.ipstream.it/etv/etv.stream/master.m3u8
@@ -601,12 +601,12 @@ https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Regionali",barinews111
+#EXTINF:0 group-title="Vari",Barinews 111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
-#EXTINF:0 group-title="Vari",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/chunklist_w451288506.m3u8
-#EXTINF:0 group-title="Vari",CS24 LIVE
-https://streaming.softwarecreation.it/CS24/CS24/master.m3u8
+#EXTINF:0 group-title="Vari",Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
+#EXTINF:0 group-title="Vari",TRSP
+https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",TCI
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Padre Pio TV
@@ -961,17 +961,17 @@ http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,MTV LA
 http://38.7.204.232:8010/play/a2li/index.m3u8
-#EXTINF:0 group-title="179",MTV Live
+#EXTINF:0,MTV Live
 http://179.63.6.12:9000/play/a04r
-#EXTINF:0,group-title="xk",MTV Hits
+#EXTINF:0 group-title="xk",MTV Hits
 http://95.216.97.235:7777/mtvhits
-#EXTINF:0,group-title="sk",MTV Club
+#EXTINF:0 group-title="sk",MTV Club
 https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",MTV 80s
+#EXTINF:0 group-title="sk",MTV 80s
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:0,group-title="xk",MTV 90s
+#EXTINF:0 group-title="xk",MTV 90s
 http://95.216.97.235:7777/mtv90
-#EXTINF:0,group-title="xl",MTV 00s
+#EXTINF:0 group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n/index.m3u8
 #EXTINF:0,group-title="UK",_
 http://92.118.251.84:8080/bbc1hd/index.m3u8
@@ -1037,8 +1037,8 @@ http://185.130.218.254:25007/France4/mpegts
 http://91.222.174.221/Paramount/index.m3u8
 #EXTINF:0,_
 http://91.222.174.221/MTV/index.m3u8
-#EXTINF:0,_
-http://91.222.174.221/Rai/index.m3u8
+#EXTINF:0 group-title="KP",KCTV
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:0 group-title="sports",match futbol 2
@@ -1345,16 +1345,32 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1,20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:-1,ЧерногорскИнофрм
-http://95.47.155.244:8001/play/a021
-#EXTINF:-1,Юг Сибири HD
-http://95.47.155.244:8001/play/a023
 #EXTINF:-1,21 РТС Хакасия HD
 http://95.47.155.244:8001/play/a022
-#EXTINF:0,group-title="KP",KCTV
-https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:0,|BE| DAZN PRO LEAGUE 1
-http://185.236.230.212:9982/play/a09q
+#EXTINF:0 group-title="NL",MTV NL
+http://185.236.230.212:9982/play/a0af
+#EXTINF:0 group-title="NL",NPO 1
+http://185.236.230.212:9982/play/a0a1
+#EXTINF:0 group-title="NL",NPO 2
+http://185.236.230.212:9981/play/a09q
+#EXTINF:0 group-title="NL",NPO 3
+http://185.236.230.212:9982/play/a0a4
+#EXTINF:0 group-title="NL",RTL 4
+http://185.236.230.212:9981/play/a0a7
+#EXTINF:0 group-title="NL",RTL 5
+http://185.236.230.212:9981/play/a0a8
+#EXTINF:0 group-title="NL",SBS 6
+http://185.236.230.212:9981/play/a09r
+#EXTINF:0 group-title="NL",RTL 7
+http://185.236.230.212:9981/play/a0a9
+#EXTINF:0 group-title="NL",VERONICA/DISNEYXD 
+http://185.236.230.212:9982/play/a0a3
+#EXTINF:0 group-title="NL",NET 5
+http://185.236.230.212:9982/play/a09z
+#EXTINF:0 group-title="NL",RTL 8
+http://185.236.230.212:9981/play/a0ab
+#EXTINF:0 group-title="NL",BBC NL
+http://185.236.230.212:9982/play/a0ak
 #EXTINF:0,|BE| KETNET
 http://185.236.230.212:9982/play/a09j
 #EXTINF:0,|BE| MENT POP
@@ -1409,32 +1425,16 @@ http://185.236.230.212:9982/play/a08x
 http://185.236.230.212:9982/play/a09x
 #EXTINF:0,|LU| RTL TELE LETZEBUERG
 http://185.236.230.212:9982/play/a09y
-#EXTINF:0,|NL| MTV
-http://185.236.230.212:9982/play/a0af
-#EXTINF:0,|NL| NET 5 HD
-http://185.236.230.212:9982/play/a09z
-#EXTINF:0,|NL| NPO 1 HD
-http://185.236.230.212:9982/play/a0a1
-#EXTINF:0,|NL| NPO 2 HD
-http://185.236.230.212:9981/play/a09q
-#EXTINF:0,|NL| NPO 3 HD
-http://185.236.230.212:9982/play/a0a4
-#EXTINF:0,|NL| ZIGGO SPORT 1 HD
+#EXTINF:0 group-title="NL",ZIGGO SPORT 1 HD
 http://185.236.230.212:9982/play/a09f
-#EXTINF:0,|NL| ZIGGO SPORT 2
+#EXTINF:0 group-title="NL",ZIGGO SPORT 2
 http://185.236.230.212:9982/play/a099
-#EXTINF:0,|NL| ZIGGO SPORT 6
+#EXTINF:0 group-title="NL",ZIGGO SPORT 6
 http://185.236.230.212:9982/play/a09a
-#EXTINF:0,|NL| BBC NL
-http://185.236.230.212:9982/play/a0ak
 #EXTINF:0,group-title="bg",Arte
 http://213.169.39.30:5280
 #EXTINF:0,group-title="bg",Das Erste
 http://213.169.39.30:5281
-#EXTINF:0,group-title="bg",ZDF
-http://213.169.39.30:5288
-#EXTINF:0,group-title="bg",3Sat
-http://213.169.39.30:5283
 #EXTINF:0,_
 http://125hvt.ddns.net:21585/vtv4/mpegts
 #EXTINF:0,_
@@ -1615,16 +1615,16 @@ http://85.187.13.40:18000/tntint
 http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:-1,test MTV EU
 http://178.23.88.55/MTV/index.m3u8
-#EXTINF:-1,test CNN
-http://178.23.88.55/CNN/index.m3u8
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1,test RAI
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1,_
-https://jmp2.uk/sam-IT600001L6.m3u8
+#EXTINF:0,group-title="bg",ZDF
+http://213.169.39.30:5288
+#EXTINF:0,group-title="bg",3Sat
+http://213.169.39.30:5283
 #EXTINF:-1,_
 https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1,_
@@ -1639,11 +1639,5 @@ http://195.189.60.31:8003/play/a0a9/index.m3u8
 http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,_
 http://195.189.60.31:8003/play/a0a0/index.m3u8
-
-
-
-
-
-
 
 
