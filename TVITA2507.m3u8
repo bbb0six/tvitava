@@ -149,7 +149,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-http://84.22.55.2:8006/play/s196
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/master.m3u8
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
@@ -379,6 +379,10 @@ http://84.22.55.2:8008/play/s240
 https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
 #EXTINF:0 group-title="Regionali",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
+#EXTINF:0 group-title="Regionali",Telefriuli
+https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
+#EXTINF:0 group-title="Regionali",Telequattro
+http://wms.shared.streamshow.it/telequattro/telequattro/master.m3u8
 #EXTINF:0 group-title="Regionali",TVA Vicenza
 https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete Veneta
@@ -421,10 +425,6 @@ https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XW
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:0 group-title="Vari",ZeroUno TV
-https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
-#EXTINF:0 group-title="Vari",ZeroUno TV Music
-https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0,group-title="CH",MEZZO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0,group-title="CH",CANAL+
@@ -601,6 +601,10 @@ https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Vari",ZeroUno TV
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:0 group-title="Vari",ZeroUno TV Music
+https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0 group-title="Vari",Barinews 111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0 group-title="Vari",Telecampione
@@ -627,10 +631,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0,group-title="CH",RAI GULP
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0,group-title="sk",Rai 1
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0,group-title="sk",Rai 3
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,group-title="music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,group-title="music",Deluxe Dance
@@ -829,10 +829,10 @@ https://tvpass.org/live/FoxNewsChannel/hd
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 group-title="NL",NPO 1
-http://185.236.230.212:9982/play/a0a1
-#EXTINF:0 group-title="NL",NPO 2
-http://185.236.230.212:9981/play/a09q
+#EXTINF:0,group-title="sk",Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0,group-title="sk",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0,group-title="IT",SkyTG24
@@ -1268,9 +1268,13 @@ http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0,group-title="USA",MTV CLASSIC
 http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0,_
-http://104.255.88.155/cnn/index.m3u8
-#EXTINF:0,group-title="bg",Arte
+https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+#EXTINF:0,_
 http://213.169.39.30:5280
+#EXTINF:0,group-title="AL",ORA News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0,group-title="AL",CNA TV Live
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="NL",MTV NL
 http://185.236.230.212:9982/play/a0af
 #EXTINF:0 group-title="NL",BBC NL
@@ -1355,10 +1359,12 @@ http://185.236.230.212:9982/play/a09f
 http://185.236.230.212:9982/play/a099
 #EXTINF:0 group-title="NL",ZIGGO SPORT 6
 http://185.236.230.212:9982/play/a09a
-#EXTINF:0,group-title="AL",ORA News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0,group-title="AL",CNA TV Live
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0,_
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0,_
+http://125hvt.ddns.net:21585/tv5/mpegts
+#EXTINF:0,_
+http://supersonictv.live:8080/CKidd2023/8327464679/7670
 #EXTINF:0,group-title="RU",Shanson TV RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,group-title="RU",1TV RU
@@ -1433,12 +1439,6 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1,20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:-1,21 РТС Хакасия HD
-http://95.47.155.244:8001/play/a022
-#EXTINF:0,_
-http://125hvt.ddns.net:21585/vtv4/mpegts
-#EXTINF:0,_
-http://125hvt.ddns.net:21585/tv5/mpegts
 #EXTINF:-1,Rai 1
 http://87.246.54.249:8085/Rai1/mpegts
 #EXTINF:-1,Rai 2
@@ -1620,9 +1620,9 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1,_
-https://dash2.antik.sk/live/test_france24_france/playlist.m3u8
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/master.m3u8
 #EXTINF:-1,_
-https://dash2.antik.sk/live/test_france24_eng/playlist.m3u8
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/master.m3u8
 #EXTINF:-1,_
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1,_
@@ -1639,4 +1639,3 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
-
