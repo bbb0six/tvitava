@@ -515,7 +515,7 @@ http://185.189.225.149/MTVClub/index.m3u8
 http://185.189.225.157/MTV00s/index.m3u8
 #EXTINF:0 group-title="España",MTV 90s
 http://185.189.225.157/mtv90s/index.m3u8
-#EXTINF:0,group-title="US",MTV Live USA
+#EXTINF:0,MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
@@ -962,7 +962,7 @@ http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,MTV LA
 http://38.7.204.232:8010/play/a2li
 #EXTINF:0,MTV Live
-http://179.63.6.12:9000/play/a04r
+http://38.7.204.232:8010/play/a2np
 #EXTINF:0 group-title="xk",MTV Hits
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="sk",MTV Club
@@ -1056,19 +1056,19 @@ http://89.187.191.99:8080/arena4/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 5
 http://89.187.191.99:8080/arena5/index.m3u8
 #EXTINF:0 group-title="sports",ESPN HD
-http://38.7.204.232:8011/play/a2hj/index.m3u8
+http://38.7.204.232:8011/play/a2hj
 #EXTINF:0 group-title="sports",ESPN 2 HD
-http://38.7.204.232:8011/play/a2hd/index.m3u8
+http://38.7.204.232:8011/play/a2hd
 #EXTINF:0 group-title="sports",ESPN 3 HD
-http://38.7.204.232:8011/play/a2n6/index.m3u8
+http://38.7.204.232:8011/play/a2n6
 #EXTINF:0 group-title="sports",ESPN 4 HD
-http://38.7.204.232:8011/play/a2n5/index.m3u8
+http://38.7.204.232:8011/play/a2n5
 #EXTINF:0 group-title="sports",ESPN 5 HD
-http://38.7.204.232:8011/play/a2p5/index.m3u8
+http://38.7.204.232:8011/play/a2p5
 #EXTINF:0 group-title="sports",ESPN 6 HD
-http://38.7.204.232:8011/play/a2l4/index.m3u8
+http://38.7.204.232:8011/play/a2l4
 #EXTINF:0 group-title="sports",ESPN 7 HD
-http://38.7.204.232:8011/play/a2jk/index.m3u8
+http://38.7.204.232:8011/play/a2jk
 #EXTINF:0 group-title="sports",ESPN Premium
 http://38.7.204.232:8011/play/a2lj/index.m3u8
 #EXTINF:-1 group-title="sports",ESPN 1
@@ -1202,7 +1202,7 @@ http://200.125.170.120:8000/play/a0de/index.m3u8
 #EXTINF:0,_
 http://200.125.170.120:8000/play/a00d/index.m3u8
 #EXTINF:0,_
-http://200.125.170.120:8000/play/a0d7/index.m3u8
+http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,group-title="USA",Comedy Central
@@ -1639,4 +1639,5 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
 
