@@ -30,7 +30,7 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0,_
-http://213.169.39.30:5255
+http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
 
 
 
