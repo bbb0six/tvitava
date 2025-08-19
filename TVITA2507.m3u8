@@ -960,7 +960,7 @@ http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,_
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,MTV LA
-http://38.7.204.232:8010/play/a2li/index.m3u8
+http://38.7.204.232:8010/play/a2li
 #EXTINF:0,MTV Live
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0 group-title="xk",MTV Hits
@@ -972,7 +972,7 @@ https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:0 group-title="xk",MTV 90s
 http://95.216.97.235:7777/mtv90
 #EXTINF:0 group-title="xl",MTV 00s
-http://190.83.2.172:8081/play/a05n/index.m3u8
+http://190.83.2.172:8081/play/a05n
 #EXTINF:0,group-title="UK",_
 http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:0,group-title="UK",_
@@ -1072,31 +1072,31 @@ http://38.7.204.232:8011/play/a2jk/index.m3u8
 #EXTINF:0 group-title="sports",ESPN Premium
 http://38.7.204.232:8011/play/a2lj/index.m3u8
 #EXTINF:-1 group-title="sports",ESPN 1
-http://38.44.109.41:8003/play/a02v/index.m3u8
+http://38.44.109.41:8003/play/a02v
 #EXTINF:-1 group-title="sports",ESPN 2
-http://38.44.109.41:8003/play/a00v/index.m3u8
+http://38.44.109.41:8003/play/a00v
 #EXTINF:-1 group-title="sports",ESPN 3
-http://38.44.109.41:8003/play/a00w/index.m3u8
+http://38.44.109.41:8003/play/a00w
 #EXTINF:-1 group-title="sports",ESPN 4 HD
-http://38.44.109.41:8003/play/a03m/index.m3u8
+http://38.44.109.41:8003/play/a03m
 #EXTINF:-1 group-title="sports",ESPN 5
-http://38.44.109.41:8003/play/a02t/index.m3u8
+http://38.44.109.41:8003/play/a02t
 #EXTINF:-1 group-title="sports",ESPN 6
-http://38.44.109.41:8003/play/a00u/index.m3u8
+http://38.44.109.41:8003/play/a00u
 #EXTINF:-1 group-title="sports",ESPN 7
-http://38.44.109.41:8003/play/a02u/index.m3u8
+http://38.44.109.41:8003/play/a02u
 #EXTINF:-1 group-title="sports",ESPN Premium
-http://38.44.109.41:8003/play/a02m/index.m3u8
+http://38.44.109.41:8003/play/a02m
 #EXTINF:-1 group-title="sports",ESPN2_MOD
-http://38.44.109.41:8003/play/a03u/index.m3u8
+http://38.44.109.41:8003/play/a03u
 #EXTINF:-1 group-title="sports",ESPN3_MOD
-http://38.44.109.41:8003/play/a03v/index.m3u8
+http://38.44.109.41:8003/play/a03v
 #EXTINF:-1 group-title="sports",ESPN5_MOD
-http://38.44.109.41:8003/play/a03w/index.m3u8
+http://38.44.109.41:8003/play/a03w
 #EXTINF:-1 group-title="sports",ESPNPremium_MOD
-http://38.44.109.41:8003/play/a03y/index.m3u8
+http://38.44.109.41:8003/play/a03y
 #EXTINF:-1 group-title="sports",ESPN_MOD
-http://38.44.109.41:8003/play/a03x/index.m3u8
+http://38.44.109.41:8003/play/a03x/
 #EXTINF:0,group-title="sports",ESPN TWC
 http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:0,group-title="sports",ESPN 1 TWC
@@ -1170,38 +1170,38 @@ http://200.60.124.20:29000/play/a0h1/index.m3u8
 #EXTINF:0,group-title="P",ESPN Premium
 http://200.60.124.20:29000/play/a0ja/index.m3u8
 #EXTINF:-1 group-title="sp",ESPN1
-http://181.209.194.14:8000/play/a062/index.m3u8
+http://181.209.194.14:8000/play/a062
 #EXTINF:-1 group-title="sp",ESPN2
-http://181.209.194.14:8000/play/a063/index.m3u8
+http://181.209.194.14:8000/play/a063
 #EXTINF:-1 group-title="sp",ESPN3
-http://181.209.194.14:8000/play/a064/index.m3u8
+http://181.209.194.14:8000/play/a064
 #EXTINF:-1 group-title="sp",ESPN4
-http://181.209.194.14:8000/play/a061/index.m3u8
+http://181.209.194.14:8000/play/a061
 #EXTINF:-1 group-title="sp",ESPN5
-http://181.209.194.14:8000/play/a05x/index.m3u8
+http://181.209.194.14:8000/play/a05x
 #EXTINF:-1 group-title="sp",ESPN6
-http://181.209.194.14:8000/play/a065/index.m3u8
+http://181.209.194.14:8000/play/a065
 #EXTINF:-1 group-title="sp",MTV Latino HD
-http://181.209.194.14:8000/play/a01k/index.m3u8
+http://181.209.194.14:8000/play/a01k
 #EXTINF:-1 group-title="sp",MTV Live HD
-http://181.209.194.14:8000/play/a040/index.m3u8
+http://181.209.194.14:8000/play/a040
 #EXTINF:-1 group-title="sp",MTV 00s HD
-http://181.209.194.14:8000/play/a041/index.m3u8
-#EXTINF:0,group-title="hq",ESPN 1
+http://181.209.194.14:8000/play/a041
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a05v/index.m3u8
-#EXTINF:0,group-title="hq",ESPN 2
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a05x/index.m3u8
-#EXTINF:0,group-title="hq",ESPN 3
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a05w/index.m3u8
-#EXTINF:0,group-title="hq",ESPN 4
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a0dg/index.m3u8
-#EXTINF:0,group-title="hq",ESPN 5
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a0dr/index.m3u8
-#EXTINF:0,group-title="hq",MTV Latino
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a0de/index.m3u8
-#EXTINF:0,group-title="hq",CNN Internacional
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a00d/index.m3u8
-#EXTINF:0,group-title="hq",CNNE
+#EXTINF:0,_
 http://200.125.170.120:8000/play/a0d7/index.m3u8
 #EXTINF:0,group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -1639,3 +1639,4 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
