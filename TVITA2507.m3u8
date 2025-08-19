@@ -1241,10 +1241,6 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0,group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0,group-title="USA",Starz Edge
-http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
-#EXTINF:0,group-title="USA",Starz Encore Westerns
-http://23.237.104.106:8080/USA_STARZ_WESTERNS/index.m3u8
 #EXTINF:0,group-title="USA",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0,group-title="USA",TNT
@@ -1637,7 +1633,12 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
-
+#EXTINF:0,group-title="bg",_
+http://213.169.39.30:5289
+#EXTINF:0,group-title="bg",_
+http://213.169.39.30:5290
+#EXTINF:0,group-title="bg",_
+http://213.169.39.30:5291
 
 
 
