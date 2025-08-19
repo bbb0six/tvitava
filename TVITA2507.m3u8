@@ -29,8 +29,8 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:0 group-title="Regionali",7Gold ER
-http://84.22.55.2:8011/play/s304
+#EXTINF:0,_
+http://213.169.39.30:5255
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
@@ -72,7 +72,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 group-title="Cairo",LA7d
-http://84.22.55.2:8003/play/s120
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -154,8 +154,8 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/master.m3u8
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/master.m3u8
-#EXTINF:0 group-title="Vari",Canale 63
-http://84.22.55.2:8004/play/s157
+#EXTINF:0 group-title="Vari",GO TV
+https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Sciscione",ALMA TV
@@ -1070,7 +1070,7 @@ http://38.7.204.232:8011/play/a2l4
 #EXTINF:0 group-title="sports",ESPN 7 HD
 http://38.7.204.232:8011/play/a2jk
 #EXTINF:0 group-title="sports",ESPN Premium
-http://38.7.204.232:8011/play/a2lj/index.m3u8
+http://38.7.204.232:8011/play/a2lj
 #EXTINF:-1 group-title="sports",ESPN 1
 http://38.44.109.41:8003/play/a02v
 #EXTINF:-1 group-title="sports",ESPN 2
@@ -1639,5 +1639,6 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
 
 
