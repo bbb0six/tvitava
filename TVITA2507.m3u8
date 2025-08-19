@@ -374,7 +374,7 @@ https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/maste
 #EXTINF:0 group-title="Regionali",Delta TV
 http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
-http://84.22.55.2:8008/play/s240
+https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
 #EXTINF:0 group-title="Regionali",Telecupole
 https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
 #EXTINF:0 group-title="Regionali",Bergamo TV
@@ -631,11 +631,11 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0,group-title="CH",RAI GULP
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0,group-title="music",Deluxe Music
+#EXTINF:0 group-title="music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0,group-title="music",Deluxe Dance
+#EXTINF:0 group-title="music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0,group-title="music",Deluxe Rap
+#EXTINF:0 group-title="music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0,group-title="adria",RTSH Sat
 http://89.187.191.99:8080/tvsh/index.m3u8
@@ -1445,18 +1445,36 @@ http://87.246.54.249:8085/Rai1/mpegts
 http://87.246.54.249:8085/Rai2/mpegts
 #EXTINF:-1,Rai 3
 http://87.246.54.249:8085/Rai3/mpegts
-#EXTINF:0,Rete4 HD
+#EXTINF:0,Rete 4
 http://84.22.55.2:8013/play/s417
-#EXTINF:0,Canale5 HD
-http://84.22.55.2:8013/play/s418
-#EXTINF:0,Italia1 HD
-http://84.22.55.2:8013/play/s419
-#EXTINF:0,LA7 HD
-http://84.22.55.2:8003/play/s119
-#EXTINF:0,TV8 HD
-http://84.22.55.2:8005/play/s166
-#EXTINF:0,NOVE
-http://84.22.55.2:8006/play/s208
+#EXTINF:0,Canale 5
+http://89.34.226.81:8000/play/a0qt
+#EXTINF:0,Italia 1
+http://89.34.226.81:8000/play/a0qs
+#EXTINF:0,Mediaset Italia Due
+http://103.141.159.249:4000/play/a08o
+#EXTINF:0,20 Mediaset
+http://103.141.159.249:4000/play/a08n
+#EXTINF:0,Top Crime
+http://103.141.159.249:4000/play/a08p
+#EXTINF:-1,ANTENNA TRE VENETO
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1,RTTR
+http://84.22.55.2:8032/play/s362
+#EXTINF:-1,TELECHIARA
+http://84.22.55.2:8032/play/s367
+#EXTINF:-1,TELENUOVO
+http://84.22.55.2:8032/play/s365
+#EXTINF:-1,TRENTINO TV
+http://84.22.55.2:8032/play/s361
+#EXTINF:-1,TV33 TN
+http://84.22.55.2:8032/play/s368
+#EXTINF:-1,TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1,Telepace Trento
+http://84.22.55.2:8032/play/s363
+#EXTINF:-1,Telepadova - 7 GOLD
+http://84.22.55.2:8032/play/s364
 #EXTINF:0,DMAX
 http://84.22.55.2:8004/play/s151
 #EXTINF:0,Real Time
@@ -1471,26 +1489,6 @@ http://84.22.55.2:8004/play/s150
 http://84.22.55.2:8005/play/s177
 #EXTINF:0,frisbee
 http://84.22.55.2:8005/play/s174
-#EXTINF:0,Warner TV
-http://84.22.55.2:8004/play/s156
-#EXTINF:0,Super!
-http://84.22.55.2:8005/play/s176
-#EXTINF:0,Cielo
-http://84.22.55.2:8005/play/s173
-#EXTINF:0,Sky TG24
-http://84.22.55.2:8005/play/s179
-#EXTINF:0,LA7d
-http://84.22.55.2:8003/play/s107
-#EXTINF:0,20Mediaset HD
-http://84.22.55.2:8013/play/s416
-#EXTINF:0,Mediaset Extra HD
-http://84.22.55.2:8013/play/s411
-#EXTINF:0,Boing HD
-http://84.22.55.2:8000/play/s17
-#EXTINF:0,Boing Plus
-http://84.22.55.2:8000/play/s16
-#EXTINF:0,Cartoonito HD
-http://84.22.55.2:8000/play/s18
 #EXTINF:0,Cine34 HD
 http://84.22.55.2:8000/play/s11
 #EXTINF:0,Focus HD
@@ -1639,6 +1637,7 @@ http://213.169.39.30:5281
 http://213.169.39.30:5288
 #EXTINF:0,group-title="bg",3Sat
 http://213.169.39.30:5283
+
 
 
 
