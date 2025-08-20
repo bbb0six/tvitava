@@ -1167,22 +1167,20 @@ http://170.82.113.50:8899/play/a0lj/index.m3u8
 http://170.82.113.50:8899/play/a0li/index.m3u8
 #EXTINF:0,group-title="co",ESPN CO
 http://170.82.113.50:8899/play/a0gj/index.m3u8
-#EXTINF:0,group-title="P",ESPN
-http://200.60.124.20:29000/play/a0m3/index.m3u8
 #EXTINF:0,group-title="P",ESPN 1
-http://200.60.124.20:29000/play/a0h8/index.m3u8
+http://200.60.124.20:29000/play/a016
 #EXTINF:0,group-title="P",ESPN 2
-http://200.60.124.20:29000/play/a0g1/index.m3u8
+http://200.60.124.20:29000/play/a0g1
+#EXTINF:0,group-title="P",ESPN 2 Latin
+http://200.60.124.20:29000/play/a015
 #EXTINF:0,group-title="P",ESPN 3
-http://200.60.124.20:29000/play/a0m4/index.m3u8
+http://200.60.124.20:29000/play/a0m4
 #EXTINF:0,group-title="P",ESPN 4
-http://200.60.124.20:29000/play/a0j8/index.m3u8
+http://200.60.124.20:29000/play/a0j8
 #EXTINF:0,group-title="P",ESPN 6
-http://200.60.124.20:29000/play/a01f/index.m3u8
+http://200.60.124.20:29000/play/a01f
 #EXTINF:0,group-title="P",ESPN 7
-http://200.60.124.20:29000/play/a0h1/index.m3u8
-#EXTINF:0,group-title="P",ESPN Premium
-http://200.60.124.20:29000/play/a0ja/index.m3u8
+http://200.60.124.20:29000/play/a01e
 #EXTINF:-1 group-title="sp",ESPN1
 http://181.209.194.14:8000/play/a062
 #EXTINF:-1 group-title="sp",ESPN2
@@ -1201,84 +1199,6 @@ http://181.209.194.14:8000/play/a01k
 http://181.209.194.14:8000/play/a040
 #EXTINF:-1 group-title="sp",MTV 00s HD
 http://181.209.194.14:8000/play/a041
-#EXTINF:0,group-title="USA",ABC EAST
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:0,group-title="USA",ACC NETWORK
-http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",AMC NETWORK
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:0,group-title="news",CNN Live US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,group-title="USA",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:0,group-title="USA",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:0,group-title="USA",Food Network
-http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",HBO
-http://fl3.moveonjoy.com/HBO/index.m3u8
-#EXTINF:0,group-title="USA",HBO 2
-http://fl3.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:0,group-title="USA",HBO 2 west
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:0,group-title="USA",HBO Comedy
-http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:0,group-title="USA",HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
-#EXTINF:0,group-title="USA",MoreMax
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0,group-title="USA",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:0,group-title="USA",National Geographic
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:0,group-title="USA",NESN
-http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0,group-title="USA",NHL Network
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",Paramount + Showtime
-http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:0,group-title="USA",Paramount Network
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",Starz
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:0,group-title="USA",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:0,group-title="USA",Starz Comedy
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0,group-title="USA",Syfy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0,group-title="USA",TNT
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0,group-title="USA",USA Network
-http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",VH1
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:0,group-title="USA",Vice TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:0,group-title="USA",WGN
-http://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:0,group-title="USA",MTV USA
-http://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:0,group-title="USA",MTV 2
-http://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:0,group-title="USA",MTV U
-http://fl3.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:0,group-title="USA",MTV LIVE USA
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0,group-title="USA",MTV CLASSIC
-http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:0,group-title="AL",ORA News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0,group-title="AL",CNA TV Live
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0,_
-http://125hvt.ddns.net:21585/tv5/mpegts
-#EXTINF:0,_
-http://supersonictv.live:8080/CKidd2023/8327464679/7670
-#EXTINF:0,_
-http://213.169.39.30:5290
-#EXTINF:0,_
-http://213.169.39.30:5291
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
 #EXTINF:0 group-title="NL",NPO 2
@@ -1363,6 +1283,86 @@ http://185.236.230.212:9982/play/a08x
 http://185.236.230.212:9982/play/a09x
 #EXTINF:0,|LU| RTL TELE LETZEBUERG
 http://185.236.230.212:9982/play/a09y
+#EXTINF:0,_
+http://200.60.124.20:29000/play/a0ja
+#EXTINF:0,group-title="USA",ABC EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:0,group-title="USA",ACC NETWORK
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",AMC NETWORK
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:0,group-title="news",CNN Live US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,group-title="USA",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:0,group-title="USA",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:0,group-title="USA",Food Network
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0,group-title="USA",HBO 2
+http://fl3.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0,group-title="USA",HBO 2 west
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:0,group-title="USA",HBO Comedy
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0,group-title="USA",HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:0,group-title="USA",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0,group-title="USA",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0,group-title="USA",National Geographic
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:0,group-title="USA",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0,group-title="USA",NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",Paramount + Showtime
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:0,group-title="USA",Paramount Network
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0,group-title="USA",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:0,group-title="USA",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0,group-title="USA",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0,group-title="USA",TNT
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:0,group-title="USA",USA Network
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:0,group-title="USA",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0,group-title="USA",WGN
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:0,group-title="USA",MTV USA
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:0,group-title="USA",MTV 2
+http://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:0,group-title="USA",MTV U
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:0,group-title="USA",MTV LIVE USA
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:0,group-title="USA",MTV CLASSIC
+http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:0,group-title="AL",ORA News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0,group-title="AL",CNA TV Live
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0,_
+http://125hvt.ddns.net:21585/tv5/mpegts
+#EXTINF:0,_
+http://supersonictv.live:8080/CKidd2023/8327464679/7670
+#EXTINF:0,_
+http://213.169.39.30:5290
+#EXTINF:0,_
+http://213.169.39.30:5291
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0,group-title="RU",Shanson TV RU
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
 
