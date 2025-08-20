@@ -1271,10 +1271,14 @@ http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="NL",MTV NL
-http://185.236.230.212:9982/play/a0af
-#EXTINF:0 group-title="NL",BBC NL
-http://185.236.230.212:9982/play/a0ak
+#EXTINF:0,_
+http://125hvt.ddns.net:21585/tv5/mpegts
+#EXTINF:0,_
+http://supersonictv.live:8080/CKidd2023/8327464679/7670
+#EXTINF:0,_
+http://213.169.39.30:5290
+#EXTINF:0,_
+http://213.169.39.30:5291
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
 #EXTINF:0 group-title="NL",NPO 2
@@ -1295,26 +1299,36 @@ http://185.236.230.212:9982/play/a0a3
 http://185.236.230.212:9982/play/a09z
 #EXTINF:0 group-title="NL",RTL 8
 http://185.236.230.212:9981/play/a0ab
+#EXTINF:0 group-title="NL",BBC NL
+http://185.236.230.212:9982/play/a0ak
+#EXTINF:0 group-title="NL",MTV NL
+http://185.236.230.212:9982/play/a0af
+#EXTINF:0 group-title="NL",ZIGGO SPORT 1
+http://185.236.230.212:9982/play/a09f
+#EXTINF:0 group-title="NL",ZIGGO SPORT 2
+http://185.236.230.212:9982/play/a099
+#EXTINF:0 group-title="NL",ZIGGO SPORT 6
+http://185.236.230.212:9982/play/a09a
+#EXTINF:0 group-title="BE",VTM 1
+http://185.236.230.212:9981/play/a0aa
+#EXTINF:0 group-title="BE",VTM 2
+http://185.236.230.212:9981/play/a0ac
+#EXTINF:0 group-title="BE",VTM 3
+http://185.236.230.212:9982/play/a09l
+#EXTINF:0 group-title="BE",VTM 4
+http://185.236.230.212:9982/play/a09m
+#EXTINF:0 group-title="BE",VTM Life
+http://185.236.230.212:9982/play/a09k
+#EXTINF:0 group-title="BE",VRT 1 HD
+http://185.236.230.212:9982/play/a0a0
+#EXTINF:0,|BE| VRT CANVAS HD
+http://185.236.230.212:9982/play/a0a2
+#EXTINF:0,|BE| VTM GOLD
+http://185.236.230.212:9982/play/a09i
 #EXTINF:0,|BE| KETNET
 http://185.236.230.212:9982/play/a09j
 #EXTINF:0,|BE| MENT POP
 http://185.236.230.212:9982/play/a09c
-#EXTINF:0,|BE| PLAY 5
-http://185.236.230.212:9982/play/a09o
-#EXTINF:0,|BE| PLAY 7
-http://185.236.230.212:9982/play/a09p
-#EXTINF:0,|BE| VRT 1 HD
-http://185.236.230.212:9982/play/a0a0
-#EXTINF:0,|BE| VRT CANVAS HD
-http://185.236.230.212:9982/play/a0a2
-#EXTINF:0,|BE| VTM 3
-http://185.236.230.212:9982/play/a09l
-#EXTINF:0,|BE| VTM 4
-http://185.236.230.212:9982/play/a09m
-#EXTINF:0,|BE| VTM GOLD
-http://185.236.230.212:9982/play/a09i
-#EXTINF:0,|BE| VTM XMAS
-http://185.236.230.212:9982/play/a09k
 #EXTINF:0,|CZ| CT 1 JM HD
 http://185.236.230.212:9982/play/a0b6
 #EXTINF:0,|CZ| CT 1 JZC HD
@@ -1349,22 +1363,8 @@ http://185.236.230.212:9982/play/a08x
 http://185.236.230.212:9982/play/a09x
 #EXTINF:0,|LU| RTL TELE LETZEBUERG
 http://185.236.230.212:9982/play/a09y
-#EXTINF:0 group-title="NL",ZIGGO SPORT 1 HD
-http://185.236.230.212:9982/play/a09f
-#EXTINF:0 group-title="NL",ZIGGO SPORT 2
-http://185.236.230.212:9982/play/a099
-#EXTINF:0 group-title="NL",ZIGGO SPORT 6
-http://185.236.230.212:9982/play/a09a
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
-#EXTINF:0,_
-http://125hvt.ddns.net:21585/tv5/mpegts
-#EXTINF:0,_
-http://supersonictv.live:8080/CKidd2023/8327464679/7670
-#EXTINF:0,group-title="bg",_
-http://213.169.39.30:5290
-#EXTINF:0,group-title="bg",_
-http://213.169.39.30:5291
 #EXTINF:0,group-title="RU",Shanson TV RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,group-title="RU",1TV RU
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
 
