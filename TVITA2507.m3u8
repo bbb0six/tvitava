@@ -332,7 +332,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0,group-title="CH",BBC World News
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0,group-title="UK",BBC 1
-http://185.130.218.254:25007/BBC1/mpegts
+http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:0,group-title="CH",BBC 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0,group-title="CH",BBC 3
@@ -974,8 +974,6 @@ http://95.216.97.235:7777/mtv90
 #EXTINF:0 group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n
 #EXTINF:0,group-title="UK",_
-http://92.118.251.84:8080/bbc1hd/index.m3u8
-#EXTINF:0,group-title="UK",_
 http://103.141.159.249:4000/play/a073/index.m3u8
 #EXTINF:0,group-title="UK",_
 http://103.141.159.249:4000/play/a072/index.m3u8
@@ -983,7 +981,13 @@ http://103.141.159.249:4000/play/a072/index.m3u8
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
 http://176.65.146.224:4002/play/a06z/index.m3u8
-#EXTINF:0,group-title="UK",BBC2 Wales
+#EXTINF:0,group-title="UK",BBC One EMidHD
+http://176.65.146.224:4001/play/a08i/index.m3u8
+#EXTINF:0,group-title="UK",BBC One EastHD
+http://176.65.146.224:4001/play/a08h/index.m3u8
+#EXTINF:0,group-title="UK",BBC One Lon HD
+http://176.65.146.224:4001/play/a08e/index.m3u8
+#EXTINF:0,group-title="UK",BBC Two Wal HD
 http://176.65.146.224:4001/play/a08f/index.m3u8
 #EXTINF:0,group-title="UK",BBC4
 http://176.65.146.224:4001/play/a08g/index.m3u8
@@ -1019,20 +1023,14 @@ http://185.130.218.254:25007/ITV4/mpegts
 http://185.130.218.254:25007/NatGeo/mpegts
 #EXTINF:0,group-title="EU",AMC ES
 http://185.130.218.254:25007/AMC/mpegts
-#EXTINF:0,group-title="EU",HOLLYWOOD ES
-http://185.130.218.254:25007/Hollywood/mpegts
-#EXTINF:0,group-title="EU",Premiere HD
-http://185.130.218.254:25007/Premiere/mpegts
-#EXTINF:0,group-title="EU",RTL
+#EXTINF:0,group-title="EU",RTL DE
 http://185.130.218.254:25007/RTL/mpegts
-#EXTINF:0,group-title="EU",RTL 2
+#EXTINF:0,group-title="EU",RTL 2 DE
 http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0,group-title="EU",France 2
+#EXTINF:0,group-title="EU",France 2 FR
 http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="EU",France 3
+#EXTINF:0,group-title="EU",France 3 FR
 http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="EU",France 4
-http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,_
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
@@ -1639,3 +1637,4 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
