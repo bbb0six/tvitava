@@ -1031,7 +1031,9 @@ http://185.130.218.254:25007/RTL2/mpegts
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="EU",France 3 FR
 http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,_
+#EXTINF:0,group-title="EU",France 4 FR
+http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0,group-title="EU",MTV Live
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
 http://213.169.39.30:5255
@@ -1363,8 +1365,6 @@ http://supersonictv.live:8080/CKidd2023/8327464679/7670
 http://213.169.39.30:5290
 #EXTINF:0,group-title="bg",_
 http://213.169.39.30:5291
-#EXTINF:0,_
-http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="RU",Shanson TV RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,group-title="RU",1TV RU
@@ -1639,5 +1639,6 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
