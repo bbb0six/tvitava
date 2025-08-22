@@ -1037,7 +1037,7 @@ http://185.130.218.254:25007/France3/mpegts
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
 http://213.169.39.30:5255
-#EXTINF:0 group-title="KP",KCTV
+#EXTINF:0,_
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
@@ -1475,29 +1475,29 @@ http://84.22.55.2:8032/play/s369
 http://84.22.55.2:8032/play/s363
 #EXTINF:-1,Telepadova - 7 GOLD
 http://84.22.55.2:8032/play/s364
-#EXTINF:0,DMAX
-http://84.22.55.2:8004/play/s151
-#EXTINF:0,Real Time
+#EXTINF:0,719
+http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/42067.m3u8
+#EXTINF:0,720
 http://84.22.55.2:8004/play/s147
-#EXTINF:0,Food Network
+#EXTINF:0,721
 http://84.22.55.2:8004/play/s152
-#EXTINF:0,HGTV Home&Garden
+#EXTINF:0,722
 http://84.22.55.2:8006/play/s203
-#EXTINF:0,GIALLO
+#EXTINF:0,723
 http://84.22.55.2:8004/play/s150
-#EXTINF:0,K2
+#EXTINF:0,724
 http://84.22.55.2:8005/play/s177
-#EXTINF:0,frisbee
+#EXTINF:0,725
 http://84.22.55.2:8005/play/s174
-#EXTINF:0,Cine34 HD
+#EXTINF:0,726
 http://84.22.55.2:8000/play/s11
-#EXTINF:0,Focus HD
+#EXTINF:0,727
 http://84.22.55.2:8000/play/s14
-#EXTINF:0,QVC HD
+#EXTINF:0,728
 http://84.22.55.2:8000/play/s6
-#EXTINF:0,TOPcrime HD
+#EXTINF:0,729
 http://84.22.55.2:8000/play/s10
-#EXTINF:0,Deejay TV HD
+#EXTINF:0,730
 http://84.22.55.2:8006/play/s216
 #EXTINF:0,RTL 102.5
 http://84.22.55.2:8004/play/s153
@@ -1597,9 +1597,9 @@ http://84.22.55.2:8009/play/s274
 http://84.22.55.2:8009/play/s264
 #EXTINF:0,Video Calabria HD
 http://84.22.55.2:8009/play/s257
-#EXTINF:0,VideoTouring
+#EXTINF:0,_
 http://84.22.55.2:8009/play/s254
-#EXTINF:0,Wedding TV
+#EXTINF:0,_
 http://84.22.55.2:8009/play/s273
 #EXTINF:-1,PRO SIEBEN
 http://188.40.59.230:5100/pro7
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
 
