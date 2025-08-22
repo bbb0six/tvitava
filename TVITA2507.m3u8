@@ -1499,105 +1499,105 @@ http://84.22.55.2:8000/play/s6
 http://84.22.55.2:8000/play/s10
 #EXTINF:0,730
 http://84.22.55.2:8006/play/s216
-#EXTINF:0,RTL 102.5
-http://84.22.55.2:8004/play/s153
-#EXTINF:0,RADIO ZETA
-http://84.22.55.2:8004/play/s148
-#EXTINF:0,RADIOFRECCIA
-http://84.22.55.2:8004/play/s141
-#EXTINF:0,RadioItaliaTV
-http://84.22.55.2:8005/play/s161
-#EXTINF:0,SPORTITALIA HD
+#EXTINF:0,731
+https://stream1.prizma.link/Belarus1HD/index.m3u8
+#EXTINF:0,732
+https://stream1.prizma.link/Belarus2HD/index.m3u8
+#EXTINF:0,733
+https://stream1.prizma.link/Belarus3HD/index.m3u8
+#EXTINF:0,734
+https://stream1.prizma.link/Belarus5HD/index.m3u8
+#EXTINF:0,735
 http://84.22.55.2:8006/play/s195
-#EXTINF:0,SUPERTENNIS
+#EXTINF:0,736
 http://84.22.55.2:8005/play/s167
-#EXTINF:0,ALMA TV
+#EXTINF:0,737
 http://84.22.55.2:8003/play/s125
-#EXTINF:0,Italia 53
+#EXTINF:0,738
 http://84.22.55.2:8006/play/s186
-#EXTINF:0,TV2000
+#EXTINF:0,739
 http://84.22.55.2:8005/play/s164
-#EXTINF:0,TELECAMPIONE
+#EXTINF:0,740
 http://84.22.55.2:8003/play/s126
-#EXTINF:0,TRAVEL TV
+#EXTINF:0,741
 http://84.22.55.2:8006/play/s193
-#EXTINF:0,TV 153
+#EXTINF:0,742
 http://84.22.55.2:8006/play/s202
-#EXTINF:0,7 GOLD Calabria
+#EXTINF:0,743
 http://84.22.55.2:8009/play/s255
-#EXTINF:0,7 GOLD Emilia Romagna
+#EXTINF:0,744
 http://84.22.55.2:8011/play/s304
-#EXTINF:0,7 GOLD Marche
+#EXTINF:0,745
 http://84.22.55.2:8012/play/s292
-#EXTINF:0,7 GOLD Veneto
+#EXTINF:0,746
 http://84.22.55.2:8032/play/s364
-#EXTINF:0,Antenna 3 Veneto
+#EXTINF:0,747
 http://84.22.55.2:8032/play/s366
-#EXTINF:0,TV33 TN
+#EXTINF:0,748
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,Test HEVC Main10
+#EXTINF:0,749
 http://84.22.55.2:8013/play/s399
-#EXTINF:0,Primantenna
+#EXTINF:0,750
 http://84.22.55.2:8008/play/s249
-#EXTINF:0,Primocanale HD
+#EXTINF:0,751
 http://84.22.55.2:8008/play/s239
-#EXTINF:0,Primocanale Primo Piano
+#EXTINF:0,752
 http://84.22.55.2:8008/play/s245
-#EXTINF:0,RETE 7 HD
+#EXTINF:0,753
 http://84.22.55.2:8008/play/s250
-#EXTINF:0,TELECOLOR
+#EXTINF:0,754
 http://84.22.55.2:8008/play/s246
-#EXTINF:0,TELEGENOVA
+#EXTINF:0,755
 http://84.22.55.2:8008/play/s243
-#EXTINF:0,TELENORD HD
+#EXTINF:0,756
 http://84.22.55.2:8008/play/s240
-#EXTINF:0,CANALE ITALIA extra
+#EXTINF:0,757
 http://84.22.55.2:8012/play/s291
-#EXTINF:0,TV CENTRO MARCHE
+#EXTINF:0,758
 http://84.22.55.2:8012/play/s287
-#EXTINF:0,12 TV Parma HD
+#EXTINF:0,759
 http://84.22.55.2:8011/play/s299
-#EXTINF:0,CANALE ITALIA
+#EXTINF:0,760
 http://84.22.55.2:8011/play/s306
-#EXTINF:0,E TV RETE 7
+#EXTINF:0,761
 http://84.22.55.2:8011/play/s310
-#EXTINF:0,TRC Bologna
+#EXTINF:0,762
 http://84.22.55.2:8011/play/s297
-#EXTINF:0,TRC Modena
+#EXTINF:0,763
 http://84.22.55.2:8011/play/s296
-#EXTINF:0,Telereggio
+#EXTINF:0,764
 http://84.22.55.2:8011/play/s298
-#EXTINF:0,Teleromagna HD
+#EXTINF:0,765
 http://84.22.55.2:8011/play/s301
-#EXTINF:0,TvQui HD
+#EXTINF:0,766
 http://84.22.55.2:8011/play/s300
-#EXTINF:0,VR
+#EXTINF:0,767
 http://84.22.55.2:8011/play/s308
-#EXTINF:0,FANO TV
+#EXTINF:0,768
 http://84.22.55.2:8012/play/s293
-#EXTINF:0,telestense
+#EXTINF:0,769
 http://84.22.55.2:8011/play/s303
-#EXTINF:0,Calabria TV HD
-http://84.22.55.2:8009/play/s261
-#EXTINF:0,ESPERIA TV 
-http://84.22.55.2:8009/play/s263
-#EXTINF:0,L'altro corriere
-http://84.22.55.2:8009/play/s268
-#EXTINF:0,REGGIO TV HD
+#EXTINF:0,770
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0,771 
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0,772
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0,773
 http://84.22.55.2:8009/play/s258
-#EXTINF:0,RTI
+#EXTINF:0,774
 http://84.22.55.2:8009/play/s262
-#EXTINF:0,TEN TV
+#EXTINF:0,775
 http://84.22.55.2:8009/play/s260
-#EXTINF:0,Tele A1
+#EXTINF:0,776
 http://84.22.55.2:8009/play/s266
-#EXTINF:0,Tele Dehon
-http://84.22.55.2:8009/play/s274
-#EXTINF:0,Telespazio TV HD
-http://84.22.55.2:8009/play/s264
-#EXTINF:0,Video Calabria HD
+#EXTINF:0,777
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0,778
+https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+#EXTINF:0,779
 http://84.22.55.2:8009/play/s257
-#EXTINF:0,_
+#EXTINF:0,780
 http://84.22.55.2:8009/play/s254
 #EXTINF:0,_
 http://84.22.55.2:8009/play/s273
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
 
