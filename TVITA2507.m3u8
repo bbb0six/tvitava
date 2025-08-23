@@ -1516,21 +1516,21 @@ http://84.22.55.2:8003/play/s125
 #EXTINF:0,738
 http://84.22.55.2:8006/play/s186
 #EXTINF:0,739
-http://84.22.55.2:8005/play/s164
-#EXTINF:0,740
-http://84.22.55.2:8003/play/s126
-#EXTINF:0,741
-http://84.22.55.2:8006/play/s193
-#EXTINF:0,742
 http://84.22.55.2:8006/play/s202
+#EXTINF:0,740
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304513
+#EXTINF:0,741
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/298482
+#EXTINF:0,742
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/1992
 #EXTINF:0,743
-http://84.22.55.2:8009/play/s255
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/91704
 #EXTINF:0,744
-http://84.22.55.2:8011/play/s304
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304043
 #EXTINF:0,745
-http://84.22.55.2:8012/play/s292
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/47249
 #EXTINF:0,746
-http://84.22.55.2:8032/play/s364
+http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/90952
 #EXTINF:0,747
 http://84.22.55.2:8032/play/s366
 #EXTINF:0,748
@@ -1639,6 +1639,7 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
 
