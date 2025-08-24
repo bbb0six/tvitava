@@ -224,9 +224,9 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 90s
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
-http://78.128.125.60:9980/play/a00x/index.m3u8
+http://95.216.97.235:7777/mtv00
 #EXTINF:-1 group-title="MTV",MTV EU
-http://78.128.125.60:9980/play/a00d/index.m3u8
+http://185.236.230.212:9982/play/a086
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1598,11 +1598,11 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0,779
 http://84.22.55.2:8009/play/s257
 #EXTINF:0,780
-http://84.22.55.2:8009/play/s254
-#EXTINF:0,_
+http://149.62.177.108:8000/play/a00t/index.m3u8
+#EXTINF:0,781
 http://84.22.55.2:8009/play/s273
-#EXTINF:-1,PRO SIEBEN
-http://188.40.59.230:5100/pro7
+#EXTINF:0,782
+http://188.40.59.230:5100/mtv
 #EXTINF:-1,ProSieben (Germany)
 http://85.187.13.40:18000/ProSieben
 #EXTINF:-1,Clubland (UK)
@@ -1639,4 +1639,5 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
