@@ -839,31 +839,31 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0,group-title="IT",Euronews
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai 1
+#EXTINF:0 group-title="i",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai 2
+#EXTINF:0 group-title="i",Rai 2
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai 3
+#EXTINF:0 group-title="i",Rai 3
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai News 24
+#EXTINF:0 group-title="i",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai Italia EU
+#EXTINF:0 group-title="i",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai Italia US
+#EXTINF:0 group-title="i",Rai Italia US
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
+#EXTINF:0 group-title="i",Rai Italia LA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai Italia AU
+#EXTINF:0 group-title="i",Rai Italia AU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai World Premium
+#EXTINF:0 group-title="i",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",Rai Storia
-https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",La7 Italia
+#EXTINF:0,group-title="i",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",TG Com 24
+#EXTINF:0 group-title="i",TG Com 24
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
-#EXTINF:0,group-title="ilglobotv",MDS IT AU
+#EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:0,group-title="bg",Mediaset Italia
+#EXTINF:0 group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:0,group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
@@ -1283,16 +1283,16 @@ http://185.236.230.212:9982/play/a08x
 http://185.236.230.212:9982/play/a09x
 #EXTINF:0,|LU| RTL TELE LETZEBUERG
 http://185.236.230.212:9982/play/a09y
-#EXTINF:0,_
-http://200.60.124.20:29000/play/a0ja
+#EXTINF:0,group-title="news",CNN Live US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,group-title="USA",ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:0,group-title="USA",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0,group-title="USA",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:0,group-title="news",CNN Live US
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,group-title="USA",CNN
+http://fl3.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0,group-title="USA",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:0,group-title="USA",Discovery Channel
@@ -1457,28 +1457,28 @@ http://103.141.159.249:4000/play/a08o
 http://103.141.159.249:4000/play/a08n
 #EXTINF:0,Top Crime
 http://103.141.159.249:4000/play/a08p
-#EXTINF:-1,ANTENNA TRE VENETO
-http://84.22.55.2:8032/play/s366
-#EXTINF:-1,RTTR
-http://84.22.55.2:8032/play/s362
-#EXTINF:-1,TELECHIARA
-http://84.22.55.2:8032/play/s367
-#EXTINF:-1,TELENUOVO
-http://84.22.55.2:8032/play/s365
 #EXTINF:-1,TRENTINO TV
 http://84.22.55.2:8032/play/s361
-#EXTINF:-1,TV33 TN
-http://84.22.55.2:8032/play/s368
-#EXTINF:-1,TV7 Triveneta Network
-http://84.22.55.2:8032/play/s369
+#EXTINF:-1,RTTR
+http://84.22.55.2:8032/play/s362
 #EXTINF:-1,Telepace Trento
 http://84.22.55.2:8032/play/s363
 #EXTINF:-1,Telepadova - 7 GOLD
 http://84.22.55.2:8032/play/s364
+#EXTINF:-1,TELENUOVO
+http://84.22.55.2:8032/play/s365
+#EXTINF:-1,ANTENNA TRE VENETO
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1,TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1,TELECHIARA
+http://84.22.55.2:8032/play/s367
+#EXTINF:-1,TV33 TN
+http://84.22.55.2:8032/play/s368
 #EXTINF:0,719
 http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/42067.m3u8
 #EXTINF:0,720
-http://84.22.55.2:8004/play/s147
+https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,721
 https://stream1.prizma.link/Belarus1HD/index.m3u8
 #EXTINF:0,722
@@ -1516,7 +1516,7 @@ http://84.22.55.2:8003/play/s125
 #EXTINF:0,738
 http://84.22.55.2:8006/play/s186
 #EXTINF:0,739
-http://84.22.55.2:8006/play/s202
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:0,740
 http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304513
 #EXTINF:0,741
@@ -1639,13 +1639,4 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
-
-
-
-
-
-
-
-
-
 
