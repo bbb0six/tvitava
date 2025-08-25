@@ -29,7 +29,7 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:0 group-title="Vari",7 GOLD
+#EXTINF:0 group-title="Vari",7GOLD
 http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
@@ -1639,5 +1639,6 @@ http://213.169.39.30:5288
 http://213.169.39.30:5283
 #EXTINF:0,_
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+
 
 
