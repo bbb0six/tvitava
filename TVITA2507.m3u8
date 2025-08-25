@@ -378,10 +378,10 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
 https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
 #EXTINF:0 group-title="Regionali",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
-#EXTINF:0 group-title="Regionali",Telefriuli
-https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
 #EXTINF:0 group-title="Regionali",Telequattro
 http://wms.shared.streamshow.it/telequattro/telequattro/master.m3u8
+#EXTINF:0 group-title="Regionali",Telefriuli
+https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
 #EXTINF:0 group-title="Regionali",TVA Vicenza
 https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete Veneta
@@ -750,12 +750,12 @@ http://195.189.60.31:8003/play/a0eq/index.m3u8
 http://195.189.60.31:8003/play/a0eg/index.m3u8
 #EXTINF:0,group-title="RO",PRO TV HD
 http://195.189.60.31:8003/play/a0ae/index.m3u8
+#EXTINF:0,group-title="RO",DUNA HU
+http://195.189.60.31:8003/play/a0a0/index.m3u8
 #EXTINF:0,group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
 #EXTINF:0,group-title="pl",Polsat Music HD
 http://103.49.40.100:27014/POLSATMUSICHD
-#EXTINF:0,group-title="pl",Stars TV
-http://145.239.19.144:18088/174/mpegts
 #EXTINF:0,group-title="sk",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0,group-title="sk",Rebel
@@ -956,7 +956,7 @@ http://103.141.159.249:4000/play/a04q/index.m3u8
 http://146.59.54.154/227/mpegts
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,MTV EU
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:0,MTV LA
 http://38.7.204.232:8010/play/a2li
@@ -1513,7 +1513,7 @@ http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/90952
 #EXTINF:0,737
 http://84.22.55.2:8003/play/s125
 #EXTINF:0,738
-http://84.22.55.2:8006/play/s186
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,739
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:0,740
@@ -1635,9 +1635,10 @@ http://213.169.39.30:5281
 #EXTINF:0,group-title="bg",ZDF
 http://213.169.39.30:5288
 #EXTINF:0,799
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
