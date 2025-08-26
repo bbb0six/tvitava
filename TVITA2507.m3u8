@@ -895,9 +895,9 @@ https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="am",ARM News
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:0,group-title="ge",GEO TV1
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0,group-title="ge",GEO TV2
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0,group-title="az",Ictimai
 https://tv.mobyservice.ru/Ictimai/index.m3u8
 #EXTINF:0,group-title="az",AZ TV
@@ -1361,7 +1361,7 @@ http://supersonictv.live:8080/CKidd2023/8327464679/7670
 #EXTINF:0,_
 http://213.169.39.30:5290
 #EXTINF:0,_
-https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+http://213.169.39.30:5297
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0,group-title="RU",Shanson TV RU
@@ -1599,7 +1599,7 @@ http://84.22.55.2:8009/play/s257
 #EXTINF:0,780
 http://149.62.177.108:8000/play/a00t/index.m3u8
 #EXTINF:0,781
-http://84.22.55.2:8009/play/s273
+http://ghost1.tv:80/vipvip027027/102030405060/43987
 #EXTINF:0,782
 http://188.40.59.230:5100/mtv
 #EXTINF:-1,ProSieben (Germany)
@@ -1638,6 +1638,7 @@ http://213.169.39.30:5288
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
