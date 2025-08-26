@@ -28,8 +28,8 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:0 group-title="Vari",7GOLD
-https://streamcdnm10-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
+#EXTINF:0 group-title="Vari",7GOLD TelePadova
+http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
 #EXTINF:-1 group-title="Regionali",Videolina
@@ -109,7 +109,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="Mediaset",Boing Plus
+#EXTINF:-1,_
 http://84.22.55.2:8000/play/s16
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -1638,6 +1638,7 @@ http://213.169.39.30:5288
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
