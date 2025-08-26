@@ -736,107 +736,107 @@ http://46.240.143.86:8065/rts3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0,group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
-#EXTINF:0,group-title="RO",TVR Sport
+#EXTINF:0 group-title="RO",TVR Sport
 http://195.189.60.31:8003/play/a0ey/index.m3u8
-#EXTINF:0,group-title="RO",TVR 1
+#EXTINF:0 group-title="RO",TVR 1
 http://89.44.229.22:7000/tvr1
-#EXTINF:0,group-title="RO",TVR 2
+#EXTINF:0 group-title="RO",TVR 2
 http://89.44.229.22:7000/tvr2
-#EXTINF:0,group-title="RO",TVR 3
+#EXTINF:0 group-title="RO",TVR 3
 http://195.189.60.31:8003/play/a0ev/index.m3u8
-#EXTINF:0,group-title="RO",Antena 1 RO
+#EXTINF:0 group-title="RO",Antena 1 RO
 http://195.189.60.31:8003/play/a0eq/index.m3u8
-#EXTINF:0,group-title="RO",Antena 3 RO
+#EXTINF:0 group-title="RO",Antena 3 RO
 http://195.189.60.31:8003/play/a0eg/index.m3u8
-#EXTINF:0,group-title="RO",PRO TV HD
+#EXTINF:0 group-title="RO",PRO TV HD
 http://195.189.60.31:8003/play/a0ae/index.m3u8
-#EXTINF:0,group-title="RO",DUNA HU
-http://195.189.60.31:8003/play/a0a0/index.m3u8
-#EXTINF:0,group-title="RO",NickMusic
+#EXTINF:0 group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
-#EXTINF:0,group-title="pl",Polsat Music HD
+#EXTINF:0 group-title="pl",Polsat Music
 http://103.49.40.100:27014/POLSATMUSICHD
-#EXTINF:0,group-title="sk",360 TuneBox
+#EXTINF:0 group-title="ru",TNT Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:0 group-title="sk",360 TuneBox
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Rebel
+#EXTINF:0 group-title="sk",Rebel
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
-#EXTINF:0,group-title="sk",Ochko Expres
+#EXTINF:0 group-title="sk",Ochko Expres
 https://dash2.antik.sk/live/test_ocko_expres/playlist.m3u8
-#EXTINF:0,group-title="sk",Ochko Black
+#EXTINF:0 group-title="sk",Ochko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
-#EXTINF:0,group-title="sk",Ochko Star
+#EXTINF:0 group-title="sk",Ochko Star
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
-#EXTINF:0,group-title="sk",Stingray iConcerts
+#EXTINF:0 group-title="sk",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:0,group-title="sk",Docu Box
+#EXTINF:0 group-title="sk",Docu Box
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Fashion Box
+#EXTINF:0 group-title="sk",Fashion Box
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Fast&Fun Box
+#EXTINF:0 group-title="sk",Fast&Fun Box
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:0,group-title="sk",Film Box Arthouse
+#EXTINF:0 group-title="sk",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
-#EXTINF:0,group-title="FR",France 24 FR
+#EXTINF:0 group-title="FR",France 24 FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 EN
+#EXTINF:0 group-title="FR",France 24 EN
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 ES
+#EXTINF:0 group-title="FR",France 24 ES
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",France 24 AR
+#EXTINF:0 group-title="FR",France 24 AR
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:0,group-title="FR",TV5Monde Europe
+#EXTINF:0 group-title="FR",TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:0,group-title="FR",TV5Monde Info
+#EXTINF:0 group-title="FR",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:0,group-title="CH",TV5Monde FBS
+#EXTINF:0 group-title="CH",TV5Monde FBS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
-#EXTINF:0,group-title="CH",TV Monaco
+#EXTINF:0 group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
-#EXTINF:0,group-title="CH",RTP Int
+#EXTINF:0 group-title="CH",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
-#EXTINF:0,group-title="MT",ONE
+#EXTINF:0 group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0,group-title="sk",CT24
+#EXTINF:0 group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:0,group-title="CH",2M Maroc
+#EXTINF:0 group-title="CH",2M Maroc
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-#EXTINF:0,group-title="CH",TV2 Algérie
+#EXTINF:0 group-title="CH",TV2 Algérie
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:0,group-title="CH",Tunis 1
+#EXTINF:0 group-title="CH",Tunis 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
-#EXTINF:0,group-title="CH",Al Arabiya
+#EXTINF:0 group-title="CH",Al Arabiya
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:0,group-title="sk",Al Jazeera AR
+#EXTINF:0 group-title="sk",Al Jazeera AR
 https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
-#EXTINF:0,group-title="sk",Al Jazeera EN
+#EXTINF:0 group-title="sk",Al Jazeera EN
 https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:0,group-title="sk",TVP Info
+#EXTINF:0 group-title="sk",TVP Info
 https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:0,group-title="sk",TVP Polonia
+#EXTINF:0 group-title="sk",TVP Polonia
 https://dash3.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0,group-title="sk",TVP World
+#EXTINF:0 group-title="sk",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:0,group-title="sk",TRT World
+#EXTINF:0 group-title="sk",TRT World
 https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:0,group-title="sk",Sky News
+#EXTINF:0 group-title="sk",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0,group-title="news",DW News
+#EXTINF:0 group-title="news",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,group-title="news",FOX News
+#EXTINF:0 group-title="news",FOX News
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:0,group-title="news",CBS News
+#EXTINF:0 group-title="news",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0,group-title="news",ABC News
+#EXTINF:0 group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0,group-title="sk",Rai 1
+#EXTINF:0 group-title="sk",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0,group-title="sk",Rai 3
+#EXTINF:0 group-title="sk",Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0,group-title="IT",TV8
+#EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
-#EXTINF:0,group-title="IT",SkyTG24
+#EXTINF:0 group-title="IT",SkyTG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
-#EXTINF:0,group-title="IT",Euronews
+#EXTINF:0 group-title="IT",Euronews
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="i",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
@@ -1638,6 +1638,7 @@ http://213.169.39.30:5288
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
