@@ -570,8 +570,8 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="Vari",111 TV
-https://5db313b643fd8.streamlock.net:443/111/111/playlist.m3u8
+#EXTINF:0 group-title="Vari",Lazio TV
+https://5a1178b42cc03.streamlock.net/laziotv/laziotv/master.m3u8
 #EXTINF:0 group-title="Vari",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/master.m3u8
 #EXTINF:0 group-title="Vari",Telecity Piemonte
@@ -912,10 +912,10 @@ http://85.187.13.40:18000/1+1
 http://85.187.13.40:18000/2+2
 #EXTINF:0 group-title="ua",Suspilne Kultura
 http://185.207.34.107:8000/play/culture
-#EXTINF:0,_
-http://195.26.83.96:7029/play/9
-#EXTINF:0,_
-http://195.26.83.96:7007/play/a00m
+#EXTINF:0,group-title="UK",_
+http://103.141.159.249:4000/play/a073/index.m3u8
+#EXTINF:0,group-title="UK",_
+http://103.141.159.249:4000/play/a072/index.m3u8
 #EXTINF:0,_
 http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,group-title="bg",BNT 1
@@ -952,6 +952,10 @@ http://85.187.13.40:18000/eurosport2
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,Eurosport 2 PL
 http://103.141.159.249:4000/play/a04q/index.m3u8
+#EXTINF:0,Club MTV UK
+http://195.181.161.132/MTVHITS/index.m3u8
+#EXTINF:0,MTV UK
+http://195.181.161.132/MTVMUSIC/index.m3u8
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,MTV EU
@@ -970,10 +974,6 @@ https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://95.216.97.235:7777/mtv90
 #EXTINF:0 group-title="xl",MTV 00s
 http://190.83.2.172:8081/play/a05n
-#EXTINF:0,group-title="UK",_
-http://103.141.159.249:4000/play/a073/index.m3u8
-#EXTINF:0,group-title="UK",_
-http://103.141.159.249:4000/play/a072/index.m3u8
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
@@ -1577,7 +1577,8 @@ http://84.22.55.2:8012/play/s293
 #EXTINF:0,769
 http://84.22.55.2:8011/play/s303
 #EXTINF:0,770
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0,771 
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0,772
@@ -1638,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
