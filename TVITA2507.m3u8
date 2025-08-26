@@ -864,60 +864,60 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="bg",Mediaset Italia
 http://213.169.39.30:5255
-#EXTINF:0,group-title="CH",CCTV 4
+#EXTINF:0 group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-#EXTINF:0,group-title="sk",CGTN
+#EXTINF:0 group-title="sk",CGTN
 https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
-#EXTINF:0,group-title="sk",CGTN DOC
+#EXTINF:0 group-title="sk",CGTN DOC
 https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:0,group-title="sk",Arirang TV
+#EXTINF:0 group-title="sk",Arirang TV
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:0,group-title="sk",NHK World Japan
+#EXTINF:0 group-title="sk",NHK World Japan
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:0,group-title="sk",Freedom UATV
+#EXTINF:0 group-title="ua",Freedom UATV
 https://dash3.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0,group-title="ua",Ukraina 24
+#EXTINF:0 group-title="ua",Ukraina 24
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0,group-title="il",KAN 11
+#EXTINF:0 group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
-#EXTINF:0,group-title="il",Isr CH 12
+#EXTINF:0 group-title="il",Isr CH 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
-#EXTINF:0,group-title="il",Isr CH 13
+#EXTINF:0 group-title="il",Isr CH 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0,group-title="il",Isr CH 14
+#EXTINF:0 group-title="il",Isr CH 14
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0,group-title="il",MAKAN 33
+#EXTINF:0 group-title="il",MAKAN 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
-#EXTINF:0,group-title="il",KAN EDU
+#EXTINF:0 group-title="il",KAN EDU
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
-#EXTINF:0,group-title="am",ARM TV1
+#EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:0,group-title="am",ARM News
+#EXTINF:0 group-title="am",ARM News
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:0,group-title="ge",GEO TV1
+#EXTINF:0 group-title="ge",GEO TV1
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
-#EXTINF:0,group-title="ge",GEO TV2
+#EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
-#EXTINF:0,group-title="az",Ictimai
+#EXTINF:0 group-title="az",Ictimai
 https://tv.mobyservice.ru/Ictimai/index.m3u8
-#EXTINF:0,group-title="az",AZ TV
+#EXTINF:0 group-title="az",AZ TV
 https://tv.mobyservice.ru/AZTV/index.m3u8
-#EXTINF:0,group-title="ps",Palestine HD
+#EXTINF:0 group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:0,group-title="ps",MUSAWA HD
+#EXTINF:0 group-title="ps",MUSAWA HD
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:0,group-title="ua",1+1 UA
-http://185.207.34.107:8000/play/1plus1
-#EXTINF:0,group-title="ua",2+2 UA
+#EXTINF:0 group-title="ua",1+1 UA
+http://85.187.13.40:18000/1+1
+#EXTINF:0 group-title="ua",2+2 UA
 http://85.187.13.40:18000/2+2
-#EXTINF:0,group-title="ua",Suspilne Kultura
+#EXTINF:0 group-title="ua",Suspilne Kultura
 http://185.207.34.107:8000/play/culture
-#EXTINF:0,TNT Music RU
+#EXTINF:0,_
 http://195.26.83.96:7029/play/9
-#EXTINF:0,Bridge RU
+#EXTINF:0,_
 http://195.26.83.96:7007/play/a00m
 #EXTINF:0,_
-http://195.12.167.222:1100/2tv
+http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,group-title="bg",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
 #EXTINF:0,group-title="bg",BNT 2
@@ -1438,23 +1438,23 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1,20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:-1,Rai 1
+#EXTINF:-1,701
 http://87.246.54.249:8085/Rai1/mpegts
-#EXTINF:-1,Rai 2
+#EXTINF:-1,702
 http://87.246.54.249:8085/Rai2/mpegts
-#EXTINF:-1,Rai 3
+#EXTINF:-1,703
 http://87.246.54.249:8085/Rai3/mpegts
-#EXTINF:0,Rete 4
+#EXTINF:0,704
 http://84.22.55.2:8013/play/s417
-#EXTINF:0,Canale 5
+#EXTINF:0,705
 http://89.34.226.81:8000/play/a0qt
-#EXTINF:0,Italia 1
+#EXTINF:0,706
 http://89.34.226.81:8000/play/a0qs
-#EXTINF:0,Mediaset Italia Due
+#EXTINF:0,707
 http://103.141.159.249:4000/play/a08o
-#EXTINF:0,20 Mediaset
+#EXTINF:0,708
 http://103.141.159.249:4000/play/a08n
-#EXTINF:0,Top Crime
+#EXTINF:0,709
 http://103.141.159.249:4000/play/a08p
 #EXTINF:-1,TRENTINO TV
 http://84.22.55.2:8032/play/s361
@@ -1462,7 +1462,7 @@ http://84.22.55.2:8032/play/s361
 http://84.22.55.2:8032/play/s362
 #EXTINF:-1,Telepace Trento
 http://84.22.55.2:8032/play/s363
-#EXTINF:-1,Telepadova - 7 GOLD
+#EXTINF:-1,Telepadova 7 GOLD
 http://84.22.55.2:8032/play/s364
 #EXTINF:-1,TELENUOVO
 http://84.22.55.2:8032/play/s365
@@ -1608,8 +1608,6 @@ http://85.187.13.40:18000/ProSieben
 http://85.187.13.40:18000/CLUBLAND
 #EXTINF:-1,TNT INT (Russia)
 http://85.187.13.40:18000/tntint
-#EXTINF:-1,test MTV DE
-http://d1045fbd.amazzin.pw/iptv/D7MXW83WSN6X9U/31344/index.m3u8
 #EXTINF:-1,test MTV EU
 http://178.23.88.55/MTV/index.m3u8
 #EXTINF:-1,test RAI
@@ -1634,10 +1632,13 @@ http://195.189.60.31:8003/play/a0a0/index.m3u8
 http://213.169.39.30:5281
 #EXTINF:0,group-title="bg",ZDF
 http://213.169.39.30:5288
+#EXTINF:0,798
+http://195.26.83.96:7029/play/9
 #EXTINF:0,799
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
