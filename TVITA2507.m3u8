@@ -604,10 +604,10 @@ https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Vari",Barinews 111
-https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0 group-title="Vari",Telecampione
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
+#EXTINF:0 group-title="Vari",Fano TV
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",TCI
@@ -952,8 +952,6 @@ http://85.187.13.40:18000/eurosport2
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,Eurosport 2 PL
 http://103.141.159.249:4000/play/a04q/index.m3u8
-#EXTINF:0,MTV PL
-http://146.59.54.154/227/mpegts
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,MTV EU
@@ -1035,7 +1033,9 @@ http://185.130.218.254:25007/France3/mpegts
 #EXTINF:0,group-title="EU",MTV Live
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
-http://213.169.39.30:5255
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0,_
+https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0,_
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
@@ -1638,6 +1638,7 @@ http://213.169.39.30:5288
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
