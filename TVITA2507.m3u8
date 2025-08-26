@@ -477,17 +477,17 @@ http://185.189.225.149/BabyTV/index.m3u8
 #EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
-http://185.189.225.149/paramount/index.m3u8
+http://79.112.31.52:8069/udp/239.250.3.2:1234
 #EXTINF:0 group-title="España",TV3
 http://185.189.225.157/tv3/index.m3u8
 #EXTINF:0 group-title="España",TV3 CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 group-title="España",TeleMadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:0 group-title="España",TV Galicia
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
 #EXTINF:0 group-title="España",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:0 group-title="España",Trece
+http://79.112.31.52:8069/udp/239.10.20.60:1234
 #EXTINF:0 group-title="España",A3S
 http://79.112.31.52:8069/udp/239.10.20.35:1234
 #EXTINF:0 group-title="España",DMax ES
@@ -588,22 +588,22 @@ http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
-#EXTINF:0 group-title="Regionali",GRP
-https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:0 group-title="Vari",Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",e'tv rete 7
 https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0 group-title="Vari",espansione tv
 https://srvx1.selftv.video/espansione/smil:live/master.m3u8
 #EXTINF:0 group-title="Vari",T9
 https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
-#EXTINF:0 group-title="Vari",Ritmo 80
-https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:0 group-title="Vari",Radio Carina TV
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Regionali",GRP
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV Music
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:0 group-title="Vari",Radio Carina TV
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Vari",Barinews 111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0 group-title="Vari",Telecampione
@@ -916,7 +916,7 @@ http://185.207.34.107:8000/play/culture
 http://195.26.83.96:7029/play/9
 #EXTINF:0,Bridge RU
 http://195.26.83.96:7007/play/a00m
-#EXTINF:0,2TV LT
+#EXTINF:0,_
 http://195.12.167.222:1100/2tv
 #EXTINF:0,group-title="bg",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
@@ -1037,7 +1037,7 @@ http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
 http://213.169.39.30:5255
 #EXTINF:0,_
-https://tv.nknews.org/tvdash/stream.mpd
+https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 #EXTINF:0 group-title="sports",match futbol 2
@@ -1638,6 +1638,7 @@ http://213.169.39.30:5288
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
