@@ -856,7 +856,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:0 group-title="i",Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:0,group-title="i",La7 Italia
+#EXTINF:0 group-title="i",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:0 group-title="i",TG Com 24
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
@@ -906,11 +906,11 @@ https://tv.mobyservice.ru/AZTV/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="ps",MUSAWA HD
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:0 group-title="ua",1+1 UA
-http://85.187.13.40:18000/1+1
-#EXTINF:0 group-title="ua",2+2 UA
-http://85.187.13.40:18000/2+2
-#EXTINF:0 group-title="ua",Suspilne Kultura
+#EXTINF:0 group-title="ua",1TV UA
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:0 group-title="ua",Kultura
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:0 group-title="ua",_
 http://185.207.34.107:8000/play/culture
 #EXTINF:0,group-title="UK",_
 http://103.141.159.249:4000/play/a073/index.m3u8
@@ -928,8 +928,8 @@ http://78.128.125.60:9981/play/a00w/index.m3u8
 http://78.128.125.60:9981/play/a011/index.m3u8
 #EXTINF:0,group-title="bg",Nova
 http://78.128.125.60:9981/play/a002/index.m3u8
-#EXTINF:0,group-title="bg",Diema
-http://85.187.13.40:18000/diema
+#EXTINF:0,_
+https://live-k2303-kbp.1plus1.video/live/1756695840/kh_jAAMC86PSLhrssykRfA/184723/smil:184723.smil/master.m3u8
 #EXTINF:0,group-title="bg",Diema Sport 1
 http://213.169.39.30:5134
 #EXTINF:0,group-title="bg",Diema Sport 2
@@ -944,9 +944,9 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:0,group-title="bg",Eurosport 1 BG
+#EXTINF:0,_
 http://85.187.13.40:18000/eurosport
-#EXTINF:0,group-title="bg",Eurosport 2 BG
+#EXTINF:0,_
 http://85.187.13.40:18000/eurosport2
 #EXTINF:-1,Eurosport 1 PL
 http://103.141.159.249:4000/play/a04p/index.m3u8
@@ -1603,11 +1603,11 @@ http://149.62.177.108:8000/play/a00t/index.m3u8
 http://ghost1.tv:80/vipvip027027/102030405060/43987
 #EXTINF:0,782
 http://188.40.59.230:5100/mtv
-#EXTINF:-1,ProSieben (Germany)
+#EXTINF:-1,783
 http://85.187.13.40:18000/ProSieben
-#EXTINF:-1,Clubland (UK)
+#EXTINF:-1,784
 http://85.187.13.40:18000/CLUBLAND
-#EXTINF:-1,TNT INT (Russia)
+#EXTINF:-1,785
 http://85.187.13.40:18000/tntint
 #EXTINF:-1,test MTV EU
 http://178.23.88.55/MTV/index.m3u8
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
