@@ -227,7 +227,7 @@ http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
 http://95.216.97.235:7777/mtv00
 #EXTINF:-1 group-title="MTV",MTV EU
-http://185.236.230.212:9982/play/a086
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
