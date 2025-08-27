@@ -944,8 +944,8 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:0,_
-http://85.187.13.40:18000/eurosport
+#EXTINF:0,MTV Live
+http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
 http://85.187.13.40:18000/eurosport2
 #EXTINF:-1,Eurosport 1 PL
@@ -1024,14 +1024,14 @@ http://185.130.218.254:25007/AMC/mpegts
 http://185.130.218.254:25007/RTL/mpegts
 #EXTINF:0,group-title="EU",RTL 2 DE
 http://185.130.218.254:25007/RTL2/mpegts
+#EXTINF:0,group-title="EU",TF1 FR
+http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="EU",France 2 FR
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0,group-title="EU",France 3 FR
 http://185.130.218.254:25007/France3/mpegts
 #EXTINF:0,group-title="EU",France 4 FR
-http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,MTV Live
-http://179.63.6.12:9000/play/a04r
+http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,_
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0,_
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_REALTIME/master.mpd?aws.sessionId=56071c99-74d1-41ba-a160-6ce9297794c5&manifest.mt=54c2efe6aa71433cb6b01b953cec8aaa&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTYxMzYwMzksIm5iZiI6MTc1NjEzNjAzOSwiZXhwIjoxNzU2MTM2Mzk5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTAxLjU2Ljg5LjIwMCJ9.ymQ8kTJz6gHSCWN5aQa9qRiC7zFaui78rG5gL1DF5jI
+
 
 
 
