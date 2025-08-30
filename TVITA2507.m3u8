@@ -150,7 +150,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/master.m3u8
+https://origin.streamup.eu/sportitalia/sihd_abr/sportitalia/sihd_source/playlist.m3u8
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
@@ -1592,7 +1592,7 @@ http://84.22.55.2:8009/play/s262
 #EXTINF:0,775
 http://84.22.55.2:8009/play/s260
 #EXTINF:0,776
-http://84.22.55.2:8000/play/s16
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:0,777
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0,778
@@ -1641,3 +1641,4 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
