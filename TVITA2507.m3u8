@@ -958,9 +958,9 @@ http://195.181.161.132/MTVHITS/index.m3u8
 http://195.181.161.132/MTVMUSIC/index.m3u8
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
-#EXTINF:0,MTV LA
+#EXTINF:0,_
 http://38.7.204.232:8010/play/a2li
-#EXTINF:0,MTV Live
+#EXTINF:0,_
 http://38.7.204.232:8010/play/a2np
 #EXTINF:0 group-title="xk",MTV Hits
 http://95.216.97.235:7777/mtvhits
@@ -1641,5 +1641,6 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
