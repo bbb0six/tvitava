@@ -958,10 +958,6 @@ http://195.181.161.132/MTVHITS/index.m3u8
 http://195.181.161.132/MTVMUSIC/index.m3u8
 #EXTINF:0,MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
-#EXTINF:0,_
-http://38.7.204.232:8010/play/a2li
-#EXTINF:0,_
-http://38.7.204.232:8010/play/a2np
 #EXTINF:0 group-title="xk",MTV Hits
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="sk",MTV Club
@@ -1006,6 +1002,10 @@ http://176.65.146.224:4004/play/a07o/index.m3u8
 http://103.141.159.249:4000/play/a073/index.m3u8
 #EXTINF:0,group-title="UK",_
 http://103.141.159.249:4000/play/a072/index.m3u8
+#EXTINF:0,_
+http://38.7.204.232:8010/play/a2li
+#EXTINF:0,_
+http://38.7.204.232:8010/play/a2np
 #EXTINF:0,group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0,group-title="EU",BBC TWO HD
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
