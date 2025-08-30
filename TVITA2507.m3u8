@@ -914,11 +914,11 @@ https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="UK",ITV Quiz
 http://46.105.71.222:8080/itvbe/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Music UK
-http://46.105.71.222:8080/mtvmusic/index.m3u8
 #EXTINF:0 group-title="MTV",Club MTV UK
 http://46.105.71.222:8080/mtvhits/index.m3u8
-#EXTINF:0,MTV Live EU
+#EXTINF:0 group-title="MTV",MTV Music UK
+http://46.105.71.222:8080/mtvmusic/index.m3u8
+#EXTINF:0 group-title="MTV",MTV Live EU
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0 group-title="lu",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
@@ -1641,4 +1641,5 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
