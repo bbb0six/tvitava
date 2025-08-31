@@ -465,7 +465,7 @@ http://185.189.225.157/neox/index.m3u8
 #EXTINF:0 group-title="España",Nova
 http://185.189.225.157/nova/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
-http://185.189.225.149/BOM/index.m3u8
+http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:0 group-title="España",Energy
 http://79.112.31.52:8069/udp/239.10.20.49:1234
 #EXTINF:0 group-title="España",Divinity
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
