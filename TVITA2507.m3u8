@@ -914,12 +914,8 @@ https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="UK",ITV Quiz
 http://46.105.71.222:8080/itvbe/index.m3u8
-#EXTINF:0 group-title="MTV",Club MTV UK
-http://46.105.71.222:8080/mtvhits/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Music UK
 http://46.105.71.222:8080/mtvmusic/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Live EU
-http://179.63.6.12:9000/play/a04r
 #EXTINF:0 group-title="lu",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="lu",RTL 2 LU
@@ -952,21 +948,19 @@ http://213.169.39.30:5130
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,Eurosport 2 PL
 http://103.141.159.249:4000/play/a04q/index.m3u8
-#EXTINF:0,Club MTV UK
-http://195.181.161.132/MTVHITS/index.m3u8
-#EXTINF:0,MTV UK
+#EXTINF:0 group-title="MTV",MTV UK
 http://195.181.161.132/MTVMUSIC/index.m3u8
-#EXTINF:0,MTV DE
+#EXTINF:0 group-title="MTV",MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
-#EXTINF:0 group-title="xk",MTV Hits
+#EXTINF:0 group-title="MTV",MTV Hits
 http://95.216.97.235:7777/mtvhits
-#EXTINF:0 group-title="sk",MTV Club
+#EXTINF:0 group-title="MTV",MTV Club
 https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:0 group-title="sk",MTV 80s
+#EXTINF:0 group-title="MTV",MTV 80s
 https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:0 group-title="xk",MTV 90s
+#EXTINF:0 group-title="MTV",MTV 90s
 http://95.216.97.235:7777/mtv90
-#EXTINF:0 group-title="xl",MTV 00s
+#EXTINF:0 group-title="MTV",MTV 00s HD
 http://190.83.2.172:8081/play/a05n
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
@@ -998,14 +992,20 @@ http://176.65.146.224:4004/play/a07m/index.m3u8
 http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,group-title="UK",ITV3
 http://176.65.146.224:4004/play/a07o/index.m3u8
-#EXTINF:0,group-title="UK",_
+#EXTINF:0,_
 http://103.141.159.249:4000/play/a073/index.m3u8
-#EXTINF:0,group-title="UK",_
+#EXTINF:0,_
 http://103.141.159.249:4000/play/a072/index.m3u8
 #EXTINF:0,_
 http://38.7.204.232:8010/play/a2li
 #EXTINF:0,_
 http://38.7.204.232:8010/play/a2np
+#EXTINF:0,_
+http://46.105.71.222:8080/mtvhits/index.m3u8
+#EXTINF:0,_
+http://179.63.6.12:9000/play/a04r
+#EXTINF:0,_
+http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0,group-title="EU",BBC TWO HD
@@ -1588,9 +1588,9 @@ https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0,773
 http://84.22.55.2:8009/play/s258
 #EXTINF:0,774
-http://84.22.55.2:8009/play/s262
+http://tv.proyectox.vip:8080/luismachuca1/b74bf3eb6b45/8312
 #EXTINF:0,775
-http://84.22.55.2:8009/play/s260
+http://tv.proyectox.vip:8080/luismachuca1/b74bf3eb6b45/8313
 #EXTINF:0,776
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:0,777
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
