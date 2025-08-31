@@ -109,9 +109,9 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1,45
+#EXTINF:-1,_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://app-plus.live:80/02092021iptv/pwqopprrct/41097
+http://fortv.cc:8080/lynda@mason/lynda@2022/212900
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -644,8 +644,8 @@ http://89.187.191.99:8080/tvsh/index.m3u8
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0,group-title="AL",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:0,group-title="AL",_
-http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMyrkIudfG8FTyJqAFyEzd1p
+#EXTINF:0,group-title="AL",RTSH 3
+http://92.246.87.58/kanaliOTTURedirect244225/LVenCPbKr21s1s2asd221LVenCPbKr21s1s2asd221/67698
 #EXTINF:0,group-title="AL",RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:0,group-title="AL",RTSH Sport
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
