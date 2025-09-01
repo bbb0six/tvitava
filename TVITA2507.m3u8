@@ -226,8 +226,8 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
 http://95.216.97.235:7777/mtv00
-#EXTINF:-1 group-title="MTV",MTV EU
-http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MTV",MTV DE
+http://91.191.178.53:3000/S19.2E-1-1078-28671
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -912,8 +912,8 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0,_
-http://46.105.71.222:8080/utv/index.m3u8
+#EXTINF:0 group-title="MTV",MTV Europe
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MTV",MTV Music UK
 http://46.105.71.222:8080/mtvmusic/index.m3u8
 #EXTINF:0 group-title="lu",RTL 1 LU
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
