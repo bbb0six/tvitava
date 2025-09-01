@@ -988,6 +988,10 @@ http://176.65.146.224:4004/play/a07m/index.m3u8
 http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,group-title="UK",ITV3
 http://176.65.146.224:4004/play/a07o/index.m3u8
+#EXTINF:0,_
+http://46.8.46.14/BridgeDance/index.m3u8
+#EXTINF:0,_
+http://94.130.221.219/2plus2/index.m3u8
 #EXTINF:-1,_
 http://103.141.159.249:4000/play/a04p/index.m3u8
 #EXTINF:-1,_
@@ -999,11 +1003,7 @@ http://103.141.159.249:4000/play/a072/index.m3u8
 #EXTINF:0,_
 http://38.7.204.232:8010/play/a2li
 #EXTINF:0,_
-http://38.7.204.232:8010/play/a2np
-#EXTINF:0,_
 http://46.105.71.222:8080/mtvhits/index.m3u8
-#EXTINF:0,_
-http://179.63.6.12:9000/play/a04r
 #EXTINF:0,_
 http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="EU",BBC ONE LON HD
@@ -1041,11 +1041,15 @@ https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0,_
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+http://94.130.221.219/m1/index.m3u8
 #EXTINF:0 group-title="sports",match futbol 2
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+http://94.130.221.219/m2/index.m3u8
 #EXTINF:0 group-title="sports",match futbol 3
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+http://94.130.221.219/m3/index.m3u8
+#EXTINF:0 group-title="sports",setanta 1
+http://94.130.221.219/setanta1/index.m3u8
+#EXTINF:0 group-title="sports",setanta 2
+http://94.130.221.219/setanta2/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 1
 http://89.187.191.99:8080/arena1/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 2
@@ -1056,22 +1060,18 @@ http://89.187.191.99:8080/arena3/index.m3u8
 http://89.187.191.99:8080/arena4/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 5
 http://89.187.191.99:8080/arena5/index.m3u8
-#EXTINF:0 group-title="sports",ESPN HD
-http://38.7.204.232:8011/play/a2hj
-#EXTINF:0 group-title="sports",ESPN 2 HD
-http://38.7.204.232:8011/play/a2hd
-#EXTINF:0 group-title="sports",ESPN 3 HD
-http://38.7.204.232:8011/play/a2n6
-#EXTINF:0 group-title="sports",ESPN 4 HD
-http://38.7.204.232:8011/play/a2n5
+#EXTINF:0 group-title="sports",arena sport 7
+http://89.187.191.99:8080/arena7/index.m3u8
+#EXTINF:0 group-title="sports",match futbol 1
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:0 group-title="sports",match futbol 2
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:0 group-title="sports",match futbol 3
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 #EXTINF:0 group-title="sports",ESPN 5 HD
 http://38.7.204.232:8011/play/a2p5
 #EXTINF:0 group-title="sports",ESPN 6 HD
 http://38.7.204.232:8011/play/a2l4
-#EXTINF:0 group-title="sports",ESPN 7 HD
-http://38.7.204.232:8011/play/a2jk
-#EXTINF:0 group-title="sports",ESPN Premium
-http://38.7.204.232:8011/play/a2lj
 #EXTINF:-1 group-title="sports",ESPN 1
 http://38.44.109.41:8003/play/a02v
 #EXTINF:-1 group-title="sports",ESPN 2
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
