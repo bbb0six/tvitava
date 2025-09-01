@@ -882,11 +882,11 @@ https://dash3.antik.sk/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
-#EXTINF:0 group-title="il",Isr CH 12
+#EXTINF:0 group-title="il",Keshet 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
-#EXTINF:0 group-title="il",Isr CH 13
+#EXTINF:0 group-title="il",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 group-title="il",Isr CH 14
+#EXTINF:0 group-title="il",Akshav 14
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="il",MAKAN 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
