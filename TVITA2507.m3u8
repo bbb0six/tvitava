@@ -910,10 +910,10 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:0 group-title="ua",1TV UA
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:0 group-title="ua",suspilne kultura
+#EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="UK",ITV Quiz
-http://46.105.71.222:8080/itvbe/index.m3u8
+#EXTINF:0,_
+http://46.105.71.222:8080/utv/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Music UK
 http://46.105.71.222:8080/mtvmusic/index.m3u8
 #EXTINF:0 group-title="lu",RTL 1 LU
@@ -944,10 +944,6 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:-1,Eurosport 1 PL
-http://103.141.159.249:4000/play/a04p/index.m3u8
-#EXTINF:-1,Eurosport 2 PL
-http://103.141.159.249:4000/play/a04q/index.m3u8
 #EXTINF:0 group-title="MTV",MTV UK
 http://195.181.161.132/MTVMUSIC/index.m3u8
 #EXTINF:0 group-title="MTV",MTV DE
@@ -992,6 +988,10 @@ http://176.65.146.224:4004/play/a07m/index.m3u8
 http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,group-title="UK",ITV3
 http://176.65.146.224:4004/play/a07o/index.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a04p/index.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a03w/index.m3u8
 #EXTINF:0,_
 http://103.141.159.249:4000/play/a073/index.m3u8
 #EXTINF:0,_
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
