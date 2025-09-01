@@ -916,48 +916,86 @@ https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MTV",MTV Music UK
 http://46.105.71.222:8080/mtvmusic/index.m3u8
-#EXTINF:0 group-title="lu",RTL 1 LU
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="lu",RTL 2 LU
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0,group-title="bg",BNT 1
-http://78.128.125.60:9981/play/a00v/index.m3u8
-#EXTINF:0,group-title="bg",BNT 2
-http://78.128.125.60:9981/play/a010/index.m3u8
-#EXTINF:0,group-title="bg",BNT 3
-http://78.128.125.60:9981/play/a00w/index.m3u8
-#EXTINF:0,group-title="bg",BNT 4
-http://78.128.125.60:9981/play/a011/index.m3u8
-#EXTINF:0,group-title="bg",Nova
-http://78.128.125.60:9981/play/a002/index.m3u8
-#EXTINF:0,group-title="bg",Diema Sport 1
-http://213.169.39.30:5134
-#EXTINF:0,group-title="bg",Diema Sport 2
-http://213.169.39.30:5136
-#EXTINF:0,group-title="bg",Diema Sport 3
-http://213.169.39.30:5216
-#EXTINF:0,group-title="bg",Max Sport 1
-http://213.169.39.30:5138
-#EXTINF:0,group-title="bg",Max Sport 2
-http://213.169.39.30:5140
-#EXTINF:0,group-title="bg",Max Sport 3
-http://213.169.39.30:5142
-#EXTINF:0,group-title="bg",Max Sport 4
-http://213.169.39.30:5130
-#EXTINF:0 group-title="MTV",MTV UK
-http://195.181.161.132/MTVMUSIC/index.m3u8
-#EXTINF:0 group-title="MTV",MTV DE
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Hits
-http://95.216.97.235:7777/mtvhits
-#EXTINF:0 group-title="MTV",MTV Club
-https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:0 group-title="MTV",MTV 80s
-https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:0 group-title="MTV",MTV 90s
-http://95.216.97.235:7777/mtv90
+#EXTINF:0 group-title="MTV",MTV Latino
+http://181.209.194.14:8000/play/a01k
 #EXTINF:0 group-title="MTV",MTV 00s HD
-http://190.83.2.172:8081/play/a05n
+http://181.209.194.14:8000/play/a041
+#EXTINF:0 group-title="USA",ABC EAST
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:0 group-title="USA",ABC NEWS
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:0 group-title="USA",ACC NETWORK
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",AMC NETWORK
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",CBS News
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:0 group-title="USA",CNN
+http://fl3.moveonjoy.com/CNN/index.m3u8
+#EXTINF:0 group-title="USA",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:0 group-title="USA",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:0 group-title="USA",Food Network
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Fox News
+http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:0 group-title="USA",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0 group-title="USA",HBO 2
+http://fl3.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0 group-title="USA",HBO 2 west
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:0 group-title="USA",HBO Comedy
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:0 group-title="USA",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 group-title="USA",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 group-title="USA",MTV USA
+http://fl3.moveonjoy.com/MTV/index.m3u8
+#EXTINF:0 group-title="USA",MTV 2
+http://fl3.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:0 group-title="USA",MTV CLASSIC
+http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:0 group-title="USA",MTV LIVE USA
+http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",MTV U
+http://fl3.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:0 group-title="USA",National Geographic
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:0,group-title="USA",NESN
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0,group-title="USA",NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:0,group-title="USA",Paramount Network
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Showtime
+http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:0 group-title="USA",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0 group-title="USA",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:0 group-title="USA",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0 group-title="USA",TNT
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:0,group-title="USA",USA Network
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:0 group-title="USA",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0 group-title="USA",WGN
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a04p/index.m3u8
+#EXTINF:-1,_
+http://103.141.159.249:4000/play/a03w/index.m3u8
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
@@ -992,48 +1030,8 @@ http://176.65.146.224:4004/play/a07o/index.m3u8
 http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,_
 http://94.130.221.219/2plus2/index.m3u8
-#EXTINF:-1,_
-http://103.141.159.249:4000/play/a04p/index.m3u8
-#EXTINF:-1,_
-http://103.141.159.249:4000/play/a03w/index.m3u8
-#EXTINF:0,_
-http://103.141.159.249:4000/play/a073/index.m3u8
-#EXTINF:0,_
-http://103.141.159.249:4000/play/a072/index.m3u8
-#EXTINF:0,_
-http://38.7.204.232:8010/play/a2li
 #EXTINF:0,_
 http://46.105.71.222:8080/mtvhits/index.m3u8
-#EXTINF:0,_
-http://179.63.6.12:9000/play/a04r
-#EXTINF:0,group-title="EU",BBC ONE LON HD
-http://185.130.218.254:25007/BBC1/mpegts
-#EXTINF:0,group-title="EU",BBC TWO HD
-http://185.130.218.254:25007/BBC2/mpegts
-#EXTINF:0,group-title="EU",ITV 1
-http://185.130.218.254:25007/ITV/mpegts
-#EXTINF:0,group-title="EU",ITV 2
-http://185.130.218.254:25007/ITV2/mpegts
-#EXTINF:0,group-title="EU",ITV 3
-http://185.130.218.254:25007/ITV3/mpegts
-#EXTINF:0,group-title="EU",ITV 4
-http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0,group-title="EU",NatGeo HD
-http://185.130.218.254:25007/NatGeo/mpegts
-#EXTINF:0,group-title="EU",AMC ES
-http://185.130.218.254:25007/AMC/mpegts
-#EXTINF:0,group-title="EU",RTL DE
-http://185.130.218.254:25007/RTL/mpegts
-#EXTINF:0,group-title="EU",RTL 2 DE
-http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0,group-title="EU",TF1 FR
-http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="EU",France 2 FR
-http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="EU",France 3 FR
-http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="EU",France 4 FR
-http://185.130.218.254:25007/France4/mpegts
 #EXTINF:0,_
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0,_
@@ -1200,6 +1198,46 @@ http://181.209.194.14:8000/play/a01k
 http://181.209.194.14:8000/play/a040
 #EXTINF:-1 group-title="sp",MTV 00s HD
 http://181.209.194.14:8000/play/a041
+#EXTINF:0 group-title="EU",BBC ONE LON HD
+http://185.130.218.254:25007/BBC1/mpegts
+#EXTINF:0 group-title="EU",BBC TWO HD
+http://185.130.218.254:25007/BBC2/mpegts
+#EXTINF:0 group-title="EU",ITV 1
+http://185.130.218.254:25007/ITV/mpegts
+#EXTINF:0 group-title="EU",ITV 2
+http://185.130.218.254:25007/ITV2/mpegts
+#EXTINF:0 group-title="EU",ITV 3
+http://185.130.218.254:25007/ITV3/mpegts
+#EXTINF:0 group-title="EU",ITV 4
+http://185.130.218.254:25007/ITV4/mpegts
+#EXTINF:0 group-title="EU",NatGeo HD
+http://185.130.218.254:25007/NatGeo/mpegts
+#EXTINF:0 group-title="EU",AMC ES
+http://185.130.218.254:25007/AMC/mpegts
+#EXTINF:0 group-title="EU",RTL DE
+http://185.130.218.254:25007/RTL/mpegts
+#EXTINF:0 group-title="EU",RTL 2 DE
+http://185.130.218.254:25007/RTL2/mpegts
+#EXTINF:0 group-title="EU",TF1 FR
+http://185.130.218.254:25007/France2/mpegts
+#EXTINF:0 group-title="EU",France 2 FR
+http://185.130.218.254:25007/France2/mpegts
+#EXTINF:0,group-title="EU",France 3 FR
+http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0,group-title="EU",France 4 FR
+http://185.130.218.254:25007/France4/mpegts
+#EXTINF:0,group-title="bg",BNT 1
+http://78.128.125.60:9981/play/a00v/index.m3u8
+#EXTINF:0,group-title="bg",BNT 2
+http://78.128.125.60:9981/play/a010/index.m3u8
+#EXTINF:0,group-title="bg",BNT 3
+http://78.128.125.60:9981/play/a00w/index.m3u8
+#EXTINF:0,group-title="bg",BNT 4
+http://78.128.125.60:9981/play/a011/index.m3u8
+#EXTINF:0,group-title="bg",Nova
+http://78.128.125.60:9981/play/a002/index.m3u8
+#EXTINF:0,group-title="bg",Diema
+http://78.128.125.60:9980/play/a013/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
 #EXTINF:0 group-title="NL",NPO 2
@@ -1214,7 +1252,7 @@ http://185.236.230.212:9981/play/a0a8
 http://185.236.230.212:9981/play/a09r
 #EXTINF:0 group-title="NL",RTL 7
 http://185.236.230.212:9981/play/a0a9
-#EXTINF:0 group-title="NL",VERONICA/DISNEYXD 
+#EXTINF:0 group-title="NL",Veronica/DisneyXD 
 http://185.236.230.212:9982/play/a0a3
 #EXTINF:0 group-title="NL",NET 5
 http://185.236.230.212:9982/play/a09z
@@ -1284,76 +1322,42 @@ http://185.236.230.212:9982/play/a08x
 http://185.236.230.212:9982/play/a09x
 #EXTINF:0,|LU| RTL TELE LETZEBUERG
 http://185.236.230.212:9982/play/a09y
+#EXTINF:0 group-title="lu",RTL 1 LU
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 group-title="lu",RTL 2 LU
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0,group-title="bg",Diema Sport 1
+http://213.169.39.30:5134
+#EXTINF:0,group-title="bg",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:0,group-title="bg",Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:0,group-title="bg",Max Sport 1
+http://213.169.39.30:5138
+#EXTINF:0,group-title="bg",Max Sport 2
+http://213.169.39.30:5140
+#EXTINF:0,group-title="bg",Max Sport 3
+http://213.169.39.30:5142
+#EXTINF:0,group-title="bg",Max Sport 4
+http://213.169.39.30:5130
+#EXTINF:0 group-title="MTV",MTV UK
+http://195.181.161.132/MTVMUSIC/index.m3u8
+#EXTINF:0 group-title="MTV",MTV Hits
+http://95.216.97.235:7777/mtvhits
+#EXTINF:0 group-title="MTV",MTV Club
+https://dash2.antik.sk/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:0 group-title="MTV",MTV 80s
+https://dash2.antik.sk/live/test_vh_1_classic_1200_atk/playlist.m3u8
+#EXTINF:0 group-title="MTV",MTV 90s
+http://95.216.97.235:7777/mtv90
+#EXTINF:0 group-title="MTV",MTV 00s HD
+http://190.83.2.172:8081/play/a05n
+#EXTINF:0 group-title="MTV",MTV Live EU
+http://179.63.6.12:9000/play/a04r
 #EXTINF:0,group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,group-title="USA",ABC EAST
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:0,group-title="USA",ACC NETWORK
-http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",AMC NETWORK
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",CNN
-http://fl3.moveonjoy.com/CNN/index.m3u8
-#EXTINF:0,group-title="USA",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:0,group-title="USA",Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:0,group-title="USA",Food Network
-http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",Fox News
-http://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:0,group-title="USA",HBO
-http://fl3.moveonjoy.com/HBO/index.m3u8
-#EXTINF:0,group-title="USA",HBO 2
-http://fl3.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:0,group-title="USA",HBO 2 west
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:0,group-title="USA",HBO Comedy
-http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:0,group-title="USA",HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
-#EXTINF:0,group-title="USA",MoreMax
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0,group-title="USA",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:0,group-title="USA",MTV USA
-http://fl3.moveonjoy.com/MTV/index.m3u8
-#EXTINF:0,group-title="USA",MTV 2
-http://fl3.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:0,group-title="USA",MTV CLASSIC
-http://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:0,group-title="USA",MTV LIVE USA
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0,group-title="USA",MTV U
-http://fl3.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:0,group-title="USA",National Geographic
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:0,group-title="USA",NESN
-http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0,group-title="USA",NHL Network
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",Paramount Network
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",Showtime
-http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:0,group-title="USA",Starz
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:0,group-title="USA",Starz Cinema
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:0,group-title="USA",Starz Comedy
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0,group-title="USA",Syfy
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0,group-title="USA",TNT
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0,group-title="USA",USA Network
-http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:0,group-title="USA",VH1
-http://fl3.moveonjoy.com/VH1/index.m3u8
-#EXTINF:0,group-title="USA",Vice TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:0,group-title="USA",WGN
-http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:0 group-title="news",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,group-title="AL",ORA News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
@@ -1362,8 +1366,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 http://125hvt.ddns.net:21585/tv5/mpegts
 #EXTINF:0,_
 http://app-plus.live:80/02092021iptv/pwqopprrct/41117
-#EXTINF:0,_
-http://213.169.39.30:5290
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0,group-title="RU",Shanson TV RU
@@ -1641,6 +1643,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
