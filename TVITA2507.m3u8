@@ -928,6 +928,10 @@ http://41.205.93.154/ABC/index.m3u8
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",BBC America
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:0 group-title="USA",BBC World News
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:0 group-title="USA",CNN
@@ -954,6 +958,8 @@ http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 group-title="USA",MSNBC
+http://fl3.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",MTV USA
 http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -980,9 +986,9 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0 group-title="USA",Syfy
+#EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 group-title="USA",TNT
+#EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
 http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
@@ -992,10 +998,8 @@ http://fl3.moveonjoy.com/VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1,_
-http://103.141.159.249:4000/play/a04p/index.m3u8
-#EXTINF:-1,_
-http://103.141.159.249:4000/play/a03w/index.m3u8
+#EXTINF:0,_
+http://46.105.71.222:8080/mtvhits/index.m3u8
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
@@ -1024,14 +1028,10 @@ http://176.65.146.224:4006/play/a06d/index.m3u8
 http://176.65.146.224:4004/play/a07m/index.m3u8
 #EXTINF:0,group-title="UK",ITV2
 http://176.65.146.224:4004/play/a07l/index.m3u8
-#EXTINF:0,group-title="UK",ITV3
-http://176.65.146.224:4004/play/a07o/index.m3u8
-#EXTINF:0,_
-http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,_
 http://94.130.221.219/2plus2/index.m3u8
 #EXTINF:0,_
-http://46.105.71.222:8080/mtvhits/index.m3u8
+http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0,_
@@ -1068,9 +1068,9 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
 #EXTINF:0 group-title="sports",match futbol 3
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:0 group-title="sports",ESPN 5 HD
+#EXTINF:0,_
 http://38.7.204.232:8011/play/a2p5
-#EXTINF:0 group-title="sports",ESPN 6 HD
+#EXTINF:0,_
 http://38.7.204.232:8011/play/a2l4
 #EXTINF:-1 group-title="sports",ESPN 1
 http://38.44.109.41:8003/play/a02v
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
