@@ -586,6 +586,8 @@ https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Tele Molise
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Diciotto
+http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
@@ -598,8 +600,8 @@ https://live.ipstream.it/etv/etv.stream/master.m3u8
 https://srvx1.selftv.video/espansione/smil:live/master.m3u8
 #EXTINF:0 group-title="Vari",T9
 https://5a1178b42cc03.streamlock.net/t9/t9/index.m3u8
-#EXTINF:0 group-title="Regionali",GRP
-https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:0 group-title="Vari",Tele A1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV Music
@@ -622,10 +624,6 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:0,group-title="CH",RAI NEWS 24
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0,group-title="CH",RAI STORIA
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0,group-title="CH",RAI SPORT
@@ -634,6 +632,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0,group-title="CH",RAI GULP
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:0,group-title="CH",RAI NEWS 24
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="sk",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="sk",Rai 3
@@ -792,26 +792,26 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:0 group-title="CH",TV5Monde FBS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+#EXTINF:0 group-title="-",TV5Monde Asie
+http://125hvt.ddns.net:21585/tv5/mpegts
 #EXTINF:0 group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 #EXTINF:0 group-title="CH",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0 group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0 group-title="sk",CT24
-https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="sk",Al Jazeera AR
+https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:0 group-title="sk",Al Jazeera EN
+https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:0 group-title="CH",Al Arabiya
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 #EXTINF:0 group-title="CH",2M Maroc
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 #EXTINF:0 group-title="CH",TV2 Algérie
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="CH",Tunis 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
-#EXTINF:0 group-title="CH",Al Arabiya
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:0 group-title="sk",Al Jazeera AR
-https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
-#EXTINF:0 group-title="sk",Al Jazeera EN
-https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="sk",TVP Info
 https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="sk",TVP Polonia
@@ -822,10 +822,10 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="sk",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0 group-title="news",DW News
+#EXTINF:0 group-title="sk",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="-",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,_
-https://tvpass.org/live/FoxNewsChannel/hd
 #EXTINF:0 group-title="IT",Euronews
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="IT",TV8
@@ -838,8 +838,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0,_
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,MTV Live EU
+http://179.63.6.12:9000/play/a04r
 #EXTINF:0 group-title="i",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0 group-title="i",Rai 2
@@ -1641,6 +1641,7 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://app-plus.live:80/02092021iptv/pwqopprrct/41112
+
 
 
 
