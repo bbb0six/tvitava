@@ -109,9 +109,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1,_
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+#EXTINF:-1,Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -952,6 +951,8 @@ http://fl3.moveonjoy.com/HBO_2/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 group-title="USA",HBO Comedy
 http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",HBO Family
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Signature
 http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
@@ -998,8 +999,6 @@ http://fl3.moveonjoy.com/VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:0,_
-http://46.105.71.222:8080/mtvhits/index.m3u8
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
@@ -1010,35 +1009,35 @@ http://176.65.146.224:4001/play/a08i/index.m3u8
 http://176.65.146.224:4001/play/a08h/index.m3u8
 #EXTINF:0,group-title="UK",BBC One Lon HD
 http://176.65.146.224:4001/play/a08e/index.m3u8
-#EXTINF:0,group-title="UK",BBC Two Wal HD
-http://176.65.146.224:4001/play/a08f/index.m3u8
-#EXTINF:0,group-title="UK",BBC4
-http://176.65.146.224:4001/play/a08g/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 4
-http://176.65.146.224:4007/play/a074/index.m3u8
-#EXTINF:0,group-title="UK",E4 Extra
-http://176.65.146.224:4002/play/a06w/index.m3u8
-#EXTINF:0,group-title="UK",4seven
-http://176.65.146.224:4002/play/a06x/index.m3u8
-#EXTINF:0,group-title="UK",5
-http://176.65.146.224:4003/play/a06m/index.m3u8
-#EXTINF:0,group-title="UK",CNN INT
-http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,group-title="UK",ITV1 Wales HD
 http://176.65.146.224:4004/play/a07m/index.m3u8
-#EXTINF:0,group-title="UK",ITV2
-http://176.65.146.224:4004/play/a07l/index.m3u8
 #EXTINF:0,_
 http://94.130.221.219/2plus2/index.m3u8
 #EXTINF:0,_
 http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,_
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
-#EXTINF:0,_
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:0,_
+#EXTINF:-1,TRENTINO TV
+http://84.22.55.2:8032/play/s361
+#EXTINF:-1,RTTR
+http://84.22.55.2:8032/play/s362
+#EXTINF:-1,Telepace Trento
+http://84.22.55.2:8032/play/s363
+#EXTINF:-1,Telepadova 7 GOLD
+http://84.22.55.2:8032/play/s364
+#EXTINF:-1,TELENUOVO
+http://84.22.55.2:8032/play/s365
+#EXTINF:-1,ANTENNA TRE VENETO
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1,TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1,TELECHIARA
+http://84.22.55.2:8032/play/s367
+#EXTINF:-1,TV33 TN
+http://84.22.55.2:8032/play/s368
+#EXTINF:0,barinews 111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
-#EXTINF:0,_
+#EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0 group-title="sports",match futbol 1
 http://94.130.221.219/m1/index.m3u8
@@ -1458,24 +1457,24 @@ http://app-plus.live:80/02092021iptv/pwqopprrct/41136
 http://app-plus.live:80/02092021iptv/pwqopprrct/41087
 #EXTINF:0,709
 http://app-plus.live:80/02092021iptv/pwqopprrct/432
-#EXTINF:-1,TRENTINO TV
-http://84.22.55.2:8032/play/s361
-#EXTINF:-1,RTTR
-http://84.22.55.2:8032/play/s362
-#EXTINF:-1,Telepace Trento
-http://84.22.55.2:8032/play/s363
-#EXTINF:-1,Telepadova 7 GOLD
-http://84.22.55.2:8032/play/s364
-#EXTINF:-1,TELENUOVO
-http://84.22.55.2:8032/play/s365
-#EXTINF:-1,ANTENNA TRE VENETO
-http://84.22.55.2:8032/play/s366
-#EXTINF:-1,TV7 Triveneta Network
-http://84.22.55.2:8032/play/s369
-#EXTINF:-1,TELECHIARA
-http://84.22.55.2:8032/play/s367
-#EXTINF:-1,TV33 TN
-http://84.22.55.2:8032/play/s368
+#EXTINF:0,group-title="UK",BBC Two Wal HD
+http://176.65.146.224:4001/play/a08f/index.m3u8
+#EXTINF:0,group-title="UK",BBC4
+http://176.65.146.224:4001/play/a08g/index.m3u8
+#EXTINF:0,group-title="UK",CHANNEL 4
+http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0,group-title="UK",E4 Extra
+http://176.65.146.224:4002/play/a06w/index.m3u8
+#EXTINF:0,group-title="UK",4seven
+http://176.65.146.224:4002/play/a06x/index.m3u8
+#EXTINF:0,group-title="UK",5
+http://176.65.146.224:4003/play/a06m/index.m3u8
+#EXTINF:0,group-title="UK",CNN INT
+http://176.65.146.224:4006/play/a06d/index.m3u8
+#EXTINF:0,group-title="UK",ITV2
+http://176.65.146.224:4004/play/a07l/index.m3u8
+#EXTINF:0,group-title="UK",MTV HITS
+http://46.105.71.222:8080/mtvhits/index.m3u8
 #EXTINF:0,719
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,720
@@ -1640,23 +1639,4 @@ http://195.26.83.96:7029/play/9
 #EXTINF:0,799
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
-http://app-plus.live:80/02092021iptv/pwqopprrct/41112
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://fortv.cc:8080/lynda@mason/lynda@2022/212900
