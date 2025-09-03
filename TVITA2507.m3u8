@@ -109,8 +109,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1,Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:-1,45
+http://190.83.2.172:8081/play/a05m
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -149,7 +149,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://origin.streamup.eu/sportitalia/sihd_abr/sportitalia/sihd_source/playlist.m3u8
+https://origin.streamup.eu/sportitaliain/sihd/playlist.m3u8
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
@@ -922,7 +922,7 @@ http://181.209.194.14:8000/play/a041
 #EXTINF:0 group-title="USA",ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
-http://41.205.93.154/ABC/index.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
@@ -931,8 +931,12 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:0 group-title="USA",BLOOMBERG
+http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:0 group-title="USA",CNBC
+http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNN
 http://fl3.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
@@ -977,6 +981,12 @@ http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Nickelodeon
+http://fl3.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:0 group-title="USA",Nick JR
+http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:0 group-title="USA",Nick Music
+http://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:0 group-title="USA",Paramount Network
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
@@ -1003,19 +1013,9 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
 http://176.65.146.224:4002/play/a06z/index.m3u8
-#EXTINF:0,group-title="UK",BBC One EMidHD
-http://176.65.146.224:4001/play/a08i/index.m3u8
-#EXTINF:0,group-title="UK",BBC One EastHD
-http://176.65.146.224:4001/play/a08h/index.m3u8
-#EXTINF:0,group-title="UK",BBC One Lon HD
-http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:0,group-title="UK",ITV1 Wales HD
 http://176.65.146.224:4004/play/a07m/index.m3u8
-#EXTINF:0,_
-http://94.130.221.219/2plus2/index.m3u8
-#EXTINF:0,_
-http://46.8.46.14/BridgeDance/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,ORLER TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:-1,TRENTINO TV
 http://84.22.55.2:8032/play/s361
@@ -1362,9 +1362,9 @@ https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0,_
-http://125hvt.ddns.net:21585/tv5/mpegts
-#EXTINF:0,_
-http://app-plus.live:80/02092021iptv/pwqopprrct/41117
+http://94.130.221.219/2plus2/index.m3u8
+#EXTINF:0,group-title="RU",Bridge Dance
+http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,group-title="RU",Shanson TV RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,group-title="RU",1TV RU
@@ -1457,12 +1457,12 @@ http://app-plus.live:80/02092021iptv/pwqopprrct/41136
 http://app-plus.live:80/02092021iptv/pwqopprrct/41087
 #EXTINF:0,709
 http://app-plus.live:80/02092021iptv/pwqopprrct/432
-#EXTINF:0,group-title="UK",BBC Two Wal HD
-http://176.65.146.224:4001/play/a08f/index.m3u8
-#EXTINF:0,group-title="UK",BBC4
-http://176.65.146.224:4001/play/a08g/index.m3u8
-#EXTINF:0,group-title="UK",CHANNEL 4
-http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0,group-title="UK",BBC One EMidHD
+http://176.65.146.224:4001/play/a08i/index.m3u8
+#EXTINF:0,group-title="UK",BBC One EastHD
+http://176.65.146.224:4001/play/a08h/index.m3u8
+#EXTINF:0,group-title="UK",BBC One Lon HD
+http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:0,group-title="UK",E4 Extra
 http://176.65.146.224:4002/play/a06w/index.m3u8
 #EXTINF:0,group-title="UK",4seven
@@ -1576,7 +1576,7 @@ http://84.22.55.2:8011/play/s308
 #EXTINF:0,768
 http://84.22.55.2:8012/play/s293
 #EXTINF:0,769
-http://84.22.55.2:8011/play/s303
+http://45.159.74.22:80/Channel_117/mpegts
 #EXTINF:0,770
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
@@ -1637,9 +1637,10 @@ http://213.169.39.30:5288
 #EXTINF:0,798
 http://195.26.83.96:7029/play/9
 #EXTINF:0,799
-http://150.129.9.194:8089/40/index.m3u8?token=test
+http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
