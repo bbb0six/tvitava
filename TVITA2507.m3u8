@@ -825,20 +825,20 @@ https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="-",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 group-title="IT",Euronews
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:0 group-title="FR",Novo 19
+http://82.64.27.86:3000/T-8442-2-520
+#EXTINF:0 group-title="FR",CStar
+http://82.64.27.86:3000/T-8442-2-517
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
-#EXTINF:0 group-title="IT",SkyTG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0,MTV Live EU
-http://179.63.6.12:9000/play/a04r
+#EXTINF:0 group-title="IT",SkyTG24
+https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0 group-title="i",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0 group-title="i",Rai 2
@@ -1640,3 +1640,4 @@ http://195.26.83.96:7029/play/9
 http://150.129.9.194:8089/40/index.m3u8?token=test
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
