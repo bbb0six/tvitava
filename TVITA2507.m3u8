@@ -224,8 +224,8 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
 http://95.216.97.235:7777/mtv00
-#EXTINF:-1 group-title="MTV",MTV DE
-http://91.191.178.53:3000/S19.2E-1-1078-28671
+#EXTINF:-1 group-title="MTV",MTV Europe
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1392,11 +1392,11 @@ http://95.216.97.235:7777/mtv90
 http://190.83.2.172:8081/play/a05n
 #EXTINF:0 group-title="MTV",MTV Live EU
 http://179.63.6.12:9000/play/a04r
-#EXTINF:0,group-title="news",CNN Live US
+#EXTINF:0 group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="news",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0,_
+#EXTINF:0 group-title="news",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
@@ -1438,15 +1438,15 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1,20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:0,701
+#EXTINF:0,Rai 1 HD
 http://185.207.34.31:8000/play/a00g/index.m3u8
-#EXTINF:0,702
+#EXTINF:0,Rai 2 HD
 http://185.207.34.31:8000/play/a010/index.m3u8
-#EXTINF:0,703
+#EXTINF:0,Rai 3 HD
 http://185.207.34.31:8000/play/a01a/index.m3u8
-#EXTINF:0,704
+#EXTINF:0,Senato
 http://185.207.34.31:8000/play/a012/index.m3u8
-#EXTINF:0,705
+#EXTINF:0,TV5MONDE EUROPE HD
 http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0,706
 http://app-plus.live:80/02092021iptv/pwqopprrct/267903
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
