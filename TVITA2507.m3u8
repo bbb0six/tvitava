@@ -110,8 +110,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&force
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1,45
-http://190.83.2.172:8081/play/a05m
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdng15-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -933,6 +932,8 @@ http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",BLOOMBERG
 http://fl3.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:0 group-title="USA",CBS East
+http://fl3.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1013,8 +1014,6 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
 http://176.65.146.224:4002/play/a06z/index.m3u8
-#EXTINF:0,group-title="UK",ITV1 Wales HD
-http://176.65.146.224:4004/play/a07m/index.m3u8
 #EXTINF:0,ORLER TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:-1,TRENTINO TV
@@ -1455,8 +1454,8 @@ http://app-plus.live:80/02092021iptv/pwqopprrct/267903
 http://app-plus.live:80/02092021iptv/pwqopprrct/41136
 #EXTINF:0,708
 http://app-plus.live:80/02092021iptv/pwqopprrct/41087
-#EXTINF:0,709
-http://app-plus.live:80/02092021iptv/pwqopprrct/432
+#EXTINF:0,group-title="UK",ITV1 Wales HD
+http://176.65.146.224:4004/play/a07m/index.m3u8
 #EXTINF:0,group-title="UK",BBC One EMidHD
 http://176.65.146.224:4001/play/a08i/index.m3u8
 #EXTINF:0,group-title="UK",BBC One EastHD
@@ -1520,9 +1519,9 @@ https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:0,740
 http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304513
 #EXTINF:0,741
-http://183.185.111.79:9003/hls/1/index.m3u8
+http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,742
-http://183.185.111.79:9003/hls/2/index.m3u8
+http://94.130.221.219/2plus2/index.m3u8
 #EXTINF:0,743
 http://183.185.111.79:9003/hls/3/index.m3u8
 #EXTINF:0,744
@@ -1593,7 +1592,7 @@ http://tv.proyectox.vip:8080/luismachuca1/b74bf3eb6b45/8313
 #EXTINF:0,776
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:0,777
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+http://app-plus.live:80/02092021iptv/pwqopprrct/432
 #EXTINF:0,778
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0,779
@@ -1640,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
