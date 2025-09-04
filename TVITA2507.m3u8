@@ -438,9 +438,9 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0,group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0 group-title="España",La 1
+#EXTINF:0 group-title="España",La 1 HD
 http://176.65.146.237:8401/play/a095/index.m3u8
-#EXTINF:0 group-title="España",La 2
+#EXTINF:0 group-title="España",La 2 HD
 http://176.65.146.237:8401/play/a098/index.m3u8
 #EXTINF:0 group-title="España",Antena 3
 http://176.65.146.237:8401/play/a0ae/index.m3u8
@@ -472,12 +472,12 @@ http://176.65.146.237:8401/play/a09q/index.m3u8
 http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
 http://185.189.225.157/BOING/index.m3u8
-#EXTINF:0 group-title="España",Baby TV ES
-http://185.189.225.149/BabyTV/index.m3u8
+#EXTINF:0 group-title="España",DKISS
+http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
-http://79.112.31.52:8069/udp/239.250.3.2:1234
+http://176.65.146.237:8401/play/a09i
 #EXTINF:0 group-title="España",TV3
 http://185.189.225.157/tv3/index.m3u8
 #EXTINF:0 group-title="España",TV3 CAT
@@ -494,7 +494,7 @@ http://176.65.146.237:8401/play/a0ai/index.m3u8
 http://176.65.146.237:8401/play/a09j/index.m3u8
 #EXTINF:0 group-title="España",BeMad tv HD
 http://176.65.146.237:8401/play/a0aj/index.m3u8
-#EXTINF:0 group-title="España",TDP HD
+#EXTINF:0 group-title="España",tdp HD
 http://176.65.146.237:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="España",TEN
 http://176.65.146.237:8401/play/a0al/index.m3u8
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
