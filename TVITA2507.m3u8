@@ -1060,16 +1060,16 @@ http://89.187.191.99:8080/arena4/index.m3u8
 http://89.187.191.99:8080/arena5/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 7
 http://89.187.191.99:8080/arena7/index.m3u8
-#EXTINF:0 group-title="sports",match futbol 1
+#EXTINF:0,_
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
-#EXTINF:0 group-title="sports",match futbol 2
+#EXTINF:0,_
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
-#EXTINF:0 group-title="sports",match futbol 3
-http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:0,_
-http://38.7.204.232:8011/play/a2p5
-#EXTINF:0,_
-http://38.7.204.232:8011/play/a2l4
+#EXTINF:0,group-title="bg",Diema Sport 1
+http://213.169.39.30:5134
+#EXTINF:0,group-title="bg",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:0,group-title="bg",Diema Sport 3
+http://213.169.39.30:5216
 #EXTINF:-1 group-title="sports",ESPN 1
 http://38.44.109.41:8003/play/a02v
 #EXTINF:-1 group-title="sports",ESPN 2
@@ -1138,19 +1138,19 @@ http://181.189.241.114:5050/play/a0q6
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,San Marino RTV
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:-1 group-title="s",Max Sport 1
+#EXTINF:-1 group-title="BG",Max Sport 1
 http://78.128.125.60:9982/play/a019/index.m3u8
-#EXTINF:-1 group-title="s",Max Sport 2
+#EXTINF:-1 group-title="BG",Max Sport 2
 http://78.128.125.60:9982/play/a00v/index.m3u8
-#EXTINF:-1 group-title="s",Max Sport 3
+#EXTINF:-1 group-title="BG",Max Sport 3
 http://78.128.125.60:9982/play/a01a/index.m3u8
-#EXTINF:-1 group-title="s",Max Sport 4
+#EXTINF:-1 group-title="BG",Max Sport 4
 http://78.128.125.60:9982/play/a004/index.m3u8
-#EXTINF:-1 group-title="s",Diema Sport 1
+#EXTINF:-1 group-title="BG",Diema Sport 1
 http://78.128.125.60:9980/play/a018/index.m3u8
-#EXTINF:-1 group-title="s",Diema Sport 2
+#EXTINF:-1 group-title="BG",Diema Sport 2
 http://78.128.125.60:9980/play/a016/index.m3u8
-#EXTINF:-1 group-title="s",Diema Sport 3
+#EXTINF:-1 group-title="BG",Diema Sport 3
 http://78.128.125.60:9980/play/a017/index.m3u8
 #EXTINF:0,group-title="co",ESPN
 http://170.82.113.50:8899/play/a0l9/index.m3u8
@@ -1198,46 +1198,46 @@ http://181.209.194.14:8000/play/a01k
 http://181.209.194.14:8000/play/a040
 #EXTINF:-1 group-title="sp",MTV 00s HD
 http://181.209.194.14:8000/play/a041
-#EXTINF:0 group-title="EU",BBC ONE LON HD
-http://185.130.218.254:25007/BBC1/mpegts
-#EXTINF:0 group-title="EU",BBC TWO HD
-http://185.130.218.254:25007/BBC2/mpegts
-#EXTINF:0 group-title="EU",ITV 1
-http://185.130.218.254:25007/ITV/mpegts
-#EXTINF:0 group-title="EU",ITV 2
-http://185.130.218.254:25007/ITV2/mpegts
-#EXTINF:0 group-title="EU",ITV 3
-http://185.130.218.254:25007/ITV3/mpegts
-#EXTINF:0 group-title="EU",ITV 4
-http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0 group-title="EU",NatGeo HD
-http://185.130.218.254:25007/NatGeo/mpegts
-#EXTINF:0 group-title="EU",AMC ES
-http://185.130.218.254:25007/AMC/mpegts
-#EXTINF:0 group-title="EU",RTL DE
-http://185.130.218.254:25007/RTL/mpegts
-#EXTINF:0 group-title="EU",RTL 2 DE
-http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0 group-title="EU",TF1 FR
-http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0 group-title="EU",France 2 FR
-http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0,group-title="EU",France 3 FR
-http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0,group-title="EU",France 4 FR
-http://185.130.218.254:25007/France4/mpegts
-#EXTINF:0,group-title="bg",BNT 1
+#EXTINF:0 group-title="PP",ESPN 1
+http://45.173.75.4:2061/play/a09z
+#EXTINF:0 group-title="PP",ESPN 2
+http://45.173.75.4:2061/play/a06l
+#EXTINF:0 group-title="PP",ESPN 3
+http://45.173.75.4:2061/play/a020
+#EXTINF:0 group-title="PP",ESPN 4
+http://45.173.75.4:2061/play/a063
+#EXTINF:0 group-title="PP",ESPN 5
+http://45.173.75.4:2061/play/a01r
+#EXTINF:0 group-title="PP",ESPN 6
+http://45.173.75.4:2061/play/a017
+#EXTINF:0 group-title="PP",ESPN 7
+http://45.173.75.4:2061/play/a016
+#EXTINF:0 group-title="PP",MTV LA
+http://45.173.75.4:2061/play/a09g
+#EXTINF:0 group-title="PP",MTV 00
+http://45.173.75.4:2061/play/a09i
+#EXTINF:0 group-title="BG",MTV EU
+http://78.128.125.60:9980/play/a00d/index.m3u8
+#EXTINF:0 group-title="BG",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
-#EXTINF:0,group-title="bg",BNT 2
+#EXTINF:0 group-title="BG",BNT 2
 http://78.128.125.60:9981/play/a010/index.m3u8
-#EXTINF:0,group-title="bg",BNT 3
+#EXTINF:0 group-title="BG",BNT 3
 http://78.128.125.60:9981/play/a00w/index.m3u8
-#EXTINF:0,group-title="bg",BNT 4
+#EXTINF:0 group-title="BG",BNT 4
 http://78.128.125.60:9981/play/a011/index.m3u8
-#EXTINF:0,group-title="bg",Nova
+#EXTINF:0 group-title="BG",Nova
 http://78.128.125.60:9981/play/a002/index.m3u8
-#EXTINF:0,group-title="bg",Diema
+#EXTINF:0 group-title="BG",Diema
 http://78.128.125.60:9980/play/a013/index.m3u8
+#EXTINF:0,group-title="bg",Max Sport 1
+http://213.169.39.30:5138
+#EXTINF:0,group-title="bg",Max Sport 2
+http://213.169.39.30:5140
+#EXTINF:0,group-title="bg",Max Sport 3
+http://213.169.39.30:5142
+#EXTINF:0,group-title="bg",Max Sport 4
+http://213.169.39.30:5130
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
 #EXTINF:0 group-title="NL",NPO 2
@@ -1324,20 +1324,60 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0 group-title="lu",Chamber TV
 http://185.236.230.212:9982/play/a09x
-#EXTINF:0,group-title="bg",Diema Sport 1
-http://213.169.39.30:5134
-#EXTINF:0,group-title="bg",Diema Sport 2
-http://213.169.39.30:5136
-#EXTINF:0,group-title="bg",Diema Sport 3
-http://213.169.39.30:5216
-#EXTINF:0,group-title="bg",Max Sport 1
-http://213.169.39.30:5138
-#EXTINF:0,group-title="bg",Max Sport 2
-http://213.169.39.30:5140
-#EXTINF:0,group-title="bg",Max Sport 3
-http://213.169.39.30:5142
-#EXTINF:0,group-title="bg",Max Sport 4
-http://213.169.39.30:5130
+#EXTINF:0 group-title="DE",SRF 1 CH
+http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF 2 CH
+http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF INFO CH
+http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",3SAT DE
+http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",3+ DE
+http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",4+ DE
+http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Eurosport DE
+http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="EU",BBC ONE LON HD
+http://185.130.218.254:25007/BBC1/mpegts
+#EXTINF:0 group-title="EU",BBC TWO HD
+http://185.130.218.254:25007/BBC2/mpegts
+#EXTINF:0 group-title="EU",ITV 1
+http://185.130.218.254:25007/ITV/mpegts
+#EXTINF:0 group-title="EU",ITV 2
+http://185.130.218.254:25007/ITV2/mpegts
+#EXTINF:0 group-title="EU",ITV 3
+http://185.130.218.254:25007/ITV3/mpegts
+#EXTINF:0 group-title="EU",ITV 4
+http://185.130.218.254:25007/ITV4/mpegts
+#EXTINF:0 group-title="EU",NatGeo HD
+http://185.130.218.254:25007/NatGeo/mpegts
+#EXTINF:0 group-title="EU",AMC ES
+http://185.130.218.254:25007/AMC/mpegts
+#EXTINF:0 group-title="EU",RTL DE
+http://185.130.218.254:25007/RTL/mpegts
+#EXTINF:0 group-title="EU",RTL 2 DE
+http://185.130.218.254:25007/RTL2/mpegts
+#EXTINF:0 group-title="EU",TF1 FR
+http://185.130.218.254:25007/France2/mpegts
+#EXTINF:0 group-title="EU",France 2 FR
+http://185.130.218.254:25007/France2/mpegts
+#EXTINF:0 group-title="EU",France 3 FR
+http://185.130.218.254:25007/France3/mpegts
+#EXTINF:0 group-title="EU",France 4 FR
+http://185.130.218.254:25007/France4/mpegts
+#EXTINF:0 group-title="DE",ProSieben DE
+http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Pro7 Maxx DE
+http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SAT1 DE
+http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",ZDF DE
+http://176.10.117.68:6060/zdf/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Nick DE
+http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Comedy Central DE
+http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MTV",MTV UK
 http://195.181.161.132/MTVMUSIC/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Hits
@@ -1356,48 +1396,8 @@ http://179.63.6.12:9000/play/a04r
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="news",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0,group-title="AL",ORA News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0,group-title="AL",CNA TV Live
-https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0,_
-http://94.130.221.219/2plus2/index.m3u8
-#EXTINF:0,group-title="RU",Bridge Dance
-http://46.8.46.14/BridgeDance/index.m3u8
-#EXTINF:0,group-title="RU",Shanson TV RU
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
-#EXTINF:0,group-title="RU",1TV RU
-https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,group-title="VGTRK",Russia 1 +0
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +2
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +3
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +4
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +5
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +6
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +7
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +8
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 1 +9
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia 24 +0
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia K +0
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia K +2
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia K +4
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:0,group-title="VGTRK",Russia K +7
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1,02 РОССИЯ-1
@@ -1531,43 +1531,43 @@ http://183.185.111.79:9003/hls/5/index.m3u8
 #EXTINF:0,746
 http://183.185.111.79:9003/hls/6/index.m3u8
 #EXTINF:0,747
-http://183.185.111.79:9003/hls/7/index.m3u8
+http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,748
-http://183.185.111.79:9003/hls/8/index.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,749
-http://183.185.111.79:9003/hls/9/index.m3u8
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,750
-http://183.185.111.79:9003/hls/10/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0,751
-http://183.185.111.79:9003/hls/11/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
 #EXTINF:0,752
-http://183.185.111.79:9003/hls/12/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
 #EXTINF:0,753
-http://183.185.111.79:9003/hls/13/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
 #EXTINF:0,754
-http://183.185.111.79:9003/hls/14/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:0,755
-http://183.185.111.79:9003/hls/15/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:0,756
-http://183.185.111.79:9003/hls/16/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:0,757
-http://183.185.111.79:9003/hls/17/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:0,758
-http://183.185.111.79:9003/hls/18/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:0,759
-http://183.185.111.79:9003/hls/19/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:0,760
-http://183.185.111.79:9003/hls/20/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,761
-http://183.185.111.79:9003/hls/21/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,762
-http://183.185.111.79:9003/hls/22/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:0,763
-http://183.185.111.79:9003/hls/23/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:0,764
-http://183.185.111.79:9003/hls/24/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
-http://183.185.111.79:9003/hls/25/index.m3u8
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,766
 http://84.22.55.2:8011/play/s300
 #EXTINF:0,767
@@ -1579,10 +1579,10 @@ http://45.159.74.22:80/Channel_117/mpegts
 #EXTINF:0,770
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
-#EXTINF:0,771 
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
-#EXTINF:0,772
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0,group-title="AL",ORA News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0,group-title="AL",CNA TV Live
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0,773
 http://84.22.55.2:8009/play/s258
 #EXTINF:0,774
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
