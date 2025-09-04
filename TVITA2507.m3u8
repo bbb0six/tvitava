@@ -438,38 +438,38 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0,group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0 group-title="España",La1
-http://79.112.31.52:8069/udp/239.10.20.5:1234
-#EXTINF:0 group-title="España",La2
-http://79.112.31.52:8069/udp/239.10.20.8:1234
+#EXTINF:0 group-title="España",La 1
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:0 group-title="España",La 2
+http://176.65.146.237:8401/play/a098/index.m3u8
 #EXTINF:0 group-title="España",Antena 3
-http://79.112.31.52:8069/udp/239.10.20.9:1234
-#EXTINF:0 group-title="España",Cuatro
-http://79.112.31.52:8069/udp/239.10.20.20:1234
-#EXTINF:0 group-title="España",TeleCinco
-http://79.112.31.52:8069/udp/239.10.20.19:1234
-#EXTINF:0 group-title="España",LaSexta
-http://79.112.31.52:8069/udp/239.10.20.11:1234
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:0 group-title="España",Cuatro HD
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:0 group-title="España",Telecinco HD
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:0 group-title="España",laSexta
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:0 group-title="España",24h
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0 group-title="España",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0 group-title="España",FDF
-http://79.112.31.52:8069/udp/239.10.20.17:1234
+http://185.189.225.149/fdf/index.m3u8
 #EXTINF:0 group-title="España",Mega
 http://185.189.225.149/mega/index.m3u8
 #EXTINF:0 group-title="España",Neox
-http://79.112.31.52:8069/udp/239.250.4.3:1234
+http://185.189.225.157/neox/index.m3u8
 #EXTINF:0 group-title="España",Nova
-http://79.112.31.52:8069/udp/239.250.4.4:1234
+http://185.189.225.157/nova/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
 http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:0 group-title="España",Energy
-http://79.112.31.52:8069/udp/239.10.20.49:1234
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:0 group-title="España",Divinity
-http://79.112.31.52:8069/udp/239.10.20.18:1234
-#EXTINF:0 group-title="España",Clan
-http://79.112.31.52:8069/udp/239.10.20.21:1234
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:0 group-title="España",Clan HD
+http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
 http://185.189.225.157/BOING/index.m3u8
 #EXTINF:0 group-title="España",Baby TV ES
@@ -487,17 +487,17 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:0 group-title="España",Aragon TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="España",Trece
-http://79.112.31.52:8069/udp/239.10.20.60:1234
-#EXTINF:0 group-title="España",A3S
-http://79.112.31.52:8069/udp/239.10.20.35:1234
-#EXTINF:0 group-title="España",DMax ES
-http://79.112.31.52:8069/udp/239.10.20.53:1234
-#EXTINF:0 group-title="España",BeMad TV
-http://79.112.31.52:8069/udp/239.10.20.36:1234
-#EXTINF:0 group-title="España",TDP
-http://79.112.31.52:8069/udp/239.10.20.3:1234
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:0 group-title="España",A3Series
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:0 group-title="España",DMAX ES
+http://176.65.146.237:8401/play/a09j/index.m3u8
+#EXTINF:0 group-title="España",BeMad tv HD
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:0 group-title="España",TDP HD
+http://176.65.146.237:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="España",TEN
-http://79.112.31.52:8069/udp/239.10.20.38:1234
+http://176.65.146.237:8401/play/a0al/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 1 ES
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 2 ES
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
