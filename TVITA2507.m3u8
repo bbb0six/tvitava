@@ -455,7 +455,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="España",8 Madrid
 http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0 group-title="España",FDF
-http://185.189.225.149/fdf/index.m3u8
+http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:0 group-title="España",Mega
 http://185.189.225.149/mega/index.m3u8
 #EXTINF:0 group-title="España",Neox
@@ -468,12 +468,12 @@ http://176.65.146.237:8401/play/a09d/index.m3u8
 http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:0 group-title="España",Divinity
 http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:0 group-title="España",DKISS
+http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Clan HD
 http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
 http://185.189.225.157/BOING/index.m3u8
-#EXTINF:0 group-title="España",DKISS
-http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
@@ -826,18 +826,18 @@ https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="FR",Novo 19
 http://82.64.27.86:3000/T-8442-2-520
-#EXTINF:0 group-title="ES",Star TVE
-http://190.83.2.172:8080/play/a038
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
+#EXTINF:0 group-title="IT",SkyTG24
+https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="IT",SkyTG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+#EXTINF:0 group-title="ES",Star TVE
+http://190.83.2.172:8080/play/a038
 #EXTINF:0 group-title="i",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0 group-title="i",Rai 2
@@ -1280,64 +1280,44 @@ http://185.236.230.212:9982/play/a09m
 http://185.236.230.212:9982/play/a09k
 #EXTINF:0 group-title="BE",VRT 1 HD
 http://185.236.230.212:9982/play/a0a0
-#EXTINF:0,|BE| VRT CANVAS HD
+#EXTINF:0 group-title="BE",VRT CANVAS HD
 http://185.236.230.212:9982/play/a0a2
-#EXTINF:0,|BE| VTM GOLD
+#EXTINF:0 group-title="BE",VTM GOLD
 http://185.236.230.212:9982/play/a09i
-#EXTINF:0,|BE| KETNET
-http://185.236.230.212:9982/play/a09j
-#EXTINF:0,|BE| MENT POP
-http://185.236.230.212:9982/play/a09c
-#EXTINF:0,|CZ| CT 1 JM HD
+#EXTINF:0 group-title="CZ",CT 1 JM HD
 http://185.236.230.212:9982/play/a0b6
-#EXTINF:0,|CZ| CT 1 JZC HD
+#EXTINF:0 group-title="CZ",CT 1 JZC HD
 http://185.236.230.212:9982/play/a0ba
-#EXTINF:0,|CZ| CT 1 PHA HD
+#EXTINF:0 group-title="CZ",CT 1 PHA HD
 http://185.236.230.212:9982/play/a0b0
-#EXTINF:0,|CZ| CT 1 SM HD
+#EXTINF:0 group-title="CZ",CT 1 SM HD
 http://185.236.230.212:9982/play/a0b5
-#EXTINF:0,|CZ| CT 1 SVC HD
+#EXTINF:0 group-title="CZ",CT 1 SVC HD
 http://185.236.230.212:9982/play/a0b8
-#EXTINF:0,|CZ| CT 2 HD
+#EXTINF:0 group-title="CZ",CT 2 HD
 http://185.236.230.212:9982/play/a0b1
-#EXTINF:0,|CZ| CT 24 HD
+#EXTINF:0 group-title="CZ",CT 24 HD
 http://185.236.230.212:9982/play/a0b2
-#EXTINF:0,|CZ| CT :D/ART HD
+#EXTINF:0 group-title="CZ",CT :D/ART HD
 http://185.236.230.212:9982/play/a0b4
-#EXTINF:0,|CZ| CT SPORT HD
+#EXTINF:0 group-title="CZ",CT SPORT HD
 http://185.236.230.212:9982/play/a0b3
-#EXTINF:0,|CZ| NOVA SPORT 1 HD
+#EXTINF:0 group-title="CZ",NOVA SPORT 1 HD
 http://185.236.230.212:9982/play/a0an
-#EXTINF:0,|CZ| MTV EUROPE
+#EXTINF:0 group-title="CZ",MTV EUROPE
 http://185.236.230.212:9982/play/a086
-#EXTINF:0,|CZ| FILM EUROPE+ HD
+#EXTINF:0 group-title="CZ",FILM EUROPE+ HD
 http://185.236.230.212:9982/play/a08v
-#EXTINF:0,|CZ| FILM+ HD
+#EXTINF:0 group-title="CZ",FILM+ HD
 http://185.236.230.212:9982/play/a08q
-#EXTINF:0,|CZ| FILMBOX PREMIUM HD
+#EXTINF:0 group-title="CZ",FILMBOX PREMIUM HD
 http://185.236.230.212:9982/play/a08t
-#EXTINF:0,|CZ| FILMBOX STARS
+#EXTINF:0 group-title="CZ",FILMBOX STARS
 http://185.236.230.212:9982/play/a08x
-#EXTINF:0 group-title="lu",RTL 1 LU
+#EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="lu",RTL 2 LU
+#EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="lu",Chamber TV
-http://185.236.230.212:9982/play/a09x
-#EXTINF:0 group-title="DE",SRF 1 CH
-http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF 2 CH
-http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF INFO CH
-http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",3SAT DE
-http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",3+ DE
-http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",4+ DE
-http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Eurosport DE
-http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0 group-title="EU",BBC TWO HD
@@ -1359,13 +1339,35 @@ http://185.130.218.254:25007/RTL/mpegts
 #EXTINF:0 group-title="EU",RTL 2 DE
 http://185.130.218.254:25007/RTL2/mpegts
 #EXTINF:0 group-title="EU",TF1 FR
-http://185.130.218.254:25007/France2/mpegts
+http://185.130.218.254:25007/TF1/mpegts
 #EXTINF:0 group-title="EU",France 2 FR
 http://185.130.218.254:25007/France2/mpegts
 #EXTINF:0 group-title="EU",France 3 FR
 http://185.130.218.254:25007/France3/mpegts
 #EXTINF:0 group-title="EU",France 4 FR
 http://185.130.218.254:25007/France4/mpegts
+#EXTINF:0 group-title="EU",La 1 ES
+http://185.130.218.254:25007/La1HD/mpegts
+#EXTINF:0 group-title="EU",La 2 ES
+http://185.130.218.254:25007/La2HD/mpegts
+#EXTINF:0 group-title="EU",Cuatro ES
+http://185.130.218.254:25007/CuatroHD/mpegts
+#EXTINF:0 group-title="EU",Telecinco ES
+http://185.130.218.254:25007/TelecincoHD/mpegts
+#EXTINF:0 group-title="DE",SRF 1 CH
+http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF 2 CH
+http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF INFO CH
+http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",3SAT DE
+http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",3+ DE
+http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",4+ DE
+http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Eurosport DE
+http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",ProSieben DE
 http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Pro7 Maxx DE
@@ -1396,8 +1398,6 @@ http://179.63.6.12:9000/play/a04r
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="news",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0 group-title="news",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1,02 РОССИЯ-1
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
