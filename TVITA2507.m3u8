@@ -1573,7 +1573,7 @@ http://84.22.55.2:8011/play/s300
 #EXTINF:0,767
 http://84.22.55.2:8011/play/s308
 #EXTINF:0,768
-http://84.22.55.2:8012/play/s293
+http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 #EXTINF:0,769
 http://45.159.74.22:80/Channel_117/mpegts
 #EXTINF:0,770
@@ -1583,8 +1583,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0,773
-http://84.22.55.2:8009/play/s258
+#EXTINF:0,group-title="AL",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0,774
 http://tv.proyectox.vip:8080/luismachuca1/b74bf3eb6b45/8312
 #EXTINF:0,775
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
