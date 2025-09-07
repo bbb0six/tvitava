@@ -477,7 +477,7 @@ http://185.189.225.157/BOING/index.m3u8
 #EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
-http://176.65.146.237:8401/play/a09i
+http://176.65.146.237:8401/play/a09i/index.m3u8
 #EXTINF:0 group-title="España",TV3
 http://185.189.225.157/tv3/index.m3u8
 #EXTINF:0 group-title="España",TV3 CAT
@@ -636,8 +636,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="sk",Rai 3 SAT
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0,group-title="adria",RTSH Sat
-http://89.187.191.99:8080/tvsh/index.m3u8
+#EXTINF:0,BBC Earth 
+http://46.149.191.217:9019/play/a01w
 #EXTINF:0,group-title="AL",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0,group-title="AL",RTSH 2
@@ -1639,6 +1639,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
