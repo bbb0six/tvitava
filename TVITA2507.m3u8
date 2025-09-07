@@ -692,14 +692,14 @@ http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0,group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:-1,group-title="adria",SLO 1
+#EXTINF:-1,_
 http://89.187.191.99:8080/slo1/index.m3u8
-#EXTINF:-1,group-title="adria",SLO 2
+#EXTINF:-1,_
 http://89.187.191.99:8080/slo2/index.m3u8
-#EXTINF:-1,group-title="adria",SLO 3
-http://89.187.191.99:8080/slo3/index.m3u8
-#EXTINF:-1,group-title="adria",RTK 1
-http://89.187.191.99:8080/rtk1/index.m3u8
+#EXTINF:-1,TV Nova Pula
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:0,group-title="CH",RTK 1 SAT
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:-1,group-title="adria",RTK 2
 http://89.187.191.99:8080/rtk2/index.m3u8
 #EXTINF:-1,group-title="adria",RTK 3
@@ -712,19 +712,19 @@ http://89.187.191.99:8080/rtv21/index.m3u8
 http://89.187.191.99:8080/nova/index.m3u8
 #EXTINF:0,group-title="adria",Nova BH
 http://89.187.191.99:8080/novabh/index.m3u8
-#EXTINF:0,group-title="adria",HR RTL 1
-http://89.187.191.99:8080/rtl/index.m3u8
-#EXTINF:0,group-title="adria",HR RTL 2
-http://89.187.191.99:8080/rtl2/index.m3u8
+#EXTINF:0 group-title="HR",HR RTL 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:0 group-title="HR",HR RTL 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:-1,group-title="adria",HRT INT
 http://89.187.191.99:8080/hrt5/index.m3u8
-#EXTINF:0,group-title="HR",HRT 1 HD
+#EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:0,group-title="HR",HRT 2 HD
+#EXTINF:0 group-title="HR",HRT 2
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:0,group-title="HR",HRT 3 HD
+#EXTINF:0 group-title="HR",HRT 3
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:0,group-title="HR",HRT 4 HD
+#EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:0,group-title="RS",RTS 1
 http://46.240.143.86:8065/rts1
@@ -1048,16 +1048,16 @@ http://94.130.221.219/m3/index.m3u8
 http://94.130.221.219/setanta1/index.m3u8
 #EXTINF:0 group-title="sports",setanta 2
 http://94.130.221.219/setanta2/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 1
-http://89.187.191.99:8080/arena1/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 2
-http://89.187.191.99:8080/arena2/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 3
-http://89.187.191.99:8080/arena3/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 4
-http://89.187.191.99:8080/arena4/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 5
-http://89.187.191.99:8080/arena5/index.m3u8
+#EXTINF:0 group-title="sports",ESPN1
+http://143.0.67.77:8000/play/a05a/index.m3u8
+#EXTINF:0 group-title="sports",ESPN2
+http://143.0.67.77:8000/play/a059/index.m3u8
+#EXTINF:0 group-title="sports",ESPN3
+http://143.0.67.77:8000/play/a05b/index.m3u8
+#EXTINF:0 group-title="sports",ESPN4
+http://143.0.67.77:8000/play/a076/index.m3u8
+#EXTINF:0 group-title="sports",ESPNP
+http://143.0.67.77:8000/play/a078/index.m3u8
 #EXTINF:0 group-title="sports",arena sport 7
 http://89.187.191.99:8080/arena7/index.m3u8
 #EXTINF:0,_
@@ -1137,6 +1137,7 @@ http://181.189.241.114:5050/play/a0q6
 #EXTINF:0,_
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,San Marino RTV
+#EXTVLCOPT:network-caching=1000
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:-1 group-title="BG",Max Sport 1
 http://78.128.125.60:9982/play/a019/index.m3u8
@@ -1523,13 +1524,13 @@ http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,742
 http://94.130.221.219/2plus2/index.m3u8
 #EXTINF:0,743
-http://183.185.111.79:9003/hls/3/index.m3u8
+http://185.130.218.254:25007/BTSport2/index.m3u8
 #EXTINF:0,744
-http://183.185.111.79:9003/hls/4/index.m3u8
+http://185.130.218.254:25007/BTSport3/index.m3u8
 #EXTINF:0,745
 http://183.185.111.79:9003/hls/5/index.m3u8
 #EXTINF:0,746
-http://183.185.111.79:9003/hls/6/index.m3u8
+http://143.0.67.77:8000/play/a02p/index.m3u8
 #EXTINF:0,747
 http://46.8.46.14/BridgeDance/index.m3u8
 #EXTINF:0,748
@@ -1639,6 +1640,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
