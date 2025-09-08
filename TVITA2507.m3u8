@@ -109,7 +109,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1,45
+#EXTINF:-1 group-title="Vari",7G
 https://streamcdng15-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -238,121 +238,121 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:0,group-title="CH",RAI 1
+#EXTINF:0 group-title="CH",RAI 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:0,group-title="CH",RAI 2
+#EXTINF:0 group-title="CH",RAI 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:0,group-title="CH",RAI 3
+#EXTINF:0 group-title="CH",RAI 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:0,group-title="CH",RETE 4
+#EXTINF:0 group-title="CH",RETE 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:0,group-title="CH",CANALE 5
+#EXTINF:0 group-title="CH",CANALE 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:0,group-title="CH",ITALIA 1
+#EXTINF:0 group-title="CH",ITALIA 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:0,group-title="CH",LA 7
+#EXTINF:0 group-title="CH",LA 7
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:0,group-title="CH",LA 7D
+#EXTINF:0 group-title="CH",LA 7D
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:0,group-title="CH",NOVE
+#EXTINF:0 group-title="CH",NOVE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
-#EXTINF:0,group-title="CH",DMAX IT
+#EXTINF:0 group-title="CH",DMAX IT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:0,group-title="CH",RSI LA 1
+#EXTINF:0 group-title="CH",RSI LA 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:0,group-title="CH",RSI LA 2
+#EXTINF:0 group-title="CH",RSI LA 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:0,group-title="CH",SRF 1
+#EXTINF:0 group-title="CH",SRF 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:0,group-title="CH",SRF 2
+#EXTINF:0 group-title="CH",SRF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
-#EXTINF:0,group-title="CH",SRF INFO
+#EXTINF:0 group-title="CH",SRF INFO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-#EXTINF:0,group-title="CH",RTS 1
+#EXTINF:0 group-title="CH",RTS 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:0,group-title="CH",RTS 2
+#EXTINF:0 group-title="CH",RTS 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:0,group-title="CH",CNN International
+#EXTINF:0 group-title="CH",CNN International
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
-#EXTINF:0,group-title="sk",Euronews EN
+#EXTINF:0 group-title="sk",Euronews EN
 https://dash3.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:0,group-title="CH",Euronews FR
+#EXTINF:0 group-title="CH",Euronews FR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
-#EXTINF:0,group-title="CH",TF1
+#EXTINF:0 group-title="CH",TF1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
-#EXTINF:0,group-title="CH",FRANCE 2
+#EXTINF:0 group-title="CH",FRANCE 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:0,group-title="CH",FRANCE 3
+#EXTINF:0 group-title="CH",FRANCE 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
-#EXTINF:0,group-title="CH",FRANCE 4
+#EXTINF:0 group-title="CH",FRANCE 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:0,group-title="CH",FRANCE 5
+#EXTINF:0 group-title="CH",FRANCE 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:0,group-title="CH",M6
+#EXTINF:0 group-title="CH",M6
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
-#EXTINF:0,group-title="CH",ARTE
+#EXTINF:0 group-title="CH",ARTE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
-#EXTINF:0,group-title="CH",LCP
+#EXTINF:0 group-title="CH",LCP
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
-#EXTINF:0,group-title="CH",W9
+#EXTINF:0 group-title="CH",W9
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
-#EXTINF:0,group-title="CH",TMC
+#EXTINF:0 group-title="CH",TMC
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
-#EXTINF:0,group-title="CH",TFX
+#EXTINF:0 group-title="CH",TFX
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
-#EXTINF:0,group-title="CH",GULLI
+#EXTINF:0 group-title="CH",GULLI
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
-#EXTINF:0,group-title="CH",BFM TV
+#EXTINF:0 group-title="CH",BFM TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
-#EXTINF:0,group-title="CH",CNEWS
+#EXTINF:0 group-title="CH",CNEWS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
-#EXTINF:0,group-title="CH",LCI
+#EXTINF:0 group-title="CH",LCI
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
-#EXTINF:0,group-title="CH",franceinfo
+#EXTINF:0 group-title="CH",franceinfo
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
-#EXTINF:0,group-title="CH",CSTAR
+#EXTINF:0 group-title="CH",CSTAR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
-#EXTINF:0,group-title="CH",T18
+#EXTINF:0 group-title="CH",T18
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
-#EXTINF:0,group-title="CH",Paramount FR
+#EXTINF:0 group-title="CH",Paramount FR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
-#EXTINF:0,group-title="CH",TF1 Series Film
+#EXTINF:0 group-title="CH",TF1 Series Film
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
-#EXTINF:0,group-title="CH",L'equipe
+#EXTINF:0 group-title="CH",L'equipe
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
-#EXTINF:0,group-title="CH",6Ter
+#EXTINF:0 group-title="CH",6Ter
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
-#EXTINF:0,group-title="CH",RMC Story
+#EXTINF:0 group-title="CH",RMC Story
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
-#EXTINF:0,group-title="CH",RMC Decouverte
+#EXTINF:0 group-title="CH",RMC Decouverte
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
-#EXTINF:0,group-title="CH",Cherie 25
+#EXTINF:0 group-title="CH",Cherie 25
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0,group-title="CH",BBC World News
+#EXTINF:0 group-title="CH",BBC World News
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
-#EXTINF:0,group-title="UK",BBC 1
+#EXTINF:0 group-title="UK",BBC 1
 http://92.118.251.84:8080/bbc1hd/index.m3u8
-#EXTINF:0,group-title="CH",BBC 2
+#EXTINF:0 group-title="CH",BBC 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:0,group-title="CH",BBC 3
+#EXTINF:0 group-title="CH",BBC 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0,group-title="CH",BBC 4
+#EXTINF:0 group-title="CH",BBC 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:0,group-title="UK",ITV 1
+#EXTINF:0 group-title="UK",ITV 1
 http://185.130.218.254:25007/ITV/mpegts
-#EXTINF:0,group-title="CH",ITV 2
+#EXTINF:0 group-title="CH",ITV 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:0,group-title="CH",ITV 3
+#EXTINF:0 group-title="CH",ITV 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:0,group-title="CH",ITV 4
+#EXTINF:0 group-title="CH",ITV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-#EXTINF:0,group-title="CH",CHANNEL 4
+#EXTINF:0 group-title="CH",CHANNEL 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:0,group-title="CH",CHANNEL 5
+#EXTINF:0 group-title="CH",CHANNEL 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-#EXTINF:0,group-title="CH",FILM 4
+#EXTINF:0 group-title="CH",FILM 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:0,group-title="CH",MORE 4
+#EXTINF:0 group-title="CH",MORE 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:0 group-title="UK",E4
 http://46.105.71.222:8080/e4/index.m3u8
@@ -424,19 +424,19 @@ https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XW
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:0,group-title="CH",MEZZO
+#EXTINF:0 group-title="CH",MEZZO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
-#EXTINF:0,group-title="CH",CANAL+
+#EXTINF:0 group-title="CH",CANAL+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
-#EXTINF:0,group-title="CH",Planete+
+#EXTINF:0 group-title="CH",Planete+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
-#EXTINF:0,group-title="CH",Deluxe Music
+#EXTINF:0 group-title="CH",Deluxe Music
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
-#EXTINF:0,group-title="CH",Video Italia
+#EXTINF:0 group-title="CH",Video Italia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:0,group-title="CH",Canale Italia
+#EXTINF:0 group-title="CH",Canale Italia
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
-#EXTINF:0,group-title="CH",TVE INT
+#EXTINF:0 group-title="CH",TVE INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="España",La 1 HD
 http://176.65.146.237:8401/play/a095/index.m3u8
@@ -461,7 +461,7 @@ http://185.189.225.149/mega/index.m3u8
 #EXTINF:0 group-title="España",Neox
 http://185.189.225.157/neox/index.m3u8
 #EXTINF:0 group-title="España",Nova
-http://185.189.225.157/nova/index.m3u8
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
 http://176.65.146.237:8401/play/a09d/index.m3u8
 #EXTINF:0 group-title="España",Energy
@@ -514,49 +514,49 @@ http://185.189.225.149/mtv/index.m3u8
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0 group-title="España",MTV Club
 http://185.189.225.149/MTVClub/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Live USA
-http://212.102.60.231/MTV_LIVE/mpegts
-#EXTINF:0,group-title="CH",MTV France
+#EXTINF:0 group-title="MTV",MTV Germany
+https://izle.canlitvapp.com/mtv/index.m3u8
+#EXTINF:0 group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0,group-title="CH",ORF 1
+#EXTINF:0 group-title="CH",ORF 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
-#EXTINF:0,group-title="CH",ORF 2
+#EXTINF:0 group-title="CH",ORF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:0,group-title="DE",Eurosport DE
+#EXTINF:0 group-title="DE",Eurosport DE
 http://149.62.177.108:8000/play/a01b/index.m3u8
-#EXTINF:0,group-title="DE",SAT.1
+#EXTINF:0 group-title="DE",SAT.1
 http://149.62.177.108:8000/play/a005/index.m3u8
-#EXTINF:0,group-title="DE",SAT.1 Gold
+#EXTINF:0 group-title="DE",SAT.1 Gold
 http://149.62.177.108:8000/play/a01a/index.m3u8
-#EXTINF:0,group-title="DE",ProSieben HD
+#EXTINF:0 group-title="DE",ProSieben HD
 http://149.62.177.108:8000/play/a006/index.m3u8
-#EXTINF:0,group-title="DE",Pro7 MAXX HD
+#EXTINF:0 group-title="DE",Pro7 MAXX HD
 http://149.62.177.108:8000/play/a00d/index.m3u8
-#EXTINF:0,group-title="CH",TELE 5
+#EXTINF:0 group-title="CH",TELE 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-#EXTINF:0,group-title="CH",Das Erste
+#EXTINF:0 group-title="CH",Das Erste
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
-#EXTINF:0,group-title="CH",ZDF
+#EXTINF:0 group-title="CH",ZDF
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:0,group-title="CH",ZDF info
+#EXTINF:0 group-title="CH",ZDF info
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:0,group-title="CH",ZDF neo
+#EXTINF:0 group-title="CH",ZDF neo
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-#EXTINF:0,group-title="CH",3sat
+#EXTINF:0 group-title="CH",3sat
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
-#EXTINF:0,group-title="CH",RTL
+#EXTINF:0 group-title="CH",RTL
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:0,group-title="CH",RTL 2
+#EXTINF:0 group-title="CH",RTL 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:0,group-title="CH",VOX
+#EXTINF:0 group-title="CH",VOX
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:0,group-title="CH",Super RTL
+#EXTINF:0 group-title="CH",Super RTL
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:0,group-title="CH",NDR
+#EXTINF:0 group-title="CH",NDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
-#EXTINF:0,group-title="CH",WDR
+#EXTINF:0 group-title="CH",WDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
-#EXTINF:0,group-title="CH",DMAX DE
+#EXTINF:0 group-title="CH",DMAX DE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:0 group-title="Vari",radioradio tv
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
@@ -634,8 +634,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="sk",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0 group-title="sk",Rai 3 SAT
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0 group-title="MTV",MTV Live USA
+http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,BBC Earth 
 http://46.149.191.217:9019/play/a01w
 #EXTINF:0 group-title="AL",RTSH 1
@@ -1640,6 +1640,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
