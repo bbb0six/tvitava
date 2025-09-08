@@ -638,86 +638,86 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,BBC Earth 
 http://46.149.191.217:9019/play/a01w
-#EXTINF:0,group-title="AL",RTSH 1
+#EXTINF:0 group-title="AL",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-#EXTINF:0,group-title="AL",RTSH 2
+#EXTINF:0 group-title="AL",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:0,group-title="AL",RTSH 3
+#EXTINF:0 group-title="AL",RTSH 3
 http://92.246.87.58/kanaliOTTURedirect244225/LVenCPbKr21s1s2asd221LVenCPbKr21s1s2asd221/67698
-#EXTINF:0,group-title="AL",RTSH 24
+#EXTINF:0 group-title="AL",RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-#EXTINF:0,group-title="AL",RTSH Sport
+#EXTINF:0 group-title="AL",RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:0,group-title="AL",RTSH Shqip
+#EXTINF:0 group-title="AL",RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-#EXTINF:0,group-title="AL",Klan TV
+#EXTINF:0 group-title="AL",Klan TV
 http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
-#EXTINF:0,group-title="AL",Klan Plus
+#EXTINF:0 group-title="AL",Klan Plus
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
-#EXTINF:0,group-title="AL",Klan News
+#EXTINF:0 group-title="AL",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0,group-title="AL",Klan Music
+#EXTINF:0 group-title="AL",Klan Music
 http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
-#EXTINF:0,group-title="AL",RTV Ora
+#EXTINF:0 group-title="AL",RTV Ora
 http://178.33.11.6:8696/live/rtvoraott/playlist.m3u8
-#EXTINF:0,group-title="AL",Ora News
+#EXTINF:0 group-title="AL",Ora News
 http://178.33.11.6:8696/live/oranewspp1/playlist.m3u8
-#EXTINF:0,group-title="AL",A2 CNN
+#EXTINF:0 group-title="AL",A2 CNN
 http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
-#EXTINF:0,group-title="AL",ABC
+#EXTINF:0 group-title="AL",ABC
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0,group-title="AL",CNA
+#EXTINF:0 group-title="AL",CNA
 http://178.33.11.6:8696/live/cnaott/playlist.m3u8
-#EXTINF:0,group-title="AL",Euronews Albania
+#EXTINF:0 group-title="AL",Euronews Albania
 http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
-#EXTINF:0,group-title="AL",FAX News
+#EXTINF:0 group-title="AL",FAX News
 http://178.33.11.6:8696/live/faxnewsott/playlist.m3u8
-#EXTINF:0,group-title="AL",REPORT TV
+#EXTINF:0 group-title="AL",REPORT TV
 http://178.33.11.6:8696/live/reportott/playlist.m3u8
-#EXTINF:0,group-title="AL",Scan TV
+#EXTINF:0 group-title="AL",Scan TV
 http://178.33.11.6:8696/live/scanott/playlist.m3u8
-#EXTINF:0,group-title="AL",Syri TV
+#EXTINF:0 group-title="AL",Syri TV
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
-#EXTINF:0,group-title="AL",Vizion Plus
+#EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0,group-title="adria",Top Channel
+#EXTINF:0,_
 http://89.187.191.99:8080/topchannel/index.m3u8
-#EXTINF:0,group-title="adria",Top News
+#EXTINF:0,_
 http://89.187.191.99:8080/topnews/index.m3u8
-#EXTINF:0,group-title="AL",News 24
+#EXTINF:0 group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
-#EXTINF:0,group-title="AL",Teuta
+#EXTINF:0 group-title="AL",Teuta
 http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
-#EXTINF:0,group-title="AL",MCN TV
+#EXTINF:0 group-title="AL",MCN TV
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
-#EXTINF:0,group-title="AL",BBF
+#EXTINF:0 group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
 #EXTINF:-1,_
-http://89.187.191.99:8080/slo1/index.m3u8
+http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1,_
 http://89.187.191.99:8080/slo2/index.m3u8
-#EXTINF:-1,TV Nova Pula
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:0,group-title="CH",RTK 1 SAT
+#EXTINF:-1,_
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:0 group-title="CH",RTK 1 SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
-#EXTINF:-1,group-title="adria",RTK 2
-http://89.187.191.99:8080/rtk2/index.m3u8
-#EXTINF:-1,group-title="adria",RTK 3
-http://89.187.191.99:8080/rtk3/index.m3u8
-#EXTINF:-1,group-title="adria",RTK 4
-http://89.187.191.99:8080/rtk4/index.m3u8
-#EXTINF:-1,group-title="adria",RTV 21
-http://89.187.191.99:8080/rtv21/index.m3u8
-#EXTINF:0,group-title="adria",Nova
-http://89.187.191.99:8080/nova/index.m3u8
-#EXTINF:0,group-title="adria",Nova BH
-http://89.187.191.99:8080/novabh/index.m3u8
-#EXTINF:0 group-title="HR",HR RTL 1
+#EXTINF:0 group-title="AL",RTK 2
+http://94.100.50.220/RTK2/index.m3u8
+#EXTINF:0 group-title="AL",RTK 3
+http://94.100.50.220/RTK3/index.m3u8
+#EXTINF:0 group-title="AL",RTK 4
+http://94.100.50.220/RKT4/index.m3u8
+#EXTINF:0 group-title="AL",RTV 21
+http://94.100.50.220/RTV21/index.m3u8
+#EXTINF:0 group-title="AL",ATV
+http://94.100.50.220/ATV/index.m3u8
+#EXTINF:0,_
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
-#EXTINF:0 group-title="HR",HR RTL 2
+#EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:-1,group-title="adria",HRT INT
-http://89.187.191.99:8080/hrt5/index.m3u8
+#EXTINF:0 group-title="HR",NOVA HR
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -726,15 +726,15 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0,group-title="RS",RTS 1
+#EXTINF:0 group-title="RS",RTS 1
 http://46.240.143.86:8065/rts1
-#EXTINF:0,group-title="RS",RTS 2
+#EXTINF:0 group-title="RS",RTS 2
 http://46.240.143.86:8065/rts2
-#EXTINF:0,group-title="RS",RTS 3
+#EXTINF:0 group-title="RS",RTS 3
 http://46.240.143.86:8065/rts3
-#EXTINF:0,group-title="CH",RTS SAT
+#EXTINF:0 group-title="CH",RTS SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
-#EXTINF:0,group-title="CH",TVR INT
+#EXTINF:0 group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:0 group-title="RO",TVR Sport
 http://195.189.60.31:8003/play/a0ey/index.m3u8
@@ -1500,25 +1500,25 @@ https://dash2.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:0,730
 http://exm3u.extraott.com:80/live/54RL5KJE/QVVXHK64/42067.m3u8
 #EXTINF:0,731
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/298482
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0,732
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/1992
+http://151.80.18.177:86/NRJ_12/index.m3u8
 #EXTINF:0,733
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/91704
+http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:0,734
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304043
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0,735
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/47249
+http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:0,736
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/90952
+http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:0,737
-http://84.22.55.2:8003/play/s125
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,738
 https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,739
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:0,740
-http://aflaxtv.xyz:8080/drsturko/XSDGxg8VqC7B3sLE/304513
+http://143.0.67.77:8000/play/a02p/index.m3u8
 #EXTINF:0,741
 http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,742
@@ -1640,6 +1640,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
