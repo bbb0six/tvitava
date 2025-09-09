@@ -726,13 +726,13 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0 group-title="RS",RTS 1
+#EXTINF:0 group-title="RS",РТС 1
 http://46.240.143.86:8065/rts1
-#EXTINF:0 group-title="RS",RTS 2
+#EXTINF:0 group-title="RS",РТС 2
 http://46.240.143.86:8065/rts2
-#EXTINF:0 group-title="RS",RTS 3
+#EXTINF:0 group-title="RS",РТС 3
 http://46.240.143.86:8065/rts3
-#EXTINF:0 group-title="CH",RTS SAT
+#EXTINF:0 group-title="CH",РТС SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
@@ -1640,6 +1640,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
