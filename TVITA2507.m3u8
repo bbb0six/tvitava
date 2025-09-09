@@ -692,12 +692,12 @@ http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0 group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:-1,_
-http://185.222.138.254:8080/topchannel/mpegts
-#EXTINF:-1,_
-http://89.187.191.99:8080/slo2/index.m3u8
-#EXTINF:-1,_
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:0 group-title="ME",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:0 group-title="ME",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:0,_
+http://92.246.87.58/kanaliOTTURedirect244225/LVenCPbKr21s1s2asd221LVenCPbKr21s1s2asd221/67698
 #EXTINF:0 group-title="CH",RTK 1 SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:0 group-title="AL",RTK 2
@@ -710,14 +710,14 @@ http://94.100.50.220/RKT4/index.m3u8
 http://94.100.50.220/RTV21/index.m3u8
 #EXTINF:0 group-title="AL",ATV
 http://94.100.50.220/ATV/index.m3u8
-#EXTINF:0,_
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",NOVA HR
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:0 group-title="HR",TV Nova Pula
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -1642,6 +1642,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
