@@ -1452,8 +1452,10 @@ http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0,706
 http://app-plus.live:80/02092021iptv/pwqopprrct/267903
 #EXTINF:0,707
+#EXTVLCOPT:network-caching=1000
 http://app-plus.live:80/02092021iptv/pwqopprrct/41136
 #EXTINF:0,708
+#EXTVLCOPT:network-caching=1000
 http://app-plus.live:80/02092021iptv/pwqopprrct/41087
 #EXTINF:0,group-title="UK",ITV1 Wales HD
 http://176.65.146.224:4004/play/a07m/index.m3u8
@@ -1473,23 +1475,23 @@ http://176.65.146.224:4003/play/a06m/index.m3u8
 http://176.65.146.224:4006/play/a06d/index.m3u8
 #EXTINF:0,group-title="UK",ITV2
 http://176.65.146.224:4004/play/a07l/index.m3u8
-#EXTINF:0,group-title="UK",MTV HITS
-http://46.105.71.222:8080/mtvhits/index.m3u8
+#EXTINF:0,group-title="UK",MTV MUSIC
+http://46.105.71.222:8080/mtvmusic/index.m3u8
 #EXTINF:0,719
 https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:0,720
-http://91.191.178.53:3000/S19.2E-1-1078-28671
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 group-title="HU",BBC Earth
+http://46.149.191.217:9019/play/a01w
+#EXTINF:-1 group-title="HU",MTV Hits
 http://46.149.191.217:9011/play/a00s
-#EXTINF:-1,club MTV
+#EXTINF:-1 group-title="HU",club MTV
 http://46.149.191.217:9011/play/a00t
-#EXTINF:-1,MTV 80s
+#EXTINF:-1 group-title="HU",MTV 80s
 http://46.149.191.217:9011/play/a00u
-#EXTINF:-1,MTV 90s
+#EXTINF:-1 group-title="HU",MTV 90s
 http://46.149.191.217:9011/play/a00v
-#EXTINF:-1,MTV 00s
+#EXTINF:-1 group-title="HU",MTV 00s
 http://46.149.191.217:9011/play/a00r
-#EXTINF:-1,MTV Europe
+#EXTINF:-1 group-title="HU",MTV Europe
 http://46.149.191.217:9011/play/a00q
 #EXTINF:0,727
 https://dash2.antik.sk/live/test_tv7/playlist.m3u8
@@ -1640,6 +1642,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
