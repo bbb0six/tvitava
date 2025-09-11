@@ -1048,17 +1048,17 @@ http://94.130.221.219/m3/index.m3u8
 http://94.130.221.219/setanta1/index.m3u8
 #EXTINF:0 group-title="sports",setanta 2
 http://94.130.221.219/setanta2/index.m3u8
-#EXTINF:0 group-title="sports",ESPN1
-http://143.0.67.77:8000/play/a05a/index.m3u8
-#EXTINF:0 group-title="sports",ESPN2
-http://143.0.67.77:8000/play/a059/index.m3u8
-#EXTINF:0 group-title="sports",ESPN3
-http://143.0.67.77:8000/play/a05b/index.m3u8
-#EXTINF:0 group-title="sports",ESPN4
-http://143.0.67.77:8000/play/a076/index.m3u8
-#EXTINF:0 group-title="sports",ESPNP
+#EXTINF:0 group-title="sports",Матч Футбол 1
+http://77.235.1.19:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="sports",Матч Футбол 2
+http://77.235.1.19:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="sports",Матч Футбол 3
+http://77.235.1.19:8000/play/a004/index.m3u8
+#EXTINF:0 group-title="sports",Матч!
+http://77.235.1.19:8000/play/a00u/index.m3u8
+#EXTINF:0,_
 http://143.0.67.77:8000/play/a078/index.m3u8
-#EXTINF:0 group-title="sports",arena sport 7
+#EXTINF:0,_
 http://89.187.191.99:8080/arena7/index.m3u8
 #EXTINF:0,_
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
@@ -1642,6 +1642,7 @@ http://195.26.83.96:7029/play/9
 http://84.22.55.2:8000/play/s16
 #EXTINF:0,800
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
