@@ -915,9 +915,9 @@ http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MTV",MTV Music UK
 http://46.105.71.222:8080/mtvmusic/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MTV",MTV Latino
-http://181.209.194.14:8000/play/a01k
+http://45.173.75.4:2061/play/a09g
 #EXTINF:0 group-title="MTV",MTV 00s HD
-http://181.209.194.14:8000/play/a041
+http://45.173.75.4:2061/play/a09i
 #EXTINF:0 group-title="USA",ABC EAST
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
@@ -1181,23 +1181,23 @@ http://200.60.124.20:29000/play/a0j8
 http://200.60.124.20:29000/play/a01f
 #EXTINF:0,group-title="P",ESPN 7
 http://200.60.124.20:29000/play/a01e
-#EXTINF:-1 group-title="sp",ESPN1
-http://181.209.194.14:8000/play/a062
-#EXTINF:-1 group-title="sp",ESPN2
-http://181.209.194.14:8000/play/a063
-#EXTINF:-1 group-title="sp",ESPN3
-http://181.209.194.14:8000/play/a064
-#EXTINF:-1 group-title="sp",ESPN4
-http://181.209.194.14:8000/play/a061
-#EXTINF:-1 group-title="sp",ESPN5
-http://181.209.194.14:8000/play/a05x
-#EXTINF:-1 group-title="sp",ESPN6
+#EXTINF:-1 group-title="sp",_
+http://143.0.67.77:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="sp",_
+http://143.0.67.77:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="sp",_
+http://143.0.67.77:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="sp",_
+http://143.0.67.77:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="sp",_
+http://143.0.67.77:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="sp",_
 http://181.209.194.14:8000/play/a065
-#EXTINF:-1 group-title="sp",MTV Latino HD
+#EXTINF:-1 group-title="sp",_
 http://181.209.194.14:8000/play/a01k
-#EXTINF:-1 group-title="sp",MTV Live HD
+#EXTINF:-1 group-title="sp",_
 http://181.209.194.14:8000/play/a040
-#EXTINF:-1 group-title="sp",MTV 00s HD
+#EXTINF:-1 group-title="sp",_
 http://181.209.194.14:8000/play/a041
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
@@ -1645,6 +1645,7 @@ http://toh-users.xyz:8080/FTWZ8YmnZ/40J7a8zRkq/1047177
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
