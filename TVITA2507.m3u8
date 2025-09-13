@@ -824,8 +824,8 @@ https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="-",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0,BBC Earth 
-http://46.149.191.217:9019/play/a01w
+#EXTINF:0 group-title="IT",Euronews IT
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="IT",SkyTG24
@@ -919,27 +919,27 @@ http://45.173.75.4:2061/play/a09g
 #EXTINF:0 group-title="MTV",MTV 00s HD
 http://45.173.75.4:2061/play/a09i
 #EXTINF:0 group-title="USA",ABC EAST
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://fl4.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
-http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
-http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://fl4.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
-http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+http://fl4.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",BLOOMBERG
-http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+http://fl4.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
-http://fl1.moveonjoy.com/CBSEAST/index.m3u8
+http://fl4.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
-http://fl1.moveonjoy.com/CBS_News/index.m3u8
+http://fl4.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
-http://fl1.moveonjoy.com/CNBC/index.m3u8
+http://fl4.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNN
-http://fl1.moveonjoy.com/CNN/index.m3u8
+http://fl4.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Discovery Channel
@@ -951,13 +951,13 @@ http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
-http://fl1.moveonjoy.com/HBO_2/index.m3u8
+http://fl4.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2 west
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 group-title="USA",HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Family
-http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+http://fl4.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Signature
 http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
@@ -965,33 +965,33 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
-http://fl1.moveonjoy.com/MSNBC/index.m3u8
+http://fl4.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-http://fl1.moveonjoy.com/MTV_2/index.m3u8
+http://fl4.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
-http://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+http://fl4.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+http://fl4.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV U
-http://fl1.moveonjoy.com/MTV_U/index.m3u8
+http://fl4.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:0 group-title="USA",National Geographic
-http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+http://fl4.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+http://fl4.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
-http://fl1.moveonjoy.com/NICK_JR/index.m3u8
+http://fl4.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",Nick Music
-http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://fl4.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:0 group-title="USA",Paramount Network
-http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
-http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl4.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:0 group-title="USA",Starz Cinema
@@ -999,17 +999,17 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY US
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+http://fl4.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
-http://23.237.104.106:8080/USA_NETWORK/index.m3u8
+http://fl4.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
-http://fl1.moveonjoy.com/WGN/index.m3u8
+http://fl4.moveonjoy.com/WGN/index.m3u8
 #EXTINF:0,group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0,group-title="UK",HGTV UK
@@ -1645,6 +1645,7 @@ http://toh-users.xyz:8080/FTWZ8YmnZ/40J7a8zRkq/1047177
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
