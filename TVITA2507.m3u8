@@ -586,6 +586,8 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Diciotto
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="Vari",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
@@ -594,8 +596,6 @@ https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",e'tv rete 7
 https://live.ipstream.it/etv/etv.stream/master.m3u8
-#EXTINF:0 group-title="Vari",espansione tv
-https://srvx1.selftv.video/espansione/smil:live/master.m3u8
 #EXTINF:0 group-title="Vari",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
@@ -732,7 +732,7 @@ http://46.240.143.86:8065/rts1
 http://46.240.143.86:8065/rts2
 #EXTINF:0 group-title="RS",РТС 3
 http://46.240.143.86:8065/rts3
-#EXTINF:0 group-title="CH",РТС SAT
+#EXTINF:0 group-title="CH",РТС Свет
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
@@ -1614,8 +1614,9 @@ http://185.207.34.31:8000/play/a012/index.m3u8
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,test MTV ES
 http://188.40.59.230:5100/mtv
-#EXTINF:0,test MTV PT
-http://supersonictv.live:8080/CKidd2023/8327464679/7670
+#EXTINF:0,test MTV IT
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://toh-users.xyz:8080/FTWZ8YmnZ/40J7a8zRkq/1047177
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
@@ -1637,14 +1638,13 @@ http://213.169.39.30:5281
 #EXTINF:0,797
 http://213.169.39.30:5288
 #EXTINF:0,798
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://vserver4.no-ip.org:8002/live/22Y8KEwZd6/Q08mVn4HBp/2380.ts
+https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist.m3u8
 #EXTINF:0,799
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://toh-users.xyz:8080/FTWZ8YmnZ/40J7a8zRkq/1047177
+https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
