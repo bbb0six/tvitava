@@ -414,12 +414,12 @@ https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
 https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
 https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
-#EXTINF:0 group-title="Vari",Sport Outdoor TV
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 #EXTINF:0 group-title="CH",MEZZO
@@ -586,16 +586,16 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Diciotto
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
-#EXTINF:0 group-title="Vari",Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:0 group-title="Regionali",e'tv rete 7
+https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:0 group-title="Regionali",e'tv rete 7
-https://live.ipstream.it/etv/etv.stream/master.m3u8
+#EXTINF:0 group-title="Vari",Sport Outdoor TV
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
@@ -634,10 +634,10 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="sk",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0 group-title="Rai",Rai Südtirol
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 group-title="MTV",MTV Live USA
 http://212.102.60.231/MTV_LIVE/mpegts
-#EXTINF:0 group-title="ES",Star TVE
-http://190.83.2.172:8080/play/a038
 #EXTINF:0 group-title="AL",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 2
@@ -836,8 +836,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Rai",Rai Südtirol
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0 group-title="ES",Star TVE
+http://190.83.2.172:8080/play/a038
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1469,14 +1469,14 @@ http://176.65.146.224:4001/play/a08e/index.m3u8
 http://176.65.146.224:4002/play/a06w/index.m3u8
 #EXTINF:0,group-title="UK",4seven
 http://176.65.146.224:4002/play/a06x/index.m3u8
-#EXTINF:0,group-title="UK",5
-http://176.65.146.224:4003/play/a06m/index.m3u8
-#EXTINF:0,group-title="UK",CNN INT
-http://176.65.146.224:4006/play/a06d/index.m3u8
-#EXTINF:0,group-title="UK",ITV2
-http://176.65.146.224:4004/play/a07l/index.m3u8
-#EXTINF:0,group-title="UK",MTV MUSIC
-http://46.105.71.222:8080/mtvmusic/index.m3u8
+#EXTINF:0,Antena 3 INT
+http://190.83.2.172:8080/play/a00r
+#EXTINF:0,A3S INT
+http://190.83.2.172:8080/play/a00x
+#EXTINF:0,MTV LA
+http://190.83.2.172:8080/play/a02s
+#EXTINF:0,MTV LIVE
+http://190.83.2.172:8081/play/a05m
 #EXTINF:0,719
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
