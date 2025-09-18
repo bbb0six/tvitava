@@ -109,8 +109,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="Vari",7G
-https://streamcdng15-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/master.m3u8
+#EXTINF:-1 group-title="-",Class CNBC
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(r5VojQEonQuu2nE-JCjTnofL99Jxyr8wEOU9GlZw_xQX8nkgnNR-cBaxSbrNcpTr_-ADgNDuAOO-lXO5dpNIEotgOw7HjCK51MBhfX8-_uE_Dw0meA-N39D4yKUwe2Yi)/cloud/3/x9h54mc/s/live-720@60.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -612,6 +612,8 @@ https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
+#EXTINF:0 group-title="Vari",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",TCI
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Padre Pio TV
@@ -632,8 +634,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0,group-title="CH",RAI NEWS 24
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:0 group-title="sk",Rai 1 SAT
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 group-title="MTV",MTV Live USA
@@ -839,11 +839,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="ES",Star TVE
 http://190.83.2.172:8080/play/a038
 #EXTINF:0 group-title="i",Rai 1 SAT
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:0 group-title="i",Rai 3 SAT
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai News 24
 https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
@@ -1375,26 +1375,26 @@ http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT1 DE
 http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",ZDF DE
-http://176.10.117.68:6060/zdf/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Nick DE
 http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Comedy Central DE
 http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",MTV DE
 https://izle.canlitvapp.com/mtv/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Hits
+#EXTINF:0 group-title="MTV",MTV Hits HQ
 http://95.216.97.235:7777/mtvhits
-#EXTINF:0 group-title="MTV",MTV 90s
+#EXTINF:0 group-title="MTV",MTV 90s HQ
 http://95.216.97.235:7777/mtv90
-#EXTINF:0 group-title="MTV",MTV 00s HD
+#EXTINF:0 group-title="ES",MTV 00s HD
 http://190.83.2.172:8081/play/a05n
-#EXTINF:0,_
-http://190.111.16.109:40000/play/a031
-#EXTINF:0 group-title="news",RT EN
-http://69.64.57.208:80/russiatoday/index.m3u8
-#EXTINF:0 group-title="news",RT FR
-http://69.64.57.208:80/rtfrance/index.m3u8
+#EXTINF:0 group-title="ES",MTV Latino HD
+http://190.83.2.172:8080/play/a02s
+#EXTINF:0 group-title="ES",MTV Live HD
+http://190.83.2.172:8081/play/a05m
+#EXTINF:0 group-title="ES",Antena 3 INT
+http://190.83.2.172:8080/play/a00r
+#EXTINF:0 group-title="ES",A3S INT
+http://190.83.2.172:8080/play/a00x
 #EXTINF:0 group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="news",CBS News
@@ -1469,14 +1469,14 @@ http://176.65.146.224:4001/play/a08e/index.m3u8
 http://176.65.146.224:4002/play/a06w/index.m3u8
 #EXTINF:0,group-title="UK",4seven
 http://176.65.146.224:4002/play/a06x/index.m3u8
-#EXTINF:0,Antena 3 INT
-http://190.83.2.172:8080/play/a00r
-#EXTINF:0,A3S INT
-http://190.83.2.172:8080/play/a00x
-#EXTINF:0,MTV LA
-http://190.83.2.172:8080/play/a02s
-#EXTINF:0,MTV LIVE
-http://190.83.2.172:8081/play/a05m
+#EXTINF:0,RT EN
+http://69.64.57.208:80/russiatoday/index.m3u8
+#EXTINF:0,RT FR
+http://69.64.57.208:80/rtfrance/index.m3u8
+#EXTINF:0,717
+http://190.111.16.109:40000/play/a02p
+#EXTINF:0,718
+http://190.111.16.109:40000/play/a031
 #EXTINF:0,719
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
