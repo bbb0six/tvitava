@@ -361,9 +361,9 @@ https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
 #EXTINF:0 group-title="Regionali",Telenorba
 https://router.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sud
-https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sud Extra
-https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+https://stream.antennasudwebtv.it:9443/hls/vod92.m3u8
 #EXTINF:0 group-title="Regionali",Teleregione Color
 https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
 #EXTINF:0 group-title="Regionali",Telebari
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
