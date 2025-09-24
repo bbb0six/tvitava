@@ -1038,24 +1038,24 @@ http://84.22.55.2:8032/play/s368
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:0 group-title="sports",_
-http://94.130.221.219/m1/index.m3u8
-#EXTINF:0 group-title="sports",_
-http://94.130.221.219/m2/index.m3u8
-#EXTINF:0 group-title="sports",_
-http://94.130.221.219/m3/index.m3u8
-#EXTINF:0 group-title="sports",_
-http://94.130.221.219/setanta1/index.m3u8
-#EXTINF:0 group-title="sports",_
-http://94.130.221.219/setanta2/index.m3u8
-#EXTINF:0 group-title="sports",Матч Футбол 1
-http://77.235.1.19:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="sports",Матч Футбол 2
-http://77.235.1.19:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="sports",Матч Футбол 3
-http://77.235.1.19:8000/play/a004/index.m3u8
-#EXTINF:0 group-title="sports",Матч!
-http://77.235.1.19:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://8.242.189.218:9000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://8.242.189.218:9000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://8.242.189.218:9000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://8.242.189.218:9000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5 HD
+http://8.242.189.218:9000/play/a0a8/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://8.242.189.218:9000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://8.242.189.218:9000/play/a055/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://8.242.189.218:9000/play/a04d/index.m3u8
+#EXTINF:0,_
+http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:0,_
 http://143.0.67.77:8000/play/a078/index.m3u8
 #EXTINF:0,_
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
