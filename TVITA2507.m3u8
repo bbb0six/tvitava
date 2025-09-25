@@ -820,12 +820,12 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="sk",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0 group-title="sk",CT24
-https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="-",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 group-title="IT",Euronews IT
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:0 group-title="-",i24 News
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:0 group-title="sk",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="IT",SkyTG24
@@ -1061,9 +1061,9 @@ http://201.77.61.226:8001/play/a0i7
 #EXTINF:0,_
 http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:0,_
-http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:0,_
-http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:0,group-title="bg",Diema Sport 1
 http://213.169.39.30:5134
 #EXTINF:0,group-title="bg",Diema Sport 2
@@ -1572,7 +1572,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,766
-http://84.22.55.2:8011/play/s300
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0,767
 http://195.26.83.96:7029/play/9
 #EXTINF:0,768
@@ -1643,6 +1643,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
