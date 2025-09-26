@@ -910,8 +910,8 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Europe
-http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MTV",MTV Live
+http://201.77.61.226:8001/play/a0i7
 #EXTINF:0 group-title="MTV",Nick Music
 http://45.173.75.4:2061/play/a07u
 #EXTINF:0 group-title="MTV",MTV Latino
@@ -1035,36 +1035,36 @@ http://84.22.55.2:8032/play/s369
 http://84.22.55.2:8032/play/s367
 #EXTINF:-1,TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,barinews 111
-https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
+#EXTINF:0,_
+https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-http://8.242.189.218:9000/play/a075/index.m3u8
+http://8.242.189.218:9000/play/a075
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://8.242.189.218:9000/play/a046/index.m3u8
+http://8.242.189.218:9000/play/a046
 #EXTINF:-1 group-title="-",ESPN 3 HD
-http://8.242.189.218:9000/play/a03y/index.m3u8
+http://8.242.189.218:9000/play/a03y
 #EXTINF:-1 group-title="-",ESPN 4HD
-http://8.242.189.218:9000/play/a05c/index.m3u8
+http://8.242.189.218:9000/play/a05c
 #EXTINF:-1 group-title="-",ESPN 5 HD
-http://8.242.189.218:9000/play/a0a8/index.m3u8
+http://8.242.189.218:9000/play/a0a8
 #EXTINF:-1 group-title="-",ESPN 6HD
-http://8.242.189.218:9000/play/a03l/index.m3u8
+http://8.242.189.218:9000/play/a03l
 #EXTINF:-1 group-title="-",ESPN 7HD
-http://8.242.189.218:9000/play/a055/index.m3u8
+http://8.242.189.218:9000/play/a055
 #EXTINF:-1 group-title="-",ESPN Premium HD
-http://8.242.189.218:9000/play/a04d/index.m3u8
+http://8.242.189.218:9000/play/a04d
 #EXTINF:-1 group-title="-",ESPN
 http://201.77.61.226:8001/play/a0l0
-#EXTINF:-1 group-title="-",_
-http://201.77.61.226:8001/play/a0i7
-#EXTINF:0,_
-http://165.210.33.120:8081/eurosport1/mpegts
-#EXTINF:0,_
-http://178.23.88.55/Eurosport_1/index.m3u8
-#EXTINF:0,_
-http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:0,group-title="bg",Max Sport 1
+http://213.169.39.30:5138
+#EXTINF:0,group-title="bg",Max Sport 2
+http://213.169.39.30:5140
+#EXTINF:0,group-title="bg",Max Sport 3
+http://213.169.39.30:5142
+#EXTINF:0,group-title="bg",Max Sport 4
+http://213.169.39.30:5130
 #EXTINF:0,group-title="bg",Diema Sport 1
 http://213.169.39.30:5134
 #EXTINF:0,group-title="bg",Diema Sport 2
@@ -1116,8 +1116,8 @@ http://181.118.156.46:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="hn",ESPN
 http://181.189.241.114:5050/play/a02z
 #EXTINF:-1 group-title="hn",ESPN 2
-http://181.189.241.114:5050/play/a030
-#EXTINF:-1 group-title="hn",ESPN 2 HD
+http://181.189.241.114:5050/play/a06k
+#EXTINF:-1 group-title="hn",ESPN 2
 http://181.189.241.114:5050/play/a0q3
 #EXTINF:-1 group-title="hn",ESPN 3
 http://181.189.241.114:5050/play/a032
@@ -1196,9 +1196,9 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,group-title="bg",Max Sport 4
 http://213.169.39.30:5130
-#EXTINF:-1 group-title="sp",_
+#EXTINF:-1 group-title="sp",mtv live
 http://181.209.194.14:8000/play/a040
-#EXTINF:-1 group-title="sp",_
+#EXTINF:-1 group-title="sp",mtv 00s
 http://181.209.194.14:8000/play/a041
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
@@ -1603,20 +1603,20 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 http://185.207.34.107:8000/play/1plus1
 #EXTINF:0,780
 http://149.62.177.108:8000/play/a00t/index.m3u8
-#EXTINF:0,781
-http://185.207.34.31:8000/play/a00g/index.m3u8
-#EXTINF:0,782
-http://185.207.34.31:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="sp",mtv live
+http://181.209.194.14:8000/play/a040
+#EXTINF:-1 group-title="sp",mtv 00s
+http://181.209.194.14:8000/play/a041
 #EXTINF:0,783
-http://185.207.34.31:8000/play/a01a/index.m3u8
+http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:0,784
-http://185.207.34.31:8000/play/a012/index.m3u8
+http://178.23.88.55/Eurosport_1/index.m3u8
+#EXTINF:0,785
+http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:0,test MTV DE
 http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,test MTV ES
 http://188.40.59.230:5100/mtv
-#EXTINF:0,_
-http://190.83.2.172:8080/play/a038
 #EXTINF:-1,test RAI
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1,test RAI
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
