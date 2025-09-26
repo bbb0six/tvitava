@@ -1154,6 +1154,18 @@ http://78.128.125.60:9980/play/a018/index.m3u8
 http://78.128.125.60:9980/play/a016/index.m3u8
 #EXTINF:-1 group-title="BG",Diema Sport 3
 http://78.128.125.60:9980/play/a017/index.m3u8
+#EXTINF:0,espn1
+http://80.80.91.195:8000/play/a053/index.m3u8
+#EXTINF:0,espn2
+http://80.80.91.195:8000/play/a0db/index.m3u8
+#EXTINF:0,espn3
+http://80.80.91.195:8000/play/a0dc/index.m3u8
+#EXTINF:0,espn4
+http://80.80.91.195:8000/play/a0dp/index.m3u8
+#EXTINF:0,espn5
+http://80.80.91.195:8000/play/a0de/index.m3u8
+#EXTINF:0,espn6
+http://80.80.91.195:8000/play/a0dd/index.m3u8
 #EXTINF:0,group-title="co",ESPN
 http://170.82.113.50:8899/play/a0l9/index.m3u8
 #EXTINF:0,group-title="co",ESPN 2
@@ -1188,18 +1200,6 @@ http://77.46.130.252:99/maxsport2
 http://77.46.130.252:99/maxsport3
 #EXTINF:-1,maxsport4 HD
 http://77.46.130.252:99/maxsport4
-#EXTINF:0,group-title="bg",Max Sport 1
-http://213.169.39.30:5138
-#EXTINF:0,group-title="bg",Max Sport 2
-http://213.169.39.30:5140
-#EXTINF:0,group-title="bg",Max Sport 3
-http://213.169.39.30:5142
-#EXTINF:0,group-title="bg",Max Sport 4
-http://213.169.39.30:5130
-#EXTINF:-1 group-title="sp",mtv live
-http://181.209.194.14:8000/play/a040
-#EXTINF:-1 group-title="sp",mtv 00s
-http://181.209.194.14:8000/play/a041
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
 #EXTINF:0 group-title="PP",ESPN 2
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
