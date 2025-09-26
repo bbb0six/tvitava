@@ -946,8 +946,9 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",Fox News
-http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:0 group-title="USA",FOX News
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s13.usnlive.com/stream/foxnews.m3u8
 #EXTINF:0 group-title="USA",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
@@ -958,8 +959,8 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:0 group-title="USA",HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:0 group-title="USA",Lifetime
+http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
@@ -1643,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
