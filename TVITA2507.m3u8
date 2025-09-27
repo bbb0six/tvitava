@@ -991,6 +991,8 @@ http://212.102.60.231/NICK_JR/index.m3u8
 http://212.102.60.231/NICK_MUSIC/index.m3u8
 #EXTINF:0 group-title="USA",Paramount Network
 http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Reelz
+http://212.102.60.231/REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
 http://212.102.60.231/SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
@@ -1037,8 +1039,6 @@ http://84.22.55.2:8032/play/s367
 http://84.22.55.2:8032/play/s368
 #EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:0,_
-https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
 http://8.242.189.218:9000/play/a075
 #EXTINF:-1 group-title="-",ESPN 2 HD
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
