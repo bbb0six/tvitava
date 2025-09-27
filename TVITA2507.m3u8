@@ -624,15 +624,15 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:0,group-title="CH",RAI STORIA
+#EXTINF:0 group-title="CH",RAI STORIA
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:0,group-title="CH",RAI SPORT
+#EXTINF:0 group-title="CH",RAI SPORT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0,group-title="CH",RAI SCUOLA
+#EXTINF:0 group-title="CH",RAI SCUOLA
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:0,group-title="CH",RAI GULP
+#EXTINF:0 group-title="CH",RAI GULP
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0,group-title="CH",RAI NEWS 24
+#EXTINF:0 group-title="CH",RAI NEWS 24
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
@@ -1386,16 +1386,19 @@ https://izle.canlitvapp.com/mtv/index.m3u8
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="MTV",MTV 90s HQ
 http://95.216.97.235:7777/mtv90
-#EXTINF:0 group-title="ES",MTV 00s HD
-http://190.83.2.172:8081/play/a05n
-#EXTINF:0 group-title="ES",MTV Latino HD
-http://190.83.2.172:8080/play/a02s
-#EXTINF:0 group-title="ES",MTV Live HD
-http://190.83.2.172:8081/play/a05m
-#EXTINF:0 group-title="ES",Antena 3 INT
-http://190.83.2.172:8080/play/a00r
-#EXTINF:0 group-title="ES",A3S INT
-http://190.83.2.172:8080/play/a00x
+#EXTINF:0 group-title="MTV",MTV LA HD
+http://80.80.91.195:8000/play/a042
+#EXTINF:0 group-title="MTV",MTV LIVE HD
+http://80.80.91.195:8000/play/a09r
+#EXTINF:0 group-title="USA",OANN
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s6.usnlive.com/stream/oann.m3u8
+#EXTINF:0 group-title="USA",FOX News
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s13.usnlive.com/stream/foxnews.m3u8
+#EXTINF:0 group-title="USA",weather channel
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 group-title="news",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="news",CBS News
@@ -1644,6 +1647,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
