@@ -836,7 +836,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="ES",Star TVE
+#EXTINF:0 group-title="MX",Star TVE
 http://201.77.61.226:8001/play/a0kz
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -910,7 +910,7 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Live
+#EXTINF:0 group-title="MX",MTV Live
 http://201.77.61.226:8001/play/a0i7
 #EXTINF:0 group-title="MTV",Nick Music
 http://45.173.75.4:2061/play/a07u
@@ -1055,7 +1055,7 @@ http://8.242.189.218:9000/play/a03l
 http://8.242.189.218:9000/play/a055
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://8.242.189.218:9000/play/a04d
-#EXTINF:-1 group-title="-",ESPN
+#EXTINF:-1 group-title="MX",ESPN MX
 http://201.77.61.226:8001/play/a0l0
 #EXTINF:0,group-title="bg",Max Sport 1
 http://213.169.39.30:5138
@@ -1096,7 +1096,7 @@ http://38.44.109.41:8003/play/a03w
 #EXTINF:-1 group-title="sports",ESPNPremium_MOD
 http://38.44.109.41:8003/play/a03y
 #EXTINF:-1 group-title="sports",ESPN_MOD
-http://38.44.109.41:8003/play/a03x/
+http://38.44.109.41:8003/play/a02v
 #EXTINF:0,group-title="sports",ESPN TWC
 http://181.118.156.46:8000/play/a04g/index.m3u8
 #EXTINF:0,group-title="sports",ESPN 1 TWC
@@ -1154,17 +1154,17 @@ http://78.128.125.60:9980/play/a018/index.m3u8
 http://78.128.125.60:9980/play/a016/index.m3u8
 #EXTINF:-1 group-title="BG",Diema Sport 3
 http://78.128.125.60:9980/play/a017/index.m3u8
-#EXTINF:0,espn1
+#EXTINF:0,ESPN 1 MX
 http://80.80.91.195:8000/play/a053/index.m3u8
-#EXTINF:0,espn2
+#EXTINF:0,ESPN 2 MX
 http://80.80.91.195:8000/play/a0db/index.m3u8
-#EXTINF:0,espn3
+#EXTINF:0,ESPN 3 MX
 http://80.80.91.195:8000/play/a0dc/index.m3u8
-#EXTINF:0,espn4
+#EXTINF:0,ESPN 4 MX
 http://80.80.91.195:8000/play/a0dp/index.m3u8
-#EXTINF:0,espn5
+#EXTINF:0,ESPN 5 MX
 http://80.80.91.195:8000/play/a0de/index.m3u8
-#EXTINF:0,espn6
+#EXTINF:0,ESPN 6 MX
 http://80.80.91.195:8000/play/a0dd/index.m3u8
 #EXTINF:0,group-title="co",ESPN
 http://170.82.113.50:8899/play/a0l9/index.m3u8
@@ -1644,6 +1644,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
