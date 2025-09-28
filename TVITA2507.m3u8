@@ -681,7 +681,7 @@ http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0,_
-http://89.187.191.99:8080/topchannel/index.m3u8
+http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
 #EXTINF:0,_
 http://89.187.191.99:8080/topnews/index.m3u8
 #EXTINF:0 group-title="AL",News 24
@@ -876,7 +876,7 @@ https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:0 group-title="ua",Freedom UATV
 https://dash3.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0 group-title="ua",Ukraina 24
+#EXTINF:0 group-title="ua",UA24
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
@@ -1238,7 +1238,7 @@ http://78.128.125.60:9981/play/a00b/index.m3u8
 http://78.128.125.60:9981/play/a00c/index.m3u8
 #EXTINF:0 group-title="BG",Nova Sport
 http://78.128.125.60:9980/play/a00g/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,600
 http://78.128.125.60:9980/play/a00d/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
@@ -1478,9 +1478,9 @@ http://69.64.57.208:80/russiatoday/index.m3u8
 #EXTINF:0,RT FR
 http://69.64.57.208:80/rtfrance/index.m3u8
 #EXTINF:0,717
-http://190.111.16.109:40000/play/a02p
+http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0,718
-http://190.111.16.109:40000/play/a031
+http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:0,719
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
@@ -1647,6 +1647,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
