@@ -1218,8 +1218,8 @@ http://45.173.75.4:2061/play/a016
 http://45.173.75.4:2061/play/a09g
 #EXTINF:0 group-title="PP",MTV 00
 http://45.173.75.4:2061/play/a09i
-#EXTINF:0 group-title="BG",MTV EU
-http://78.128.125.60:9980/play/a00d/index.m3u8
+#EXTINF:0 group-title="BG",Diema
+http://78.128.125.60:9980/play/a013/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1
 http://78.128.125.60:9981/play/a00v/index.m3u8
 #EXTINF:0 group-title="BG",BNT 2
@@ -1230,16 +1230,16 @@ http://78.128.125.60:9981/play/a00w/index.m3u8
 http://78.128.125.60:9981/play/a011/index.m3u8
 #EXTINF:0 group-title="BG",Nova
 http://78.128.125.60:9981/play/a002/index.m3u8
-#EXTINF:0 group-title="BG",Diema
-http://78.128.125.60:9980/play/a013/index.m3u8
-#EXTINF:0 group-title="BG",Eurosport 1 HD
-http://78.128.125.60:9981/play/a00b/index.m3u8
-#EXTINF:0 group-title="BG",Eurosport 2 HD
-http://78.128.125.60:9981/play/a00c/index.m3u8
-#EXTINF:0 group-title="BG",Nova Sport
-http://78.128.125.60:9980/play/a00g/index.m3u8
-#EXTINF:0,600
-http://78.128.125.60:9980/play/a00d/index.m3u8
+#EXTINF:-1,Arena_Sport_1 HD
+http://78.108.251.7/Arena_Sport_1/index.m3u8
+#EXTINF:-1,Arena_Sport_2 HD
+http://78.108.251.7/Arena_Sport_2/index.m3u8
+#EXTINF:-1,Arena_Sport_3 HD
+http://78.108.251.7/Arena_Sport_3/index.m3u8
+#EXTINF:-1,Arena_Sport_4 HD
+http://78.108.251.7/Arena_Sport_4/index.m3u8
+#EXTINF:-1,Arena_Sport_5 HD
+http://78.108.251.7/Arena_Sport_5/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.236.230.212:9982/play/a0a1
 #EXTINF:0 group-title="NL",NPO 2
@@ -1647,6 +1647,7 @@ https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3
 #EXTINF:0,800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+
 
 
 
