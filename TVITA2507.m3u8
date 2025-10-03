@@ -822,14 +822,14 @@ https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="-",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 group-title="-",i24 News
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="IT",SkyTG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+#EXTINF:0 group-title="MX",MTV Live
+http://201.77.61.226:8001/play/a0i7
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Dance
@@ -876,8 +876,8 @@ https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
 #EXTINF:0 group-title="ua",Freedom UATV
 https://dash3.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0 group-title="ua",UA24
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="il",i24 News
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
 #EXTINF:0 group-title="il",Keshet 12
@@ -910,8 +910,8 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="MX",MTV Live
-http://201.77.61.226:8001/play/a0i7
+#EXTINF:0 group-title="ua",UA 24
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="MTV",Nick Music
 http://45.173.75.4:2061/play/a07u
 #EXTINF:0 group-title="MTV",MTV Latino
@@ -1013,9 +1013,9 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://212.102.60.231/WGN/index.m3u8
-#EXTINF:0,group-title="UK",DMAX UK
+#EXTINF:0 group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
-#EXTINF:0,group-title="UK",HGTV UK
+#EXTINF:0 group-title="UK",HGTV UK
 http://176.65.146.224:4002/play/a06z/index.m3u8
 #EXTINF:0,_
 http://95.66.188.74:80/Nostalgia/mono.m3u8
@@ -1144,6 +1144,8 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 #EXTINF:0,Eurosport 2
 http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
+#EXTINF:0,Eurosport FR
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="BG",Max Sport 1
 http://78.128.125.60:9982/play/a019/index.m3u8
 #EXTINF:-1 group-title="BG",Max Sport 2
@@ -1176,10 +1178,8 @@ http://170.82.113.50:8899/play/a0li/index.m3u8
 http://170.82.113.50:8899/play/a0gj/index.m3u8
 #EXTINF:0,group-title="co",ESPN Premium
 http://170.82.113.50:8899/play/a0pq/index.m3u8
-#EXTINF:0,569
-http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0,570
-http://23.88.66.93/Eurosport2/index.m3u8
+http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:-1,maxsport1 HD
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1,maxsport2 HD
@@ -1302,10 +1302,10 @@ http://176.65.146.224:4001/play/a08e/index.m3u8
 http://176.65.146.224:4002/play/a06w/index.m3u8
 #EXTINF:0,group-title="UK",4seven
 http://176.65.146.224:4002/play/a06x/index.m3u8
-#EXTINF:0,111111
-http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:0,111111
-http://23.88.66.93/Eurosport2/index.m3u8
+#EXTINF:0,group-title="UK",5 USA
+http://176.65.146.224:4003/play/a06h/index.m3u8
+#EXTINF:0,group-title="UK",S4C HD
+http://176.65.146.224:4004/play/a072/index.m3u8
 #EXTINF:0,Rai 1 SAT HD
 http://185.207.34.31:8000/play/a00g/index.m3u8
 #EXTINF:0,Rai 2 SAT HD
@@ -1386,9 +1386,9 @@ https://izle.canlitvapp.com/mtv/index.m3u8
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="MTV",MTV 90s HQ
 http://95.216.97.235:7777/mtv90
-#EXTINF:0 group-title="MTV",MTV LA HD
+#EXTINF:0,_
 http://80.80.91.195:8000/play/a042
-#EXTINF:0 group-title="MTV",MTV LIVE HD
+#EXTINF:0,_
 http://80.80.91.195:8000/play/a09r
 #EXTINF:0 group-title="USA",OANN
 #EXTVLCOPT:http-referrer=https://usnewson.com/
@@ -1512,9 +1512,9 @@ http://176.65.146.193:5004/play/a06h/index.m3u8
 #EXTINF:0,734
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,735
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+https://dash3.antik.sk/live/chilli_tv/index.m3u8
 #EXTINF:0,736
-https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,737
 https://dash2.antik.sk/live/test_tv7/playlist.m3u8
 #EXTINF:0,738
@@ -1522,20 +1522,20 @@ https://dash3.antik.sk/live/test_osem/playlist.m3u8
 #EXTINF:0,739
 https://dash2.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:0,740
-https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:0,741
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,742
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:0,TF1
+#EXTINF:0,743
 http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:0,RTL9
+#EXTINF:0,744
 http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:0,Eurosport FR
+#EXTINF:0,745
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0,Histoire
+#EXTINF:0,746
 http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:0,Nat Geo FR
+#EXTINF:0,747
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0,748
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
@@ -1599,48 +1599,49 @@ http://dvr1.kablova.tv/DUNA/index.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 group-title="HU",TV2
 http://dvr4.kablova.tv/TV2/index.m3u8
-#EXTINF:0,779
-http://165.210.33.120:8081/eurosport1/mpegts
-#EXTINF:0,780
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+#EXTINF:-1 group-title="EU",MTV EU
+http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 group-title="EU",MTV 00
+http://dvr1.kablova.tv/VH1/index.m3u8
 #EXTINF:-1 group-title="sp",mtv live
 http://181.209.194.14:8000/play/a040
 #EXTINF:-1 group-title="sp",mtv 00s
 http://181.209.194.14:8000/play/a041
-#EXTINF:0,783
-http://185.207.34.107:8000/play/1plus1
-#EXTINF:0,784
-http://185.207.34.107:8000/play/1plus1
-#EXTINF:0,785
-http://94.130.221.219/2plus2/index.m3u8
-#EXTINF:0,test MTV DE
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0,test MTV ES
 http://188.40.59.230:5100/mtv
-#EXTINF:-1,test RAI
+#EXTINF:0,784
+http://165.210.33.120:8081/eurosport1/mpegts
+#EXTINF:0,785
+http://185.207.34.107:8000/play/1plus1
+#EXTINF:0,786
+http://94.130.221.219/2plus2/index.m3u8
+#EXTINF:0,787
+http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
+#EXTINF:-1,788
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,test RAI
+#EXTINF:-1,789
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1,790
-https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/master.m3u8
+#EXTINF:0,790
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://fortv.cc:8080/lynda@mason/lynda@2022/212900
 #EXTINF:-1,791
-https://dash3.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1,792
-https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1,793
 http://195.189.60.31:8003/play/a0a9/index.m3u8
-#EXTINF:-1,794
+#EXTINF:-1,792
 http://195.189.60.31:8003/play/a0ci/index.m3u8
-#EXTINF:0,795
+#EXTINF:0,793
 http://195.189.60.31:8003/play/a0a0/index.m3u8
-#EXTINF:0,796
+#EXTINF:0,794
 http://213.169.39.30:5281
-#EXTINF:0,797
+#EXTINF:0,795
 http://213.169.39.30:5288
+#EXTINF:0,796
+https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+#EXTINF:0,797
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/master.m3u8
 #EXTINF:0,798
 https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist.m3u8
 #EXTINF:0,799
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
