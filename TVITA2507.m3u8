@@ -527,7 +527,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="DE",SAT.1
 http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
-http://185.125.36.194:3000/C-61441-10017-53324
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:0 group-title="DE",ProSieben
 http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
@@ -1603,11 +1603,11 @@ http://dvr4.kablova.tv/TV2/index.m3u8
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
-#EXTINF:-1 group-title="sp",MTV 00 HD
+#EXTINF:-1,781
 http://181.209.194.14:8000/play/a041
-#EXTINF:-1 group-title="sp",MTV LIVE HD
+#EXTINF:-1,782
 http://181.209.194.14:8000/play/a040
-#EXTINF:-1 group-title="test",MTV ES
+#EXTINF:-1,783
 http://188.40.59.230:5100/mtv
 #EXTINF:0,784
 http://165.210.33.120:8081/eurosport1/mpegts
@@ -1644,5 +1644,6 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
