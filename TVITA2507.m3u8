@@ -1380,16 +1380,16 @@ http://95.216.97.235:7777/mtvhits
 http://95.216.97.235:7777/mtv90
 #EXTINF:0 group-title="MTV",MTV 00s SD
 http://95.216.97.235:7777/mtv00
-#EXTINF:0 group-title="test",Rai 1 SAT HD
-http://185.207.34.31:8000/play/a00g/index.m3u8
-#EXTINF:0 group-title="test",Rai 2 SAT HD
-http://185.207.34.31:8000/play/a010/index.m3u8
-#EXTINF:0 group-title="test",Rai 3 SAT HD
-http://185.207.34.31:8000/play/a01a/index.m3u8
-#EXTINF:0 group-title="test",Senato
-http://185.207.34.31:8000/play/a012/index.m3u8
-#EXTINF:0 group-title="test",TV5MONDE EUROPE HD
-http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="test",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:0 group-title="test",RTL9
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:0 group-title="test",Eurosport FR
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:0 group-title="test",Histoire
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:0 group-title="test",Nat Geo FR
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0 group-title="USA",OANN
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://s6.usnlive.com/stream/oann.m3u8
@@ -1528,15 +1528,15 @@ https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,742
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
-http://151.80.18.177:86/TF1_HD/index.m3u8
+https://dash3.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,744
-http://151.80.18.177:86/RTL9/index.m3u8
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0,745
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 #EXTINF:0,746
-http://151.80.18.177:86/Histoire/index.m3u8
+https://dash3.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:0,747
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
+https://dash3.antik.sk/live/test_batv/playlist.m3u8
 #EXTINF:0,748
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,749
@@ -1603,24 +1603,24 @@ http://dvr4.kablova.tv/TV2/index.m3u8
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
-#EXTINF:-1,781
+#EXTINF:0 group-title="test",Rai 1 SAT HD
+http://185.207.34.31:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="test",Rai 2 SAT HD
+http://185.207.34.31:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="test",Rai 3 SAT HD
+http://185.207.34.31:8000/play/a01a/index.m3u8
+#EXTINF:0 group-title="test",Senato
+http://185.207.34.31:8000/play/a012/index.m3u8
+#EXTINF:0 group-title="test",TV5MONDE EUROPE HD
+http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:-1,786
 http://181.209.194.14:8000/play/a041
-#EXTINF:-1,782
+#EXTINF:-1,787
 http://181.209.194.14:8000/play/a040
-#EXTINF:-1,783
-http://188.40.59.230:5100/mtv
-#EXTINF:0,784
-http://165.210.33.120:8081/eurosport1/mpegts
-#EXTINF:0,785
-http://185.207.34.107:8000/play/1plus1
-#EXTINF:0,786
-http://94.130.221.219/2plus2/index.m3u8
-#EXTINF:0,787
-http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:-1,788
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF:-1,789
-https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+http://188.40.59.230:5100/mtv
+#EXTINF:0,789
+http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:0,790
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://fortv.cc:8080/lynda@mason/lynda@2022/212900
@@ -1644,6 +1644,3 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
-
-
-
