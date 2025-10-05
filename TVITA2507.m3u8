@@ -89,7 +89,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 group-title="Discovery IT",Warner TV
+#EXTINF:-1 group-title="Discovery IT",Discovery
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 group-title="Discovery IT",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
@@ -109,7 +109,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="-",TELERENT
+#EXTINF:-1 group-title="-",telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -680,10 +680,10 @@ http://178.33.11.6:8696/live/scanott/playlist.m3u8
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0,_
+#EXTINF:0 group-title="AL",TOP CH
 http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
-#EXTINF:0,_
-http://89.187.191.99:8080/topnews/index.m3u8
+#EXTINF:0 group-title="AL",TOP News
+https://eun12.playlist.ttvnw.net/v1/playlist/CskGqjfuPgl7MKQz__JM28UFqwFYUHO_kPxgxIpwSFQx7aktZm5xRty9OFD9S6entgO7tBC3jbL8cusg98h2G5sgWjnlWZ7yt1hqEX3xvxDV61Az11oLrwgFiBfFajBCUg54OfcguTIEDxa0fHZ5vELcEeshuqHgwmAqSvWG-fZ6o1GVQKAFeB3icXBRChgI9KLydPc2wR8rDAQzp0HNqlqSroK2zpcIqFuAH-LvC_u20eRD3jKP_R5s-vQFPknJFlyXS3yl3ohBrbFiYImgfZ3aFxqgY1z-69Rvgjc1_ufwo_BhqF4eg7CEu8SvU9Q4SCtMb3RPsRB8DLdUySADpMxssfjqhaWcQapwKFrdNRJsJq0JuObUr0iXhInLtUnBumIMA9o-0iNbXFek8YxIYSLD3XtKv0ebQQpp0YbJ8t-uGEtgWgtpBvkw--IjEhvxAiGOoVdcCaJCUzZRTk_DWx0EZRp6S-uHYF3gyFe-7iwkhhng-_Jsvk_iYIlMmBo-T6QPs7mDKAmkQeXgszrE6_MejQWHVAGfdcJJDf5qE73xMHHMOhe2icHUZY2wPXOU4yjZTqHoMOn6ph-Sn-Uwd_qdHNA6m_6A6wrwIa6ZAKn9iTzMVDj6EF_b1q0wfnlBXspB23wB2ryijwy58x_EUG3FoE7Hk-Tbt9MT7Hjurto8n07Sw_RNXpNWKbQ6LVnz_TqrO6tV86YZ0jUpgwcbtor4VG8LNbMaEERuhNQc32Vjun7Ng9WOqvOrrfJ_Ot9iOtU_pmAQgCtOEdpWhwbs7WT5vz8M2x4FG40FFoNaVycm4HvLaCGLb-TqT2wUk6B1FmOkAJbLTiDoSSrEzUns_V7gahPF-lDRV1iqdqPY9wZez7P3UHpWft5uQ5Qrzy5fup0ayuGJmLan2RsEmuwJe24_otf97UdwUybcvwX4R8tst8XEXmntbhfSd1kMj07uWcT-39bJkMAbM8qDqxmU-RjtnG8zUxviWoUkWkJ7E8n-er-CMoEtKu35mGd_AodE6Doz5siN5n2ot9KEH-7kabPuN2Bc-RKgp9-5cXUEm2xvf2CApEwcYKzMHyHMzw_XANVeWyJD1CGWaGb2lTcNFwF476QOtkIYtkQUxhoMR9StYl8MD2_XpYjAIAEqCWV1LXdlc3QtMjCzDQ.m3u8
 #EXTINF:0 group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0 group-title="AL",Teuta
@@ -1644,3 +1644,4 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
