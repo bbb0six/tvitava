@@ -213,7 +213,7 @@ https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV Live
-http://95.216.97.235:7777/mtvlivehd
+http://85.206.147.2/mtvlivehd/index.m3u8
 #EXTINF:-1 group-title="MTV",MTV Hits
 http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",Club MTV
@@ -223,7 +223,7 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 90s
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
-http://95.216.97.235:7777/mtv00
+http://104.238.205.28:8989/278607_.m3u8
 #EXTINF:-1 group-title="MTV",MTV Europe
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
@@ -1644,4 +1644,5 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
