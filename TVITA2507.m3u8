@@ -752,8 +752,8 @@ http://195.189.60.31:8003/play/a0eg/index.m3u8
 http://195.189.60.31:8003/play/a0ae/index.m3u8
 #EXTINF:0 group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
-#EXTINF:0,_
-http://103.49.40.100:27014/POLSATMUSICHD
+#EXTINF:0 group-title="ru",VIVA RU
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:0 group-title="ru",TNT Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:0 group-title="sk",360 TuneBox
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
