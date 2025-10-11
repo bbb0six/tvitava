@@ -752,7 +752,7 @@ http://195.189.60.31:8003/play/a0eg/index.m3u8
 http://195.189.60.31:8003/play/a0ae/index.m3u8
 #EXTINF:0 group-title="RO",NickMusic
 http://195.189.60.31:8003/play/a0dx/index.m3u8
-#EXTINF:0 group-title="pl",Polsat Music
+#EXTINF:0,_
 http://103.49.40.100:27014/POLSATMUSICHD
 #EXTINF:0 group-title="ru",TNT Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
@@ -824,20 +824,20 @@ https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:0,_
+https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="IT",SkyTG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
-#EXTINF:0 group-title="MX",MTV Live
-http://201.77.61.226:8001/play/a0i7
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="MX",Star TVE
-http://201.77.61.226:8001/play/a0kz
+#EXTINF:0 group-title="MX",MTV Live
+http://201.77.61.226:8001/play/a0i7
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1510,7 +1510,7 @@ http://176.65.146.193:5004/play/a06l/index.m3u8
 #EXTINF:0,Rai 4K
 http://176.65.146.193:5004/play/a06h/index.m3u8
 #EXTINF:0,734
-https://live.jefimija.eu/hls/stream_src/index.m3u8
+https://dash3.antik.sk/live/test_ruzinov/playlist.m3u8
 #EXTINF:0,735
 https://dash3.antik.sk/live/chilli_tv/index.m3u8
 #EXTINF:0,736
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
