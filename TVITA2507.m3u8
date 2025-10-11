@@ -420,14 +420,14 @@ https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
 https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
-#EXTINF:0 group-title="Vari",Radio Serie A TV
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+#EXTINF:0 group-title="UK",DMAX UK
+http://176.65.146.224:4007/play/a06r/index.m3u8
+#EXTINF:0 group-title="UK",HGTV UK
+http://176.65.146.224:4007/play/a06s/index.m3u8
 #EXTINF:0 group-title="CH",MEZZO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0 group-title="CH",Paramount FR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
-#EXTINF:0 group-title="CH",CANAL+
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 #EXTINF:0 group-title="CH",Planete+
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0 group-title="CH",Deluxe Music
@@ -582,11 +582,11 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 122
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Tele Molise
+#EXTINF:0 group-title="Vari",Tele Molise
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Diciotto
+#EXTINF:0 group-title="Vari",Diciotto
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
-#EXTINF:0 group-title="Regionali",e'tv rete 7
+#EXTINF:0 group-title="Vari",e'tv rete 7
 https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
@@ -624,6 +624,8 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:0 group-title="Vari",Radio Serie A TV
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 #EXTINF:0 group-title="CH",RAI STORIA
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0 group-title="CH",RAI SPORT
@@ -636,8 +638,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:0 group-title="MTV",MTV Live USA
-http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0 group-title="AL",RTSH 1
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 2
@@ -1013,10 +1013,10 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://212.102.60.231/WGN/index.m3u8
-#EXTINF:0 group-title="UK",DMAX UK
-http://176.65.146.224:4007/play/a06r/index.m3u8
-#EXTINF:0 group-title="UK",HGTV UK
-http://176.65.146.224:4007/play/a06s/index.m3u8
+#EXTINF:0,_
+http://212.102.60.231/MTV_CLASSIC/mpegts
+#EXTINF:0,_
+http://212.102.60.231/MTV_LIVE/mpegts
 #EXTINF:0,_
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1,TRENTINO TV
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
