@@ -701,15 +701,15 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="CH",RTK 1 SAT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:0 group-title="AL",RTK 2
-http://94.100.50.220/RTK2/index.m3u8
+http://94.100.50.220/RTK2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AL",RTK 3
-http://94.100.50.220/RTK3/index.m3u8
+http://94.100.50.220/RTK3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AL",RTK 4
-http://94.100.50.220/RKT4/index.m3u8
+http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AL",RTV 21
-http://94.100.50.220/RTV21/index.m3u8
+http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AL",ATV
-http://94.100.50.220/ATV/index.m3u8
+http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
@@ -791,7 +791,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:0 group-title="CH",TV5Monde FBS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
 #EXTINF:0 group-title="-",TV5Monde Asie
-http://125hvt.ddns.net:21585/tv5/mpegts
+http://125hvt.ddns.net:21585/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 #EXTINF:0 group-title="CH",RTL 9
@@ -1016,7 +1016,7 @@ http://212.102.60.231/WGN/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
 http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0 group-title="UK",HGTV UK
-http://176.65.146.224:4002/play/a06z/index.m3u8
+http://176.65.146.224:4007/play/a06s/index.m3u8
 #EXTINF:0,_
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1,TRENTINO TV
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
