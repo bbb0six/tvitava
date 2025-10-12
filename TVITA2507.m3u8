@@ -598,8 +598,8 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:0 group-title="Vari",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0 group-title="Vari",Easy TV
+https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV Music
@@ -614,14 +614,14 @@ https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="Vari",Tele A1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0 group-title="Vari",TCI
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Parole Di Vita
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:0 group-title="Vari",TelePace
-https://64b16f23efbee.streamlock.net/telepace1/telepace1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
@@ -1334,8 +1334,8 @@ http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Pro7 Maxx DE
 http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SAT1 DE
-http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",KIKA DE
+http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Nick DE
 http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Comedy Central DE
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
