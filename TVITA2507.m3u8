@@ -504,26 +504,28 @@ http://92.118.251.84:8080/Eurosport1/index.m3u8
 http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0 group-title="España",SYFY ES
 http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:0 group-title="España",Hollywood ES
-http://185.130.218.254:25007/Hollywood/mpegts
-#EXTINF:0 group-title="España",AMC ES
-http://185.130.218.254:25007/AMC/mpegts
 #EXTINF:0 group-title="España",MTV ES
 http://185.189.225.149/mtv/index.m3u8
 #EXTINF:0 group-title="España",MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
-#EXTINF:0 group-title="España",MTV Club
-http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Germany
 http://62.210.136.5/mtv/index.m3u8
 #EXTINF:0 group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0 group-title="CH",TELE 5
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:0 group-title="CH",DMAX DE
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+#EXTINF:0 group-title="CH",Eurosport DE
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0 group-title="CH",ORF 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="CH",ORF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:0 group-title="CH",Eurosport DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:0 group-title="DE",3+ DE
+http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",4+ DE
+http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1
 http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -532,8 +534,6 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
 http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="CH",TELE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="CH",Das Erste
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:0 group-title="CH",ZDF
@@ -556,8 +556,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:0 group-title="CH",WDR
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
-#EXTINF:0 group-title="CH",DMAX DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+#EXTINF:0 group-title="CH",KIKA
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 #EXTINF:0 group-title="Vari",radioradio tv
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
 #EXTINF:0 group-title="Vari",byoblu
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
