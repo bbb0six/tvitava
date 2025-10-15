@@ -1230,10 +1230,10 @@ http://78.108.251.7/Arena_Sport_3/index.m3u8
 http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena_Sport_5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTINF:0,TNT Sports 2
-http://185.130.218.254:25007/BTSport2/index.m3u8
-#EXTINF:0,TNT Sports 3
-http://185.130.218.254:25007/BTSport3/index.m3u8
+#EXTINF:0,2TV LT
+http://213.252.201.74:9981/stream/channelid/112880119
+#EXTINF:0,_
+http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0 group-title="NL",ZIGGO SPORT 1
 http://185.236.230.212:9982/play/a09f
 #EXTINF:0 group-title="NL",ZIGGO SPORT 2
@@ -1280,42 +1280,46 @@ http://185.236.230.212:9982/play/a086
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="USA",BET
+http://159.69.66.238/bet/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://159.69.66.238/bravo/index.m3u8
+#EXTINF:0 group-title="USA",Disney Channel
+http://159.69.66.238/disneychannel/index.m3u8
+#EXTINF:0 group-title="USA",Disney JR
+http://159.69.66.238/disneyjr/index.m3u8
+#EXTINF:0 group-title="USA",FX
+http://159.69.66.238/fxhd/index.m3u8
+#EXTINF:0 group-title="USA",HGTV
+http://159.69.66.238/hgtv/index.m3u8
+#EXTINF:0 group-title="USA",History Channel
+http://159.69.66.238/historychannel/index.m3u8
+#EXTINF:0 group-title="USA",MGM
+http://159.69.66.238/mgmhd/index.m3u8
+#EXTINF:0 group-title="USA",Nat Geo
+http://159.69.66.238/natgeo/index.m3u8
+#EXTINF:0 group-title="USA",Nat Geo Wild
+http://159.69.66.238/natgeowild/index.m3u8
+#EXTINF:0 group-title="USA",TBS
+http://159.69.66.238/tbs/index.m3u8
+#EXTINF:0 group-title="USA",TLC
+http://159.69.66.238/tlc/index.m3u8
+#EXTINF:0 group-title="USA",TV LAND
+http://159.69.66.238/tvland/index.m3u8
+#EXTINF:-1,_
+http://176.116.105.82/MTV_Europe/index.m3u8
+#EXTINF:-1,_
+http://176.116.105.82/MTV_Hits/index.m3u8
+#EXTINF:-1,_
+http://176.116.105.82/clubMTV/index.m3u8
+#EXTINF:-1,_
+http://176.116.105.82/PRO7/index.m3u8
+#EXTINF:-1,SVT 1
+http://57.129.90.45/SVT1/index.m3u8
 #EXTINF:0 group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
-#EXTINF:0 group-title="EU",BBC TWO HD
-http://185.130.218.254:25007/BBC2/mpegts
 #EXTINF:0 group-title="EU",ITV 1
 http://185.130.218.254:25007/ITV/mpegts
-#EXTINF:0 group-title="EU",ITV 2
-http://185.130.218.254:25007/ITV2/mpegts
-#EXTINF:0 group-title="EU",ITV 3
-http://185.130.218.254:25007/ITV3/mpegts
-#EXTINF:0 group-title="EU",ITV 4
-http://185.130.218.254:25007/ITV4/mpegts
-#EXTINF:0 group-title="EU",NatGeo HD
-http://185.130.218.254:25007/NatGeo/mpegts
-#EXTINF:0 group-title="EU",AMC ES
-http://185.130.218.254:25007/AMC/mpegts
-#EXTINF:0 group-title="EU",RTL DE
-http://185.130.218.254:25007/RTL/mpegts
-#EXTINF:0 group-title="EU",RTL 2 DE
-http://185.130.218.254:25007/RTL2/mpegts
-#EXTINF:0 group-title="EU",TF1 FR
-http://185.130.218.254:25007/TF1/mpegts
-#EXTINF:0 group-title="EU",France 2 FR
-http://185.130.218.254:25007/France2/mpegts
-#EXTINF:0 group-title="EU",France 3 FR
-http://185.130.218.254:25007/France3/mpegts
-#EXTINF:0 group-title="EU",France 4 FR
-http://185.130.218.254:25007/France4/mpegts
-#EXTINF:0 group-title="EU",La 1 ES
-http://185.130.218.254:25007/La1HD/mpegts
-#EXTINF:0 group-title="EU",La 2 ES
-http://185.130.218.254:25007/La2HD/mpegts
-#EXTINF:0 group-title="EU",Cuatro ES
-http://185.130.218.254:25007/CuatroHD/mpegts
-#EXTINF:0 group-title="EU",Telecinco ES
-http://185.130.218.254:25007/TelecincoHD/mpegts
 #EXTINF:0 group-title="DE",SRF 1 CH
 http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SRF 2 CH
@@ -1330,10 +1334,6 @@ http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Eurosport DE
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",ProSieben DE
-http://176.10.117.68:6060/pro7/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Pro7 Maxx DE
-http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",KIKA DE
 http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Nick DE
@@ -1644,6 +1644,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
