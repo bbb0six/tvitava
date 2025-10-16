@@ -1138,7 +1138,7 @@ http://181.189.241.114:5050/play/a0bw
 http://181.189.241.114:5050/play/a0q6
 #EXTINF:0,_
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0,San Marino RTV
+#EXTINF:0,_
 #EXTVLCOPT:network-caching=1000
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0,Eurosport 1
@@ -1198,9 +1198,9 @@ http://200.60.124.20:29000/play/a015
 #EXTINF:0,578
 http://200.60.124.20:29000/play/a0m4
 #EXTINF:0,579
-http://200.60.124.20:29000/play/a0j8
+http://95.216.97.235:7777/mtvlivehd
 #EXTINF:0,580
-http://200.60.124.20:29000/play/a01f
+http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
 #EXTINF:0 group-title="PP",ESPN 2
@@ -1315,7 +1315,11 @@ http://176.116.105.82/MTV_Hits/index.m3u8
 http://176.116.105.82/clubMTV/index.m3u8
 #EXTINF:-1,_
 http://176.116.105.82/PRO7/index.m3u8
-#EXTINF:-1,SVT 1
+#EXTINF:0 group-title="EU",SLO 1
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:0 group-title="EU",SLO 2
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:0 group-title="EU",SVT 1
 http://57.129.90.45/SVT1/index.m3u8
 #EXTINF:0 group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
@@ -1329,10 +1333,6 @@ http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",3SAT DE
 http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",3+ DE
-http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",4+ DE
-http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Eurosport DE
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",KIKA DE
@@ -1341,6 +1341,14 @@ http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Comedy Central DE
 http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Das Erste
+http://23.88.66.93/ARD/index.m3u8
+#EXTINF:0 group-title="DE",ZDF
+http://23.88.66.93/ZDF/index.m3u8
+#EXTINF:0 group-title="DE",PRO 7
+http://23.88.66.93/Pro7/index.m3u8
+#EXTINF:0 group-title="DE",SAT 1
+http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
 http://46.149.191.217:9019/play/a01w
 #EXTINF:-1 group-title="HU",MTV Hits
@@ -1371,16 +1379,6 @@ http://176.65.146.224:4002/play/a06x/index.m3u8
 http://176.65.146.224:4003/play/a06h/index.m3u8
 #EXTINF:0,group-title="UK",S4C HD
 http://176.65.146.224:4004/play/a072/index.m3u8
-#EXTINF:0 group-title="MTV",MTV DE
-https://izle.canlitvapp.com/mtv/index.m3u8
-#EXTINF:0 group-title="MTV",MTV Live HD
-http://95.216.97.235:7777/mtvlivehd
-#EXTINF:0 group-title="MTV",MTV Hits HQ
-http://95.216.97.235:7777/mtvhits
-#EXTINF:0 group-title="MTV",MTV 90s SD
-http://95.216.97.235:7777/mtv90
-#EXTINF:0 group-title="MTV",MTV 00s SD
-http://95.216.97.235:7777/mtv00
 #EXTINF:0 group-title="test",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="test",RTL9
@@ -1404,6 +1402,8 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:0 group-title="USA",_
+https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1,02 РОССИЯ-1
@@ -1645,6 +1645,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
