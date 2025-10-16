@@ -42,7 +42,7 @@ http://84.22.55.2:8032/play/s365
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
 #EXTINF:0 group-title=".",_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+https://smrtvlive.b-cdn.net/bcdn_token=nf0oyF1r6XWFhx7ZcazvpH8URm0-UikxBUObri2Qvjc&token_path=%2Flive&expires=1760631282/live/smrtv-ch01/playlist.m3u8
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
@@ -1645,6 +1645,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
