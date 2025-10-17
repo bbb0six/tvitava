@@ -1320,6 +1320,12 @@ http://23.88.66.93/SLO1/index.m3u8
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:0 group-title="EU",SVT 1
 http://57.129.90.45/SVT1/index.m3u8
+#EXTINF:0 group-title="EU",RTP 1
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="EU",RTP 2
+http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="EU",RTP 3
+http://185.228.163.146:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="EU",BBC ONE LON HD
 http://185.130.218.254:25007/BBC1/mpegts
 #EXTINF:0 group-title="EU",ITV 1
@@ -1340,10 +1346,6 @@ http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Comedy Central DE
 http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Das Erste
-http://23.88.66.93/ARD/index.m3u8
-#EXTINF:0 group-title="DE",ZDF
-http://23.88.66.93/ZDF/index.m3u8
 #EXTINF:0 group-title="DE",PRO 7
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1
@@ -1391,9 +1393,6 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0 group-title="USA",OANN
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://s6.usnlive.com/stream/oann.m3u8
-#EXTINF:0 group-title="USA",FOX News
-#EXTVLCOPT:http-referrer=https://usnewson.com/
-https://s13.usnlive.com/stream/foxnews.m3u8
 #EXTINF:0 group-title="USA",weather channel
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -1644,6 +1643,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
