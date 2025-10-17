@@ -1039,24 +1039,24 @@ http://84.22.55.2:8032/play/s367
 http://84.22.55.2:8032/play/s368
 #EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
+#EXTINF:-1 group-title="-",501
 http://8.242.189.218:9000/play/a075
-#EXTINF:-1 group-title="-",ESPN 2 HD
+#EXTINF:-1 group-title="-",502
 http://8.242.189.218:9000/play/a046
-#EXTINF:-1 group-title="-",ESPN 3 HD
+#EXTINF:-1 group-title="-",503
 http://8.242.189.218:9000/play/a03y
-#EXTINF:-1 group-title="-",ESPN 4HD
+#EXTINF:-1 group-title="-",504
 http://8.242.189.218:9000/play/a05c
-#EXTINF:-1 group-title="-",ESPN 5 HD
+#EXTINF:-1 group-title="-",505
 http://8.242.189.218:9000/play/a0a8
-#EXTINF:-1 group-title="-",ESPN 6HD
+#EXTINF:-1 group-title="-",506
 http://8.242.189.218:9000/play/a03l
-#EXTINF:-1 group-title="-",ESPN 7HD
+#EXTINF:-1 group-title="-",507
 http://8.242.189.218:9000/play/a055
-#EXTINF:-1 group-title="-",ESPN Premium HD
+#EXTINF:-1 group-title="-",508
 http://8.242.189.218:9000/play/a04d
-#EXTINF:-1 group-title="MX",ESPN MX
-http://201.77.61.226:8001/play/a0l0
+#EXTINF:-1 group-title="-",509
+http://201.77.61.226:8001/play/a0kb/index.m3u8
 #EXTINF:0,group-title="bg",Max Sport 1
 http://213.169.39.30:5138
 #EXTINF:0,group-title="bg",Max Sport 2
@@ -1135,9 +1135,9 @@ http://181.189.241.114:5050/play/a0pq
 http://181.189.241.114:5050/play/a0bw
 #EXTINF:-1 group-title="hn",ESPN HD
 http://181.189.241.114:5050/play/a0q6
-#EXTINF:0,_
+#EXTINF:0,549
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 #EXTINF:0,Eurosport 1
@@ -1621,8 +1621,7 @@ http://188.40.59.230:5100/mtv
 #EXTINF:0,789
 http://165.210.33.120:8081/eurosport1/mpegts
 #EXTINF:0,790
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://fortv.cc:8080/lynda@mason/lynda@2022/212900
+http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1,791
 http://195.189.60.31:8003/play/a0a9/index.m3u8
 #EXTINF:-1,792
@@ -1643,6 +1642,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
