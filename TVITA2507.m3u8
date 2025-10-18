@@ -523,9 +523,9 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="CH",ORF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:0 group-title="DE",3+ DE
+#EXTINF:0 group-title="DE",3+ CH
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",4+ DE
+#EXTINF:0 group-title="DE",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1
 http://176.10.117.68:6060/sat1/tracks-v1a1/mono.m3u8
@@ -1642,6 +1642,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
