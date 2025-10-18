@@ -1040,21 +1040,21 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:0,ritmo 80
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:-1 group-title="-",501
-http://8.242.189.218:9000/play/a075
+http://190.102.246.93:9005/play/a04w
 #EXTINF:-1 group-title="-",502
-http://8.242.189.218:9000/play/a046
+http://190.102.246.93:9005/play/a05c
 #EXTINF:-1 group-title="-",503
-http://8.242.189.218:9000/play/a03y
+http://190.102.246.93:9005/play/a02l
 #EXTINF:-1 group-title="-",504
-http://8.242.189.218:9000/play/a05c
+http://190.102.246.93:9005/play/a05o
 #EXTINF:-1 group-title="-",505
-http://8.242.189.218:9000/play/a0a8
+http://190.102.246.93:9005/play/a01q
 #EXTINF:-1 group-title="-",506
-http://8.242.189.218:9000/play/a03l
+http://190.102.246.93:9005/play/a01r
 #EXTINF:-1 group-title="-",507
-http://8.242.189.218:9000/play/a055
+http://190.102.246.93:9005/play/a029
 #EXTINF:-1 group-title="-",508
-http://8.242.189.218:9000/play/a04d
+http://190.102.246.93:9005/play/a05a
 #EXTINF:-1 group-title="-",509
 http://201.77.61.226:8001/play/a0kb/index.m3u8
 #EXTINF:0,group-title="bg",Max Sport 1
@@ -1642,3 +1642,4 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
