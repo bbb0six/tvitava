@@ -751,10 +751,10 @@ http://195.189.60.31:8003/play/a0eq/index.m3u8
 http://195.189.60.31:8003/play/a0eg/index.m3u8
 #EXTINF:0 group-title="RO",PRO TV HD
 http://195.189.60.31:8003/play/a0ae/index.m3u8
-#EXTINF:0 group-title="RO",NickMusic
+#EXTINF:0 group-title="RO",NickMusic EU
 http://195.189.60.31:8003/play/a0dx/index.m3u8
-#EXTINF:0 group-title="ru",VIVA RU
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:0 group-title="ru",MuzTV RU
+http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="ru",TNT Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:0 group-title="sk",360 TuneBox
@@ -845,8 +845,6 @@ https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:0 group-title="i",Rai 3 SAT
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0 group-title="i",Rai News 24
-https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia US
@@ -875,6 +873,8 @@ https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
 https://dash2.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="sk",NHK World Japan
 https://dash3.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:0 group-title="ua",UA 24
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="ua",Freedom UATV
 https://dash3.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="il",i24 News
@@ -911,8 +911,6 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="ua",UA 24
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -1033,12 +1031,14 @@ http://159.69.66.238/fxhd/index.m3u8
 http://159.69.66.238/hgtv/index.m3u8
 #EXTINF:0 group-title="USA",History Channel
 http://159.69.66.238/historychannel/index.m3u8
-#EXTINF:0 group-title="MTV",Nick Music
-http://45.173.75.4:2061/play/a07u
-#EXTINF:0 group-title="MTV",MTV Latino
-http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="MTV",MTV 00s HD
-http://45.173.75.4:2061/play/a09i
+#EXTINF:0 group-title="USA",TBS
+http://159.69.66.238/tbs/index.m3u8
+#EXTINF:0 group-title="USA",TLC
+http://159.69.66.238/tlc/index.m3u8
+#EXTINF:0 group-title="USA",TV LAND
+http://159.69.66.238/tvland/index.m3u8
+#EXTINF:0 group-title="MTV",MTV PL
+http://45.87.35.12:7209/stream
 #EXTINF:-1 group-title="-",501
 http://190.102.246.93:9005/play/a04w
 #EXTINF:-1 group-title="-",502
@@ -1214,9 +1214,9 @@ http://45.173.75.4:2061/play/a01r
 http://45.173.75.4:2061/play/a017
 #EXTINF:0 group-title="PP",ESPN 7
 http://45.173.75.4:2061/play/a016
-#EXTINF:0 group-title="PP",MTV LA
+#EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="PP",MTV 00
+#EXTINF:0 group-title="PP",MTV 00s HD
 http://45.173.75.4:2061/play/a09i
 #EXTINF:0 group-title="PP",Nick Music
 http://45.173.75.4:2061/play/a07u
@@ -1312,8 +1312,6 @@ http://23.88.66.93/Pro7/index.m3u8
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="USA",BET
 http://159.69.66.238/bet/index.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://159.69.66.238/bravo/index.m3u8
 #EXTINF:0 group-title="USA",BET
 http://159.69.66.238/bet/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
@@ -1352,6 +1350,8 @@ http://46.149.191.217:9011/play/a00v
 http://46.149.191.217:9011/play/a00r
 #EXTINF:-1 group-title="HU",MTV Europe
 http://46.149.191.217:9011/play/a00q
+#EXTINF:-1,_
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:0,group-title="UK",ITV1 Wales HD
 http://176.65.146.224:4004/play/a07m/index.m3u8
 #EXTINF:0,group-title="UK",BBC One EMidHD
@@ -1640,6 +1640,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
