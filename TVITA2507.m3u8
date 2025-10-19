@@ -913,16 +913,10 @@ https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="ua",UA 24
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="MTV",Nick Music
-http://45.173.75.4:2061/play/a07u
-#EXTINF:0 group-title="MTV",MTV Latino
-http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="MTV",MTV 00s HD
-http://45.173.75.4:2061/play/a09i
-#EXTINF:0 group-title="USA",ABC EAST
-http://212.102.60.231/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="USA",ABC EAST
+http://212.102.60.231/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
 http://212.102.60.231/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
@@ -981,6 +975,8 @@ http://212.102.60.231/MTV_LIVE/index.m3u8
 http://212.102.60.231/MTV_U/index.m3u8
 #EXTINF:0 group-title="USA",National Geographic
 http://212.102.60.231/National_Geographic/index.m3u8
+#EXTINF:0 group-title="USA",Nat Geo Wild
+http://212.102.60.231/Nat_Geo_Wild/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -1027,18 +1023,22 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://212.102.60.231/WGN/index.m3u8
 #EXTINF:0 group-title="USA",WWE
 http://212.102.60.231/WWE/index.m3u8
-#EXTINF:-1,495
-http://84.22.55.2:8032/play/s363
-#EXTINF:-1,496
-http://84.22.55.2:8032/play/s364
-#EXTINF:-1,497
-http://84.22.55.2:8032/play/s365
-#EXTINF:-1,498
-http://84.22.55.2:8032/play/s366
-#EXTINF:-1,499
-http://84.22.55.2:8032/play/s369
-#EXTINF:-1 group-title="-",500
-https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
+#EXTINF:0 group-title="USA",Disney Channel
+http://159.69.66.238/disneychannel/index.m3u8
+#EXTINF:0 group-title="USA",Disney JR
+http://159.69.66.238/disneyjr/index.m3u8
+#EXTINF:0 group-title="USA",FX
+http://159.69.66.238/fxhd/index.m3u8
+#EXTINF:0 group-title="USA",HGTV
+http://159.69.66.238/hgtv/index.m3u8
+#EXTINF:0 group-title="USA",History Channel
+http://159.69.66.238/historychannel/index.m3u8
+#EXTINF:0 group-title="MTV",Nick Music
+http://45.173.75.4:2061/play/a07u
+#EXTINF:0 group-title="MTV",MTV Latino
+http://45.173.75.4:2061/play/a09g
+#EXTINF:0 group-title="MTV",MTV 00s HD
+http://45.173.75.4:2061/play/a09i
 #EXTINF:-1 group-title="-",501
 http://190.102.246.93:9005/play/a04w
 #EXTINF:-1 group-title="-",502
@@ -1284,6 +1284,18 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 http://159.69.66.238/bet/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://159.69.66.238/bravo/index.m3u8
+#EXTINF:0 group-title="USA",BET
+http://159.69.66.238/bet/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://159.69.66.238/bravo/index.m3u8
+#EXTINF:0 group-title="USA",MGM
+http://159.69.66.238/mgmhd/index.m3u8
+#EXTINF:0 group-title="USA",TBS
+http://159.69.66.238/tbs/index.m3u8
+#EXTINF:0 group-title="USA",TLC
+http://159.69.66.238/tlc/index.m3u8
+#EXTINF:0 group-title="USA",TV LAND
+http://159.69.66.238/tvland/index.m3u8
 #EXTINF:0 group-title="USA",Disney Channel
 http://159.69.66.238/disneychannel/index.m3u8
 #EXTINF:0 group-title="USA",Disney JR
@@ -1294,18 +1306,10 @@ http://159.69.66.238/fxhd/index.m3u8
 http://159.69.66.238/hgtv/index.m3u8
 #EXTINF:0 group-title="USA",History Channel
 http://159.69.66.238/historychannel/index.m3u8
-#EXTINF:0 group-title="USA",MGM
-http://159.69.66.238/mgmhd/index.m3u8
 #EXTINF:0 group-title="USA",Nat Geo
 http://159.69.66.238/natgeo/index.m3u8
 #EXTINF:0 group-title="USA",Nat Geo Wild
 http://159.69.66.238/natgeowild/index.m3u8
-#EXTINF:0 group-title="USA",TBS
-http://159.69.66.238/tbs/index.m3u8
-#EXTINF:0 group-title="USA",TLC
-http://159.69.66.238/tlc/index.m3u8
-#EXTINF:0 group-title="USA",TV LAND
-http://159.69.66.238/tvland/index.m3u8
 #EXTINF:0 group-title="EU",SLO 1
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="EU",SLO 2
@@ -1640,5 +1644,6 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
