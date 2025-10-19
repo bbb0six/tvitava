@@ -36,13 +36,12 @@ https://lostream.it/hls/telea/video.m3u8
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 #EXTINF:-1 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:0 group-title=".",
-http://84.22.55.2:8032/play/s365
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
-#EXTINF:0 group-title=".",_
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTINF:0 group-title="-",_
 http://176.116.105.82/MTV_Hits/index.m3u8
+#EXTINF:0 group-title="-",_
+http://176.116.105.82/clubMTV/index.m3u8
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
@@ -1640,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
