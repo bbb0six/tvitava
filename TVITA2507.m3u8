@@ -681,14 +681,12 @@ http://178.33.11.6:8696/live/scanott/playlist.m3u8
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0,_
+#EXTINF:0 group-title="AL",Top
 http://lilitv.xyz:80/play/bMV1tJBDKuT_Mc889-Wtdo8pIs_HVlU6hxB0dlbMoMwAK2DxJYNMUPyoXPPUH8_d
-#EXTINF:0,_
-https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:0 group-title="AL",News 24
-http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0 group-title="AL",Teuta
 http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
+#EXTINF:0 group-title="AL",News 24
+http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0 group-title="AL",MCN TV
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0 group-title="AL",BBF
@@ -697,6 +695,8 @@ http://178.33.11.6:8696/live/bbfott/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:0 group-title="RS",jefimija
+https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="CH",RTK 1 SAT
@@ -981,8 +981,12 @@ http://212.102.60.231/MTV_LIVE/index.m3u8
 http://212.102.60.231/MTV_U/index.m3u8
 #EXTINF:0 group-title="USA",National Geographic
 http://212.102.60.231/National_Geographic/index.m3u8
+#EXTINF:0 group-title="USA",NBA TV
+http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
+#EXTINF:0 group-title="USA",News Nation
+http://212.102.60.231/NEWS_NATION/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
@@ -1003,8 +1007,14 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",Starz Encore Action
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:0 group-title="USA",SYFY US
 http://212.102.60.231/SYFY/index.m3u8
+#EXTINF:0 group-title="USA",Tennis Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:0 group-title="USA",TNT US
+http://212.102.60.231/TNT/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
@@ -1015,29 +1025,19 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://212.102.60.231/WGN/index.m3u8
-#EXTINF:0,_
-http://212.102.60.231/MTV_LIVE/mpegts
-#EXTINF:0,_
-http://95.66.188.74:80/Nostalgia/mono.m3u8
-#EXTINF:-1,TRENTINO TV
-http://84.22.55.2:8032/play/s361
-#EXTINF:-1,RTTR
-http://84.22.55.2:8032/play/s362
-#EXTINF:-1,Telepace Trento
+#EXTINF:0 group-title="USA",WWE
+http://212.102.60.231/WWE/index.m3u8
+#EXTINF:-1,495
 http://84.22.55.2:8032/play/s363
-#EXTINF:-1,Telepadova 7 GOLD
+#EXTINF:-1,496
 http://84.22.55.2:8032/play/s364
-#EXTINF:-1,TELENUOVO
+#EXTINF:-1,497
 http://84.22.55.2:8032/play/s365
-#EXTINF:-1,ANTENNA TRE VENETO
+#EXTINF:-1,498
 http://84.22.55.2:8032/play/s366
-#EXTINF:-1,TV7 Triveneta Network
+#EXTINF:-1,499
 http://84.22.55.2:8032/play/s369
-#EXTINF:-1,TELECHIARA
-http://84.22.55.2:8032/play/s367
-#EXTINF:-1,TV33 TN
-http://84.22.55.2:8032/play/s368
-#EXTINF:0,ritmo 80
+#EXTINF:-1 group-title="-",500
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:-1 group-title="-",501
 http://190.102.246.93:9005/play/a04w
@@ -1189,15 +1189,15 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:-1,maxsport4 HD
 http://77.46.130.252:99/maxsport4
 #EXTINF:0,575
-http://200.60.124.20:29000/play/a016
+http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:0,576
-http://200.60.124.20:29000/play/a0g1
+http://212.102.60.231/TSN_2/index.m3u8
 #EXTINF:0,577
-http://200.60.124.20:29000/play/a015
+http://212.102.60.231/TSN_3/index.m3u8
 #EXTINF:0,578
-http://200.60.124.20:29000/play/a0m4
+http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:0,579
-http://95.216.97.235:7777/mtvlivehd
+http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:0,580
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0 group-title="PP",ESPN 1
@@ -1230,8 +1230,8 @@ http://78.108.251.7/Arena_Sport_3/index.m3u8
 http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena_Sport_5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTINF:0,2TV LT
-http://213.252.201.74:9981/stream/channelid/112880119
+#EXTINF:0,_
+http://95.216.97.235:7777/mtvhits
 #EXTINF:0,_
 http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0 group-title="NL",ZIGGO SPORT 1
@@ -1306,14 +1306,6 @@ http://159.69.66.238/tbs/index.m3u8
 http://159.69.66.238/tlc/index.m3u8
 #EXTINF:0 group-title="USA",TV LAND
 http://159.69.66.238/tvland/index.m3u8
-#EXTINF:-1,_
-http://176.116.105.82/MTV_Europe/index.m3u8
-#EXTINF:-1,_
-http://176.116.105.82/MTV_Hits/index.m3u8
-#EXTINF:-1,_
-http://176.116.105.82/clubMTV/index.m3u8
-#EXTINF:-1,_
-http://176.116.105.82/PRO7/index.m3u8
 #EXTINF:0 group-title="EU",SLO 1
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="EU",SLO 2
@@ -1326,10 +1318,6 @@ http://185.228.163.146:8000/play/a002/index.m3u8
 http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="EU",RTP 3
 http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="EU",_
-http://185.71.81.6:8080/20/index.m3u8
-#EXTINF:0 group-title="EU",_
-http://185.130.218.254:25007/ITV/mpegts
 #EXTINF:0 group-title="DE",SRF 1 CH
 http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SRF 2 CH
@@ -1384,24 +1372,14 @@ http://176.65.146.224:4004/play/a072/index.m3u8
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="test",RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:0 group-title="test",Eurosport FR
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0 group-title="test",Histoire
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:0 group-title="test",Nat Geo FR
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:0 group-title="USA",OANN
-#EXTVLCOPT:http-referrer=https://usnewson.com/
-https://s6.usnlive.com/stream/oann.m3u8
-#EXTINF:0 group-title="USA",weather channel
-#EXTVLCOPT:http-referrer=https://usnewson.com/
-https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 group-title="USA",CNN Live US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0 group-title="USA",_
-https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1,02 РОССИЯ-1
@@ -1442,6 +1420,26 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1,20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
+#EXTINF:-1,TRENTINO TV
+http://84.22.55.2:8032/play/s361
+#EXTINF:-1,RTTR
+http://84.22.55.2:8032/play/s362
+#EXTINF:-1,Telepace Trento
+http://84.22.55.2:8032/play/s363
+#EXTINF:-1,Telepadova 7 GOLD
+http://84.22.55.2:8032/play/s364
+#EXTINF:-1,TELENUOVO
+http://84.22.55.2:8032/play/s365
+#EXTINF:-1,ANTENNA TRE VENETO
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1,TELECHIARA
+http://84.22.55.2:8032/play/s367
+#EXTINF:-1,TV33 TN
+http://84.22.55.2:8032/play/s368
+#EXTINF:-1,TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1,700
+https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:0,Rai 1 HD
 http://176.65.146.193:5004/play/a06i/index.m3u8
 #EXTINF:0,Rai 2 HD
@@ -1629,9 +1627,9 @@ http://195.189.60.31:8003/play/a0ci/index.m3u8
 #EXTINF:0,793
 http://195.189.60.31:8003/play/a0a0/index.m3u8
 #EXTINF:0,794
-http://213.169.39.30:5281
+http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:0,795
-http://213.169.39.30:5288
+http://185.130.218.254:25007/ITV/mpegts
 #EXTINF:0,796
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0,797
@@ -1642,4 +1640,5 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
