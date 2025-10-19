@@ -1306,10 +1306,6 @@ http://159.69.66.238/fxhd/index.m3u8
 http://159.69.66.238/hgtv/index.m3u8
 #EXTINF:0 group-title="USA",History Channel
 http://159.69.66.238/historychannel/index.m3u8
-#EXTINF:0 group-title="USA",Nat Geo
-http://159.69.66.238/natgeo/index.m3u8
-#EXTINF:0 group-title="USA",Nat Geo Wild
-http://159.69.66.238/natgeowild/index.m3u8
 #EXTINF:0 group-title="EU",SLO 1
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="EU",SLO 2
@@ -1644,6 +1640,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
