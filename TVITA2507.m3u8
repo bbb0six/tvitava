@@ -36,13 +36,13 @@ https://lostream.it/hls/telea/video.m3u8
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 #EXTINF:-1 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Telenuovo
+#EXTINF:0 group-title=".",
 http://84.22.55.2:8032/play/s365
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
 #EXTINF:0 group-title=".",_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://smrtvlive.b-cdn.net/bcdn_token=nf0oyF1r6XWFhx7ZcazvpH8URm0-UikxBUObri2Qvjc&token_path=%2Flive&expires=1760631282/live/smrtv-ch01/playlist.m3u8
+http://176.116.105.82/MTV_Hits/index.m3u8
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
@@ -263,16 +263,16 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:0 group-title="CH",RSI LA 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:0 group-title="CH",RTS 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:0 group-title="CH",RTS 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:0 group-title="CH",SRF 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:0 group-title="CH",SRF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:0 group-title="CH",SRF INFO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-#EXTINF:0 group-title="CH",RTS 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:0 group-title="CH",RTS 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:0 group-title="CH",CNN International
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:0 group-title="sk",Euronews EN
@@ -1280,6 +1280,36 @@ http://185.236.230.212:9982/play/a086
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="EU",RTP 1
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="EU",RTP 2
+http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="EU",RTP 3
+http://185.228.163.146:8000/play/a007/index.m3u8
+#EXTINF:0 group-title="EU",SLO 1
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:0 group-title="EU",SLO 2
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:0 group-title="DE",SRF 1 CH
+http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF 2 CH
+http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",SRF INFO CH
+http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",3SAT DE
+http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Eurosport DE
+http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",KIKA DE
+http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Nick DE
+http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",Comedy Central DE
+http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="DE",PRO 7
+http://23.88.66.93/Pro7/index.m3u8
+#EXTINF:0 group-title="DE",SAT 1
+http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="USA",BET
 http://159.69.66.238/bet/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
@@ -1306,38 +1336,8 @@ http://159.69.66.238/fxhd/index.m3u8
 http://159.69.66.238/hgtv/index.m3u8
 #EXTINF:0 group-title="USA",History Channel
 http://159.69.66.238/historychannel/index.m3u8
-#EXTINF:0 group-title="EU",SLO 1
-http://23.88.66.93/SLO1/index.m3u8
-#EXTINF:0 group-title="EU",SLO 2
-http://23.88.66.93/SLO2/index.m3u8
-#EXTINF:0 group-title="EU",SVT 1
+#EXTINF:0 group-title="EU",_
 http://57.129.90.45/SVT1/index.m3u8
-#EXTINF:0 group-title="EU",RTP 1
-http://185.228.163.146:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="EU",RTP 2
-http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="EU",RTP 3
-http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="DE",SRF 1 CH
-http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF 2 CH
-http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF INFO CH
-http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",3SAT DE
-http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Eurosport DE
-http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",KIKA DE
-http://176.10.117.68:6060/kika/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Nick DE
-http://176.10.117.68:6060/Nickhd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Comedy Central DE
-http://176.10.117.68:6060/ComedyCentral/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",PRO 7
-http://23.88.66.93/Pro7/index.m3u8
-#EXTINF:0 group-title="DE",SAT 1
-http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
 http://46.149.191.217:9019/play/a01w
 #EXTINF:-1 group-title="HU",MTV Hits
@@ -1640,6 +1640,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
