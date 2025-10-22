@@ -1439,71 +1439,71 @@ http://84.22.55.2:8032/play/s368
 http://84.22.55.2:8032/play/s369
 #EXTINF:-1,700
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:0,Rai 1 HD
-http://176.65.146.193:5004/play/a06i/index.m3u8
-#EXTINF:0,Rai 2 HD
+#EXTINF:0,701
+http://185.228.163.146:8000/play/a00s/index.m3u8
+#EXTINF:0,702
 http://176.65.146.193:5004/play/a06j/index.m3u8
-#EXTINF:0,Rai 3 HD
+#EXTINF:0,703
 http://176.65.146.193:5004/play/a06k/index.m3u8
-#EXTINF:0,Rete4 HD
+#EXTINF:0,704
 http://176.65.146.193:5003/play/a079/index.m3u8
-#EXTINF:0,Canale5 HD
+#EXTINF:0,705
 http://176.65.146.193:5003/play/a078/index.m3u8
-#EXTINF:0,Italia1 HD
+#EXTINF:0,706
 http://176.65.146.193:5003/play/a077/index.m3u8
-#EXTINF:0,TGCOM24 HD
+#EXTINF:0,707
 http://176.65.146.193:5003/play/a07j/index.m3u8
-#EXTINF:0,20Mediaset HD
+#EXTINF:0,708
 http://176.65.146.193:5003/play/a076/index.m3u8
-#EXTINF:0,27Twentyseven HD
+#EXTINF:0,709
 http://176.65.146.193:5003/play/a07i/index.m3u8
-#EXTINF:0,Iris HD
+#EXTINF:0,710
 http://176.65.146.193:5003/play/a07a/index.m3u8
-#EXTINF:0,La5 HD
+#EXTINF:0,711
 http://176.65.146.193:5003/play/a07c/index.m3u8
-#EXTINF:0,Mediaset Extra HD
+#EXTINF:0,712
 http://176.65.146.193:5003/play/a07d/index.m3u8
-#EXTINF:0,Mediaset Italia2 HD
+#EXTINF:0,713
 http://176.65.146.193:5003/play/a07e/index.m3u8
-#EXTINF:0,Rai 4 HD
+#EXTINF:0,714
 http://176.65.146.193:5004/play/a06m/index.m3u8
-#EXTINF:0,Rai Movie HD
+#EXTINF:0,715
 http://176.65.146.193:5004/play/a06n/index.m3u8
-#EXTINF:0,TV8 HD
+#EXTINF:0,716
 http://176.65.146.193:5005/play/a06i/index.m3u8
-#EXTINF:0,cielo
+#EXTINF:0,717
 http://176.65.146.193:5005/play/a06g/index.m3u8
-#EXTINF:0,Boing HD
+#EXTINF:0,718
 http://176.65.146.193:5003/play/a07b/index.m3u8
-#EXTINF:0,Cartoonito HD
+#EXTINF:0,719
 http://176.65.146.193:5003/play/a07g/index.m3u8
-#EXTINF:0,Cine34 HD
+#EXTINF:0,720
 http://176.65.146.193:5003/play/a073/index.m3u8
-#EXTINF:0,Focus HD
+#EXTINF:0,721
 http://176.65.146.193:5003/play/a07h/index.m3u8
-#EXTINF:0,TOPcrime HD
+#EXTINF:0,722
 http://176.65.146.193:5003/play/a07f/index.m3u8
-#EXTINF:0,RSI LA 1 HD
+#EXTINF:0,723
 http://176.65.146.193:5002/play/a06p/index.m3u8
-#EXTINF:0,RSI LA 2 HD
+#EXTINF:0,724
 http://176.65.146.193:5002/play/a06q/index.m3u8
-#EXTINF:0,SRF 1 HD
+#EXTINF:0,725
 http://176.65.146.193:5002/play/a06k/index.m3u8
-#EXTINF:0,SRF zwei HD
+#EXTINF:0,726
 http://176.65.146.193:5002/play/a06l/index.m3u8
-#EXTINF:0,SRF info HD
+#EXTINF:0,727
 http://176.65.146.193:5002/play/a06o/index.m3u8
-#EXTINF:0,RTS 1 HD
+#EXTINF:0,728
 http://176.65.146.193:5002/play/a06m/index.m3u8
-#EXTINF:0,RTS 2 HD
+#EXTINF:0,729
 http://176.65.146.193:5002/play/a06n/index.m3u8
-#EXTINF:0,VIRGIN RADIO
+#EXTINF:0,730
 http://176.65.146.193:5003/play/a074/index.m3u8
-#EXTINF:0,RADIO MONTE CARLO
+#EXTINF:0,731
 http://176.65.146.193:5003/play/a075/index.m3u8
-#EXTINF:0,Senato
+#EXTINF:0,732
 http://176.65.146.193:5004/play/a06l/index.m3u8
-#EXTINF:0,Rai 4K
+#EXTINF:0,733
 http://176.65.146.193:5004/play/a06h/index.m3u8
 #EXTINF:0,734
 https://dash3.antik.sk/live/test_ruzinov/playlist.m3u8
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
