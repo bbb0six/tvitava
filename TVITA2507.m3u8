@@ -928,8 +928,6 @@ http://212.102.60.231/BLOOMBERG/index.m3u8
 http://212.102.60.231/CBSEAST/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 http://212.102.60.231/CBS_News/index.m3u8
-#EXTINF:0 group-title="USA",CNBC
-http://212.102.60.231/CNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNN
 http://212.102.60.231/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
@@ -938,18 +936,6 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 group-title="USA",HBO 2
-http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:0 group-title="USA",HBO 2 west
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:0 group-title="USA",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:0 group-title="USA",HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:0 group-title="USA",Lifetime
-http://212.102.60.231/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
 http://212.102.60.231/MLB_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
@@ -968,10 +954,6 @@ http://212.102.60.231/MTV_CLASSIC/index.m3u8
 http://212.102.60.231/MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV U
 http://212.102.60.231/MTV_U/index.m3u8
-#EXTINF:0 group-title="USA",National Geographic
-http://212.102.60.231/National_Geographic/index.m3u8
-#EXTINF:0 group-title="USA",Nat Geo Wild
-http://212.102.60.231/Nat_Geo_Wild/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -986,8 +968,6 @@ http://212.102.60.231/NICKELODEON/index.m3u8
 http://212.102.60.231/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",Nick Music
 http://212.102.60.231/NICK_MUSIC/index.m3u8
-#EXTINF:0 group-title="USA",Paramount Network
-http://212.102.60.231/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://212.102.60.231/REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
@@ -1000,8 +980,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Encore Action
 http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:0 group-title="USA",SYFY US
-http://212.102.60.231/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 group-title="USA",TNT US
@@ -1010,14 +988,16 @@ http://212.102.60.231/TNT/index.m3u8
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
 http://212.102.60.231/USA_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://212.102.60.231/WGN/index.m3u8
 #EXTINF:0 group-title="USA",WWE
 http://212.102.60.231/WWE/index.m3u8
+#EXTINF:0 group-title="USA",CNBC
+http://159.69.66.238/cnbc/index.m3u8
+#EXTINF:0 group-title="USA",Discovery
+http://159.69.66.238/discovery/index.m3u8
 #EXTINF:0 group-title="USA",Disney Channel
 http://159.69.66.238/disneychannel/index.m3u8
 #EXTINF:0 group-title="USA",Disney JR
@@ -1026,14 +1006,34 @@ http://159.69.66.238/disneyjr/index.m3u8
 http://159.69.66.238/fxhd/index.m3u8
 #EXTINF:0 group-title="USA",HGTV
 http://159.69.66.238/hgtv/index.m3u8
+#EXTINF:0 group-title="USA",HBO
+http://159.69.66.238/hbo/index.m3u8
+#EXTINF:0 group-title="USA",HBO 2
+http://159.69.66.238/hbo2/index.m3u8
+#EXTINF:0 group-title="USA",HBO Comedy
+http://159.69.66.238/hbocomedy/index.m3u8
+#EXTINF:0 group-title="USA",HBO Zone
+http://159.69.66.238/hbozone/index.m3u8
 #EXTINF:0 group-title="USA",History Channel
 http://159.69.66.238/historychannel/index.m3u8
+#EXTINF:0 group-title="USA",Lifetime
+http://159.69.66.238/lifetime/index.m3u8
+#EXTINF:0 group-title="USA",Nat Geo
+http://159.69.66.238/natgeo/index.m3u8
+#EXTINF:0 group-title="USA",Nat Geo Wild
+http://159.69.66.238/natgeowild/index.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://159.69.66.238/paramount/index.m3u8
+#EXTINF:0 group-title="USA",SYFY US
+http://159.69.66.238/syfy/index.m3u8
 #EXTINF:0 group-title="USA",TBS
 http://159.69.66.238/tbs/index.m3u8
 #EXTINF:0 group-title="USA",TLC
 http://159.69.66.238/tlc/index.m3u8
 #EXTINF:0 group-title="USA",TV LAND
 http://159.69.66.238/tvland/index.m3u8
+#EXTINF:0 group-title="USA",VH1
+http://159.69.66.238/vh1/index.m3u8
 #EXTINF:0 group-title="USA",FOX News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 group-title="MTV",MTV PL
@@ -1609,14 +1609,14 @@ http://185.207.34.31:8000/play/a01a/index.m3u8
 http://185.207.34.31:8000/play/a012/index.m3u8
 #EXTINF:0 group-title="test",TV5MONDE EUROPE HD
 http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:-1,786
+#EXTINF:0,786
 http://181.209.194.14:8000/play/a041
-#EXTINF:-1,787
+#EXTINF:0,787
 http://181.209.194.14:8000/play/a040
-#EXTINF:-1,788
+#EXTINF:0,788
 http://188.40.59.230:5100/mtv
 #EXTINF:0,789
-http://165.210.33.120:8081/eurosport1/mpegts
+http://116.90.120.149:8000/play/a0d2
 #EXTINF:0,790
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1,791
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
