@@ -109,8 +109,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="Mediaset",Boing Plus
-https://dttstream.zappr.stream/boingplus.m3u8
+#EXTINF:-1 group-title="-",_
+http://176.116.105.82/MTV_Hits/index.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -900,8 +900,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="az",Ictimai
 https://tv.mobyservice.ru/Ictimai/index.m3u8
-#EXTINF:0 group-title="az",AZ TV
-https://tv.mobyservice.ru/AZTV/index.m3u8
+#EXTINF:0 group-title="az",AZTV
+https://live.itv.az/itv.m3u8
 #EXTINF:0 group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="ps",MUSAWA HD
@@ -913,17 +913,15 @@ https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
-http://212.102.60.231/ABC_EAST/index.m3u8
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
-http://212.102.60.231/ACC_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
-http://212.102.60.231/AMC_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://212.102.60.231/BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://212.102.60.231/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",BLOOMBERG
-http://212.102.60.231/BLOOMBERG/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
 http://212.102.60.231/CBSEAST/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
@@ -937,7 +935,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
-http://212.102.60.231/MLB_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
@@ -947,15 +945,15 @@ http://212.102.60.231/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-http://212.102.60.231/MTV_2/index.m3u8
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
-http://212.102.60.231/MTV_CLASSIC/index.m3u8
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
-http://212.102.60.231/MTV_LIVE/index.m3u8
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV U
 http://212.102.60.231/MTV_U/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:0 group-title="USA",News Nation
@@ -965,13 +963,13 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
 http://212.102.60.231/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
-http://212.102.60.231/NICK_JR/index.m3u8
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",Nick Music
-http://212.102.60.231/NICK_MUSIC/index.m3u8
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
-http://212.102.60.231/REELZ/index.m3u8
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
-http://212.102.60.231/SHOWTIME/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:0 group-title="USA",Starz Cinema
@@ -979,23 +977,21 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Encore Action
-http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
+https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
-http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 group-title="USA",TNT US
-http://212.102.60.231/TNT/index.m3u8
+https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
-http://212.102.60.231/USA_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
-http://212.102.60.231/WGN/index.m3u8
+http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",WWE
 http://212.102.60.231/WWE/index.m3u8
-#EXTINF:0 group-title="USA",CNBC
-http://159.69.66.238/cnbc/index.m3u8
 #EXTINF:0 group-title="USA",Discovery
 http://159.69.66.238/discovery/index.m3u8
 #EXTINF:0 group-title="USA",Disney Channel
@@ -1036,6 +1032,10 @@ http://159.69.66.238/tvland/index.m3u8
 http://159.69.66.238/vh1/index.m3u8
 #EXTINF:0 group-title="USA",FOX News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:0 group-title="USA",CNBC
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
+#EXTINF:0 group-title="USA",BLOOMBERG
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:0 group-title="MTV",MTV PL
 http://45.87.35.12:7209/stream
 #EXTINF:-1 group-title="-",501
@@ -1616,7 +1616,7 @@ http://181.209.194.14:8000/play/a040
 #EXTINF:0,788
 http://188.40.59.230:5100/mtv
 #EXTINF:0,789
-http://116.90.120.149:8000/play/a0d2
+http://179.33.98.35:20035/play/a00v
 #EXTINF:0,790
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1,791
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
