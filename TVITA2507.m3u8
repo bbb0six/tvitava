@@ -899,9 +899,9 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="az",Ictimai
-https://tv.mobyservice.ru/Ictimai/index.m3u8
-#EXTINF:0 group-title="az",AZTV
 https://live.itv.az/itv.m3u8
+#EXTINF:0 group-title="az",AZTV
+https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0 group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="ps",MUSAWA HD
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
