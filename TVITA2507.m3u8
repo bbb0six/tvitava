@@ -392,14 +392,14 @@ https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
 https://streamcdnr19-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/master.m3u8
 #EXTINF:0 group-title="Regionali",Canale 21 Extra
 https://streamcdnr12-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/master.m3u8
+#EXTINF:0 group-title="Regionali",Tele A
+https://lostream.it/hls/telea/video.m3u8
 #EXTINF:0 group-title="Regionali",TV Luna Napoli
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:0 group-title="Regionali",Video Nola
-https://videonola.aswifi.it/videonolaabr/live_low/index.m3u8
-#EXTINF:0 group-title="Regionali",Video Calabria
-https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
 #EXTINF:0 group-title="Regionali",RTI Calabria
 https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Video Calabria
+https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
@@ -1606,13 +1606,13 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0,783
 http://57.129.90.45/SVT1/index.m3u8
 #EXTINF:0,784
-http://185.207.34.31:8000/play/a012/index.m3u8
+http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,785
-http://185.207.34.31:8000/play/a00q/index.m3u8
+http://178.33.239.54:81/441/index.m3u8
 #EXTINF:0,786
-http://181.209.194.14:8000/play/a041
+http://45.87.35.12:7213/stream
 #EXTINF:0,787
-http://181.209.194.14:8000/play/a040
+http://45.87.35.12:7209/stream
 #EXTINF:0,788
 http://188.40.59.230:5100/mtv
 #EXTINF:0,789
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
