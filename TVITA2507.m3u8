@@ -950,8 +950,6 @@ https://fl1.moveonjoy.com/MTV_2/index.m3u8
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV U
-http://212.102.60.231/MTV_U/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -1014,6 +1012,8 @@ http://159.69.66.238/hbozone/index.m3u8
 http://159.69.66.238/historychannel/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime
 http://159.69.66.238/lifetime/index.m3u8
+#EXTINF:0 group-title="USA",MGM
+http://159.69.66.238/mgmhd/index.m3u8
 #EXTINF:0 group-title="USA",Nat Geo
 http://159.69.66.238/natgeo/index.m3u8
 #EXTINF:0 group-title="USA",Nat Geo Wild
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
