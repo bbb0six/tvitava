@@ -339,7 +339,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="CH",BBC 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0 group-title="UK",ITV 1
-http://176.65.146.224:4004/play/a07n/index.m3u8
+http://212.32.241.201:8000/play/a03l
 #EXTINF:0 group-title="CH",ITV 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:0 group-title="CH",ITV 3
@@ -355,7 +355,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="CH",MORE 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:0 group-title="UK",4seven
-http://176.65.146.224:4002/play/a06x/index.m3u8
+http://212.32.241.201:8000/play/a009
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://stream3.xdevel.com/video0s976570-1422/stream/playlist_dvr.m3u8
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -421,9 +421,9 @@ https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
 https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
-http://176.65.146.224:4007/play/a06r/index.m3u8
+http://212.32.241.201:8000/play/a011
 #EXTINF:0 group-title="UK",HGTV UK
-http://176.65.146.224:4007/play/a06s/index.m3u8
+http://212.32.241.201:8000/play/a00x
 #EXTINF:0 group-title="CH",MEZZO
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0 group-title="CH",Paramount FR
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
