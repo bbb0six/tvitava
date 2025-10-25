@@ -923,11 +923,11 @@ http://212.102.60.231/BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://212.102.60.231/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
-http://212.102.60.231/CBSEAST/index.m3u8
+http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
-http://212.102.60.231/CBS_News/index.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 group-title="USA",CNN
-http://212.102.60.231/CNN/index.m3u8
+https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Discovery Channel
@@ -941,7 +941,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
-http://212.102.60.231/MSNBC/index.m3u8
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -957,7 +957,7 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:0 group-title="USA",News Nation
-http://212.102.60.231/NEWS_NATION/index.m3u8
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
