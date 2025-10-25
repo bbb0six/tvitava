@@ -338,8 +338,8 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:0 group-title="CH",BBC 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:0 group-title="UK",ITV 1 Meridian
-http://212.32.241.201:8000/play/a02n
+#EXTINF:0 group-title="UK",ITV 1
+http://92.118.251.84:8080/itv1hd/index.m3u8
 #EXTINF:0 group-title="CH",ITV 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:0 group-title="CH",ITV 3
@@ -394,22 +394,22 @@ https://streamcdnr19-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B
 https://streamcdnr12-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/master.m3u8
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
-#EXTINF:0 group-title="Regionali",TV Luna Napoli
-https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
-#EXTINF:0 group-title="Regionali",RTI Calabria
-https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Video Calabria
-https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
+#EXTINF:0 group-title="Regionali",Videolina
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Tele Costa Smeralda
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
 https://streamcdng9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
 #EXTINF:0 group-title="Regionali",LaC Network
 https://streamcdnr6-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b2128000.m3u8
+#EXTINF:0 group-title="Regionali",Video Calabria
+https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
+#EXTINF:0 group-title="Regionali",RTI Calabria
+https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Rei TV
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Tele Costa Smeralda
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleOne
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
@@ -1639,6 +1639,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
