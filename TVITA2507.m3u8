@@ -29,20 +29,20 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 group-title="Svizzera",RSI La 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:0,_
+#EXTINF:-1 group-title="Svizzera",RTS 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1,_
+#EXTINF:-1 group-title="Svizzera",RTS 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 group-title="Regionali",Primocanale
-https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Telerent
-https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
-#EXTINF:0 group-title="-",_
-https://smrtvlive.b-cdn.net/bcdn_token=2jE6a2KWi3ikHv5mNos5o9vYRvLzqSK7LJ5xLtRlvwE&token_path=%2Flive&expires=1761443944/live/smrtv-ch01/playlist.m3u8
+#EXTINF:-1 group-title="Svizzera",SRF 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 group-title="Svizzera",SRF 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 group-title="Svizzera",SRF Info
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="-",_
-http://176.116.105.82/clubMTV/index.m3u8
+#EXTINF:0 group-title="-",Telerent
+https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -257,20 +257,20 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="CH",DMAX IT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:0 group-title="CH",RSI LA 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:0 group-title="CH",RSI LA 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
-#EXTINF:0 group-title="CH",RTS 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:0 group-title="CH",RTS 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:0 group-title="CH",SRF 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:0 group-title="CH",SRF 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
-#EXTINF:0 group-title="CH",SRF INFO
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:0 group-title="CH",RAI STORIA
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:0 group-title="CH",RAI SPORT
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:0 group-title="CH",RAI SCUOLA
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:0 group-title="CH",RAI GULP
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:0 group-title="CH",RAI NEWS 24
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:0 group-title="IT",SKY TG24
+https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+#EXTINF:0 group-title="CH",SKY NEWS
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 #EXTINF:0 group-title="CH",CNN International
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:0 group-title="sk",Euronews EN
@@ -364,7 +364,7 @@ https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sud Extra
 https://stream.antennasudwebtv.it:9443/hls/vod92.m3u8
 #EXTINF:0 group-title="Regionali",Teleregione Color
-https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
+https://stream.antennasudwebtv.it:9443/hls/vodtele.m3u8
 #EXTINF:0 group-title="Regionali",Telebari
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Teledehon
@@ -375,8 +375,8 @@ http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
 #EXTINF:0 group-title="Regionali",Telecupole
 https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
-#EXTINF:0 group-title="Regionali",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
+#EXTINF:0 group-title="Regionali",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telequattro
 http://wms.shared.streamshow.it/telequattro/telequattro/master.m3u8
 #EXTINF:0 group-title="Regionali",Telefriuli
@@ -387,12 +387,14 @@ https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
+#EXTINF:0 group-title="Regionali",Bergamo TV
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
+#EXTINF:0 group-title="Regionali",Tele A
+https://lostream.it/hls/telea/video.m3u8
 #EXTINF:0 group-title="Regionali",Canale 21
 https://streamcdnr19-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/master.m3u8
 #EXTINF:0 group-title="Regionali",Canale 21 Extra
 https://streamcdnr12-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/master.m3u8
-#EXTINF:0 group-title="Regionali",Tele A
-https://lostream.it/hls/telea/video.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Tele Costa Smeralda
@@ -413,14 +415,12 @@ https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
 https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:0 group-title="Vari",Gambero Rosso
-https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
-#EXTINF:0 group-title="UK",DMAX UK
-http://212.32.241.201:8000/play/a011
+#EXTINF:0 group-title="UK",E4
+http://92.118.251.84:8080/e4/index.m3u8
+#EXTINF:0 group-title="UK",5star
+http://92.118.251.84:8080/5star/index.m3u8
 #EXTINF:0 group-title="UK",HGTV UK
 http://92.118.251.84:8080/HGTV/index.m3u8
 #EXTINF:0 group-title="CH",MEZZO
@@ -505,12 +505,12 @@ http://92.118.251.84:8080/Eurosport2/index.m3u8
 http://92.118.251.84:8080/syfy/index.m3u8
 #EXTINF:0 group-title="España",MTV España
 http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:0 group-title="España",MTV Hits
-http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Germany
 http://62.210.136.5/mtv/index.m3u8
 #EXTINF:0 group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0 group-title="CH",Comedy Central DE
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:0 group-title="CH",TELE 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="CH",DMAX DE
@@ -521,9 +521,9 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="CH",ORF 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:0 group-title="DE",3+ CH
+#EXTINF:0 group-title="Svizzera",3+ CH
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",4+ CH
+#EXTINF:0 group-title="Svizzera",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
@@ -569,8 +569,8 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="Vari",Lazio TV
-https://5a1178b42cc03.streamlock.net/laziotv/laziotv/master.m3u8
+#EXTINF:0 group-title="Vari",E'TV Rete 7
+https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0 group-title="Vari",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/master.m3u8
 #EXTINF:0 group-title="Vari",Telecity Piemonte
@@ -585,10 +585,10 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="Vari",Diciotto
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
-#EXTINF:0 group-title="Vari",e'tv rete 7
-https://live.ipstream.it/etv/etv.stream/master.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:0 group-title="Vari",Gambero Rosso
+https://streamcdnr17-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/master.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -607,14 +607,16 @@ https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Vari",Telecampione
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
-#EXTINF:0 group-title="Vari",Fano TV
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0 group-title="Vari",Lazio TV
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:0 group-title="Vari",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:0 group-title="Vari",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
-#EXTINF:0 group-title="Vari",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0 group-title="Vari",Radio Serie A TV
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 #EXTINF:0 group-title="Vari",TCI
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Padre Pio TV
@@ -623,18 +625,16 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Radio Serie A TV
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:0 group-title="CH",RAI STORIA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:0 group-title="CH",RAI SPORT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0 group-title="CH",RAI SCUOLA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:0 group-title="CH",RAI GULP
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0 group-title="CH",RAI NEWS 24
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:0 group-title="Vari",Fano TV
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0 group-title="Vari",Tele A1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0 group-title="-",MTV 00s
+http://185.189.225.157/MTV00s/index.m3u8
+#EXTINF:0 group-title="-",MTV Hits
+http://185.189.225.157/MTVHits/index.m3u8
+#EXTINF:0 group-title="-",Club MTV
+http://185.189.225.149/MTVClub/index.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
@@ -1638,6 +1638,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
