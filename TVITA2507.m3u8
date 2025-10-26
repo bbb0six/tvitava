@@ -835,7 +835,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="MX",MTV Live
+#EXTINF:0 group-title="MX",_
 http://201.77.61.226:8001/play/a0i7
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -1035,7 +1035,7 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:0 group-title="MTV",MTV PL
+#EXTINF:-1 group-title="-",500
 http://45.87.35.12:7209/stream
 #EXTINF:-1 group-title="-",501
 http://190.102.246.93:9005/play/a04w
@@ -1197,7 +1197,7 @@ http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
 #EXTINF:0,Eurosport FR
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,580
-http://95.216.97.235:7777/mtvhits
+http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
 #EXTINF:0 group-title="PP",ESPN 2
@@ -1638,6 +1638,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
