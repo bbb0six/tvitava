@@ -629,12 +629,12 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:0 group-title="-",MTV 00s
-http://185.189.225.157/MTV00s/index.m3u8
 #EXTINF:0 group-title="-",MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
 #EXTINF:0 group-title="-",Club MTV
 http://185.189.225.149/MTVClub/index.m3u8
+#EXTINF:0,_
+https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
@@ -1607,7 +1607,7 @@ http://57.129.90.45/SVT1/index.m3u8
 #EXTINF:0,784
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,785
-http://178.33.239.54:81/441/index.m3u8
+http://4.team.ga:80/ch2400/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwofXTpinM8t3ue8C2qyu4-k_2vIUFpXF74SujecP1bL
 #EXTINF:0,786
 http://45.87.35.12:7213/stream
 #EXTINF:0,787
@@ -1629,7 +1629,7 @@ http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:0,795
 http://212.32.241.201:8000/play/a01g
 #EXTINF:0,796
-https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+http://178.33.239.54:81/441/index.m3u8
 #EXTINF:0,797
 https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/master.m3u8
 #EXTINF:0,798
@@ -1638,6 +1638,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
