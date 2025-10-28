@@ -1348,16 +1348,16 @@ http://185.207.34.31:8000/play/a01a/index.m3u8
 http://185.207.34.31:8000/play/a012/index.m3u8
 #EXTINF:0 group-title="EU",TV5MONDE EUROPE HD
 http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:0 group-title="EU",BBC NL
-http://185.207.34.31:8000/play/a02n/index.m3u8
 #EXTINF:0 group-title="EU",NPO 1
-http://185.207.34.31:8000/play/a031/index.m3u8
+http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="EU",NPO 3
-http://185.207.34.31:8000/play/a02m/index.m3u8
-#EXTINF:0 group-title="EU",VTM 1
-http://185.207.34.31:8000/play/a034/index.m3u8
-#EXTINF:0 group-title="EU",VTM 2
-http://185.207.34.31:8000/play/a035/index.m3u8
+http://185.207.34.31:8000/play/21040/index.m3u8
+#EXTINF:0 group-title="EU",VRT 1
+http://185.207.34.31:8000/play/21025/index.m3u8
+#EXTINF:0 group-title="EU",VRT 2
+http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0 group-title="EU",VRT Canvas
+http://185.207.34.31:8000/play/21030/index.m3u8
 #EXTINF:-1 group-title="HU",BBC Earth
 http://46.149.191.217:9019/play/a01w
 #EXTINF:-1 group-title="HU",MTV Europe
@@ -1638,6 +1638,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
