@@ -249,10 +249,10 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:0 group-title="CH",ITALIA 1
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:0 group-title="CH",LA 7
+#EXTINF:0 group-title="CH",LA7
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:0 group-title="CH",LA 7D
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:0 group-title="IT",TV8
+https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="CH",NOVE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="CH",DMAX IT
@@ -825,10 +825,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:0 group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
-#EXTINF:0 group-title="IT",SkyTG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+#EXTINF:0 group-title="sk",_
+https://dash3.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:0,MCM TOP
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0,Deluxe Dance
@@ -897,6 +897,10 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+#EXTINF:0 group-title="ua",1TV UA
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:0 group-title="ua",2TV UA
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="az",Ictimai
 https://live.itv.az/itv.m3u8
 #EXTINF:0 group-title="az",AZTV
@@ -905,10 +909,6 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="ps",MUSAWA HD
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:0 group-title="ua",1TV UA
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:0 group-title="ua",2TV UA
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -1638,6 +1638,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
