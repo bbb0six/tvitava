@@ -458,9 +458,9 @@ http://185.189.225.149/8madrid/index.m3u8
 #EXTINF:0 group-title="España",FDF
 http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:0 group-title="España",Mega
-http://185.189.225.149/mega/index.m3u8
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 #EXTINF:0 group-title="España",Neox
-http://185.189.225.157/neox/index.m3u8
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:0 group-title="España",Nova
 http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
@@ -474,7 +474,7 @@ http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Clan HD
 http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
-http://185.189.225.157/BOING/index.m3u8
+http://176.65.146.237:8401/play/a0ad/index.m3u8
 #EXTINF:0 group-title="España",Nickelodeon ES
 http://185.189.225.157/Nick/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
@@ -1652,5 +1652,6 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
