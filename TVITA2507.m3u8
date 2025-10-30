@@ -43,7 +43,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",Telerent
-https://5db313b643fd8.streamlock.net/telerent/telerent/manifest_w256470123.mpd
+https://5db313b643fd8.streamlock.net/telerent/telerent/master.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -474,9 +474,9 @@ http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Clan HD
 http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
-http://176.65.146.237:8401/play/a0ad/index.m3u8
+http://92.118.251.84:8080/BOING/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
-http://176.65.146.237:8401/play/a09i/index.m3u8
+http://92.118.251.84:8080/ParamountNetwork/index.m3u8
 #EXTINF:0 group-title="España",POP ES
 http://92.118.251.84:8080/POP/index.m3u8
 #EXTINF:0 group-title="España",TV3
@@ -827,8 +827,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:0 group-title="sk",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="sk",_
-https://dash3.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:0,_
+http://201.77.61.226:8001/play/a0i7
 #EXTINF:0,MCM TOP
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0,Deluxe Music
@@ -837,8 +837,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="MX",_
-http://201.77.61.226:8001/play/a0i7
+#EXTINF:0 group-title="i",Telepace
+https://ilglobotv-live.akamaized.net/channels/Telepace/Live.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1600,40 +1600,40 @@ http://176.116.105.82/PRO7/index.m3u8
 http://176.116.105.82/3sat/index.m3u8
 #EXTINF:0,780
 http://4.team.ga:80/ch2400/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwofXTpinM8t3ue8C2qyu4-k_2vIUFpXF74SujecP1bL
-#EXTINF:-1 group-title="Rai",Rai 1 timeshift
+#EXTINF:-1 group-title="Rai",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 2 timeshift
+#EXTINF:-1 group-title="Rai",Rai 2 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 3 timeshift
+#EXTINF:-1 group-title="Rai",Rai 3 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 4 timeshift
+#EXTINF:-1 group-title="Rai",Rai 4 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 5 timeshift
+#EXTINF:-1 group-title="Rai",Rai 5 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Movie timeshift
+#EXTINF:-1 group-title="Rai",Rai Movie dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Premium timeshift
+#EXTINF:-1 group-title="Rai",Rai Premium dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Gulp timeshift
+#EXTINF:-1 group-title="Rai",Rai Gulp dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai yoyo timeshift
+#EXTINF:-1 group-title="Rai",Rai yoyo dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Storia timeshift
+#EXTINF:-1 group-title="Rai",Rai Storia dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Scuola timeshift
+#EXTINF:-1 group-title="Rai",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Sport timeshift
+#EXTINF:-1 group-title="Rai",Rai Sport HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0,793
@@ -1652,7 +1652,3 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-
-
-
