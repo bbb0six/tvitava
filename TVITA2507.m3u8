@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rai",Rai 1
+#EXTINF:-1 group-title="Rai",Rai 1_
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Rai",Rai 2
@@ -1638,6 +1638,7 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
 
 
 
