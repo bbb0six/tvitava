@@ -68,7 +68,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="TV2000",TV2000
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="Cairo",La7Cinema
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 group-title="Mediaset",La 5
@@ -147,6 +147,7 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://origin.streamup.eu/sportitaliain/sihd/playlist.m3u8
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
@@ -1650,3 +1651,4 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
