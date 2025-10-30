@@ -102,10 +102,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1 group-title="-",_
@@ -117,7 +117,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Mediaset Italia Due
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
@@ -132,7 +132,7 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
@@ -140,10 +140,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Sport + HD
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
@@ -204,7 +204,7 @@ https://stream.rdstv.radio/index.m3u8
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Piterpan TV
@@ -1576,8 +1576,8 @@ http://69.64.57.208:80/rtfrance/index.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0,group-title="AL",CNA TV Live
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0,group-title="AL",Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0,MTV Spain
+http://188.40.59.230:5100/mtv
 #EXTINF:0,MTV Europe
 http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0,MTV Hits
@@ -1597,7 +1597,7 @@ http://176.116.105.82/PRO7/index.m3u8
 #EXTINF:0,3sat
 http://176.116.105.82/3sat/index.m3u8
 #EXTINF:0,780
-https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
+http://4.team.ga:80/ch2400/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwofXTpinM8t3ue8C2qyu4-k_2vIUFpXF74SujecP1bL
 #EXTINF:-1 group-title="Rai",Rai 1 timeshift
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1619,16 +1619,21 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:-1 group-title="Rai",Rai Premium timeshift
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0,788
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0,789
-http://188.40.59.230:5100/mtv
-#EXTINF:0,790
-http://4.team.ga:80/ch2400/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWwofXTpinM8t3ue8C2qyu4-k_2vIUFpXF74SujecP1bL
-#EXTINF:-1,791
-http://195.189.60.31:8003/play/a0a9/index.m3u8
-#EXTINF:-1,792
-http://195.189.60.31:8003/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="Rai",Rai Gulp timeshift
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai yoyo timeshift
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Storia timeshift
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Scuola timeshift
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Sport timeshift
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0,793
 http://195.189.60.31:8003/play/a0a0/index.m3u8
 #EXTINF:0,794
@@ -1644,31 +1649,4 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:0,799
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
