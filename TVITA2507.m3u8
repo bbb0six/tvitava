@@ -853,8 +853,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia AU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="i",Rai World Premium
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:0 group-title="i",_
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
 #EXTINF:0 group-title="i",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:0 group-title="i",TG Com 24
@@ -948,7 +948,7 @@ https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
-https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -1652,3 +1652,4 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://87.246.54.249:8085/cartoonito/mpegts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
