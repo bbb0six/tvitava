@@ -1527,13 +1527,13 @@ https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
 https://dash3.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,744
-https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+https://dash3.antik.sk/live/test_batv/playlist.m3u8
 #EXTINF:0,745
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 #EXTINF:0,746
 https://dash3.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:0,747
-https://dash3.antik.sk/live/test_batv/playlist.m3u8
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0,748
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,749
@@ -1649,7 +1649,8 @@ https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/master.m3u8
 #EXTINF:0,798
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:0,799
-http://87.246.54.249:8085/cartoonito/mpegts
+http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
