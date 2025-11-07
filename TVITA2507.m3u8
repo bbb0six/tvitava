@@ -727,32 +727,32 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:0 group-title="CH",РТС Свет
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="RS",РТС 1
 http://46.240.143.86:8065/rts1
 #EXTINF:0 group-title="RS",РТС 2
 http://46.240.143.86:8065/rts2
 #EXTINF:0 group-title="RS",РТС 3
 http://46.240.143.86:8065/rts3
-#EXTINF:0 group-title="CH",РТС Свет
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
+#EXTINF:0 group-title="RS",TV PINK
+http://46.240.143.86:8065/pink
 #EXTINF:0 group-title="CH",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
-#EXTINF:0 group-title="RO",TVR Sport
-http://195.189.60.31:8003/play/a0ey/index.m3u8
-#EXTINF:0 group-title="RO",TVR 1
+#EXTINF:0 group-title="RO",TVR 1 RO
 http://89.44.229.22:7000/tvr1hd
-#EXTINF:0 group-title="RO",TVR 2
+#EXTINF:0 group-title="RO",TVR 2 RO
 http://89.44.229.22:7000/tvr2
-#EXTINF:0 group-title="RO",TVR 3
-http://195.189.60.31:8003/play/a0ev/index.m3u8
 #EXTINF:0 group-title="RO",Antena 1 RO
-http://195.189.60.31:8003/play/a0eq/index.m3u8
+http://89.44.229.22:7000/antena1
 #EXTINF:0 group-title="RO",Antena 3 RO
-http://195.189.60.31:8003/play/a0eg/index.m3u8
-#EXTINF:0 group-title="RO",PRO TV HD
-http://195.189.60.31:8003/play/a0ae/index.m3u8
-#EXTINF:0 group-title="RO",NickMusic EU
-http://195.189.60.31:8003/play/a0dx/index.m3u8
+http://89.44.229.22:7000/antena3
+#EXTINF:0 group-title="RO",PRO TV RO
+http://89.44.229.22:7000/protvhd
+#EXTINF:0 group-title="RO",Prima TV RO
+http://89.44.229.22:7000/primatv
+#EXTINF:0 group-title="RO",Eurosport RO
+http://89.44.229.22:7000/eurosport
 #EXTINF:0 group-title="ru",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="ru",TNT Music
@@ -903,9 +903,9 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",2TV UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="az",Ictimai
+#EXTINF:0 group-title="-",_
 https://live.itv.az/itv.m3u8
-#EXTINF:0 group-title="az",AZTV
+#EXTINF:0 group-title="-",_
 https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:0 group-title="ps",Palestine HD
 https://pbc.furrera.ps/palestinehd/index.m3u8
@@ -958,7 +958,7 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
-http://212.102.60.231/NICKELODEON/index.m3u8
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",Nick Music
@@ -1652,5 +1652,6 @@ http://95.66.188.74:80/Nostalgia/mono.m3u8
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
