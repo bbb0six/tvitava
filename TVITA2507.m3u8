@@ -825,8 +825,8 @@ https://dash2.antik.sk/live/test_skynews/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="-",DW ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:0,_
-http://201.77.61.226:8001/play/a0i7
+#EXTINF:0,Шансон ТВ
+http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
 #EXTINF:0,MCM TOP
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0,Clubland TV
@@ -837,7 +837,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0,Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0,_
+#EXTINF:0,MTV Live EU
 http://201.77.61.226:8001/play/a0i7
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -853,7 +853,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia AU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="i",_
+#EXTINF:0 group-title="i",Rai Scuola
 https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:0 group-title="i",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
@@ -882,7 +882,7 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 #EXTINF:0 group-title="il",KAN 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
 #EXTINF:0 group-title="il",Keshet 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/0/hdntl=exp=1752661341~acl=%2f*~data=hdntl~hmac=e09c1483ec77a2693cdf91f3d04482b2f03783ccd927dc06cf238707eaae2c87/profileManifest.m3u8?_uid=57b95473-62fd-49a4-bfee-84b31ec6ce42&rK=b9&_did=faa42beff55d6fae254a02cc4447e70f3cc5471a
+http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:0 group-title="il",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 group-title="il",Akshav 14
@@ -924,7 +924,7 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
-http://143.244.60.30/CBSEAST/index.m3u8
+https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 group-title="USA",CNN
@@ -1652,7 +1652,3 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-
-
-
