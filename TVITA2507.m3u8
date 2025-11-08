@@ -477,7 +477,7 @@ http://176.65.146.237:8401/play/a09t/index.m3u8
 http://92.118.251.84:8080/BOING/index.m3u8
 #EXTINF:0 group-title="España",Paramount ES
 http://92.118.251.84:8080/ParamountNetwork/index.m3u8
-#EXTINF:0 group-title="España",POP ES
+#EXTINF:0 group-title="España",POP
 http://92.118.251.84:8080/POP/index.m3u8
 #EXTINF:0 group-title="España",TV3
 http://185.157.184.11:6001/play/TV3HD
@@ -1652,3 +1652,4 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:0,800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
