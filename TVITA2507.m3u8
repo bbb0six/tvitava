@@ -662,13 +662,13 @@ http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
 #EXTINF:0 group-title="AL",RTV Ora
 http://178.33.11.6:8696/live/rtvoraott/playlist.m3u8
 #EXTINF:0 group-title="AL",Ora News
-http://178.33.11.6:8696/live/oranewspp1/playlist.m3u8
+https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",A2 CNN
 http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",CNA
-http://178.33.11.6:8696/live/cnaott/playlist.m3u8
+#EXTINF:0 group-title="AL",CNA TV
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",Euronews Albania
 http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
 #EXTINF:0 group-title="AL",FAX News
@@ -699,17 +699,17 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="MT",ONE
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0 group-title="CH",RTK 1 SAT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
-#EXTINF:0 group-title="AL",RTK 2
+#EXTINF:0 group-title="XK",RTK 1
+http://23.88.66.93/RTK_1/index.m3u8
+#EXTINF:0 group-title="XK",RTK 2
 http://94.100.50.220/RTK2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTK 3
+#EXTINF:0 group-title="XK",RTK 3
 http://94.100.50.220/RTK3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTK 4
+#EXTINF:0 group-title="XK",RTK 4
 http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTV 21
+#EXTINF:0 group-title="XK",RTV 21
 http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",ATV
+#EXTINF:0 group-title="XK",ATV
 http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
@@ -1570,14 +1570,14 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,RT EN
+#EXTINF:0,766
 http://69.64.57.208:80/russiatoday/index.m3u8
-#EXTINF:0,RT FR
+#EXTINF:0,767
 http://69.64.57.208:80/rtfrance/index.m3u8
-#EXTINF:0,group-title="AL",ORA News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0,group-title="AL",CNA TV Live
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0,768
+http://178.33.239.54:81/441/index.m3u8
+#EXTINF:0,769
+http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0,MTV Spain
 http://188.40.59.230:5100/mtv
 #EXTINF:0,MTV Hits
@@ -1599,57 +1599,58 @@ http://176.116.105.82/PRO7/index.m3u8
 #EXTINF:0,3sat
 http://176.116.105.82/3sat/index.m3u8
 #EXTINF:0,780
-http://178.33.239.54:81/441/index.m3u8
-#EXTINF:-1 group-title="Rai",Rai 1 dvr
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 2 dvr
+#EXTINF:-1 group-title="test",Rai 2 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 3 dvr
+#EXTINF:-1 group-title="test",Rai 3 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 4 dvr
+#EXTINF:-1 group-title="test",Rai 4 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 5 dvr
+#EXTINF:-1 group-title="test",Rai 5 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Movie dvr
+#EXTINF:-1 group-title="test",Rai Movie dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Premium dvr
+#EXTINF:-1 group-title="test",Rai Premium dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Gulp dvr
+#EXTINF:-1 group-title="test",Rai Gulp dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai yoyo dvr
+#EXTINF:-1 group-title="test",Rai yoyo dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Storia dvr
+#EXTINF:-1 group-title="test",Rai Storia dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Scuola dvr
+#EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Sport HD
+#EXTINF:-1 group-title="test",Rai Sport dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="-",LA7
+#EXTINF:-1 group-title="test",793
 https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 group-title="-",Sportitalia
+#EXTINF:-1 group-title="test",794
 https://jmp2.uk/stvp-ITBA2200010O1
-#EXTINF:-1 group-title="-",SI SoloCalcio
+#EXTINF:-1 group-title="test",795
 https://jmp2.uk/stvp-ITBC4700002CO
-#EXTINF:-1 group-title="-",MTV EU
+#EXTINF:-1 group-title="test",796
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:-1 group-title="-",MTV IT
+#EXTINF:-1 group-title="test",797
 http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/62012
-#EXTINF:-1 group-title="-",MTV PT
+#EXTINF:-1 group-title="test",798
 http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
-#EXTINF:-1 group-title="-",MTV BR
+#EXTINF:-1 group-title="test",799
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
-#EXTINF:0,800
+#EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
