@@ -863,8 +863,8 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="bg",MDS IT EU
 http://213.169.39.30:5255
-#EXTINF:0 group-title="i",Telepace
-https://ilglobotv-live.akamaized.net/channels/Telepace/Live.m3u8
+#EXTINF:0 group-title="-",TRT 1
+https://cdn-tr.tivimivi.com/streams/153/master.m3u8
 #EXTINF:0 group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0 group-title="sk",CGTN
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
