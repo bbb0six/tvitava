@@ -214,7 +214,7 @@ https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV Live
-http://45.87.35.12:7213/stream
+http://58.65.205.171:8000/play/a042
 #EXTINF:-1 group-title="MTV",MTV Hits
 http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",Club MTV
@@ -697,7 +697,7 @@ http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:0 group-title="MT",ONE
+#EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="XK",RTK 1
 http://23.88.66.93/RTK_1/index.m3u8
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
