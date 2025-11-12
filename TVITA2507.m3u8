@@ -1230,56 +1230,16 @@ http://78.108.251.7/Arena_Sport_3/index.m3u8
 http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena_Sport_5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
-#EXTINF:0 group-title="NL",ZIGGO SPORT 1
+#EXTINF:0,596
 http://185.236.230.212:9982/play/a09f
-#EXTINF:0 group-title="NL",ZIGGO SPORT 2
+#EXTINF:0,597
 http://185.236.230.212:9982/play/a099
-#EXTINF:0 group-title="NL",ZIGGO SPORT 6
+#EXTINF:0,598
 http://185.236.230.212:9982/play/a09a
-#EXTINF:0,_
+#EXTINF:0,599
 http://95.216.97.235:7777/mtvhits
-#EXTINF:0,_
+#EXTINF:0,600
 http://95.216.97.235:7777/ITV1
-#EXTINF:0 group-title="NL",NPO 1
-http://185.236.230.212:9982/play/a0a1
-#EXTINF:0 group-title="NL",NPO 3
-http://185.236.230.212:9982/play/a0a4
-#EXTINF:0 group-title="NL",NET 5
-http://185.236.230.212:9982/play/a09z
-#EXTINF:0 group-title="BE",VRT 1
-http://185.236.230.212:9982/play/a0a0
-#EXTINF:0 group-title="NL",BBC NL
-http://185.236.230.212:9982/play/a0ak
-#EXTINF:0 group-title="NL",MTV NL
-http://185.236.230.212:9982/play/a0af
-#EXTINF:0 group-title="CZ",MTV EU
-http://185.236.230.212:9982/play/a086
-#EXTINF:0 group-title="CZ",CT 1 JM HD
-http://185.236.230.212:9982/play/a0b6
-#EXTINF:0 group-title="CZ",CT 1 JZC HD
-http://185.236.230.212:9982/play/a0ba
-#EXTINF:0 group-title="CZ",CT 1 PHA HD
-http://185.236.230.212:9982/play/a0b0
-#EXTINF:0 group-title="CZ",CT 1 SM HD
-http://185.236.230.212:9982/play/a0b5
-#EXTINF:0 group-title="CZ",CT 1 SVC HD
-http://185.236.230.212:9982/play/a0b8
-#EXTINF:0 group-title="CZ",CT 2 HD
-http://185.236.230.212:9982/play/a0b1
-#EXTINF:0 group-title="CZ",CT 24 HD
-http://185.236.230.212:9982/play/a0b2
-#EXTINF:0 group-title="CZ",CT :D/ART HD
-http://185.236.230.212:9982/play/a0b4
-#EXTINF:0 group-title="CZ",CT SPORT HD
-http://185.236.230.212:9982/play/a0b3
-#EXTINF:0 group-title="FR",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:0 group-title="FR",RTL9
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:0 group-title="FR",Histoire
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:0 group-title="FR",Nat Geo FR
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0 group-title="IT",Rai 1
 http://185.207.34.31:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="IT",Rai 2
@@ -1300,26 +1260,14 @@ http://185.207.34.31:8000/play/21025/index.m3u8
 http://185.207.34.31:8000/play/7056/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
+#EXTINF:0 group-title="BE",VTM 1
+http://185.207.34.31:8000/play/7030/index.m3u8
+#EXTINF:0 group-title="BE",VTM 2
+http://185.207.34.31:8000/play/7056/index.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 group-title="CZ",ČT1
-http://dvr1.kablova.tv/CT1/index.m3u8
-#EXTINF:-1 group-title="CZ",ČT2
-http://dvr1.kablova.tv/CT2/index.m3u8
-#EXTINF:-1 group-title="CZ",ČT24
-http://dvr2.kablova.tv/CT24/index.m3u8
-#EXTINF:-1 group-title="HU",M1
-http://dvr4.kablova.tv/M1/index.m3u8
-#EXTINF:-1 group-title="HU",M2
-http://dvr4.kablova.tv/M2/index.m3u8
-#EXTINF:-1 group-title="HU",DUNA
-http://dvr1.kablova.tv/DUNA/index.m3u8
-#EXTINF:-1 group-title="HU",M4 Sport
-http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 group-title="HU",TV2
-http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -1330,6 +1278,48 @@ http://185.228.163.146:8000/play/a007/index.m3u8
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
 http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:-1 group-title="EU",MTV
+http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT1
+http://dvr1.kablova.tv/CT1/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT2
+http://dvr1.kablova.tv/CT2/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT24
+http://dvr2.kablova.tv/CT24/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ
+http://dvr4.kablova.tv/JOJ/index.m3u8
+#EXTINF:-1 group-title="SK",TA3
+http://dvr1.kablova.tv/TA3/index.m3u8
+#EXTINF:-1 group-title="HU",M1
+http://dvr4.kablova.tv/M1/index.m3u8
+#EXTINF:-1 group-title="HU",M2
+http://dvr4.kablova.tv/M2/index.m3u8
+#EXTINF:-1 group-title="HU",DUNA
+http://dvr1.kablova.tv/DUNA/index.m3u8
+#EXTINF:-1 group-title="HU",M4 Sport
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 group-title="HU",TV2
+http://dvr4.kablova.tv/TV2/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La1
+http://213.3.8.156:4022/udp/224.100.6.1:1234
+#EXTINF:-1 group-title="CH",RSI La2
+http://213.3.8.156:4022/udp/224.100.6.2:1234
+#EXTINF:-1 group-title="CH",RTS 1
+http://213.3.8.156:4022/udp/224.100.4.1:1234
+#EXTINF:-1 group-title="CH",RTS 2
+http://213.3.8.156:4022/udp/224.100.4.2:1234
+#EXTINF:0 group-title="CH",SRF 1
+http://176.10.117.68:6060/srf1/playlist.m3u8
+#EXTINF:0 group-title="CH",SRF 2
+http://176.10.117.68:6060/srf2/playlist.m3u8
+#EXTINF:0 group-title="CH",SRF INFO
+http://176.10.117.68:6060/srfinfo/playlist.m3u8
+#EXTINF:-1 group-title="IT",Rete 4
+http://213.3.8.156:4022/udp/224.100.2.1:1234
+#EXTINF:-1 group-title="IT",Canale 5
+http://213.3.8.156:4022/udp/224.100.2.2:1234
+#EXTINF:-1 group-title="IT",Italia 1
+http://213.3.8.156:4022/udp/224.100.2.3:1234
 #EXTINF:0 group-title="DE",PRO 7 HD
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1
@@ -1340,16 +1330,26 @@ http://23.88.66.93/ARD/index.m3u8
 http://23.88.66.93/ZDF/index.m3u8
 #EXTINF:0 group-title="DE",ZDF Info
 http://23.88.66.93/ZDF_Info/index.m3u8
-#EXTINF:0 group-title="DE",SRF 1 CH
-http://176.10.117.68:6060/srf1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF 2 CH
-http://176.10.117.68:6060/srf2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SRF INFO CH
-http://176.10.117.68:6060/srfinfo/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",3SAT DE
 http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Eurosport DE
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,_
+http://185.236.230.212:9982/play/a09z
+#EXTINF:0,_
+http://185.236.230.212:9982/play/a0ak
+#EXTINF:0,_
+http://185.236.230.212:9982/play/a0af
+#EXTINF:0,_
+http://185.236.230.212:9982/play/a086
+#EXTINF:0 group-title="FR",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:0 group-title="FR",RTL9
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:0 group-title="FR",Histoire
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:0 group-title="FR",Nat Geo FR
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:0 group-title="FR",MTV FR
 http://45.90.106.7:9790/play/SUn4207H6@T5B
 #EXTINF:0 group-title="FR",MTV Hits FR
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
