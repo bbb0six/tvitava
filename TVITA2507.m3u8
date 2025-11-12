@@ -1180,10 +1180,6 @@ http://170.82.113.50:8899/play/a0gj/index.m3u8
 http://170.82.113.50:8899/play/a0pq/index.m3u8
 #EXTINF:0,570
 http://185.18.56.26:8888/mtv/index.m3u8
-#EXTINF:0,Sport CZ 1
-http://46.149.191.217:9001/play/a01q
-#EXTINF:0,Sport CZ 2
-http://46.149.191.217:9001/play/a01f
 #EXTINF:-1,maxsport1 HD
 http://77.46.130.252:99/maxsport1
 #EXTINF:-1,maxsport2 HD
@@ -1198,6 +1194,10 @@ http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
 #EXTINF:0,Eurosport FR
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:0,578
+http://46.149.191.217:9001/play/a01q
+#EXTINF:0,579
+http://46.149.191.217:9001/play/a01f
 #EXTINF:0,580
 http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0 group-title="PP",ESPN 1
@@ -1235,11 +1235,11 @@ http://185.236.230.212:9982/play/a09f
 #EXTINF:0,597
 http://185.236.230.212:9982/play/a099
 #EXTINF:0,598
-http://185.236.230.212:9982/play/a09a
+http://95.216.97.235:7777/ITV1
 #EXTINF:0,599
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0,600
-http://95.216.97.235:7777/ITV1
+http://185.207.34.31:8000/play/a018/index.m3u8
 #EXTINF:0 group-title="IT",Rai 1
 http://185.207.34.31:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="IT",Rai 2
@@ -1286,6 +1286,10 @@ http://dvr1.kablova.tv/CT1/index.m3u8
 http://dvr1.kablova.tv/CT2/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT24
 http://dvr2.kablova.tv/CT24/index.m3u8
+#EXTINF:-1 group-title="SK",STV1
+http://dvr4.kablova.tv/STV1/index.m3u8
+#EXTINF:-1 group-title="SK",STV2
+http://dvr3.kablova.tv/STV2/index.m3u8
 #EXTINF:-1 group-title="SK",JOJ
 http://dvr4.kablova.tv/JOJ/index.m3u8
 #EXTINF:-1 group-title="SK",TA3
@@ -1300,6 +1304,8 @@ http://dvr1.kablova.tv/DUNA/index.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 group-title="HU",TV2
 http://dvr4.kablova.tv/TV2/index.m3u8
+#EXTINF:-1 group-title="EU",MTV 00s
+http://dvr1.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="CH",RSI La1
 http://213.3.8.156:4022/udp/224.100.6.1:1234
 #EXTINF:-1 group-title="CH",RSI La2
@@ -1335,13 +1341,7 @@ http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Eurosport DE
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:0,_
-http://185.236.230.212:9982/play/a09z
-#EXTINF:0,_
-http://185.236.230.212:9982/play/a0ak
-#EXTINF:0,_
 http://185.236.230.212:9982/play/a0af
-#EXTINF:0,_
-http://185.236.230.212:9982/play/a086
 #EXTINF:0,_
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",RTL9
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
