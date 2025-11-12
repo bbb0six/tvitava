@@ -1231,13 +1231,13 @@ http://78.108.251.7/Arena_Sport_4/index.m3u8
 #EXTINF:-1,Arena_Sport_5 HD
 http://78.108.251.7/Arena_Sport_5/index.m3u8
 #EXTINF:0,596
-http://185.236.230.212:9982/play/a09f
-#EXTINF:0,597
 http://95.216.97.235:7777/ITV1
-#EXTINF:0,598
+#EXTINF:0,597
 http://95.216.97.235:7777/mtvhits
-#EXTINF:0,599
+#EXTINF:0,598
 http://185.207.34.31:8000/play/a018/index.m3u8
+#EXTINF:0,599
+http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0 group-title="IT",Senato
 http://185.207.34.31:8000/play/a012/index.m3u8
 #EXTINF:0 group-title="IT",Rai 1
@@ -1294,11 +1294,11 @@ http://185.228.163.146:8000/play/a007/index.m3u8
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
 http://23.88.66.93/SLO2/index.m3u8
-#EXTINF:0 group-title="FR",TV5MONDE EUROPE
-http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="EU",CNN
+http://dvr2.kablova.tv/CNN/index.m3u8
 #EXTINF:-1 group-title="EU",MTV
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:-1 group-title="EU",MTV 00s
+#EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://dvr1.kablova.tv/CT1/index.m3u8
@@ -1324,10 +1324,10 @@ http://dvr1.kablova.tv/DUNA/index.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 group-title="HU",TV2
 http://dvr4.kablova.tv/TV2/index.m3u8
-#EXTINF:-1,_
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:0,_
-http://185.236.230.212:9982/play/a0af
+#EXTINF:-1 group-title="HU",ATV
+http://dvr2.kablova.tv/ATV/index.m3u8 
+#EXTINF:-1 group-title="UK",UTV
+http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="DE",PRO 7 HD
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1
@@ -1652,3 +1652,4 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
