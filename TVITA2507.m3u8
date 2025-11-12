@@ -1296,7 +1296,7 @@ http://23.88.66.93/SLO1/index.m3u8
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:-1 group-title="EU",CNN
 http://dvr2.kablova.tv/CNN/index.m3u8
-#EXTINF:-1 group-title="EU",MTV
+#EXTINF:-1 group-title="EU",MTV EU
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
@@ -1314,19 +1314,19 @@ http://dvr3.kablova.tv/STV2/index.m3u8
 http://dvr4.kablova.tv/JOJ/index.m3u8
 #EXTINF:-1 group-title="SK",TA3
 http://dvr1.kablova.tv/TA3/index.m3u8
-#EXTINF:-1 group-title="HU",M1
+#EXTINF:-1 group-title="HU",M1 HU
 http://dvr4.kablova.tv/M1/index.m3u8
-#EXTINF:-1 group-title="HU",M2
+#EXTINF:-1 group-title="HU",M2 HU
 http://dvr4.kablova.tv/M2/index.m3u8
-#EXTINF:-1 group-title="HU",DUNA
+#EXTINF:-1 group-title="HU",Duna TV
 http://dvr1.kablova.tv/DUNA/index.m3u8
 #EXTINF:-1 group-title="HU",M4 Sport
 http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 group-title="HU",TV2
+#EXTINF:-1 group-title="HU",TV2 HU
 http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:-1 group-title="HU",ATV HU
 http://dvr2.kablova.tv/ATV/index.m3u8
-#EXTINF:-1 group-title="UK",UTV
+#EXTINF:-1 group-title="UK",UTV UK
 http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="DE",PRO 7 HD
 http://23.88.66.93/Pro7/index.m3u8
@@ -1652,5 +1652,6 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
