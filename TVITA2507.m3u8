@@ -1236,7 +1236,7 @@ http://95.216.97.235:7777/ITV1
 http://95.216.97.235:7777/mtvhits
 #EXTINF:0,598
 http://185.207.34.31:8000/play/a018/index.m3u8
-#EXTINF:0,599
+#EXTINF:0 group-title="FR",TV5MONDE
 http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0 group-title="IT",Senato
 http://185.207.34.31:8000/play/a012/index.m3u8
@@ -1324,8 +1324,8 @@ http://dvr1.kablova.tv/DUNA/index.m3u8
 http://dvr1.kablova.tv/M4/index.m3u8
 #EXTINF:-1 group-title="HU",TV2
 http://dvr4.kablova.tv/TV2/index.m3u8
-#EXTINF:-1 group-title="HU",ATV
-http://dvr2.kablova.tv/ATV/index.m3u8 
+#EXTINF:-1 group-title="HU",ATV HU
+http://dvr2.kablova.tv/ATV/index.m3u8
 #EXTINF:-1 group-title="UK",UTV
 http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="DE",PRO 7 HD
@@ -1652,4 +1652,5 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
