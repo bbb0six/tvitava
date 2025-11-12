@@ -1342,7 +1342,7 @@ http://185.236.230.212:9982/play/a0ak
 http://185.236.230.212:9982/play/a0af
 #EXTINF:0,_
 http://185.236.230.212:9982/play/a086
-#EXTINF:0 group-title="FR",TF1
+#EXTINF:0,_
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
