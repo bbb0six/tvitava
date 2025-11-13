@@ -789,41 +789,41 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 group-title="FR",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:0 group-title="CH",TV5Monde FBS
+#EXTINF:0 group-title="FR",TV5Monde FBS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
-#EXTINF:0 group-title="-",TV5Monde Asie
+#EXTINF:0 group-title="FR",TV5Monde Asie
 http://125hvt.ddns.net:21585/tv5/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="CH",TV Monaco
+#EXTINF:0 group-title="FR",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
-#EXTINF:0 group-title="CH",RTL 9
+#EXTINF:0 group-title="FR",RTL 9
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:0 group-title="CH",RTP Int
+#EXTINF:0 group-title="World",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
-#EXTINF:0 group-title="sk",Al Jazeera AR
+#EXTINF:0 group-title="World",Al Jazeera AR
 https://dash3.antik.sk/live/test_aljazeera/playlist.m3u8
-#EXTINF:0 group-title="sk",Al Jazeera EN
+#EXTINF:0 group-title="World",Al Jazeera EN
 https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:0 group-title="CH",Al Arabiya
+#EXTINF:0 group-title="World",Al Arabiya
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:0 group-title="CH",2M Maroc
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-#EXTINF:0 group-title="CH",TV2 Algérie
+#EXTINF:0 group-title="World",2M Maroc
+http://154.197.91.169:8000/play/a0h0/index.m3u8
+#EXTINF:0 group-title="World",TV2 Algérie
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:0 group-title="CH",Tunis 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
-#EXTINF:0 group-title="sk",TVP Info
+#EXTINF:0 group-title="World",Tunisie 1
+http://185.234.111.64:8000/play/a05v
+#EXTINF:0 group-title="World",TVP Info
 https://dash3.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:0 group-title="sk",TVP Polonia
+#EXTINF:0 group-title="World",TVP Polonia
 https://dash3.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0 group-title="sk",TVP World
+#EXTINF:0 group-title="World",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:0 group-title="sk",TRT World
+#EXTINF:0 group-title="World",TRT World
 https://dash3.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:0 group-title="sk",Sky News
+#EXTINF:0 group-title="World",Sky News
 https://dash2.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0 group-title="-",DW EN
+#EXTINF:0 group-title="World",DW EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 group-title="-",DW ES
+#EXTINF:0 group-title="World",DW ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:0,Шансон ТВ
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
@@ -863,7 +863,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="bg",MDS IT EU
 http://213.169.39.30:5255
-#EXTINF:0 group-title="-",TRT 1
+#EXTINF:0 group-title="-",_
 https://cdn-tr.tivimivi.com/streams/153/master.m3u8
 #EXTINF:0 group-title="CH",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
