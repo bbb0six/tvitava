@@ -1100,7 +1100,7 @@ http://181.118.156.46:8000/play/a04m/index.m3u8
 #EXTINF:0,group-title="sports",ESPN 7 TWC   
 http://181.118.156.46:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="hn",ESPN
-http://181.189.241.114:5050/play/a02z
+http://181.189.241.114:5050/play/a07l
 #EXTINF:-1 group-title="hn",ESPN 2
 http://181.189.241.114:5050/play/a06k
 #EXTINF:-1 group-title="hn",ESPN 2
@@ -1110,9 +1110,9 @@ http://181.189.241.114:5050/play/a032
 #EXTINF:-1 group-title="hn",ESPN 3 HD
 http://181.189.241.114:5050/play/a0pp
 #EXTINF:-1 group-title="hn",ESPN 4HD
+http://181.189.241.114:5050/play/a06l
+#EXTINF:-1 group-title="hn",ESPN 4
 http://181.189.241.114:5050/play/a0po
-#EXTINF:-1 group-title="hn",ESPN 5 Sur (ESPN07)
-http://181.189.241.114:5050/play/a051
 #EXTINF:-1 group-title="hn",ESPN 6HD
 http://181.189.241.114:5050/play/a0pq
 #EXTINF:-1 group-title="hn",ESPN 7HD
@@ -1134,31 +1134,31 @@ http://213.169.39.30:5136
 #EXTINF:0,group-title="bg",Diema Sport 3
 http://213.169.39.30:5216
 #EXTINF:0,548
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+http://94.232.127.28:8080/mtvhits/index.m3u8
 #EXTINF:0,549
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-#EXTINF:-1,Arena1
+#EXTINF:-1,Arena1 HR
 http://185.166.252.230/Arena1/index.m3u8
-#EXTINF:-1,Arena2
+#EXTINF:-1,Arena2 HR
 http://185.166.252.230/Arena2/index.m3u8
-#EXTINF:-1,Arena3
+#EXTINF:-1,Arena3 HR
 http://185.166.252.230/Arena3/index.m3u8
-#EXTINF:-1,Arena4
+#EXTINF:-1,Arena4 HR
 http://185.166.252.230/Arena4/index.m3u8
-#EXTINF:-1,Arena5
+#EXTINF:-1,Arena5 HR
 http://185.166.252.230/Arena5/index.m3u8
-#EXTINF:-1,Arena6
+#EXTINF:-1,Arena6 HR
 http://185.166.252.230/Arena6/index.m3u8
-#EXTINF:-1,Arena7
+#EXTINF:-1,Arena7 HR
 http://185.166.252.230/Arena7/index.m3u8
-#EXTINF:-1,Arena8
+#EXTINF:-1,Arena8 HR
 http://185.166.252.230/Arena8/index.m3u8
-#EXTINF:-1,Arena9
+#EXTINF:-1,Arena9 HR
 http://185.166.252.230/Arena9/index.m3u8
-#EXTINF:-1,Arena10
+#EXTINF:-1,Arena10 HR
 http://185.166.252.230/Arena10/index.m3u8
 #EXTINF:0,group-title="co",ESPN
 http://170.82.113.50:8899/play/a0l9/index.m3u8
@@ -1178,28 +1178,28 @@ http://170.82.113.50:8899/play/a0li/index.m3u8
 http://170.82.113.50:8899/play/a0gj/index.m3u8
 #EXTINF:0,group-title="co",ESPN Premium
 http://170.82.113.50:8899/play/a0pq/index.m3u8
-#EXTINF:0,570
-http://185.18.56.26:8888/mtv/index.m3u8
-#EXTINF:0,571
-http://94.232.127.28:8080/mtv/index.m3u8
-#EXTINF:0,572
-http://94.232.127.28:8080/mtvhits/index.m3u8
-#EXTINF:0,573
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1,574
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1,575
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1,576
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1,577
-http://46.149.191.217:9001/play/a025
-#EXTINF:0,578
-http://46.149.191.217:9001/play/a01q
-#EXTINF:0,579
-http://46.149.191.217:9001/play/a01f
-#EXTINF:0,580
-http://185.18.56.26:8888/mtv/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 01 SD
+http://200.92.227.238:8000/play/a0o6/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 01 HD
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 02 HD
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 03 HD
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 04 HD
+http://200.92.227.238:8000/play/a0ti/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 05 HD
+http://200.92.227.238:8000/play/a0um/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 06 HD
+http://200.92.227.238:8000/play/a0tm/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 02 SD
+http://200.92.227.238:8000/play/a0o7/index.m3u8
+#EXTINF:0 group-title="OO",MTV Latino
+http://200.92.227.238:8000/play/a0mm/index.m3u8
+#EXTINF:0 group-title="OO",MTV 00s HD
+http://200.92.227.238:8000/play/a0op/index.m3u8
+#EXTINF:0 group-title="OO",MTV SIM HD
+http://200.92.227.238:8000/play/a0oo/index.m3u8
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
 #EXTINF:0 group-title="PP",ESPN 2
@@ -1342,7 +1342,7 @@ http://23.88.66.93/ZDF_Info/index.m3u8
 http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",Eurosport DE
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:0,_
+#EXTINF:0 group-title="FR",TF1 HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
@@ -1571,12 +1571,12 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,766
-http://69.64.57.208:80/russiatoday/index.m3u8
+http://195.191.208.11:8087/udp/238.2.49.62:1234
 #EXTINF:0,767
 http://69.64.57.208:80/rtfrance/index.m3u8
-#EXTINF:0,768
-http://195.191.208.11:8087/udp/238.2.49.62:1234
-#EXTINF:0,769
+#EXTINF:0,MTV Europe
+http://185.18.56.26:8888/mtv/index.m3u8
+#EXTINF:0,MTV Italy
 http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/62012
 #EXTINF:0,MTV Spain
 http://188.40.59.230:5100/mtv
@@ -1652,3 +1652,4 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
