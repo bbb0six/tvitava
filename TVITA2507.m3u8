@@ -329,31 +329,31 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0 group-title="CH",Cherie 25
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0 group-title="CH",BBC World News
+#EXTINF:0 group-title="UK",BBC World News
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0 group-title="UK",BBC 1
 http://92.118.251.84:8080/bbc1hd/index.m3u8
-#EXTINF:0 group-title="CH",BBC 2
+#EXTINF:0 group-title="UK",BBC 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:0 group-title="CH",BBC 3
+#EXTINF:0 group-title="UK",BBC 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0 group-title="CH",BBC 4
+#EXTINF:0 group-title="UK",BBC 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0 group-title="UK",ITV 1
 http://92.118.251.84:8080/itv1hd/index.m3u8
-#EXTINF:0 group-title="CH",ITV 2
+#EXTINF:0 group-title="UK",ITV 2
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:0 group-title="CH",ITV 3
+#EXTINF:0 group-title="UK",ITV 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:0 group-title="CH",ITV 4
+#EXTINF:0 group-title="UK",ITV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-#EXTINF:0 group-title="CH",CHANNEL 4
+#EXTINF:0 group-title="UK",CHANNEL 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:0 group-title="CH",CHANNEL 5
+#EXTINF:0 group-title="UK",CHANNEL 5
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-#EXTINF:0 group-title="CH",FILM 4
+#EXTINF:0 group-title="UK",FILM 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:0 group-title="CH",MORE 4
+#EXTINF:0 group-title="UK",MORE 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:0 group-title="UK",4seven
 http://92.118.251.84:8080/4seven/index.m3u8
@@ -1652,4 +1652,5 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
