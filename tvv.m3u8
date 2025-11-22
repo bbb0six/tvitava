@@ -692,9 +692,9 @@ http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0 group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:0 group-title="ME",RTCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+http://23.88.66.93/RTCG_1/index.m3u8
+#EXTINF:0 group-title="ME",RTCG 1
+http://23.88.66.93/RTCG_2/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
@@ -1260,11 +1260,11 @@ http://213.3.8.156:4022/udp/224.100.6.2:1234
 http://213.3.8.156:4022/udp/224.100.4.1:1234
 #EXTINF:-1 group-title="CH",RTS 2
 http://213.3.8.156:4022/udp/224.100.4.2:1234
-#EXTINF:0 group-title="CH",SRF 1
-http://176.10.117.68:6060/srf1/playlist.m3u8
-#EXTINF:0 group-title="CH",SRF 2
-http://176.10.117.68:6060/srf2/playlist.m3u8
-#EXTINF:0 group-title="CH",SRF INFO
+#EXTINF:-1 group-title="CH",SRF 1
+http://213.3.8.156:4022/udp/224.100.5.1:1234
+#EXTINF:-1 group-title="CH",SRF 2
+http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:0 group-title="-",_
 http://176.10.117.68:6060/srfinfo/playlist.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.207.34.31:8000/play/21029/index.m3u8
@@ -1328,19 +1328,19 @@ http://dvr4.kablova.tv/TV2/index.m3u8
 http://dvr2.kablova.tv/ATV/index.m3u8
 #EXTINF:-1 group-title="UK",UTV UK
 http://95.216.97.235:7777/ITV1
-#EXTINF:0 group-title="DE",PRO 7 HD
-http://23.88.66.93/Pro7/index.m3u8
-#EXTINF:0 group-title="DE",SAT 1
-http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 http://23.88.66.93/ARD/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
 http://23.88.66.93/ZDF/index.m3u8
 #EXTINF:0 group-title="DE",ZDF Info
 http://23.88.66.93/ZDF_Info/index.m3u8
-#EXTINF:0 group-title="DE",3SAT DE
-http://176.10.117.68:6060/3satHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",Eurosport DE
+#EXTINF:0 group-title="DE",PRO 7 HD
+http://23.88.66.93/Pro7/index.m3u8
+#EXTINF:0 group-title="DE",SAT 1
+http://23.88.66.93/Sat1/index.m3u8
+#EXTINF:0 group-title="DE",SAT 1 Gold
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:0 group-title="-",_
 http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="FR",TF1 HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
@@ -1653,3 +1653,4 @@ http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 
 http://84.22.55.2:8013/play/s399
+
