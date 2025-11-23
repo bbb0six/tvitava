@@ -526,7 +526,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="CH",Servus TV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:0 group-title="-",_
-http://62.210.136.5/mtv/index.m3u8
+http://tv.schulzens.com/stream/channelid/1057715699?profile=pass
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -1341,7 +1341,7 @@ http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1 Gold
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:0 group-title="-",_
-http://176.10.117.68:6060/eurosport1/tracks-v1a1/mono.m3u8
+http://62.210.136.5/mtv/index.m3u8
 #EXTINF:0 group-title="FR",TF1 HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",RTL9
@@ -1652,5 +1652,6 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
 
