@@ -508,7 +508,7 @@ http://92.118.251.84:8080/syfy/index.m3u8
 #EXTINF:0 group-title="España",MTV España
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:0 group-title="MTV",MTV Germany
-http://tv.schulzens.com/stream/channelid/1057715699?profile=pass
+http://0ab1d838.ottolok.net/iptv/LB4DLHKTCTRSH5/31344/index.m3u8
 #EXTINF:0 group-title="CH",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="CH",Comedy Central DE
@@ -829,7 +829,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
 #EXTINF:0,MCM TOP
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:0,Clubland TV
+#EXTINF:0,_
 http://212.32.241.201:8000/play/a01g
 #EXTINF:0,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -1220,16 +1220,16 @@ http://45.173.75.4:2061/play/a09g
 http://45.173.75.4:2061/play/a09i
 #EXTINF:0 group-title="PP",Nick Music
 http://45.173.75.4:2061/play/a07u
-#EXTINF:-1,Arena_Sport_1 HD
-http://78.108.251.7/Arena_Sport_1/index.m3u8
-#EXTINF:-1,Arena_Sport_2 HD
-http://78.108.251.7/Arena_Sport_2/index.m3u8
-#EXTINF:-1,Arena_Sport_3 HD
-http://78.108.251.7/Arena_Sport_3/index.m3u8
-#EXTINF:-1,Arena_Sport_4 HD
-http://78.108.251.7/Arena_Sport_4/index.m3u8
-#EXTINF:-1,Arena_Sport_5 HD
-http://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://179.60.51.134:8888/ESPN4/index.m3u8
+#EXTINF:-1,595
+http://189.50.210.3:8008/play/a06t/index.m3u8
 #EXTINF:0,596
 http://95.216.97.235:7777/ITV1
 #EXTINF:0,597
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
 
 
