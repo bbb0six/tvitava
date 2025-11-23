@@ -693,7 +693,7 @@ http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
-#EXTINF:0 group-title="ME",RTCG 1
+#EXTINF:0 group-title="ME",RTCG 2
 http://23.88.66.93/RTCG_2/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
@@ -1651,6 +1651,6 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 #EXTINF:-1 group-title="test",799
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
-
 http://84.22.55.2:8013/play/s399
+
 
