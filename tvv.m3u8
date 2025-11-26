@@ -224,7 +224,7 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 90s
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV 00s
-http://176.116.105.82/MTV_00s/index.m3u8
+http://88.212.7.14/live/test_vh1_sd_hevc50/playlist.m3u8
 #EXTINF:-1 group-title="MTV",MTV Europe
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
 
 
