@@ -643,8 +643,8 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 2
 http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:0 group-title="AL",RTSH 3
-http://92.246.87.58/kanaliOTTURedirect244225/LVenCPbKr21s1s2asd221LVenCPbKr21s1s2asd221/67698
+#EXTINF:0 group-title="AL",RTSH Music
+http://217.73.139.200:5443/play/a00p
 #EXTINF:0 group-title="AL",RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH Sport
@@ -681,10 +681,10 @@ http://178.33.11.6:8696/live/scanott/playlist.m3u8
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0 group-title="AL",Top
-http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/57736
-#EXTINF:0 group-title="AL",RTSH Music
-http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/57702
+#EXTINF:0 group-title="AL",Top Channel
+http://217.73.139.200:5443/play/a016
+#EXTINF:0 group-title="AL",Top News
+http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",News 24
 http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 #EXTINF:0 group-title="AL",MCN TV
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
 
 
