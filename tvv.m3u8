@@ -657,10 +657,10 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:0 group-title="AL",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",Klan Music
+#EXTINF:0 group-title="AL",Klan Music 1
 http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
-#EXTINF:0 group-title="AL",RTV Ora
-http://178.33.11.6:8696/live/rtvoraott/playlist.m3u8
+#EXTINF:0 group-title="AL",Klan Music 2
+http://217.73.139.200:5443/play/a008
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",A2 CNN
@@ -1652,6 +1652,7 @@ http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
 http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",800
 http://84.22.55.2:8013/play/s399
+
 
 
 
