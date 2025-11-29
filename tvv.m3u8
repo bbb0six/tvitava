@@ -1139,7 +1139,7 @@ http://94.232.127.28:8080/mtvhits/index.m3u8
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544129
 #EXTINF:-1,Arena1 HR
 http://185.166.252.230/Arena1/index.m3u8
 #EXTINF:-1,Arena2 HR
@@ -1574,9 +1574,9 @@ https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://195.191.208.11:8087/udp/238.2.49.62:1234
 #EXTINF:0,767
 http://69.64.57.208:80/rtfrance/index.m3u8
-#EXTINF:0,MTV Europe
+#EXTINF:0,768
 http://185.18.56.26:8888/mtv/index.m3u8
-#EXTINF:0,MTV Italy
+#EXTINF:0,769
 http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/62012
 #EXTINF:0,MTV Spain
 http://188.40.59.230:5100/mtv
@@ -1599,7 +1599,7 @@ http://176.116.105.82/PRO7/index.m3u8
 #EXTINF:0,3sat
 http://176.116.105.82/3sat/index.m3u8
 #EXTINF:0,780
-http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/62001
+http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1645,21 +1645,10 @@ https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="test",796
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="test",797
-http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/62012
+http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/543150
 #EXTINF:-1 group-title="test",798
-http://pgeffordgef.top:8080/8741742712390699/dfbe40939720/25049
+http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/543151
 #EXTINF:-1 group-title="test",799
-http://1fcpbqww8.vip:80/frc-013737/ZFGpjN/103490.ts
+http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
-http://84.22.55.2:8013/play/s399
-
-
-
-
-
-
-
-
-
-
-
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
