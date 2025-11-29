@@ -799,12 +799,12 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="World",RTP Int
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
-#EXTINF:0 group-title="World",DW EN
+#EXTINF:0 group-title="World",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 group-title="World",DW ES
+#EXTINF:0 group-title="World",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:0 group-title="World",Al Jazeera AR
-/live/test_aljazeera/playlist.m3u8
+http://88.212.7.14/live/test_aljazeera/playlist.m3u8
 #EXTINF:0 group-title="World",Al Jazeera EN
 http://88.212.7.14/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="World",Al Arabiya
@@ -817,16 +817,16 @@ http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
 http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:0 group-title="World",Show Turk
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="World",2M Maroc
 http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="World",TV2 Algérie
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="World",Tunisie 1
 http://185.234.111.64:8000/play/a05v
-#EXTINF:0 group-title="-",_
-http://185.228.163.146:8000/play/a01l/index.m3u8
-#EXTINF:0 group-title="-",_
-http://88.212.7.14/live/test_skynews/playlist.m3u8
+#EXTINF:0 group-title="World",RT News
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:0 group-title="Music",Шансон ТВ
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
 #EXTINF:0 group-title="Music",MCM TOP
@@ -863,8 +863,6 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT EU
 http://213.169.39.30:5255
-#EXTINF:0 group-title="World",SHOW TURK
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="World",CCTV 4
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0 group-title="World",CGTN
@@ -875,8 +873,10 @@ http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",RT News
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+#EXTINF:0 group-title="World",RT EN
+https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0 group-title="World",RT FR
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0 group-title="il",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="il",KAN 11
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
