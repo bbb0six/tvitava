@@ -853,8 +853,8 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia AU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="i",Rai Scuola
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+#EXTINF:0 group-title="i",Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:0 group-title="i",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:0 group-title="i",TG Com 24
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
