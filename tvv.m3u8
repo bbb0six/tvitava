@@ -825,8 +825,8 @@ http://154.197.91.169:8000/play/a0h0/index.m3u8
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="World",Tunisie 1
 http://185.234.111.64:8000/play/a05v
-#EXTINF:0 group-title="World",RT News
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+#EXTINF:0 group-title="World",Tunisie 2
+http://185.234.111.64:8000/play/a03h
 #EXTINF:0 group-title="Music",Шансон ТВ
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
 #EXTINF:0 group-title="Music",MCM TOP
@@ -1655,5 +1655,3 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
