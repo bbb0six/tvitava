@@ -880,12 +880,12 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0 group-title="il",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="il",KAN 11
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_2.5k/chunklist.m3u8
-#EXTINF:0 group-title="il",Keshet 12
+http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:0 group-title="il",CH 12 ISR
 http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:0 group-title="il",Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 group-title="il",Akshav 14
+#EXTINF:0 group-title="il",CH 13 ISR
+http://gr.seetv.cc/play/471/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:0 group-title="il",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="il",MAKAN 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
@@ -899,9 +899,9 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
-#EXTINF:0 group-title="ua",1TV UA
+#EXTINF:0 group-title="ua",Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:0 group-title="ua",2TV UA
+#EXTINF:0 group-title="ua",Суспільне Культура
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:0 group-title="ua",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
@@ -948,7 +948,7 @@ https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
-https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -985,6 +985,8 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:0 group-title="USA",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",BET
@@ -1029,8 +1031,6 @@ http://159.69.66.238/tbs/index.m3u8
 http://159.69.66.238/tlc/index.m3u8
 #EXTINF:0 group-title="USA",TV LAND
 http://159.69.66.238/tvland/index.m3u8
-#EXTINF:0 group-title="USA",VH1
-http://159.69.66.238/vh1/index.m3u8
 #EXTINF:0 group-title="USA",FOX News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1038,7 +1038,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:-1 group-title="-",500
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",501
 http://195.191.208.11:8087/udp/238.2.49.4:1234
 #EXTINF:-1 group-title="-",502
@@ -1655,6 +1655,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
