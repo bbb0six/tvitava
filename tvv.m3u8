@@ -727,7 +727,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0 group-title="CH",РТС Свет
+#EXTINF:0 group-title="RS",РТС Свет
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="RS",РТС 1
 http://46.240.143.86:8065/rts1
@@ -737,26 +737,26 @@ http://46.240.143.86:8065/rts2
 http://46.240.143.86:8065/rts3
 #EXTINF:0 group-title="RS",TV PINK
 http://46.240.143.86:8065/pink
-#EXTINF:0 group-title="CH",TVR INT
+#EXTINF:0 group-title="RO",TVR INT
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:0 group-title="RO",TVR 1 RO
-http://89.44.229.22:7000/tvr1hd
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6998/index.m3u8
 #EXTINF:0 group-title="RO",TVR 2 RO
-http://89.44.229.22:7000/tvr2
-#EXTINF:0 group-title="RO",Antena 1 RO
-http://89.44.229.22:7000/antena1
-#EXTINF:0 group-title="RO",Antena 3 RO
-http://89.44.229.22:7000/antena3
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6942/index.m3u8
+#EXTINF:0 group-title="RO",TVR 3 RO
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6943/index.m3u8
 #EXTINF:0 group-title="RO",PRO TV RO
-http://89.44.229.22:7000/protvhd
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6997/index.m3u8
+#EXTINF:0 group-title="RO",Antena1 RO
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/7002/index.m3u8
+#EXTINF:0 group-title="RO",Antena3 RO
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/7003/index.m3u8
 #EXTINF:0 group-title="RO",Prima TV RO
-http://89.44.229.22:7000/primatv
-#EXTINF:0 group-title="-",_
-http://185.222.138.254:8080/topchannel/mpegts
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6995/index.m3u8
+#EXTINF:0 group-title="RO",MTV RO
+http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/7031/index.m3u8
 #EXTINF:0 group-title="ru",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
-#EXTINF:0 group-title="ru",_
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
@@ -791,10 +791,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:0 group-title="FR",TV5Monde FBS
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
-#EXTINF:0 group-title="FR",TV5Monde Asie
-http://125hvt.ddns.net:21585/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="FR",TV Monaco
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
+#EXTINF:0 group-title="FR",8 Mont Blanc
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
 #EXTINF:0 group-title="FR",RTL 9
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="World",RTP Int
@@ -1326,6 +1326,10 @@ http://dvr1.kablova.tv/M4/index.m3u8
 http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:-1 group-title="HU",ATV HU
 http://dvr2.kablova.tv/ATV/index.m3u8
+#EXTINF:-1 group-title="CH",3+ CH
+http://176.10.117.68:6060/3HD/playlist.m3u8
+#EXTINF:-1 group-title="CH",4+ CH
+http://176.10.117.68:6060/4hd/playlist.m3u8
 #EXTINF:-1 group-title="UK",UTV UK
 http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="DE",Das Erste
@@ -1340,10 +1344,6 @@ http://23.88.66.93/Pro7/index.m3u8
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1 Gold
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:0 group-title="-",_
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544015
-#EXTINF:0 group-title="FR",TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:0 group-title="FR",Histoire
@@ -1648,16 +1648,10 @@ https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="test",796
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="test",797
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543150
-#EXTINF:-1 group-title="test",798
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
-#EXTINF:-1 group-title="test",799
+#EXTINF:-1 group-title="test",798
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
+#EXTINF:-1 group-title="test",799
+http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
-
-
-
