@@ -700,7 +700,7 @@ https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="AL",RTK 1
-http://23.88.66.93/RTK_1/index.m3u8
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:0 group-title="AL",RTK 2
 http://94.100.50.220/RTK2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AL",RTK 3
@@ -1655,6 +1655,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
