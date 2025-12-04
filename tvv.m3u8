@@ -1569,7 +1569,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:0,764
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
-http://195.191.208.11:8087/udp/238.2.49.62:1234
+http://178.65.94.4:81/play/a011
 #EXTINF:0,766
 http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0,767
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
