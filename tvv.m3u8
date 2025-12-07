@@ -880,7 +880,7 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0 group-title="il",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="il",KAN 11
-http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0 group-title="il",CH 12 ISR
 http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:0 group-title="il",CH 13 ISR
@@ -1602,7 +1602,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544025
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544026
 #EXTINF:0,780
 #EXTVLCOPT:network-caching=1000
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544021
+http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/136235
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1646,7 +1646,7 @@ https://jmp2.uk/stvp-ITBA2200010O1
 #EXTINF:-1 group-title="test",795
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="test",796
-http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/136235
+http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:-1 group-title="test",797
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 #EXTINF:-1 group-title="test",798
@@ -1655,5 +1655,3 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
