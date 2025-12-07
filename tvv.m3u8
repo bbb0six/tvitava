@@ -657,28 +657,26 @@ http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
 http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
 #EXTINF:0 group-title="AL",Klan News
 http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",Klan Music 1
-http://178.33.11.6:8696/live/klanmusicott/playlist.m3u8
-#EXTINF:0 group-title="AL",Klan Music 2
+#EXTINF:0 group-title="AL",Klan Music
 http://217.73.139.200:5443/play/a008
-#EXTINF:0 group-title="AL",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0 group-title="AL",A2 CNN
-http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
+#EXTINF:0 group-title="AL",Report TV
+http://178.33.11.6:8696/live/reportott/playlist.m3u8
+#EXTINF:0 group-title="AL",Scan TV
+http://178.33.11.6:8696/live/scanott/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC
 http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",CNA TV
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0 group-title="AL",A2 CNN
+http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
 #EXTINF:0 group-title="AL",Euronews Albania
 http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
 #EXTINF:0 group-title="AL",FAX News
 http://178.33.11.6:8696/live/faxnewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",REPORT TV
-http://178.33.11.6:8696/live/reportott/playlist.m3u8
-#EXTINF:0 group-title="AL",Scan TV
-http://178.33.11.6:8696/live/scanott/playlist.m3u8
 #EXTINF:0 group-title="AL",Syri TV
 http://178.33.11.6:8696/live/syritvott/playlist.m3u8
+#EXTINF:0 group-title="AL",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0 group-title="AL",CNA TV
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 #EXTINF:0 group-title="AL",Top Channel
@@ -691,17 +689,19 @@ http://178.33.11.6:8696/live/news24ott/playlist.m3u8
 http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
 #EXTINF:0 group-title="AL",BBF
 http://178.33.11.6:8696/live/bbfott/playlist.m3u8
-#EXTINF:0 group-title="AL",RTK 1
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:0 group-title="KS",RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
-#EXTINF:0 group-title="AL",RTK 2
+#EXTINF:0 group-title="KS",RTK 2
 http://94.100.50.220/RTK2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTK 3
+#EXTINF:0 group-title="KS",RTK 3
 http://94.100.50.220/RTK3/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTK 4
+#EXTINF:0 group-title="KS",RTK 4
 http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",RTV 21
+#EXTINF:0 group-title="KS",RTV 21
 http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AL",ATV
+#EXTINF:0 group-title="KS",ATV
 http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
@@ -755,7 +755,7 @@ http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/7003/index.m3u8
 http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/6995/index.m3u8
 #EXTINF:0 group-title="RO",MTV RO
 http://83b567a8.edmonst.net/iptv/CS7X8FQ83E4L82/7031/index.m3u8
-#EXTINF:0 group-title="ru",MuzTV RU
+#EXTINF:0 group-title="Music",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
@@ -790,15 +790,15 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 group-title="FR",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:0 group-title="FR",TV5Monde FBS
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
 #EXTINF:0 group-title="FR",TV Monaco
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
+https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 #EXTINF:0 group-title="FR",8 Mont Blanc
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
 #EXTINF:0 group-title="FR",RTL 9
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="World",RTP Int
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0 group-title="World",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="World",DW Español
@@ -825,9 +825,9 @@ https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
 #EXTINF:0 group-title="CH",CARAC 3
 https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd
-#EXTINF:0,group-title="CH",CARAC 4
+#EXTINF:0 group-title="CH",CARAC 4
 https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
-#EXTINF:0,group-title="CH",CARAC 5
+#EXTINF:0 group-title="CH",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:0 group-title="Music",Шансон ТВ
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
