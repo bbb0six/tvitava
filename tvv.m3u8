@@ -1284,10 +1284,10 @@ http://185.207.34.31:8000/play/7056/index.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="PT",RTP 1
+http://188.26.25.175:40000/play/a002/index.m3u8
 #EXTINF:0 group-title="-",_
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/7350/index.m3u8
-#EXTINF:0 group-title="-",_
-http://9ecf411e.ottolok.net/iptv/LH54VQG35C2LCR/7351/index.m3u8
+http://51.83.135.95/RTS1/index.m3u8
 #EXTINF:0 group-title="-",_
 http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="-",_
@@ -1655,4 +1655,5 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
