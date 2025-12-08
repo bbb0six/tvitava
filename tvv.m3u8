@@ -640,55 +640,55 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
-http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+http://217.73.139.200:5443/play/a00f
 #EXTINF:0 group-title="AL",RTSH 2
-http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
-#EXTINF:0 group-title="AL",RTSH Music
-http://217.73.139.200:5443/play/a00p
+http://217.73.139.200:5443/play/a00k
 #EXTINF:0 group-title="AL",RTSH 24
-http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-#EXTINF:0 group-title="AL",RTSH Sport
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:0 group-title="AL",RTSH Shqip
-http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+http://217.73.139.200:5443/play/a00s
 #EXTINF:0 group-title="AL",Klan TV
-http://178.33.11.6:8696/live/klanhdott/playlist.m3u8
+http://217.73.139.200:5443/play/a002
+#EXTINF:0 group-title="AL",Top Channel
+http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
-http://178.33.11.6:8696/live/klanplusott/playlist.m3u8
+http://217.73.139.200:5443/play/a004
+#EXTINF:0 group-title="AL",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
+#EXTINF:0 group-title="AL",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="AL",ABC
+http://217.73.139.200:5443/play/a003
+#EXTINF:0 group-title="AL",Top News
+http://217.73.139.200:5443/play/a017
+#EXTINF:0 group-title="AL",Report TV
+http://217.73.139.200:5443/play/a01c
+#EXTINF:0 group-title="AL",SCAN
+http://217.73.139.200:5443/play/a009
+#EXTINF:0 group-title="AL",A2 CNN
+http://217.73.139.200:5443/play/a00d
 #EXTINF:0 group-title="AL",Klan News
-http://178.33.11.6:8696/live/klannewsott/playlist.m3u8
+http://217.73.139.200:5443/play/a005
 #EXTINF:0 group-title="AL",Klan Music
 http://217.73.139.200:5443/play/a008
-#EXTINF:0 group-title="AL",Report TV
-http://178.33.11.6:8696/live/reportott/playlist.m3u8
-#EXTINF:0 group-title="AL",Scan TV
-http://178.33.11.6:8696/live/scanott/playlist.m3u8
-#EXTINF:0 group-title="AL",ABC
-http://178.33.11.6:8696/live/abcnewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",A2 CNN
-http://178.33.11.6:8696/live/a2mobott/playlist.m3u8
+#EXTINF:0 group-title="AL",RTSH Film
+http://217.73.139.200:5443/play/a00n
+#EXTINF:0 group-title="AL",RTSH Muzikë
+http://217.73.139.200:5443/play/a00p
+#EXTINF:0 group-title="AL",RTSH Sport
+http://217.73.139.200:5443/play/a01d
+#EXTINF:0 group-title="AL",RTSH Shkollë
+http://217.73.139.200:5443/play/a00v
 #EXTINF:0 group-title="AL",Euronews Albania
-http://178.33.11.6:8696/live/euronewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",FAX News
-http://178.33.11.6:8696/live/faxnewsott/playlist.m3u8
-#EXTINF:0 group-title="AL",Syri TV
-http://178.33.11.6:8696/live/syritvott/playlist.m3u8
+http://217.73.139.200:5443/play/a007
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="AL",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:0 group-title="AL",Top Channel
-http://217.73.139.200:5443/play/a016
-#EXTINF:0 group-title="AL",Top News
-http://217.73.139.200:5443/play/a017
-#EXTINF:0 group-title="AL",News 24
-http://178.33.11.6:8696/live/news24ott/playlist.m3u8
+#EXTINF:0 group-title="AL",FaxNews
+http://217.73.139.200:5443/play/a012
+#EXTINF:0 group-title="AL",SYRI TV
+http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="AL",MCN TV
-http://178.33.11.6:8696/live/mcnpp1/playlist.m3u8
-#EXTINF:0 group-title="AL",BBF
-http://178.33.11.6:8696/live/bbfott/playlist.m3u8
+http://217.73.139.200:5443/play/a00c
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="KS",RTK 1
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/mpegts
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
