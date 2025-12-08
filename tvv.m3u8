@@ -552,7 +552,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="DE",ProSieben
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
-http://176.10.117.68:6060/pro7mxx/playlist.m3u8
+http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -750,9 +750,9 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.
 #EXTINF:0 group-title="CH",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:0 group-title="CH",3+ CH
-http://176.10.117.68:6060/3HD/playlist.m3u8
+http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",4+ CH
-http://176.10.117.68:6060/4hd/playlist.m3u8
+http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Music",Шансон ТВ
 http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
 #EXTINF:0 group-title="Music",MuzTV RU
@@ -808,7 +808,7 @@ http://88.212.7.14/live/test_aljazeera/playlist.m3u8
 #EXTINF:0 group-title="World",Al Jazeera EN
 http://88.212.7.14/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="World",Al Arabiya
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
 #EXTINF:0 group-title="World",TVP Info
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
@@ -819,18 +819,18 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",Show Turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
-#EXTINF:0 group-title="CH",CARAC 1
-https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
-#EXTINF:0 group-title="CH",CARAC 2
-https://viamotionhsi.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
-#EXTINF:0 group-title="CH",CARAC 3
-https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd
-#EXTINF:0 group-title="CH",CARAC 4
-https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
-#EXTINF:0 group-title="CH",CARAC 5
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
-#EXTINF:0 group-title="Music",Шансон ТВ
-http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
+#EXTINF:0 group-title="-",_
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:0 group-title="-",_
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
+#EXTINF:0 group-title="-",_
+http://154.197.91.169:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="Music",MB Hits
+https://dash2.antik.sk/live/mb_hits/index.m3u8
+#EXTINF:-1 group-title="Music",MB Dance
+https://dash4.antik.sk/live/mb_dance/index.m3u8
+#EXTINF:-1 group-title="Music",MB Classic
+https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -880,7 +880,7 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0 group-title="il",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="il",KAN 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:0 group-title="il",CH 12 ISR
 http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
 #EXTINF:0 group-title="il",CH 13 ISR
@@ -1573,7 +1573,7 @@ http://178.65.94.4:81/play/a011
 #EXTINF:0,766
 http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0,767
-http://51.15.10.229/bigBrotherAlb2/index.m3u8
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0,768
 http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544044
 #EXTINF:0,769
@@ -1646,15 +1646,12 @@ https://jmp2.uk/stvp-ITBA2200010O1
 #EXTINF:-1 group-title="test",795
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="test",796
-http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
+http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:-1 group-title="test",797
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
 #EXTINF:-1 group-title="test",798
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",799
-http://185.222.138.254:8080/topchannel/mpegts
+http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
