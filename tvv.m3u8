@@ -42,7 +42,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="-",Telerent
+#EXTINF:0 group-title="-",7Gold Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/master.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -687,10 +687,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 http://217.73.139.200:5443/play/a012
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
-#EXTINF:0 group-title="MT",TVM Malta
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
-#EXTINF:0 group-title="MT",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="KS",RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:0 group-title="KS",RTK 2
@@ -703,6 +699,10 @@ http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
 http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="KS",ATV
 http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MT",TVM Malta
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
@@ -819,12 +819,12 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",Show Turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="World",TV2 Algérie
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:0 group-title="World",2M Maroc
+http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="-",_
 http://45.5.117.57:5550/play/a01f
-#EXTINF:0 group-title="-",_
-http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="Music",MB Hits
 https://dash2.antik.sk/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",MB Dance
@@ -1655,5 +1655,6 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
