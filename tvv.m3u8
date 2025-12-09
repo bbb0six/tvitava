@@ -687,8 +687,8 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 http://217.73.139.200:5443/play/a012
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
-#EXTINF:0 group-title="AL",MCN TV
-http://217.73.139.200:5443/play/a00c
+#EXTINF:0 group-title="MT",TVM Malta
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="KS",RTK 1
@@ -822,7 +822,7 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="-",_
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="-",_
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
+http://45.5.117.57:5550/play/a01f
 #EXTINF:0 group-title="-",_
 http://154.197.91.169:8000/play/a0h0/index.m3u8
 #EXTINF:-1 group-title="Music",MB Hits
@@ -1655,4 +1655,5 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
