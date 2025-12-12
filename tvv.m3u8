@@ -923,6 +923,10 @@ https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
+#EXTINF:0 group-title="USA",BET
+https://fl1.moveonjoy.com/BET/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
 https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
@@ -931,8 +935,34 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 group-title="USA",Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:0 group-title="USA",Disney
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:0 group-title="USA",Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:0 group-title="USA",E! Entertainment
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",FX
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:0 group-title="USA",HGTV USA
+https://fl1.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:0 group-title="USA",HBO 1
+https://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:0 group-title="USA",HBO 2
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:0 group-title="USA",HBO Comedy
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",HBO Zone
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:0 group-title="USA",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:0 group-title="USA",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0 group-title="USA",Lifetime
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
@@ -949,6 +979,10 @@ https://fl1.moveonjoy.com/MTV_2/index.m3u8
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO WILD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -961,8 +995,9 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:0 group-title="USA",Nick Music
-https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
@@ -975,12 +1010,18 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Encore Action
 https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:0 group-title="USA",TBS
+https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:0 group-title="USA",TLC
+https://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:0 group-title="USA",TNT US
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:0 group-title="USA",TV LAND
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:0 group-title="USA",USA Network
 https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
@@ -989,54 +1030,12 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:0 group-title="USA",BET
-http://159.69.66.238/bet/index.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://159.69.66.238/bravo/index.m3u8
-#EXTINF:0 group-title="USA",Discovery
-http://159.69.66.238/discovery/index.m3u8
-#EXTINF:0 group-title="USA",Disney Channel
-http://159.69.66.238/disneychannel/index.m3u8
-#EXTINF:0 group-title="USA",Disney JR
-http://159.69.66.238/disneyjr/index.m3u8
-#EXTINF:0 group-title="USA",FX
-http://159.69.66.238/fxhd/index.m3u8
-#EXTINF:0 group-title="USA",HGTV
-http://159.69.66.238/hgtv/index.m3u8
-#EXTINF:0 group-title="USA",HBO
-http://159.69.66.238/hbo/index.m3u8
-#EXTINF:0 group-title="USA",HBO 2
-http://159.69.66.238/hbo2/index.m3u8
-#EXTINF:0 group-title="USA",HBO Comedy
-http://159.69.66.238/hbocomedy/index.m3u8
-#EXTINF:0 group-title="USA",HBO Zone
-http://159.69.66.238/hbozone/index.m3u8
-#EXTINF:0 group-title="USA",History
-http://159.69.66.238/historychannel/index.m3u8
-#EXTINF:0 group-title="USA",Lifetime
-http://159.69.66.238/lifetime/index.m3u8
-#EXTINF:0 group-title="USA",MGM
-http://159.69.66.238/mgmhd/index.m3u8
-#EXTINF:0 group-title="USA",Nat Geo
-http://159.69.66.238/natgeo/index.m3u8
-#EXTINF:0 group-title="USA",Nat Geo Wild
-http://159.69.66.238/natgeowild/index.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://159.69.66.238/paramount/index.m3u8
-#EXTINF:0 group-title="USA",SYFY US
-http://159.69.66.238/syfy/index.m3u8
-#EXTINF:0 group-title="USA",TBS
-http://159.69.66.238/tbs/index.m3u8
-#EXTINF:0 group-title="USA",TLC
-http://159.69.66.238/tlc/index.m3u8
-#EXTINF:0 group-title="USA",TV LAND
-http://159.69.66.238/tvland/index.m3u8
 #EXTINF:0 group-title="USA",FOX News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 group-title="USA",CNBC
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:-1 group-title="-",500
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",501
@@ -1655,6 +1654,3 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
