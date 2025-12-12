@@ -426,19 +426,19 @@ http://92.118.251.84:8080/5star/index.m3u8
 #EXTINF:0 group-title="UK",HGTV UK
 http://92.118.251.84:8080/HGTV/index.m3u8
 #EXTINF:0 group-title="FR",MEZZO
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0 group-title="FR",Paramount FR
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 #EXTINF:0 group-title="FR",Planete+
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0 group-title="Music",Deluxe Music
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0 group-title="IT",Video Italia
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0 group-title="IT",Canale Italia
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
+https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="España",TVE INT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="España",La 1 HD
 http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:0 group-title="España",La 2 HD
@@ -475,10 +475,10 @@ http://176.65.146.237:8401/play/a09y/index.m3u8
 http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
 http://92.118.251.84:8080/BOING/index.m3u8
-#EXTINF:0 group-title="España",Paramount ES
-http://92.118.251.84:8080/ParamountNetwork/index.m3u8
 #EXTINF:0 group-title="España",Squirrel
 http://185.157.184.11:6001/play/DisneyCHANNELHD
+#EXTINF:0 group-title="España",TEN
+http://176.65.146.237:8401/play/a0al/index.m3u8
 #EXTINF:0 group-title="España",TV3
 http://185.157.184.11:6001/play/TV3HD
 #EXTINF:0 group-title="España",TV3 CAT
@@ -497,18 +497,18 @@ http://176.65.146.237:8401/play/a09j/index.m3u8
 http://176.65.146.237:8401/play/a0aj/index.m3u8
 #EXTINF:0 group-title="España",tdp HD
 http://176.65.146.237:8401/play/a093/index.m3u8
-#EXTINF:0 group-title="España",TEN
-http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:0 group-title="España",Star TVE
+http://200.92.227.238:8000/play/a0mj/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 1 ES
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 2 ES
 http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0 group-title="España",SYFY ES
 http://92.118.251.84:8080/syfy/index.m3u8
+#EXTINF:0 group-title="España",Paramount ES
+http://92.118.251.84:8080/ParamountNetwork/index.m3u8
 #EXTINF:0 group-title="España",MTV España
 http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:0 group-title="Music",MTV Germany
-http://tv.schulzens.com/stream/channelid/1057715699?profile=pass
 #EXTINF:0 group-title="FR",MTV France
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="AT",ORF 1
@@ -1045,14 +1045,14 @@ http://ip1.orgip.net/202/video.m3u8?token=Ceba8e4412
 http://ip1.orgip.net/203/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="-",503
 http://ip1.orgip.net/204/video.m3u8?token=Ceba8e4412
-#EXTINF:-1,group-title="-",504
-http://77.46.130.252:99/maxsport1
-#EXTINF:-1,group-title="-",505
-http://77.46.130.252:99/maxsport2
-#EXTINF:-1,group-title="-",506
-http://77.46.130.252:99/maxsport3
-#EXTINF:-1,group-title="-",507
-http://77.46.130.252:99/maxsport4
+#EXTINF:-1 group-title="-",504
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1 group-title="-",505
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 group-title="-",506
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1 group-title="-",507
+http://179.60.51.134:8888/ESPN4/index.m3u8
 #EXTINF:0,Eurosport 1
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 #EXTINF:0,Eurosport 2
@@ -1220,14 +1220,14 @@ http://45.173.75.4:2061/play/a09g
 http://45.173.75.4:2061/play/a0ax
 #EXTINF:0 group-title="PP",Nick Music
 http://45.173.75.4:2061/play/a07u
-#EXTINF:-1,ESPN HD
-http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://179.60.51.134:8888/ESPN2/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://179.60.51.134:8888/ESPN3/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://179.60.51.134:8888/ESPN4/index.m3u8
+#EXTINF:-1,591
+http://99.27.51.147/LCP/index.m3u8
+#EXTINF:-1,592
+http://99.27.51.147/TMC/index.m3u8
+#EXTINF:-1,593
+http://99.27.51.147/MTV/index.m3u8
+#EXTINF:-1,594
+http://99.27.51.147/ACTION/index.m3u8
 #EXTINF:-1,595
 http://189.50.210.3:8008/play/a06t/index.m3u8
 #EXTINF:0,596
@@ -1655,6 +1655,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
