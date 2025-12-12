@@ -1009,7 +1009,7 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Encore Action
 https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:0 group-title="USA",SYFY
+#EXTINF:0 group-title="USA",SYFY 
 https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TBS
 https://fl1.moveonjoy.com/TBS/index.m3u8
@@ -1655,4 +1655,5 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
