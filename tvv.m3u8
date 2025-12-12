@@ -997,7 +997,6 @@ https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
@@ -1010,13 +1009,15 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Encore Action
 https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:0 group-title="USA",SYFY
+https://fl1.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TBS
 https://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 group-title="USA",TLC
 https://fl1.moveonjoy.com/TLC/index.m3u8
-#EXTINF:0 group-title="USA",TNT US
+#EXTINF:0 group-title="USA",TNT
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
@@ -1654,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
