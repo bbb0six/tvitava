@@ -573,10 +573,10 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
 https://live.ipstream.it/etv/etv.stream/master.m3u8
-#EXTINF:0 group-title="Vari",Trentino TV
-https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/master.m3u8
-#EXTINF:0 group-title="Vari",Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
+#EXTINF:0 group-title="Vari",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/master.m3u8
+#EXTINF:0 group-title="Vari",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 2 TV
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 7 TV
@@ -1655,3 +1655,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
