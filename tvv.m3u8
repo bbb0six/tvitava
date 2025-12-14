@@ -21,7 +21,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:0 group-title="Sky IT",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:0 group-title="News",Euronews IT
@@ -63,7 +63,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 group-title="Sky IT",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://uvotv.zappr.stream/281.m3u8
 #EXTINF:-1 group-title="Mediaset",27 Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
@@ -123,7 +123,7 @@ https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Sky IT",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:-1 group-title="Mediaset",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
@@ -254,7 +254,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="IT",LA7
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
+https://uvotv.zappr.stream/269.m3u8
 #EXTINF:0 group-title="IT",NOVE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -1655,5 +1655,6 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
