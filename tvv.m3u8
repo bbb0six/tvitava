@@ -873,12 +873,12 @@ http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",RT EN
+#EXTINF:0 group-title="World",_
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0 group-title="World",RT FR
+#EXTINF:0 group-title="World",_
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:0 group-title="il",i24 News
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+#EXTINF:0 group-title="World",_
+http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0 group-title="ua",Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",Суспільне Культура
@@ -889,7 +889,7 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="ua",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:0 group-title="il",KAN EDU
+#EXTINF:0 group-title="-",_
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
 #EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
@@ -1246,20 +1246,6 @@ http://185.207.34.31:8000/play/a00g/index.m3u8
 http://185.207.34.31:8000/play/a010/index.m3u8
 #EXTINF:0 group-title="IT",Rai 3
 http://185.207.34.31:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="IT",Rete 4
-http://213.3.8.156:4022/udp/224.100.2.1:1234
-#EXTINF:-1 group-title="IT",Canale 5
-http://213.3.8.156:4022/udp/224.100.2.2:1234
-#EXTINF:-1 group-title="IT",Italia 1
-http://213.3.8.156:4022/udp/224.100.2.3:1234
-#EXTINF:-1 group-title="CH",RSI LA 1
-http://213.3.8.156:4022/udp/224.100.6.1:1234
-#EXTINF:-1 group-title="CH",RSI LA 2
-http://213.3.8.156:4022/udp/224.100.6.2:1234
-#EXTINF:-1 group-title="CH",RTS 1
-http://213.3.8.156:4022/udp/224.100.4.1:1234
-#EXTINF:-1 group-title="CH",RTS 2
-http://213.3.8.156:4022/udp/224.100.4.2:1234
 #EXTINF:0 group-title="NL",NPO 1
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 3
@@ -1274,6 +1260,20 @@ http://185.207.34.31:8000/play/21030/index.m3u8
 http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 2
 http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0 group-title="IL",CH 11 ISR
+http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:0 group-title="IL",CH 12 ISR
+http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:0 group-title="IL",CH 13 ISR
+http://gr.seetv.cc/play/471/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:0 group-title="IL",CH 14 ISR
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",MAKAN 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
+#EXTINF:0 group-title="IL",KAN EDU
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+#EXTINF:0 group-title="IL",i24 News
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
@@ -1655,6 +1655,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
