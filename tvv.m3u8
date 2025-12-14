@@ -883,14 +883,14 @@ http://181.78.82.6:46090/play/a03j/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",Суспільне Культура
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="ua",24 Канал
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="ua",Freedom UATV
 http://88.212.7.14/live/test_uatv/playlist.m3u8
+#EXTINF:0 group-title="ua",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="ua",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="-",_
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+https://node19.connect.az:8086/ch1/ch1.hi.m3u8
 #EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="am",ARM News
@@ -1655,6 +1655,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
