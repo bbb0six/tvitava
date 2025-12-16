@@ -1141,11 +1141,11 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544129
 #EXTINF:-1,551
-http://185.166.252.230/Arena1/index.m3u8
+http://pl.online24.pm/play/1142/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,552
-http://185.166.252.230/Arena2/index.m3u8
+http://pl.online24.pm/play/1143/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,553
-http://185.166.252.230/Arena3/index.m3u8
+http://pl.online24.pm/play/1144/5FD91ED329C33F6/video.m3u8
 #EXTINF:-1,554
 http://185.166.252.230/Arena4/index.m3u8
 #EXTINF:-1,555
@@ -1653,3 +1653,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
