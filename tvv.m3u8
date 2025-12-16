@@ -27,19 +27,19 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="Svizzera",RSI La 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 group-title="Svizzera",RSI La 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 group-title="Svizzera",RTS 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 group-title="Svizzera",RTS 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF Info
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold Telerent
@@ -71,7 +71,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="Cairo",La7Cinema
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -240,121 +240,121 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:0 group-title="IT",RAI 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:0 group-title="IT",RAI 3
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:0 group-title="IT",RETE 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:0 group-title="IT",CANALE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:0 group-title="IT",ITALIA 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
 https://uvotv.zappr.stream/269.m3u8
 #EXTINF:0 group-title="IT",NOVE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:0 group-title="IT",RAI STORIA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0 group-title="IT",RAI SPORT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:0 group-title="IT",RAI SCUOLA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0 group-title="IT",RAI GULP
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0 group-title="IT",RAI NEWS 24
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
 #EXTINF:0 group-title="News",SKY NEWS
 http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN International
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:0 group-title="News",Euronews EN
 http://88.212.7.14/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
 #EXTINF:0 group-title="FR",TF1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 3
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:0 group-title="FR",M6
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:0 group-title="FR",ARTE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
 #EXTINF:0 group-title="FR",LCP
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 #EXTINF:0 group-title="FR",W9
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:0 group-title="FR",TMC
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 #EXTINF:0 group-title="FR",TFX
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
 #EXTINF:0 group-title="FR",GULLI
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
 #EXTINF:0 group-title="FR",BFM TV
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-dash/bfmtv.mpd
 #EXTINF:0 group-title="FR",CNEWS
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
 #EXTINF:0 group-title="FR",LCI
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
 #EXTINF:0 group-title="FR",franceinfo
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
 #EXTINF:0 group-title="FR",CSTAR
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
 #EXTINF:0 group-title="FR",T18
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
 #EXTINF:0 group-title="FR",NOVO19
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
 #EXTINF:0 group-title="FR",TF1 Series Film
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 #EXTINF:0 group-title="FR",L'equipe
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 #EXTINF:0 group-title="FR",6Ter
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 #EXTINF:0 group-title="FR",RMC Story
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 #EXTINF:0 group-title="FR",RMC Decouverte
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0 group-title="FR",Cherie 25
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
 #EXTINF:0 group-title="UK",BBC World News
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:0 group-title="UK",BBC 1
 http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0 group-title="UK",BBC 3
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:0 group-title="UK",BBC 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0 group-title="UK",ITV 1
 http://92.118.251.84:8080/itv1hd/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:0 group-title="UK",ITV 3
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 #EXTINF:0 group-title="UK",ITV 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 #EXTINF:0 group-title="UK",CHANNEL 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 #EXTINF:0 group-title="UK",CHANNEL 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTINF:0 group-title="UK",FILM 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 #EXTINF:0 group-title="UK",MORE 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 #EXTINF:0 group-title="UK",4seven
 http://92.118.251.84:8080/4seven/index.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
@@ -510,45 +510,45 @@ http://92.118.251.84:8080/ParamountNetwork/index.m3u8
 #EXTINF:0 group-title="España",MTV España
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:0 group-title="FR",MTV France
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="AT",ORF 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:0 group-title="AT",Servus TV
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:0 group-title="DE",Eurosport DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0 group-title="DE",Das Erste
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:0 group-title="DE",ZDF
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 #EXTINF:0 group-title="DE",ZDF info
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:0 group-title="DE",ZDF neo
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:0 group-title="DE",3sat
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:0 group-title="DE",RTL
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:0 group-title="DE",RTL 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:0 group-title="DE",VOX
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:0 group-title="DE",Super RTL
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:0 group-title="DE",NDR
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
+https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:0 group-title="DE",WDR
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
 #EXTINF:0 group-title="DE",KIKA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 #EXTINF:0 group-title="DE",Comedy Central DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:0 group-title="DE",DMAX DE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:0 group-title="DE",TELE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",ProSieben
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
@@ -753,8 +753,8 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Music",Шансон ТВ
-http://tv.streams.baikal-telecom.net/ShansonTV/index.m3u8
+#EXTINF:0 group-title="Music",ESKA TV
+http://88.156.96.25:9999/udp/239.239.17.193:1234
 #EXTINF:0 group-title="Music",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -822,9 +822,9 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="World",TV2 Algérie
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="World",2M Maroc
-http://154.197.91.169:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="Music",Eska TV
-http://88.156.96.25:9999/udp/239.239.17.193:1234
+http://154.197.91.169:8000/play/a0h0
+#EXTINF:0 group-title="World",RTP 1
+http://188.26.25.175:40000/play/a002
 #EXTINF:-1 group-title="Music",MB Hits
 https://dash2.antik.sk/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",MB Dance
@@ -864,7 +864,7 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT EU
 http://213.169.39.30:5255
 #EXTINF:0 group-title="World",CCTV 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0 group-title="World",CGTN
 http://88.212.7.14/live/test_cgtn/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN DOC
@@ -1140,26 +1140,26 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544129
-#EXTINF:-1,Arena1 HR
+#EXTINF:-1,551
 http://185.166.252.230/Arena1/index.m3u8
-#EXTINF:-1,Arena2 HR
+#EXTINF:-1,552
 http://185.166.252.230/Arena2/index.m3u8
-#EXTINF:-1,Arena3 HR
+#EXTINF:-1,553
 http://185.166.252.230/Arena3/index.m3u8
-#EXTINF:-1,Arena4 HR
+#EXTINF:-1,554
 http://185.166.252.230/Arena4/index.m3u8
-#EXTINF:-1,Arena5 HR
+#EXTINF:-1,555
 http://185.166.252.230/Arena5/index.m3u8
-#EXTINF:-1,Arena6 HR
+#EXTINF:-1,556
 http://185.166.252.230/Arena6/index.m3u8
-#EXTINF:-1,Arena7 HR
+#EXTINF:-1,557
 http://185.166.252.230/Arena7/index.m3u8
-#EXTINF:-1,Arena8 HR
+#EXTINF:-1,558
 http://185.166.252.230/Arena8/index.m3u8
-#EXTINF:-1,Arena9 HR
-http://185.166.252.230/Arena9/index.m3u8
-#EXTINF:-1,Arena10 HR
-http://185.166.252.230/Arena10/index.m3u8
+#EXTINF:-1,559
+http://51.83.135.95/RTS1/index.m3u8
+#EXTINF:-1,560
+http://95.216.97.235:7777/ITV1
 #EXTINF:0,group-title="co",ESPN
 http://170.82.113.50:8899/play/a0l9/index.m3u8
 #EXTINF:0,group-title="co",ESPN 2
@@ -1272,14 +1272,14 @@ https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 group-title="IL",KAN EDU
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+#EXTINF:0 group-title="IL",KAN 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0 group-title="IL",i24 News
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="PT",RTP 1
-http://188.26.25.175:40000/play/a002/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://dvr1.kablova.tv/CT1/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1290,10 +1290,16 @@ http://dvr2.kablova.tv/CT24/index.m3u8
 http://dvr4.kablova.tv/STV1/index.m3u8
 #EXTINF:-1 group-title="SK",STV2
 http://dvr3.kablova.tv/STV2/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ
-http://dvr4.kablova.tv/JOJ/index.m3u8
 #EXTINF:-1 group-title="SK",TA3
 http://dvr1.kablova.tv/TA3/index.m3u8
+#EXTINF:-1 group-title="SK",TV Markíza
+http://dvr1.kablova.tv/Markiza/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ
+http://dvr4.kablova.tv/JOJ/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ Sport 1
+http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ Sport 2
+http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
 #EXTINF:-1 group-title="HU",M1 HU
 http://dvr4.kablova.tv/M1/index.m3u8
 #EXTINF:-1 group-title="HU",M2 HU
@@ -1306,10 +1312,8 @@ http://dvr1.kablova.tv/M4/index.m3u8
 http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:-1 group-title="HU",ATV HU
 http://dvr2.kablova.tv/ATV/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ Sport 1
-http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ Sport 2
-http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
+#EXTINF:-1 group-title="CZ",Jim Jam CZ
+http://dvr1.kablova.tv/JimJam/index.m3u8
 #EXTINF:-1 group-title="CZ",Eurosport 1
 http://dvr2.kablova.tv/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="CZ",Eurosport 2
@@ -1322,16 +1326,12 @@ http://dvr2.kablova.tv/CNN/index.m3u8
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
-#EXTINF:0 group-title="-",_
-http://51.83.135.95/RTS1/index.m3u8
-#EXTINF:0 group-title="-",_
-http://154.197.91.169:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:-1 group-title="EU",MTV PT
+http://188.26.25.175:40000/play/a00j
+#EXTINF:0 group-title="-",االوطنية 1
 http://185.234.111.64:8000/play/a03c
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="-",االوطنية 2
 http://185.234.111.64:8000/play/a03h
-#EXTINF:-1 group-title="UK",UTV UK
-http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="DE",Das Erste
 http://23.88.66.93/ARD/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -1569,11 +1569,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:0,764
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:0,765
-http://178.65.94.4:81/play/a011
+https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0,766
-http://185.18.56.26:8888/mtv/index.m3u8
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
 https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0,769
@@ -1598,8 +1598,7 @@ http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544025
 #EXTINF:0,779
-#EXTVLCOPT:network-caching=1000
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544026
+http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0,780
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
