@@ -890,7 +890,7 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="ua",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="-",_
-https://node19.connect.az:8086/ch1/ch1.hi.m3u8
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="am",ARM News
@@ -899,10 +899,8 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
-#EXTINF:0 group-title="ua",431
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:0 group-title="ps",Palestine
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="-",_
+https://node19.connect.az:8086/ch1/ch1.hi.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -1031,7 +1029,9 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:0 group-title="USA",FOX News
+#EXTINF:0 group-title="USA",NEWSMAX
+https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:0 group-title="USA",FOX NEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
@@ -1575,9 +1575,9 @@ http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0,767
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:0,768
-http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544044
+https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0,769
-http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544028
+https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0,770
 http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544095
 #EXTINF:0,771
@@ -1601,8 +1601,7 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544025
 #EXTVLCOPT:network-caching=1000
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544026
 #EXTINF:0,780
-#EXTVLCOPT:network-caching=1000
-http://vipkendrake.top:8080/VIP018931749329001479/f9fb9e225596/136235
+https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1655,9 +1654,3 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
-
-
-
