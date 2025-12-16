@@ -869,16 +869,16 @@ https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 http://88.212.7.14/live/test_cgtn/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN DOC
 http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN ES
+https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN FR
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",Arirang TV
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",_
-https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0 group-title="World",_
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://181.78.82.6:46090/play/a03j/index.m3u8
+#EXTINF:0 group-title="-",_
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="ua",Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",Суспільне Культура
@@ -1653,4 +1653,3 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
