@@ -822,9 +822,9 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="World",TV2 Algérie
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="World",2M Maroc
-http://154.197.91.169:8000/play/a0h0
-#EXTINF:0 group-title="World",RTP 1
-http://188.26.25.175:40000/play/a002
+http://176.65.146.100:8026/play/a06j/index.m3u8
+#EXTINF:0 group-title="World",Tunisia Nat1
+http://176.65.146.100:8025/play/a07i/index.m3u8
 #EXTINF:-1 group-title="Music",MB Hits
 https://dash2.antik.sk/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",MB Dance
@@ -837,8 +837,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Music",MTV Live EU
-http://201.77.61.226:8001/play/a0i7
+#EXTINF:0 group-title="Music",Deluxe Schlager
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -877,8 +877,8 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="-",_
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="World",RTP 1
+http://188.26.25.175:40000/play/a002
 #EXTINF:0 group-title="ua",Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",Суспільне Культура
@@ -889,7 +889,7 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="ua",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="ps",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
@@ -1653,3 +1653,4 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
