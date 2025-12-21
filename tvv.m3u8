@@ -753,8 +753,8 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Music",ESKA TV
-http://88.156.96.25:9999/udp/239.239.17.193:1234
+#EXTINF:0 group-title="Music",_
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0 group-title="Music",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -1653,4 +1653,5 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
