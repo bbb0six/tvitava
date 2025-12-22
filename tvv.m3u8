@@ -42,8 +42,8 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="-",7Gold Telerent
-https://5db313b643fd8.streamlock.net/telerent/telerent/master.m3u8
+#EXTINF:0 group-title="-",7 Gold
+https://streamcdnr17-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -148,8 +148,7 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 #EXTINF:-1 group-title="Discovery IT",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
+https://jmp2.uk/stvp-ITBA2200010O1
 #EXTINF:0 group-title="Sciscione",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Sciscione",Donna TV
@@ -158,8 +157,8 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/master.m3u8
 https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 group-title="Sciscione",ALMA TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 group-title="Vari",SI SoloCalcio
+https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="Mediaset",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
@@ -225,7 +224,7 @@ http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="Music",MTV 00s
 http://88.212.7.14/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV Europe
+#EXTINF:-1 group-title="Music",MTV Global
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -697,7 +696,7 @@ http://94.100.50.220/RTK3/tracks-v1a1/mono.m3u8
 http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="KS",RTV 21
 http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="KS",ATV
+#EXTINF:0 group-title="KS",ATV KS
 http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
@@ -753,8 +752,8 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Music",_
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
+#EXTINF:0 group-title="CH",TVM3 CH
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS/tvm3.m3u8
 #EXTINF:0 group-title="Music",MuzTV RU
 http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -1575,11 +1574,11 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+http://thksmom.shop/NL_NPO2/index.m3u8
 #EXTINF:0,769
-https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+http://thksmom.shop/TR_TRT1FHDTR/index.m3u8
 #EXTINF:0,770
-http://florincercel.gotdns.ch:8080/Mihai@radoi/tB21x1AHD4/544095
+http://185.18.56.26:8888/mtv/index.m3u8
 #EXTINF:0,771
 http://176.116.105.82/MTV_Hits/index.m3u8
 #EXTINF:0,772
@@ -1595,10 +1594,9 @@ http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0,777
 http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:0,778
-#EXTVLCOPT:network-caching=1000
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544025
+https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0,779
-http://185.18.56.26:8888/mtv/index.m3u8
+https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0,780
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
@@ -1646,13 +1644,11 @@ https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="test",796
 http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:-1 group-title="test",797
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543151
+https://5db313b643fd8.streamlock.net/telerent/telerent/master.m3u8
 #EXTINF:-1 group-title="test",798
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 #EXTINF:-1 group-title="test",799
-http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
