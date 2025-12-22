@@ -590,7 +590,7 @@ http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(NPfM1q2qd34ngpIRWuONZRUapGxkAMJ-5OHRR4YxXieEv6zstNfbv3VARyKq_9mVpvdK4Z-upQ4l69EuKrlXnmp4lOfWJse2xxyo8NWIWUxrb9YATC2T6ITGAts3QneX)/cloud/3/x9us6y4/s/live-720.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(x5TUpHehHu0SUe0S5f0bINBMeJ09tUciWHigN0gqPx6rFhH-OjarEQNgaTpqP_wEh7z1TD11oevueuc3fXi-MNjj96KM5bXuVJsqOQRmxonQ0-Aqe7iDhbEfnQtdAK9J)/cloud/3/x9us6y4/s/live-720.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -877,8 +877,8 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",RTP 1
-http://188.26.25.175:40000/play/a002
+#EXTINF:0 group-title="World",_
+http://85.11.144.6:6060/play/a09e/index.m3u8
 #EXTINF:0 group-title="ua",Перший
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:0 group-title="ua",Суспільне Культура
@@ -900,7 +900,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="-",_
-https://node19.connect.az:8086/ch1/ch1.hi.m3u8
+https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -938,9 +938,9 @@ https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",FX
-https://fl1.moveonjoy.com/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 group-title="USA",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:0 group-title="USA",HGTV USA
 https://fl1.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:0 group-title="USA",HBO 1
@@ -1059,20 +1059,20 @@ http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
 #EXTINF:0,Eurosport FR
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="sports",ESPN 1
-http://38.44.109.41:8003/play/a02v
-#EXTINF:-1 group-title="sports",ESPN 2
-http://38.44.109.41:8003/play/a00v
-#EXTINF:-1 group-title="sports",ESPN 3
-http://38.44.109.41:8003/play/a00w
-#EXTINF:-1 group-title="sports",ESPN 4 HD
-http://38.44.109.41:8003/play/a03m
-#EXTINF:-1 group-title="sports",ESPN 5
-http://38.44.109.41:8003/play/a02t
-#EXTINF:-1 group-title="sports",ESPN 6
-http://38.44.109.41:8003/play/a00u
-#EXTINF:-1 group-title="sports",ESPN 7
-http://38.44.109.41:8003/play/a02u
+#EXTINF:-1 group-title="-",511
+http://45.5.117.57:5550/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",512
+http://45.5.117.57:5550/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",513
+http://45.5.117.57:5550/play/a04i/index.m3u8
+#EXTINF:-1 group-title="-",514
+http://45.5.117.57:5550/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",515
+http://45.5.117.57:5550/play/a04f/index.m3u8
+#EXTINF:-1 group-title="-",516
+http://45.5.117.57:5550/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",517
+http://45.5.117.57:5550/play/a031/index.m3u8
 #EXTINF:-1 group-title="sports",ESPN Premium
 http://38.44.109.41:8003/play/a02m
 #EXTINF:-1 group-title="sports",ESPN2_MOD
@@ -1326,12 +1326,6 @@ http://dvr2.kablova.tv/CNN/index.m3u8
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",MTV 00
 http://dvr1.kablova.tv/VH1/index.m3u8
-#EXTINF:-1 group-title="EU",MTV PT
-http://188.26.25.175:40000/play/a00j
-#EXTINF:0 group-title="-",االوطنية 1
-http://185.234.111.64:8000/play/a03c
-#EXTINF:0 group-title="-",االوطنية 2
-http://185.234.111.64:8000/play/a03h
 #EXTINF:0 group-title="DE",Das Erste
 http://23.88.66.93/ARD/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -1356,6 +1350,12 @@ http://45.90.106.7:9790/play/SUn4207H6@T5B
 http://45.90.106.7:9790/play/QmU5097K3@B4X
 #EXTINF:0 group-title="FR",M6 Music
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
+#EXTINF:-1 group-title="PL",Eska TV
+http://45.87.35.12:7004/stream
+#EXTINF:-1 group-title="PL",Eska TV Extra
+http://45.87.35.12:7046/stream
+#EXTINF:-1 group-title="PL",Eska Rock TV
+http://45.87.35.12:7048/stream
 #EXTINF:-1 group-title="PL",MTV PL
 http://45.87.35.12:7209/stream
 #EXTINF:-1 group-title="PL",MTV Live HD
@@ -1653,5 +1653,6 @@ http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
 http://185.222.138.254:8080/topchannel/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
