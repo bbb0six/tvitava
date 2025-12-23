@@ -43,7 +43,7 @@ https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7 Gold
-https://streamcdnr17-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -1638,9 +1638,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTINF:-1 group-title="test",793
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",794
-https://jmp2.uk/stvp-ITBA2200010O1
+https://uvotv.zappr.stream/530.m3u8
 #EXTINF:-1 group-title="test",795
-https://jmp2.uk/stvp-ITBC4700002CO
+https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.mpd
 #EXTINF:-1 group-title="test",796
 http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:-1 group-title="test",797
