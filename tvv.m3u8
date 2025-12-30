@@ -375,7 +375,7 @@ http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
 https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
 #EXTINF:0 group-title="Regionali",Telecupole
-https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/master.m3u8
+https://d4k.it/hls/live2/live.m3u8
 #EXTINF:0 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telequattro
@@ -561,7 +561,7 @@ https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:0 group-title="Vari",radioradio tv
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
 #EXTINF:0 group-title="Vari",byoblu
-https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist_dvr.m3u8
+https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/master.m3u8
 #EXTINF:0 group-title="Vari",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Euro TV
@@ -589,7 +589,7 @@ http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(x5TUpHehHu0SUe0S5f0bINBMeJ09tUciWHigN0gqPx6rFhH-OjarEQNgaTpqP_wEh7z1TD11oevueuc3fXi-MNjj96KM5bXuVJsqOQRmxonQ0-Aqe7iDhbEfnQtdAK9J)/cloud/3/x9us6y4/s/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(EZ3g8i788kRWeUNYxzvOPhXCfQfZNn5w_Jwfk9TukVqbOTSbLfk8nii0mnRptZ1vKcVDMOHfbCv0tsKzvPlTvlwXymLNNi1H2fSB3SvwtwUw4J_yRHckM4Ab0hZZednW)/cloud/3/x9us6y4/s/live-720.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -898,8 +898,6 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
-#EXTINF:0 group-title="-",_
-https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -956,6 +954,8 @@ https://fl1.moveonjoy.com/history_channel/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime
 https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:0 group-title="USA",Lifetime Movie
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",Magnolia
 http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
@@ -1260,11 +1260,11 @@ http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 2
 http://185.207.34.31:8000/play/7056/index.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
-http://gr.seetv.cc/play/6917/1966B8DE7EC6FEE/video.m3u8
+http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
-http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
+http://77.137.40.221:8000/play/a017
 #EXTINF:0 group-title="IL",CH 13 ISR
-http://gr.seetv.cc/play/471/1966B8DE7EC6FEE/video.m3u8
+http://77.137.40.221:8000/play/a018
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
@@ -1484,15 +1484,15 @@ http://213.3.8.156:4022/udp/224.100.6.5:1234
 #EXTINF:0,722
 http://213.3.8.156:4022/udp/224.100.6.6:1234
 #EXTINF:0,723
-http://176.65.146.193:5002/play/a06p/index.m3u8
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0,724
-http://176.65.146.193:5003/play/a07c/index.m3u8
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0,725
-http://176.65.146.193:5003/play/a07d/index.m3u8
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0,726
-http://176.65.146.193:5003/play/a07e/index.m3u8
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0,727
-http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0,728
 http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0,729
@@ -1500,7 +1500,7 @@ http://178.23.88.55/Viasat_3/index.m3u8
 #EXTINF:0,730
 http://37.26.80.138:5252/live/rtsh1ott/playlist.m3u8
 #EXTINF:0,731
-https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/VhYG1bBAxmL8o2oDQj_gPg/master.m3u8
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0,732
 https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/master.m3u8
 #EXTINF:0,733
@@ -1644,12 +1644,13 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.mpd
 #EXTINF:-1 group-title="test",796
 http://51.15.10.229/bigBrotherAlb2/index.m3u8
 #EXTINF:-1 group-title="test",797
-https://5db313b643fd8.streamlock.net/telerent/telerent/master.m3u8
+#EXTVLCOPT:http-user-agent=mpv
+https://stream.syritv.al/stvfolk/index.m3u8
 #EXTINF:-1 group-title="test",798
-http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/543197
+#EXTVLCOPT:http-user-agent=mpv
+https://stream.syritv.al/supersonictv/index.m3u8
 #EXTINF:-1 group-title="test",799
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
