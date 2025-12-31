@@ -212,19 +212,19 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV Live
-http://58.65.205.171:8000/play/a042
-#EXTINF:-1 group-title="Music",MTV Hits
-http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Music",Club MTV
-http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV 80s
-http://88.212.7.14/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV 90s
+#EXTINF:-1 group-title="Music",Music Box Hits
+https://dash2.antik.sk/live/mb_hits/index.m3u8
+#EXTINF:-1 group-title="Music",Music Box Dance
+https://dash4.antik.sk/live/mb_dance/index.m3u8
+#EXTINF:-1 group-title="Music",Music Box Classic
+https://dash4.antik.sk/live/mb_classic/index.m3u
+#EXTINF:-1 group-title="Music",Music Box Sexy
+https://dash4.antik.sk/live/mb_sexy/index.m3u8
+#EXTINF:-1 group-title="-",_
 http://88.212.7.14/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV 00s
+#EXTINF:-1 group-title="-",_
 http://88.212.7.14/live/test_vh1_sd_hevc50/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV Global
+#EXTINF:-1 group-title="-",MTV Global
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -588,8 +588,8 @@ http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
-#EXTINF:0 group-title="Vari",Gambero Rosso
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(EZ3g8i788kRWeUNYxzvOPhXCfQfZNn5w_Jwfk9TukVqbOTSbLfk8nii0mnRptZ1vKcVDMOHfbCv0tsKzvPlTvlwXymLNNi1H2fSB3SvwtwUw4J_yRHckM4Ab0hZZednW)/cloud/3/x9us6y4/s/live-720.m3u8
+#EXTINF:0 group-title="Vari",Prima Free
+https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
 #EXTINF:0 group-title="Vari",Bike Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -619,7 +619,7 @@ https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 #EXTINF:0 group-title="Vari",TCI
-https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
+https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Parole Di Vita
@@ -824,20 +824,20 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 http://176.65.146.100:8026/play/a06j/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat1
 http://176.65.146.100:8025/play/a07i/index.m3u8
-#EXTINF:-1 group-title="Music",MB Hits
-https://dash2.antik.sk/live/mb_hits/index.m3u8
-#EXTINF:-1 group-title="Music",MB Dance
-https://dash4.antik.sk/live/mb_dance/index.m3u8
-#EXTINF:-1 group-title="Music",MB Classic
-https://dash4.antik.sk/live/mb_classic/index.m3u8
+#EXTINF:0 group-title="World",Tunisia Nat2
+http://176.65.146.100:8025/play/a07s/index.m3u8
+#EXTINF:0 group-title="-",_
+http://176.65.146.100:8041/play/a069/index.m3u8
+#EXTINF:0 group-title="Music",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Music",Deluxe Schlager
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:0 group-title="-",400
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1460,11 +1460,11 @@ http://176.65.146.193:5003/play/a07i/index.m3u8
 #EXTINF:0,710
 http://176.65.146.193:5003/play/a07a/index.m3u8
 #EXTINF:0,711
-http://176.65.146.193:5003/play/a07c/index.m3u8
+http://58.65.205.171:8000/play/a06p
 #EXTINF:0,712
-http://176.65.146.193:5003/play/a07d/index.m3u8
+http://58.65.205.171:8000/play/a061
 #EXTINF:0,713
-http://176.65.146.193:5003/play/a07e/index.m3u8
+http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:0,714
 http://213.3.8.156:4022/udp/224.100.2.1:1234
 #EXTINF:0,715
@@ -1654,4 +1654,5 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
