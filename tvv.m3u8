@@ -213,11 +213,11 @@ https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Music Box Hits
-https://dash2.antik.sk/live/mb_hits/index.m3u8
+https://dash4.antik.sk/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
 https://dash4.antik.sk/live/mb_dance/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Classic
-https://dash4.antik.sk/live/mb_classic/index.m3u
+https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 https://dash4.antik.sk/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",_
@@ -1654,5 +1654,6 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
