@@ -551,7 +551,7 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",ProSieben
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
-http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
+http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -1323,8 +1323,6 @@ http://dvr2.kablova.tv/Sport1/index.m3u8
 http://dvr2.kablova.tv/CNN/index.m3u8
 #EXTINF:-1 group-title="EU",MTV EU
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:-1 group-title="EU",MTV 00
-http://dvr1.kablova.tv/VH1/index.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 http://23.88.66.93/ARD/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -1333,6 +1331,8 @@ http://23.88.66.93/ZDF/index.m3u8
 http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",PRO 7 HD
 http://23.88.66.93/Pro7/index.m3u8
+#EXTINF:0 group-title="DE",PRO 7 MAXX
+http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT 1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1 Gold
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
