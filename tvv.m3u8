@@ -828,7 +828,7 @@ http://176.65.146.100:8025/play/a07i/index.m3u8
 http://176.65.146.100:8025/play/a07s/index.m3u8
 #EXTINF:0 group-title="-",_
 http://176.65.146.100:8041/play/a069/index.m3u8
-#EXTINF:0 group-title="Music",Schlager Deluxe
+#EXTINF:0 group-title="Music",_
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
@@ -973,7 +973,7 @@ https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
-https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -1037,7 +1037,7 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:-1 group-title="-",500
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",501
 http://ip1.orgip.net/202/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 group-title="-",502
@@ -1177,8 +1177,8 @@ http://170.82.113.50:8899/play/a0li/index.m3u8
 http://170.82.113.50:8899/play/a0gj/index.m3u8
 #EXTINF:0,group-title="co",ESPN Premium
 http://170.82.113.50:8899/play/a0pq/index.m3u8
-#EXTINF:0 group-title="OO",ESPN 01 SD
-http://200.92.227.238:8000/play/a0o6/index.m3u8
+#EXTINF:0 group-title="OO",_
+http://200.92.227.238:8000/play/a0pt/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 01 HD
 http://200.92.227.238:8000/play/a0tj/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 02 HD
@@ -1191,14 +1191,14 @@ http://200.92.227.238:8000/play/a0ti/index.m3u8
 http://200.92.227.238:8000/play/a0um/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 06 HD
 http://200.92.227.238:8000/play/a0tm/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 01 SD
+http://200.92.227.238:8000/play/a0o6/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 02 SD
 http://200.92.227.238:8000/play/a0o7/index.m3u8
-#EXTINF:0 group-title="OO",MTV Latino
-http://200.92.227.238:8000/play/a0mm/index.m3u8
-#EXTINF:0 group-title="OO",MTV 00s HD
-http://200.92.227.238:8000/play/a0op/index.m3u8
-#EXTINF:0 group-title="OO",MTV SIM HD
-http://200.92.227.238:8000/play/a0oo/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 03 SD
+http://200.92.227.238:8000/play/a0tf/index.m3u8
+#EXTINF:0 group-title="OO",ESPN 04 SD
+http://200.92.227.238:8000/play/a0tg/index.m3u8
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
 #EXTINF:0 group-title="PP",ESPN 2
@@ -1213,10 +1213,10 @@ http://45.173.75.4:2061/play/a01r
 http://45.173.75.4:2061/play/a017
 #EXTINF:0 group-title="PP",ESPN 7
 http://45.173.75.4:2061/play/a016
+#EXTINF:0 group-title="PP",ESPN
+http://45.173.75.4:2061/play/a0b0
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="PP",MTV 00s HD
-http://45.173.75.4:2061/play/a0ax
 #EXTINF:0 group-title="PP",Nick Music
 http://45.173.75.4:2061/play/a07u
 #EXTINF:-1,591
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
