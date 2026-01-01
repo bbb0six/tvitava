@@ -167,9 +167,9 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0 group-title="Vari",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
-#EXTINF:-1 group-title="Music",Deejay TV
+#EXTINF:-1 group-title="GEDI",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Radio Italia TV
+#EXTINF:-1 group-title="Vari",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
@@ -177,7 +177,7 @@ https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Vari",RadioBruno TV
 https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
-#EXTINF:-1 group-title="Vari",Radio Italia Trend
+#EXTINF:-1 group-title="Vari",RadioItalia Live TV
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -190,20 +190,20 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 #EXTINF:-1 group-title="Mediaset",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
+#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA 258
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 group-title="RTL 102.5",RADIO ZETA
+#EXTINF:-1 group-title="RTL 102.5",RADIO ZETA 266
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="RDS",RDS Social TV 265
+https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="GEDI",Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1728000.m3u8
 #EXTINF:-1 group-title="GEDI",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="RDS",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="Mediaset",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual
+#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio 51 TV
@@ -220,9 +220,9 @@ https://dash4.antik.sk/live/mb_dance/index.m3u8
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 https://dash4.antik.sk/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="Music",_
+#EXTINF:-1 group-title="-",MTV Live
 http://58.65.205.171:8000/play/a042
-#EXTINF:-1 group-title="Music",_
+#EXTINF:-1 group-title="-",MTV 2000
 http://58.65.205.171:8000/play/a053
 #EXTINF:-1 group-title="-",MTV Global
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
@@ -433,7 +433,7 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-dash/mezzo.mpd
 #EXTINF:0 group-title="Music",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
 #EXTINF:0 group-title="IT",Video Italia
-https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS/videoitalia.m3u8
 #EXTINF:0 group-title="IT",Canale Italia
 https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="España",TVE INT
@@ -826,8 +826,8 @@ http://176.65.146.100:8026/play/a06j/index.m3u8
 http://176.65.146.100:8025/play/a07i/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat2
 http://176.65.146.100:8025/play/a07s/index.m3u8
-#EXTINF:0 group-title="-",_
-http://176.65.146.100:8041/play/a069/index.m3u8
+#EXTINF:0 group-title="World",1+1 Марафон
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="Music",_
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
@@ -837,7 +837,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="-",400
-https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+http://45.5.117.57:5550/play/a01u
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -876,20 +876,10 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://85.11.144.6:6060/play/a09e/index.m3u8
-#EXTINF:0 group-title="ua",Перший
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:0 group-title="ua",Суспільне Культура
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:0 group-title="ua",Freedom UATV
+#EXTINF:0 group-title="World",Freedom UATV
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="ua",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="ua",1+1 Марафон
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:0 group-title="ps",Palestine
-https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="am",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="am",ARM News
@@ -898,6 +888,8 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="ge",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+#EXTINF:0 group-title="USA",5 STAR MAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -950,6 +942,8 @@ https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",History
 https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:0 group-title="USA",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime
@@ -958,6 +952,8 @@ https://fl1.moveonjoy.com/LIFETIME/index.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",Magnolia
 http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:0 group-title="USA",MAV TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
@@ -990,12 +986,14 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:0 group-title="USA",Babyfirst
+#EXTINF:0 group-title="USA",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:0 group-title="USA",Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
@@ -1028,6 +1026,8 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:0 group-title="USA",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",FOX NEWS
@@ -1251,14 +1251,14 @@ http://185.207.34.31:8000/play/21029/index.m3u8
 http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:0 group-title="BE",VRT 1
 http://185.207.34.31:8000/play/21025/index.m3u8
-#EXTINF:0 group-title="BE",VRT 2
-http://185.207.34.31:8000/play/7056/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 1
 http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 2
 http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0 group-title="PS",Palestine
+https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
@@ -1375,9 +1375,9 @@ http://46.149.191.217:9011/play/a00q
 http://45.87.35.12:7212/stream
 #EXTINF:-1 group-title="-",_
 http://46.149.191.217:9019/play/a01w
-#EXTINF:-1 group-title="-",Nostalgia
+#EXTINF:-1 group-title="RU",Nostalgia
 http://95.66.188.74:80/Nostalgia/mono.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
@@ -1438,7 +1438,7 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:-1,TV7 Triveneta Network
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,700
-http://176.65.146.193:5004/play/a06h/index.m3u8
+http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,701
 http://176.65.146.193:5004/play/a06i/index.m3u8
 #EXTINF:0,702
@@ -1484,7 +1484,7 @@ http://213.3.8.156:4022/udp/224.100.6.5:1234
 #EXTINF:0,722
 http://213.3.8.156:4022/udp/224.100.6.6:1234
 #EXTINF:0,723
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,724
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0,725
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
