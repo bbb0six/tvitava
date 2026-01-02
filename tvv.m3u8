@@ -1464,7 +1464,7 @@ http://58.65.205.171:8000/play/a06p
 #EXTINF:0,712
 http://58.65.205.171:8000/play/a061
 #EXTINF:0,713
-http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
+https://s.xittv.net/irILHzptCG3o0xPpgODLhQ/204/1767408215/index.m3u8
 #EXTINF:0,714
 http://213.3.8.156:4022/udp/224.100.2.1:1234
 #EXTINF:0,715
@@ -1486,13 +1486,13 @@ http://213.3.8.156:4022/udp/224.100.6.6:1234
 #EXTINF:0,723
 http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,724
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:0,725
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0,726
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0,727
-http://23.237.104.106:8080/USA_HLN/index.m3u8
+http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:0,728
 http://88.212.7.14/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0,729
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
