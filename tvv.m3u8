@@ -846,8 +846,6 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0 group-title="i",Rai Italia US
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia LA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia AU
@@ -890,6 +888,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0 group-title="USA",A&E
+http://fl1.moveonjoy.com/ANE/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 group-title="USA",ABC EAST
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
