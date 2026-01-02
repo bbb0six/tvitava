@@ -220,9 +220,9 @@ https://dash4.antik.sk/live/mb_dance/index.m3u8
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 https://dash4.antik.sk/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="-",France 24 FR
+#EXTINF:-1 group-title="News",France 24 FR
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:-1 group-title="-",France 24 EN
+#EXTINF:-1 group-title="News",France 24 EN
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:-1 group-title="-",MTV Global
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
@@ -266,7 +266,7 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:0 group-title="IT",RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0 group-title="IT",RAI NEWS 24
+#EXTINF:0 group-title="News",RAI NEWS 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
@@ -1037,20 +1037,20 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:0,RAI ITALIA
-http://138.121.15.230:9001/RAI/tracks-v1a1/mpegts
+http://138.121.15.230:9001/RAI/tracks-v1a1/index.m3u8
 #EXTINF:0,ESPN 1 ES
-http://138.121.15.230:9001/ESPN/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-2 ES
-http://138.121.15.230:9001/ESPN-2/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-3 ES
-http://138.121.15.230:9001/ESPN-3/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-4 ES
-http://138.121.15.230:9001/ESPN-4/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-5 ES
-http://138.121.15.230:9001/ESPN-5/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-6 ES
-http://138.121.15.230:9001/ESPN-6/tracks-v1a1/mpegts
-#EXTINF:0,ESPN-7 ES
+http://138.121.15.230:9001/ESPN/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 2 ES
+http://138.121.15.230:9001/ESPN-2/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 3 ES
+http://138.121.15.230:9001/ESPN-3/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 4 ES
+http://138.121.15.230:9001/ESPN-4/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 5 ES
+http://138.121.15.230:9001/ESPN-5/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 6 ES
+http://138.121.15.230:9001/ESPN-6/tracks-v1a1/index.m3u8
+#EXTINF:0,ESPN 7 ES
 http://138.121.15.230:9001/ESPN-7/tracks-v1a1/mpegts
 #EXTINF:-1 group-title="-",Eurosport 1
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
