@@ -224,8 +224,8 @@ https://dash4.antik.sk/live/mb_sexy/index.m3u8
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="-",France 24 EN
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 group-title="-",7 Gold
-https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
+#EXTINF:-1 group-title="-",MTV Global
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -962,7 +962,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
-#EXTINF:0 group-title="USA",MTV USA
+#EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
