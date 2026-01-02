@@ -1039,19 +1039,19 @@ https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:0,RAI ITALIA
 http://138.121.15.230:9001/RAI/tracks-v1a1/index.m3u8
 #EXTINF:0,ESPN 1 ES
-http://138.121.15.230:9001/ESPN/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN/index.m3u8
 #EXTINF:0,ESPN 2 ES
-http://138.121.15.230:9001/ESPN-2/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:0,ESPN 3 ES
-http://138.121.15.230:9001/ESPN-3/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN-3/index.m3u8
 #EXTINF:0,ESPN 4 ES
-http://138.121.15.230:9001/ESPN-4/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN-4/index.m3u8
 #EXTINF:0,ESPN 5 ES
-http://138.121.15.230:9001/ESPN-5/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN-5/index.m3u8
 #EXTINF:0,ESPN 6 ES
-http://138.121.15.230:9001/ESPN-6/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/ESPN-6/index.m3u8
 #EXTINF:0,ESPN 7 ES
-http://138.121.15.230:9001/ESPN-7/tracks-v1a1/mpegts
+http://138.121.15.230:9001/ESPN-7/index.m3u8
 #EXTINF:-1 group-title="-",Eurosport 1
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="-",Eurosport 2
@@ -1224,13 +1224,13 @@ http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1,592
 http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:-1,593
-http://99.27.51.147/MTV/index.m3u8
+http://185.207.34.31:8000/play/a01r/index.m3u8
 #EXTINF:-1,594
-http://99.27.51.147/ACTION/index.m3u8
+http://185.207.34.31:8000/play/a01t/index.m3u8
 #EXTINF:-1,595
-http://189.50.210.3:8008/play/a06t/index.m3u8
+http://185.207.34.31:8000/play/a00l/index.m3u8
 #EXTINF:0,596
-http://85.11.144.9:50999/48
+http://185.207.34.31:8000/play/21229/index.m3u8
 #EXTINF:0,597
 http://185.207.34.31:8000/play/a00u/index.m3u8
 #EXTINF:0,598
@@ -1654,6 +1654,7 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
 
 
 
