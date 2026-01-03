@@ -21,7 +21,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:0 group-title="Sky IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
+https://uvotv.zappr.stream/269.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:0 group-title="News",Euronews IT
@@ -123,7 +123,7 @@ https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Sky IT",Sky TG24
-https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
+https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="Mediaset",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
@@ -253,7 +253,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
-https://uvotv.zappr.stream/269.m3u8
+https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:0 group-title="IT",NOVE
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -1037,7 +1037,7 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
 #EXTINF:0,RAI ITALIA
-http://138.121.15.230:9001/RAI/tracks-v1a1/index.m3u8
+http://138.121.15.230:9001/RAI/index.m3u8
 #EXTINF:0,ESPN 1 ES
 http://138.121.15.230:9001/ESPN/index.m3u8
 #EXTINF:0,ESPN 2 ES
@@ -1177,7 +1177,7 @@ http://170.82.113.50:8899/play/a0li/index.m3u8
 http://170.82.113.50:8899/play/a0gj/index.m3u8
 #EXTINF:0,group-title="co",ESPN Premium
 http://170.82.113.50:8899/play/a0pq/index.m3u8
-#EXTINF:0 group-title="OO",_
+#EXTINF:0 group-title="OO",ESPN 03 
 http://200.92.227.238:8000/play/a0pt/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 01 HD
 http://200.92.227.238:8000/play/a0tj/index.m3u8
@@ -1215,13 +1215,13 @@ http://45.173.75.4:2061/play/a017
 http://45.173.75.4:2061/play/a016
 #EXTINF:0 group-title="PP",ESPN
 http://45.173.75.4:2061/play/a0b0
+#EXTINF:0 group-title="PP",America Noticias
+http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="PP",590
-http://45.173.75.4:2061/play/a0ax
-#EXTINF:-1,591
+#EXTINF:0 group-title="Adria",Eurosport 1
 http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:-1,592
+#EXTINF:0 group-title="Adria",Eurosport 2
 http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:-1,593
 http://185.207.34.31:8000/play/a01r/index.m3u8
@@ -1337,16 +1337,16 @@ http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1 Gold
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:0 group-title="FR",RTL9
+#EXTINF:0 group-title="FR",_
 http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:0 group-title="FR",Histoire
+#EXTINF:0 group-title="FR",_
 http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:0 group-title="FR",Nat Geo FR
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:0 group-title="FR",_
+http://45.90.106.7:9790/play/QmU5097K3@B4X
 #EXTINF:0 group-title="FR",MTV FR
 http://45.90.106.7:9790/play/SUn4207H6@T5B
-#EXTINF:0 group-title="FR",MTV Hits FR
-http://45.90.106.7:9790/play/QmU5097K3@B4X
+#EXTINF:0 group-title="FR",Trace Urban
+http://45.90.106.7:9790/play/JtS1098K5@T4V
 #EXTINF:0 group-title="FR",M6 Music
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="PL",Eska TV
@@ -1654,17 +1654,3 @@ https://stream.syritv.al/supersonictv/index.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
