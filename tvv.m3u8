@@ -145,7 +145,7 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
-#EXTINF:-1 group-title="Discovery IT",Motor Trend
+#EXTINF:-1 group-title="Discovery IT",Turbo
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
 https://jmp2.uk/stvp-ITBA2200010O1
@@ -224,8 +224,9 @@ https://dash4.antik.sk/live/mb_sexy/index.m3u8
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="News",France 24 EN
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 group-title="-",_
-https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -504,12 +505,12 @@ http://92.118.251.84:8080/Eurosport1/index.m3u8
 http://92.118.251.84:8080/Eurosport2/index.m3u8
 #EXTINF:0 group-title="España",SYFY ES
 http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:0 group-title="España",Star TVE
-http://200.125.170.122:8000/play/a037
 #EXTINF:0 group-title="España",MTV España
 http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:0 group-title="FR",MTV France
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0 group-title="España",Star TVE
+http://200.125.170.122:8000/play/a037
+#EXTINF:0 group-title="DE",Arte
+https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
@@ -1128,11 +1129,11 @@ http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 group-title="-",544
 http://179.60.51.134:8888/ESPN4/index.m3u8
 #EXTINF:-1 group-title="-",545
-http://85.11.144.9:50999/21
-#EXTINF:-1 group-title="-",546
 http://85.11.144.9:50999/24
-#EXTINF:-1 group-title="-",547
+#EXTINF:-1 group-title="-",546
 http://85.11.144.9:50999/25
+#EXTINF:-1 group-title="-",547
+http://157.143.44.195/play/a0f3
 #EXTINF:0,548
 http://95.216.97.235:7777/ITV1
 #EXTINF:0,549
@@ -1439,61 +1440,61 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:-1,TV7 Triveneta Network
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,700
-http://xxip9.top:8080/S58GAg/735104/212900
+http://157.143.44.195/play/a0df
 #EXTINF:0,701
-http://xxip9.top:8080/S58GAg/735104/212895
+http://157.143.44.195/play/a04k
 #EXTINF:0,702
-http://xxip9.top:8080/S58GAg/735104/212896
+http://157.143.44.195/play/a04l
 #EXTINF:0,703
-http://xxip9.top:8080/S58GAg/735104/212897
+http://157.143.44.195/play/a040
 #EXTINF:0,704
-http://xxip9.top:8080/S58GAg/735104/212920
+http://157.143.44.195/play/a092
 #EXTINF:0,705
-http://xxip9.top:8080/S58GAg/735104/212903
+http://157.143.44.195/play/a093
 #EXTINF:0,706
-http://xxip9.top:8080/S58GAg/735104/53651
+http://157.143.44.195/play/a091
 #EXTINF:0,707
-http://xxip9.top:8080/S58GAg/735104/164792
+http://157.143.44.195/play/a094
 #EXTINF:0,708
-http://85.11.144.9:50999/48
+http://157.143.44.195/play/a0eg
 #EXTINF:0,709
-http://58.65.205.171:8000/play/a042
+http://157.143.44.195/play/a0da
 #EXTINF:0,710
-http://58.65.205.171:8000/play/a053
+http://157.143.44.195/play/a0f3
 #EXTINF:0,711
-http://58.65.205.171:8000/play/a06p
+http://157.143.44.195/play/a01k
 #EXTINF:0,712
-http://58.65.205.171:8000/play/a061
+http://157.143.44.195/play/a02m
 #EXTINF:0,713
-http://58.65.205.171:8000/play/a064
+http://157.143.44.195/play/a01h
 #EXTINF:0,714
-http://213.3.8.156:4022/udp/224.100.2.1:1234
+http://157.143.44.195/play/a01j
 #EXTINF:0,715
-http://213.3.8.156:4022/udp/224.100.2.2:1234
+http://157.143.44.195/play/a01e
 #EXTINF:0,716
-http://213.3.8.156:4022/udp/224.100.2.3:1234
+http://157.143.44.195/play/a01f
 #EXTINF:0,717
-http://213.3.8.156:4022/udp/224.100.6.1:1234
+http://157.143.44.195/play/a01g
 #EXTINF:0,718
-http://213.3.8.156:4022/udp/224.100.6.2:1234
+http://157.143.44.195/play/a0d8
 #EXTINF:0,719
-http://213.3.8.156:4022/udp/224.100.6.3:1234
+http://157.143.44.195/play/a0d9
 #EXTINF:0,720
-http://213.3.8.156:4022/udp/224.100.6.4:1234
+http://157.143.44.195/play/a0cx
 #EXTINF:0,721
-http://213.3.8.156:4022/udp/224.100.6.5:1234
+http://157.143.44.195/play/a0dh
 #EXTINF:0,722
-http://213.3.8.156:4022/udp/224.100.6.6:1234
+http://157.143.44.195/play/a0ct
 #EXTINF:0,723
-http://99.27.51.147/LCP/index.m3u8
+http://157.143.44.195/play/a076
 #EXTINF:0,724
-http://99.27.51.147/TMC/index.m3u8
+http://157.143.44.195/play/a0dl
 #EXTINF:0,725
-http://99.27.51.147/MTV/index.m3u8
+http://157.143.44.195/play/a0dj
 #EXTINF:0,726
 http://99.27.51.147/ACTION/index.m3u8
 #EXTINF:0,727
-http://88.212.7.14/live/test_mtv_hits_1200_atk/playlist.m3u8
+http://99.27.51.147/LCP/index.m3u8
 #EXTINF:0,728
 http://176.65.146.193:5003/play/a078/index.m3u8
 #EXTINF:0,729
