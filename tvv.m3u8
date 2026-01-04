@@ -226,7 +226,7 @@ https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:0 group-title="-",_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest_hr.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1656,3 +1656,4 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
+
