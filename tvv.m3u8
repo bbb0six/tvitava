@@ -224,7 +224,7 @@ https://dash4.antik.sk/live/mb_sexy/index.m3u8
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="News",France 24 EN
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="-",Rai Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://67.220.85.156:14573
 #EXTINF:0 group-title="Mediaset",GF Live 1
@@ -393,12 +393,12 @@ https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/master.m3u8
 #EXTINF:0 group-title="Regionali",Tele A
 https://lostream.it/hls/telea/video.m3u8
-#EXTINF:0 group-title="Regionali",R55 Varese
-https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Tele Costa Smeralda
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:0 group-title="Regionali",TeleSardegna
+https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
@@ -587,12 +587,12 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="Vari",Diciotto
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="Vari",Bergamo TV
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Prima Free
 https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
-#EXTINF:0 group-title="Vari",Bike Channel
-https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Sport Outdoor TV
@@ -607,12 +607,12 @@ https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0 group-title="Vari",Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="Vari",Bergamo TV
-https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Vari",Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/master.m3u8
-#EXTINF:0 group-title="Vari",Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:0 group-title="Vari",RTTR
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:0 group-title="Vari",TV33
+https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/index.m3u8
 #EXTINF:0 group-title="Vari",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",Orler TV
@@ -631,8 +631,8 @@ https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.is
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:0 group-title="Vari",TeleSardegna
-https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
+#EXTINF:0 group-title="Vari",Umbria TV
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:0 group-title="Vari",RTV38
 https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist.m3u8
 #EXTINF:0 group-title="Vari",Uninettuno TV
@@ -839,7 +839,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="-",400
-http://45.5.117.57:5550/play/a01u
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1226,7 +1226,7 @@ http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0 group-title="Adria",Eurosport 2
 http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:-1,593
-http://185.207.34.31:8000/play/a01r/index.m3u8
+http://45.5.117.57:5550/play/a01u
 #EXTINF:-1,594
 http://185.207.34.31:8000/play/a01t/index.m3u8
 #EXTINF:-1,595
@@ -1440,7 +1440,7 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:-1,TV7 Triveneta Network
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,700
-http://157.143.44.195/play/a0df
+http://157.143.44.195/play/a0eh
 #EXTINF:0,701
 http://157.143.44.195/play/a04k
 #EXTINF:0,702
@@ -1476,7 +1476,7 @@ http://157.143.44.195/play/a01f
 #EXTINF:0,717
 http://157.143.44.195/play/a01g
 #EXTINF:0,718
-http://157.143.44.195/play/a0do
+http://157.143.44.195/play/a0dn
 #EXTINF:0,719
 http://157.143.44.195/play/a0d9
 #EXTINF:0,720
@@ -1484,7 +1484,7 @@ http://157.143.44.195/play/a0cx
 #EXTINF:0,721
 http://157.143.44.195/play/a0dh
 #EXTINF:0,722
-http://157.143.44.195/play/a0ct
+http://157.143.44.195/play/a0e4
 #EXTINF:0,723
 http://157.143.44.195/play/a076
 #EXTINF:0,724
@@ -1502,21 +1502,21 @@ http://157.143.44.195/play/a0e9
 #EXTINF:0,730
 http://157.143.44.195/play/a0d8
 #EXTINF:0,731
-https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+http://157.143.44.195/play/a0do
 #EXTINF:0,732
-https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+http://157.143.44.195/play/a0e0
 #EXTINF:0,733
-http://95.107.132.40:85/m3u8/vizion.m3u8
+http://157.143.44.195/play/a0ec
 #EXTINF:0,734
-http://88.212.7.14/live/ct24_avc_25p/playlist.m3u8
+http://157.143.44.195/play/a0d4
 #EXTINF:0,735
-http://88.212.7.14/live/test_ruzinov/playlist.m3u8
+http://157.143.44.195/play/a0d5
 #EXTINF:0,736
-http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
+http://157.143.44.195/play/a0fa
 #EXTINF:0,737
 http://88.212.7.14/live/test_tv7/playlist.m3u8
 #EXTINF:0,738
-http://88.212.7.14/live/test_osem/playlist.m3u8
+http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:0,739
 http://88.212.7.14/live/test_tv9/playlist.m3u8
 #EXTINF:0,740
@@ -1600,7 +1600,7 @@ http://99.27.51.147/ACTION/index.m3u8
 #EXTINF:0,779
 http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,780
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+http://178.23.88.55/Viasat_3/index.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1642,18 +1642,16 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",794
 https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/master.m3u8
 #EXTINF:-1 group-title="test",795
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+http://88.212.7.14/live/test_ruzinov/playlist.m3u8
 #EXTINF:-1 group-title="test",796
-#EXTVLCOPT:http-user-agent=mpv
-http://178.23.88.55/Viasat_3/index.m3u8
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 group-title="test",797
 #EXTVLCOPT:http-user-agent=mpv
-http://157.143.44.195/play/a0eh
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="test",798
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="test",799
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
-
