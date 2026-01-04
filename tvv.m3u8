@@ -190,11 +190,11 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 #EXTINF:-1 group-title="Mediaset",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA 258
+#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 group-title="RTL 102.5",RADIO ZETA 266
+#EXTINF:-1 group-title="RTL 102.5",RADIOZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 group-title="RDS",RDS Social TV 265
+#EXTINF:-1 group-title="RDS",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="Music",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1728000.m3u8
@@ -619,14 +619,14 @@ https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Serie A TV
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:0 group-title="Vari",TCI
-https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Parole Di Vita
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 #EXTINF:0 group-title="Vari",Medjugorje TV Italia
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:0 group-title="Vari",TCI
+https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Fano TV
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
@@ -753,10 +753,10 @@ https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",4+ CH
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="CH",TVM3 CH
-https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
-#EXTINF:0 group-title="Music",MuzTV RU
-http://178.124.179.122:8080/MuzTV/index.m3u8
+#EXTINF:0 group-title="CH",5+ CH
+http://157.143.44.195/play/a01n
+#EXTINF:0 group-title="CH",6+ RU
+http://157.143.44.195/play/a07f
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
@@ -829,9 +829,9 @@ http://176.65.146.100:8025/play/a07i/index.m3u8
 http://176.65.146.100:8025/play/a07s/index.m3u8
 #EXTINF:0 group-title="World",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:0 group-title="Music",Schlager Deluxe
+#EXTINF:0 group-title="Music",MuzTV RU
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -1476,7 +1476,7 @@ http://157.143.44.195/play/a01f
 #EXTINF:0,717
 http://157.143.44.195/play/a01g
 #EXTINF:0,718
-http://157.143.44.195/play/a0d8
+http://157.143.44.195/play/a0do
 #EXTINF:0,719
 http://157.143.44.195/play/a0d9
 #EXTINF:0,720
@@ -1492,19 +1492,19 @@ http://157.143.44.195/play/a0dl
 #EXTINF:0,725
 http://157.143.44.195/play/a0dj
 #EXTINF:0,726
-http://99.27.51.147/ACTION/index.m3u8
+http://157.143.44.195/play/a0ct
 #EXTINF:0,727
-http://99.27.51.147/LCP/index.m3u8
+http://157.143.44.195/play/a0eb
 #EXTINF:0,728
-http://176.65.146.193:5003/play/a078/index.m3u8
+http://157.143.44.195/play/a0ch
 #EXTINF:0,729
-http://178.23.88.55/Viasat_3/index.m3u8
+http://157.143.44.195/play/a0e9
 #EXTINF:0,730
-http://37.26.80.138:5252/live/rtsh1ott/playlist.m3u8
+http://157.143.44.195/play/a0d8
 #EXTINF:0,731
-http://92.118.251.84:8080/LA1HD/index.m3u8
+https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0,732
-https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/master.m3u8
+https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0,733
 http://95.107.132.40:85/m3u8/vizion.m3u8
 #EXTINF:0,734
@@ -1596,11 +1596,11 @@ http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0,777
 http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:0,778
-https://dash3.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+http://99.27.51.147/ACTION/index.m3u8
 #EXTINF:0,779
-https://dash2.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,780
-https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1640,15 +1640,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTINF:-1 group-title="test",793
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",794
-https://uvotv.zappr.stream/530.m3u8
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/master.m3u8
 #EXTINF:-1 group-title="test",795
-http://51.15.10.229/bigBrotherAlb2/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="test",796
 #EXTVLCOPT:http-user-agent=mpv
-https://stream.syritv.al/stvfolk/index.m3u8
+http://178.23.88.55/Viasat_3/index.m3u8
 #EXTINF:-1 group-title="test",797
 #EXTVLCOPT:http-user-agent=mpv
-https://stream.syritv.al/supersonictv/index.m3u8
+http://157.143.44.195/play/a0eh
 #EXTINF:-1 group-title="test",798
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
@@ -1656,5 +1656,3 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
-
-
