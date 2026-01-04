@@ -755,7 +755,7 @@ http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
 http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="CH",5+ CH
 http://157.143.44.195/play/a01n
-#EXTINF:0 group-title="CH",6+ RU
+#EXTINF:0 group-title="CH",6+ CH
 http://157.143.44.195/play/a07f
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
@@ -1656,3 +1656,4 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
+
