@@ -224,9 +224,9 @@ https://dash4.antik.sk/live/mb_sexy/index.m3u8
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 group-title="News",France 24 EN
 https://dash4.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:0 group-title="-",Rai Italia
+#EXTINF:0 group-title="-",_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://67.220.85.156:14573
+http://45.230.199.108:8000/play/a04m/index.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -839,7 +839,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="-",400
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1440,7 +1440,7 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:-1,TV7 Triveneta Network
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,700
-http://157.143.44.195/play/a0eh
+http://157.143.44.195/play/a0f3
 #EXTINF:0,701
 http://157.143.44.195/play/a04k
 #EXTINF:0,702
@@ -1460,21 +1460,21 @@ http://157.143.44.195/play/a0eg
 #EXTINF:0,709
 http://157.143.44.195/play/a0da
 #EXTINF:0,710
-http://157.143.44.195/play/a0f3
+http://157.143.44.195/play/a0dd
 #EXTINF:0,711
 http://157.143.44.195/play/a01k
 #EXTINF:0,712
 http://157.143.44.195/play/a02m
 #EXTINF:0,713
-http://157.143.44.195/play/a01h
+http://157.143.44.195/play/a041
 #EXTINF:0,714
-http://157.143.44.195/play/a01j
+http://157.143.44.195/play/a0f6
 #EXTINF:0,715
-http://157.143.44.195/play/a01e
+http://157.143.44.195/play/a0dm
 #EXTINF:0,716
-http://157.143.44.195/play/a01f
+http://157.143.44.195/play/a0eh
 #EXTINF:0,717
-http://157.143.44.195/play/a01g
+http://157.143.44.195/play/a0f1
 #EXTINF:0,718
 http://157.143.44.195/play/a0dn
 #EXTINF:0,719
