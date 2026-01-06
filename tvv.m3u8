@@ -1590,7 +1590,7 @@ http://58.65.205.171:8000/play/a064
 #EXTINF:0,774
 http://185.18.56.26:8888/axn/index.m3u8
 #EXTINF:0,775
-http://176.116.105.82/MTV_00s/index.m3u8
+http://178.23.88.55/Viasat_3/index.m3u8
 #EXTINF:0,776
 http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0,777
@@ -1600,7 +1600,7 @@ http://99.27.51.147/ACTION/index.m3u8
 #EXTINF:0,779
 http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0,780
-http://178.23.88.55/Viasat_3/index.m3u8
+http://179.1.146.22:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
