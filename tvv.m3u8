@@ -1580,15 +1580,15 @@ http://thksmom.shop/NL_NPO2/index.m3u8
 #EXTINF:0,769
 http://thksmom.shop/TR_TRT1FHDTR/index.m3u8
 #EXTINF:0,770
-http://185.18.56.26:8888/axn/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:0,771
-http://176.116.105.82/MTV_Hits/index.m3u8
+http://58.65.205.171:8000/play/a042
 #EXTINF:0,772
-http://176.116.105.82/clubMTV/index.m3u8
+http://58.65.205.171:8000/play/a053
 #EXTINF:0,773
-http://176.116.105.82/MTV80s/index.m3u8
+http://58.65.205.171:8000/play/a064
 #EXTINF:0,774
-http://176.116.105.82/MTV_90s/index.m3u8
+http://185.18.56.26:8888/axn/index.m3u8
 #EXTINF:0,775
 http://176.116.105.82/MTV_00s/index.m3u8
 #EXTINF:0,776
@@ -1634,7 +1634,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="test",Rai Sport dvr
+#EXTINF:-1 group-title="test",792
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="test",793
