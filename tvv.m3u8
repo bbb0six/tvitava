@@ -220,12 +220,12 @@ https://dash4.antik.sk/live/mb_dance/index.m3u8
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 https://dash4.antik.sk/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="-",TRS
-http://157.143.44.195/play/a0d7
-#EXTINF:-1 group-title="-",Telelombardia
-http://157.143.44.195/play/a0de
+#EXTINF:-1 group-title="-",Antenna 2
+http://157.143.44.195/play/a0cy
 #EXTINF:-1 group-title="-",Antenna 3
 http://157.143.44.195/play/a0d0
+#EXTINF:-1 group-title="-",Telelombardia
+http://157.143.44.195/play/a0de
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1654,3 +1654,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
+
