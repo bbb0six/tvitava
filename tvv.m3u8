@@ -439,45 +439,45 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="España",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="España",La 1 HD
-http://185.157.184.11:6001/play/La1HD
+http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0 group-title="España",La 2 HD
-http://185.157.184.11:6001/play/La2HD
+http://176.65.146.237:8401/play/a098
 #EXTINF:0 group-title="España",Antena 3
-http://185.157.184.11:6001/play/ANTENA3HD
+http://92.118.251.84:8080/Antena3/index.m3u8
 #EXTINF:0 group-title="España",Cuatro
-http://185.157.184.11:6001/play/cuatroHD
+http://176.65.146.237:8401/play/a09s
 #EXTINF:0 group-title="España",Telecinco
-http://185.157.184.11:6001/play/TELECINCOHD
+http://176.65.146.237:8401/play/a09r
 #EXTINF:0 group-title="España",laSexta
-http://185.157.184.11:6001/play/laSextaHD
+http://176.65.146.237:8401/play/a0af
 #EXTINF:0 group-title="España",24h
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0 group-title="España",8 Madrid
 http://185.157.184.11:6001/play/8madridTVHD
 #EXTINF:0 group-title="España",FDF
-http://185.157.184.11:6001/play/FDFHD
+http://92.118.251.84:8080/FDF/index.m3u8
 #EXTINF:0 group-title="España",Mega
-http://185.157.184.11:6001/play/MEGAHD
+http://176.65.146.237:8401/play/a0a5
 #EXTINF:0 group-title="España",Neox
-http://185.157.184.11:6001/play/neoxHD
+http://176.65.146.237:8401/play/a0ag
 #EXTINF:0 group-title="España",Nova
-http://185.157.184.11:6001/play/novaHD
+http://176.65.146.237:8401/play/a0ah
 #EXTINF:0 group-title="España",BOM Cine
-http://185.157.184.11:6001/play/BOMCINEHD
+http://92.118.251.84:8080/BOM/index.m3u8
 #EXTINF:0 group-title="España",Energy
-http://185.157.184.11:6001/play/EnergyHD
+http://176.65.146.237:8401/play/a0ac
 #EXTINF:0 group-title="España",Divinity
-http://185.157.184.11:6001/play/divinityHD
+http://92.118.251.84:8080/DIVINITY/index.m3u8
 #EXTINF:0 group-title="España",DKISS
-http://185.157.184.11:6001/play/DKISSHD
+http://176.65.146.237:8401/play/a09y
 #EXTINF:0 group-title="España",Clan
-http://185.157.184.11:6001/play/clanHD
+http://176.65.146.237:8401/play/a09t
 #EXTINF:0 group-title="España",Squirrel
-http://185.157.184.11:6001/play/DisneyCHANNELHD
+http://92.118.251.84:8080/DisneyChannel/index.m3u8
 #EXTINF:0 group-title="España",Squirrel Dos
-http://185.157.184.11:6001/play/ParamountNETWORKHD
+http://92.118.251.84:8080/ParamountNetwork/index.m3u8
 #EXTINF:0 group-title="España",TEN
-http://185.157.184.11:6001/play/teNHD
+http://92.118.251.84:8080/ten/index.m3u8
 #EXTINF:0 group-title="España",TV3
 http://185.157.184.11:6001/play/TV3HD
 #EXTINF:0 group-title="España",TV3 CAT
@@ -487,13 +487,13 @@ http://185.157.184.11:6001/play/TeleMadridHD
 #EXTINF:0 group-title="España",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="España",Trece
-http://185.157.184.11:6001/play/TRECEHD
-#EXTINF:0 group-title="España",A3Series
-http://185.157.184.11:6001/play/ATRESERIESHD
+http://176.65.146.237:8401/play/a0a9
+#EXTINF:0 group-title="España",a3series
+http://92.118.251.84:8080/a3series/index.m3u8
 #EXTINF:0 group-title="España",DMAX ES
-http://185.157.184.11:6001/play/DMAXHD
+http://176.65.146.237:8401/play/a09j
 #EXTINF:0 group-title="España",BeMad tv HD
-http://185.157.184.11:6001/play/BEMADTVHD
+http://176.65.146.237:8401/play/a0aj
 #EXTINF:0 group-title="España",tdp HD
 http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
@@ -1654,4 +1654,3 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
-
