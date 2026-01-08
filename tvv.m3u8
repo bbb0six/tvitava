@@ -1587,19 +1587,19 @@ http://58.65.205.171:8000/play/a053
 #EXTINF:0,773
 http://58.65.205.171:8000/play/a064
 #EXTINF:0,774
-http://185.18.56.26:8888/axn/index.m3u8
+http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0,775
-http://178.23.88.55/Viasat_3/index.m3u8
+http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:0,776
 https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:0,777
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0,778
-http://176.116.105.82/Deluxe_Music/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,779
-http://176.116.105.82/MTV_Europe/index.m3u8
+https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
-http://179.1.146.22:8000/play/a0kn/index.m3u8
+https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
 #EXTINF:-1 group-title="test",Rai 1 dvr
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -1642,7 +1642,7 @@ http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 #EXTINF:0 group-title="test",Sat1 Gold
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:-1 group-title="test",796
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+http://179.1.146.22:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="test",797
 #EXTVLCOPT:http-user-agent=mpv
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
