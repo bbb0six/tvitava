@@ -438,11 +438,11 @@ https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mp
 https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="España",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0 group-title="España",La 1 HD
+#EXTINF:0 group-title="España",La 1
 http://92.118.251.84:8080/LA1HD/index.m3u8
-#EXTINF:0 group-title="España",La 2 HD
+#EXTINF:0 group-title="España",La 2
 http://176.65.146.237:8401/play/a098
-#EXTINF:0 group-title="España",Antena 3
+#EXTINF:0 group-title="España",Antena3
 http://92.118.251.84:8080/Antena3/index.m3u8
 #EXTINF:0 group-title="España",Cuatro
 http://176.65.146.237:8401/play/a09s
@@ -452,52 +452,52 @@ http://176.65.146.237:8401/play/a09r
 http://176.65.146.237:8401/play/a0af
 #EXTINF:0 group-title="España",24h
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
-#EXTINF:0 group-title="España",8 Madrid
-http://185.157.184.11:6001/play/8madridTVHD
 #EXTINF:0 group-title="España",FDF
 http://92.118.251.84:8080/FDF/index.m3u8
+#EXTINF:0 group-title="España",TDP
+http://92.118.251.84:8080/tdp/index.m3u8
+#EXTINF:0 group-title="España",TEN
+http://92.118.251.84:8080/ten/index.m3u8
 #EXTINF:0 group-title="España",Mega
 http://176.65.146.237:8401/play/a0a5
 #EXTINF:0 group-title="España",Neox
 http://176.65.146.237:8401/play/a0ag
 #EXTINF:0 group-title="España",Nova
 http://176.65.146.237:8401/play/a0ah
-#EXTINF:0 group-title="España",BOM Cine
-http://92.118.251.84:8080/BOM/index.m3u8
 #EXTINF:0 group-title="España",Energy
 http://176.65.146.237:8401/play/a0ac
 #EXTINF:0 group-title="España",Divinity
 http://92.118.251.84:8080/DIVINITY/index.m3u8
-#EXTINF:0 group-title="España",DKISS
-http://176.65.146.237:8401/play/a09y
-#EXTINF:0 group-title="España",Clan
-http://176.65.146.237:8401/play/a09t
+#EXTINF:0 group-title="España",BOM Cine
+http://92.118.251.84:8080/BOM/index.m3u8
 #EXTINF:0 group-title="España",Squirrel
 http://92.118.251.84:8080/DisneyChannel/index.m3u8
 #EXTINF:0 group-title="España",Squirrel Dos
 http://92.118.251.84:8080/ParamountNetwork/index.m3u8
-#EXTINF:0 group-title="España",TEN
-http://92.118.251.84:8080/ten/index.m3u8
-#EXTINF:0 group-title="España",TV3
-http://185.157.184.11:6001/play/TV3HD
-#EXTINF:0 group-title="España",TV3 CAT
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0 group-title="España",TeleMadrid
-http://185.157.184.11:6001/play/TeleMadridHD
-#EXTINF:0 group-title="España",Aragon TV
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0 group-title="España",Trece
-http://176.65.146.237:8401/play/a0a9
 #EXTINF:0 group-title="España",a3series
 http://92.118.251.84:8080/a3series/index.m3u8
-#EXTINF:0 group-title="España",DMAX ES
-http://176.65.146.237:8401/play/a09j
-#EXTINF:0 group-title="España",BeMad tv HD
-http://176.65.146.237:8401/play/a0aj
-#EXTINF:0 group-title="España",tdp HD
-http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0 group-title="España",Boing ES
 http://92.118.251.84:8080/BOING/index.m3u8
+#EXTINF:0 group-title="España",TV3
+http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/78
+#EXTINF:0 group-title="España",TV3 CAT
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 group-title="España",Aragon TV
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:0 group-title="España",TeleMadrid
+http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/79
+#EXTINF:0 group-title="España",Calle 13
+http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/23
+#EXTINF:0 group-title="España",Trece
+http://176.65.146.237:8401/play/a0a9
+#EXTINF:0 group-title="España",DKISS
+http://176.65.146.237:8401/play/a09y
+#EXTINF:0 group-title="España",Clan
+http://176.65.146.237:8401/play/a09t
+#EXTINF:0 group-title="España",BeMad tv HD
+http://176.65.146.237:8401/play/a0aj
+#EXTINF:0 group-title="España",DMAX ES
+http://176.65.146.237:8401/play/a09j
 #EXTINF:0 group-title="España",Eurosport 1 ES
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 2 ES
@@ -1352,30 +1352,30 @@ http://45.90.106.7:9790/play/SUn4207H6@T5B
 http://45.90.106.7:9790/play/JtS1098K5@T4V
 #EXTINF:0 group-title="FR",M6 Music
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
-#EXTINF:-1 group-title="PL",Eska TV
-http://45.87.35.12:7004/stream
-#EXTINF:-1 group-title="PL",Eska TV Extra
-http://45.87.35.12:7046/stream
-#EXTINF:-1 group-title="PL",Eska Rock TV
-http://45.87.35.12:7048/stream
-#EXTINF:-1 group-title="PL",MTV PL
+#EXTINF:-1 group-title="-",_
+http://xworld-blue.com:25461/play/lyscH2oum_-PVo-yOQaHsMcNF6WGAtFaQwvEtNH4NlPa8NkSV10eT9u5atVMwzoR/ts
+#EXTINF:-1 group-title="-",_
+http://xworld-blue.com:25461/play/lyscH2oum_-PVo-yOQaHsMcNF6WGAtFaQwvEtNH4NlPhspunIB4xps68oJurRhrD/ts
+#EXTINF:-1 group-title="-",_
+http://xworld-blue.com:25461/play/lyscH2oum_-PVo-yOQaHsMcNF6WGAtFaQwvEtNH4NlMPtIlM23tNRqiy2QSM3IFh/ts
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7209/stream
-#EXTINF:-1 group-title="PL",TVP 1
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7001/stream
-#EXTINF:-1 group-title="PL",TVP 2
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7002/stream
-#EXTINF:-1 group-title="PL",TVP 3 Warszawa
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7215/stream
-#EXTINF:-1 group-title="PL",TVP 3 Gdańsk
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7216/stream
-#EXTINF:-1 group-title="PL",TVP 3 Szczecin
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7217/stream
-#EXTINF:-1 group-title="PL",TVP 3 Poznań
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7218/stream
-#EXTINF:-1 group-title="PL",TVP 3 Białystok
+#EXTINF:-1 group-title="-",_
 http://45.87.35.12:7219/stream
-#EXTINF:-1 group-title="PL",TVP 3 Olsztyn
-http://45.87.35.12:7220/stream
+#EXTINF:-1 group-title="-",_
+http://92.118.251.84:8080/stv/index.m3u8
 #EXTINF:-1 group-title="RU",Nostalgia
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1 group-title="RU",ТВ7
@@ -1653,3 +1653,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="test",800
 http://46.149.191.217:9011/play/a00q
+
