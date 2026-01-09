@@ -109,8 +109,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="Mediaset",Boing Plus
-https://uvotv.zappr.stream/101.m3u8
+#EXTINF:-1 group-title="-",_
+http://157.143.44.195/play/a0d7
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -837,7 +837,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="-",400
+#EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
@@ -1365,11 +1365,11 @@ http://45.87.35.12:7001/stream
 #EXTINF:-1 group-title="-",_
 http://45.87.35.12:7002/stream
 #EXTINF:-1 group-title="-",_
-http://45.87.35.12:7215/stream
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="-",_
-http://45.87.35.12:7216/stream
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="-",_
-http://45.87.35.12:7217/stream
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="-",_
 http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:-1 group-title="-",_
@@ -1595,7 +1595,7 @@ https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:0,777
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0,778
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:0,779
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
