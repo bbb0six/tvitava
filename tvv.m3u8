@@ -253,7 +253,7 @@ https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
-https://uvotv.zappr.stream/269.m3u8
+http://157.143.44.195/play/a0eg
 #EXTINF:0 group-title="IT",NOVE
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -268,14 +268,14 @@ https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0 group-title="News",RAI NEWS 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:0 group-title="News",SKY TG24 IT
-https://uvotv.zappr.stream/293.m3u8
+#EXTINF:0 group-title="News",BBC NEWS
+https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 group-title="News",SKY NEWS
-http://88.212.7.14/live/test_skynews/playlist.m3u8
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN International
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 #EXTINF:0 group-title="News",Euronews EN
-http://88.212.7.14/live/test_euronews/playlist.m3u8
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
 #EXTINF:0 group-title="FR",TF1
@@ -326,7 +326,7 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 #EXTINF:0 group-title="FR",RMC Decouverte
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
-#EXTINF:0 group-title="FR",Cherie 25
+#EXTINF:0 group-title="FR",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
 #EXTINF:0 group-title="UK",BBC World News
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
@@ -1363,13 +1363,13 @@ http://45.87.35.12:7209/stream
 #EXTINF:-1 group-title="-",_
 http://45.87.35.12:7001/stream
 #EXTINF:-1 group-title="-",_
-http://45.87.35.12:7002/stream
+http://157.143.44.195/play/a0f5
+#EXTINF:-1 group-title="-",_
+http://46.149.191.217:9011/play/a00q
 #EXTINF:-1 group-title="-",_
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="-",_
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="-",_
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://nocable.cc:8080/5467546/3648794/212903
 #EXTINF:-1 group-title="-",_
 http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:-1 group-title="-",_
@@ -1652,4 +1652,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="test",799
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="test",800
-http://46.149.191.217:9011/play/a00q
+http://157.143.44.195/play/a0ci
