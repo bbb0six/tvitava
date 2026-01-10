@@ -42,8 +42,8 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="-",7 Gold
-https://uvotv.zappr.stream/530.m3u8
+#EXTINF:0 group-title="-",7Gold
+http://84.22.55.2:8032/play/s364
 #EXTINF:-1 group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -1644,11 +1644,10 @@ http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 #EXTINF:0 group-title="test",Sat1 Gold
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:-1 group-title="test",797
-http://103.178.78.151:7505/play/a13y/index.m3u8
+https://uvotv.zappr.stream/530.m3u8
 #EXTINF:-1 group-title="test",798
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+https://uvotv.zappr.stream/101.m3u8
 #EXTINF:-1 group-title="test",799
-http://157.143.44.195/play/a0d7
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
