@@ -258,10 +258,10 @@ https://uvotv.zappr.stream/269.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:0 group-title="IT",RAI STORIA
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0 group-title="IT",RAI SPORT
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:0 group-title="IT",RAI STORIA
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0 group-title="IT",RAI GULP
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0 group-title="News",RAI NEWS 24
@@ -486,8 +486,8 @@ https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="España",TeleMadrid
 http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/79
-#EXTINF:0 group-title="España",Calle 13
-http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/23
+#EXTINF:0 group-title="España",Andalucia TV
+http://176.65.146.237:8401/play/a09g/index.m3u8
 #EXTINF:0 group-title="España",Trece
 http://176.65.146.237:8401/play/a0a9
 #EXTINF:0 group-title="España",DKISS
@@ -1587,9 +1587,9 @@ http://58.65.205.171:8000/play/a053
 #EXTINF:0,773
 http://58.65.205.171:8000/play/a064
 #EXTINF:0,774
-http://176.116.105.82/MTV_Europe/index.m3u8
-#EXTINF:0,775
 http://176.116.105.82/Deluxe_Music/index.m3u8
+#EXTINF:0,775
+http://179.1.146.22:8000/play/a0kn/index.m3u8
 #EXTINF:0,776
 https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:0,777
@@ -1633,6 +1633,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 group-title="test",La7 dvr
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0 group-title="test",Pro7
 http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
 #EXTINF:0 group-title="test",Pro7 Maxx
@@ -1641,8 +1643,6 @@ http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
 http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 #EXTINF:0 group-title="test",Sat1 Gold
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
-#EXTINF:-1 group-title="test",796
-http://179.1.146.22:8000/play/a0kn/index.m3u8
 #EXTINF:-1 group-title="test",797
 http://103.178.78.151:7505/play/a13y/index.m3u8
 #EXTINF:-1 group-title="test",798
