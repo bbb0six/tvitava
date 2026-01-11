@@ -551,7 +551,7 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",ProSieben
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
-http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
+http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -1216,7 +1216,7 @@ http://45.173.75.4:2061/play/a017
 http://45.173.75.4:2061/play/a016
 #EXTINF:0 group-title="PP",ESPN
 http://45.173.75.4:2061/play/a0b0
-#EXTINF:0 group-title="PP",America Noticias
+#EXTINF:0 group-title="PP",America TV
 http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
@@ -1367,7 +1367,7 @@ http://157.143.44.195/play/a06h
 #EXTINF:0 group-title="-",MTV Spain
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:-1 group-title="-",MTV Latino
-http://38.44.109.41:8003/play/a03i
+http://148.222.225.136:8004/play/a04h/index.m3u8
 #EXTINF:-1 group-title="-",MTV India
 http://103.178.78.151:7505/play/a13y
 #EXTINF:-1 group-title="Music",MTV Japan
