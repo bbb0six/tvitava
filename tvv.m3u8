@@ -1164,20 +1164,20 @@ http://85.11.144.9:50999/23
 http://85.11.144.9:50999/24
 #EXTINF:-1,group-title="-",562
 http://85.11.144.9:50999/25
-#EXTINF:0 group-title="Adria",Eurosport 1
-http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:0 group-title="Adria",Eurosport 2
-http://23.88.66.93/Eurosport2/index.m3u8
+#EXTINF:-1,group-title="-",563
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1,group-title="-",564
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1,group-title="-",565
 http://169.150.223.25/Rai1/index.m3u8
 #EXTINF:-1,group-title="-",566
 http://169.150.223.25/Rai2/index.m3u8
 #EXTINF:-1,group-title="-",567
 http://169.150.223.25/Rai3/index.m3u8
-#EXTINF:0,group-title="co",ESPN CO
-http://170.82.113.50:8899/play/a0gj/index.m3u8
-#EXTINF:0,group-title="co",ESPN Premium
-http://170.82.113.50:8899/play/a0pq/index.m3u8
+#EXTINF:-1,group-title="-",568
+http://169.150.223.25/TopChannel/index.m3u8
+#EXTINF:-1,group-title="-",569
+http://169.150.223.25/TopNews/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 03 
 http://200.92.227.238:8000/play/a0pt/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 01 HD
@@ -1220,12 +1220,12 @@ http://45.173.75.4:2061/play/a0b0
 http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:-1,591
-http://95.216.97.235:7777/ITV1
-#EXTINF:-1,592
-http://157.143.44.195/play/a0f3
+#EXTINF:0 group-title="Adria",Eurosport 1
+http://23.88.66.93/Eurosport1/index.m3u8
+#EXTINF:0 group-title="Adria",Eurosport 2
+http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:-1,593
-http://45.5.117.57:5550/play/a01u
+http://95.216.97.235:7777/ITV1
 #EXTINF:-1,594
 http://185.207.34.31:8000/play/a01t/index.m3u8
 #EXTINF:-1,595
