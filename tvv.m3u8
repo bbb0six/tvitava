@@ -1359,7 +1359,7 @@ https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:-1 group-title="-",_
 http://92.118.251.84:8080/stv/index.m3u8
 #EXTINF:-1 group-title="-",_
-http://46.149.191.217:9011/play/a00q
+http://212.32.241.201:8000/play/a01g
 #EXTINF:0 group-title="-",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:-1 group-title="-",MTV Germany
@@ -1367,9 +1367,9 @@ http://157.143.44.195/play/a06h
 #EXTINF:0 group-title="-",MTV Spain
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:-1 group-title="-",MTV Latino
-http://45.173.75.4:2061/play/a09g
+http://38.44.109.41:8003/play/a03i
 #EXTINF:-1 group-title="-",MTV India
-http://103.178.78.151:7505/play/a13y/index.m3u8
+http://103.178.78.151:7505/play/a13y
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="-",MTV Global
