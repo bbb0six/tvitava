@@ -220,8 +220,8 @@ https://dash4.antik.sk/live/mb_dance/index.m3u8
 https://dash4.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 https://dash4.antik.sk/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="-",Antenna 2
-http://157.143.44.195/play/a0cy
+#EXTINF:-1 group-title="-",TV Koper
+http://169.150.223.25/TVKoper/index.m3u8
 #EXTINF:-1 group-title="-",Antenna 3
 http://157.143.44.195/play/a0d0
 #EXTINF:-1 group-title="-",Telelombardia
@@ -1350,32 +1350,32 @@ https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 http://45.90.106.7:9790/play/JtS1098K5@T4V
 #EXTINF:0 group-title="Music",M6 Music
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
+#EXTINF:-1 group-title="-",_
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="-",_
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="-",_
+https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
+#EXTINF:-1 group-title="-",_
+http://92.118.251.84:8080/stv/index.m3u8
+#EXTINF:-1 group-title="-",_
+http://46.149.191.217:9011/play/a00q
 #EXTINF:0 group-title="-",MTV France
-http://45.90.106.7:9790/play/SUn4207H6@T5B
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:-1 group-title="-",MTV Germany
 http://157.143.44.195/play/a06h
+#EXTINF:0 group-title="-",MTV Spain
+http://92.118.251.84:8080/MTV/index.m3u8
+#EXTINF:-1 group-title="-",MTV Latino
+http://45.173.75.4:2061/play/a09g
 #EXTINF:-1 group-title="-",MTV India
 http://103.178.78.151:7505/play/a13y/index.m3u8
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="-",MTV Global
 http://176.116.105.82/MTV_Europe/index.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="-",Deluxe Music SD
 http://176.116.105.82/Deluxe_Music/index.m3u8
-#EXTINF:-1 group-title="-",_
-http://45.87.35.12:7209/stream
-#EXTINF:-1 group-title="-",_
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="-",_
-http://157.143.44.195/play/a0f5
-#EXTINF:-1 group-title="-",_
-http://46.149.191.217:9011/play/a00q
-#EXTINF:-1 group-title="-",_
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="-",_
-http://nocable.cc:8080/5467546/3648794/212903
-#EXTINF:-1 group-title="-",_
-http://92.118.251.84:8080/stv/index.m3u8
 #EXTINF:-1 group-title="RU",Nostalgia
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1 group-title="RU",ТВ7
@@ -1589,9 +1589,9 @@ http://58.65.205.171:8000/play/a064
 #EXTINF:0,774
 http://179.1.146.22:8000/play/a0kn/index.m3u8
 #EXTINF:0,775
-https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
+http://nocable.cc:8080/5467546/3648794/212903
 #EXTINF:0,776
-https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,777
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:0,778
