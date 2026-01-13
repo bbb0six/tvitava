@@ -556,9 +556,9 @@ http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
 http://77.23.37.6:9981/stream/channelid/1175389372?profile=pass
-#EXTINF:0 group-title="Vari",GS Channel TMC
-https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
-#EXTINF:0 group-title="Vari",radioradio tv
+#EXTINF:0 group-title="Vari",Radio 24
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+#EXTINF:0 group-title="Vari",Radio Radio
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
 #EXTINF:0 group-title="Vari",byoblu
 https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/master.m3u8
@@ -598,8 +598,8 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
-#EXTINF:0 group-title="Vari",Easy TV
-https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
+#EXTINF:0 group-title="Vari",GS Channel TMC
+https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:0 group-title="Vari",Le Cronache
 http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV
@@ -1340,26 +1340,26 @@ http://23.88.66.93/ZDF/index.m3u8
 http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",PRO 7 HD
 http://23.88.66.93/Pro7/index.m3u8
-#EXTINF:0 group-title="DE",PRO 7 MAXX
-http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="DE",SAT 1
-http://23.88.66.93/Sat1/index.m3u8
+#EXTINF:0 group-title="UK",STV
+http://92.118.251.84:8080/stv/index.m3u8
 #EXTINF:0 group-title="DE",SAT 1 Gold
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
-#EXTINF:0 group-title="Music",Trace Urban FR
-http://45.90.106.7:9790/play/JtS1098K5@T4V
-#EXTINF:0 group-title="Music",M6 Music
-http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="-",_
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="-",_
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="-",_
 https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
-#EXTINF:-1 group-title="-",_
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:0 group-title="Music",Trace Urban FR
+http://45.90.106.7:9790/play/JtS1098K5@T4V
+#EXTINF:0 group-title="Music",M6 Music FR
+http://45.90.106.7:9790/play/GqLu6281K5@T2N
+#EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
+#EXTINF:-1 group-title="-",Deluxe Music SD
+http://176.116.105.82/Deluxe_Music/index.m3u8
+#EXTINF:-1 group-title="-",MTV Global
+http://176.116.105.82/MTV_Europe/index.m3u8
 #EXTINF:0 group-title="-",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:-1 group-title="-",MTV Germany
@@ -1372,8 +1372,8 @@ http://148.222.225.136:8004/play/a04h/index.m3u8
 http://103.178.78.151:7505/play/a13y
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="-",MTV Global
-http://176.116.105.82/MTV_Europe/index.m3u8
+#EXTINF:-1 group-title="Music",MTV Live
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",Deluxe Music SD
 http://176.116.105.82/Deluxe_Music/index.m3u8
 #EXTINF:-1 group-title="RU",Nostalgia
@@ -1593,7 +1593,7 @@ http://nocable.cc:8080/5467546/3648794/212903
 #EXTINF:0,776
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,777
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0,778
 https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8
 #EXTINF:0,779
