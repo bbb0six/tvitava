@@ -213,13 +213,13 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
 #EXTINF:0 group-title="Music",Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Music Box Hits
-https://dash4.antik.sk/live/mb_hits/index.m3u8
+http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
-https://dash4.antik.sk/live/mb_dance/index.m3u8
+http://88.212.7.14/live/mb_dance/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Classic
-https://dash4.antik.sk/live/mb_classic/index.m3u8
+http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
-https://dash4.antik.sk/live/mb_sexy/index.m3u8
+http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",TV Koper
 http://169.150.223.25/TVKoper/index.m3u8
 #EXTINF:-1 group-title="-",Antenna 3
@@ -1374,8 +1374,8 @@ http://103.178.78.151:7505/play/a13y
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="-",Deluxe Music SD
-http://176.116.105.82/Deluxe_Music/index.m3u8
+#EXTINF:-1 group-title="-",_
+http://84.17.40.25/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="RU",Nostalgia
 http://95.66.188.74:80/Nostalgia/mono.m3u8
 #EXTINF:-1 group-title="RU",ТВ7
@@ -1575,9 +1575,9 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://thksmom.shop/NL_NPO2/index.m3u8
+http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:0,769
-http://thksmom.shop/TR_TRT1FHDTR/index.m3u8
+http://thksmom.shop/TR_TRT1FHDTR/mpegts
 #EXTINF:0,770
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,771
