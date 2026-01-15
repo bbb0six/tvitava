@@ -328,8 +328,8 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
 #EXTINF:0 group-title="FR",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:0 group-title="UK",BBC World News
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
+#EXTINF:0 group-title="FR",RTL 9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="UK",BBC 1
 http://92.118.251.84:8080/bbc1hd/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
@@ -422,10 +422,10 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 http://92.118.251.84:8080/e4/index.m3u8
 #EXTINF:0 group-title="UK",5star
 http://92.118.251.84:8080/5star/index.m3u8
+#EXTINF:0 group-title="UK",5USA
+http://92.118.251.84:8080/5usa/index.m3u8
 #EXTINF:0 group-title="UK",HGTV UK
 http://92.118.251.84:8080/HGTV/index.m3u8
-#EXTINF:0 group-title="FR",RTL 9
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="FR",Planete+
 https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0 group-title="FR",MEZZO
@@ -441,15 +441,15 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveintern
 #EXTINF:0 group-title="España",La 1
 http://92.118.251.84:8080/LA1HD/index.m3u8
 #EXTINF:0 group-title="España",La 2
-http://176.65.146.237:8401/play/a098
+http://176.65.146.237:8401/play/a098/index.m3u8
 #EXTINF:0 group-title="España",Antena3
 http://92.118.251.84:8080/Antena3/index.m3u8
 #EXTINF:0 group-title="España",Cuatro
-http://176.65.146.237:8401/play/a09s
+http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:0 group-title="España",Telecinco
-http://176.65.146.237:8401/play/a09r
+http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:0 group-title="España",laSexta
-http://176.65.146.237:8401/play/a0af
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:0 group-title="España",24h
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0 group-title="España",FDF
@@ -459,13 +459,13 @@ http://92.118.251.84:8080/tdp/index.m3u8
 #EXTINF:0 group-title="España",TEN
 http://92.118.251.84:8080/ten/index.m3u8
 #EXTINF:0 group-title="España",Mega
-http://176.65.146.237:8401/play/a0a5
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 #EXTINF:0 group-title="España",Neox
-http://176.65.146.237:8401/play/a0ag
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:0 group-title="España",Nova
-http://176.65.146.237:8401/play/a0ah
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:0 group-title="España",Energy
-http://176.65.146.237:8401/play/a0ac
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:0 group-title="España",Divinity
 http://92.118.251.84:8080/DIVINITY/index.m3u8
 #EXTINF:0 group-title="España",BOM Cine
@@ -489,15 +489,15 @@ http://esproookttm.top:8080/es7261757521129322/6d4011930a7f/79
 #EXTINF:0 group-title="España",Andalucia TV
 http://176.65.146.237:8401/play/a09g/index.m3u8
 #EXTINF:0 group-title="España",Trece
-http://176.65.146.237:8401/play/a0a9
+http://176.65.146.237:8401/play/a0a9/index.m3u8
 #EXTINF:0 group-title="España",DKISS
-http://176.65.146.237:8401/play/a09y
+http://176.65.146.237:8401/play/a09y/index.m3u8
 #EXTINF:0 group-title="España",Clan
-http://176.65.146.237:8401/play/a09t
+http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="España",BeMad tv HD
-http://176.65.146.237:8401/play/a0aj
+http://176.65.146.237:8401/play/a0aj/index.m3u8
 #EXTINF:0 group-title="España",DMAX ES
-http://176.65.146.237:8401/play/a09j
+http://176.65.146.237:8401/play/a09j/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 1 ES
 http://92.118.251.84:8080/Eurosport1/index.m3u8
 #EXTINF:0 group-title="España",Eurosport 2 ES
@@ -1648,6 +1648,6 @@ https://uvotv.zappr.stream/530.m3u8
 #EXTINF:-1 group-title="test",798
 https://uvotv.zappr.stream/101.m3u8
 #EXTINF:-1 group-title="test",799
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
