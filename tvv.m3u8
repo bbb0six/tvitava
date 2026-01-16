@@ -596,8 +596,8 @@ https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Sport Outdoor TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Rete TV Italia
-https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:0 group-title="Vari",Reggio TV
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 #EXTINF:0 group-title="Vari",GS Channel TMC
 https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:0 group-title="Vari",Le Cronache
@@ -1651,3 +1651,4 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
+
