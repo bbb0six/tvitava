@@ -1161,9 +1161,9 @@ http://58.65.205.171:8000/play/a053
 #EXTINF:-1 group-title="-",560
 http://58.65.205.171:8000/play/a064
 #EXTINF:-1,group-title="-",561
-http://85.11.144.9:50999/24
+http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 #EXTINF:-1,group-title="-",562
-http://85.11.144.9:50999/25
+http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
 #EXTINF:-1,group-title="-",563
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1,group-title="-",564
@@ -1342,7 +1342,7 @@ http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:0 group-title="UK",STV
 http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:0 group-title="DE",SAT 1 Gold
+#EXTINF:-1 group-title="-",_
 https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
 #EXTINF:-1 group-title="-",_
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
