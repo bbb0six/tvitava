@@ -168,7 +168,7 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0 group-title="Vari",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
 #EXTINF:-1 group-title="Music",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3319316.m3u8
 #EXTINF:-1 group-title="Music",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
@@ -1651,3 +1651,4 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
+
