@@ -170,7 +170,7 @@ https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
 #EXTINF:-1 group-title="Music",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3319316.m3u8
 #EXTINF:-1 group-title="Music",RadioItalia TV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Radionorba TV
@@ -197,7 +197,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 group-title="RDS",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="Music",Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1728000.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1769306.m3u8
 #EXTINF:-1 group-title="Music",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Radio Montecarlo TV
@@ -1651,4 +1651,5 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
+
 
