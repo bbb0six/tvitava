@@ -167,8 +167,9 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0 group-title="Vari",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
-#EXTINF:-1 group-title="Music",Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3319316.m3u8
+#EXTINF:-1 group-title="GEDI",Deejay TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 group-title="Music",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
@@ -196,9 +197,11 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 group-title="RDS",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 group-title="Music",Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1769306.m3u8
-#EXTINF:-1 group-title="Music",M2O TV
+#EXTINF:-1 group-title="GEDI",Radio Capital TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 group-title="GEDI",M2O TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -1136,7 +1139,7 @@ http://38.49.128.38:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="-",548
 http://38.49.128.38:8000/play/a0kf/index.m3u8
 #EXTINF:0,549
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
 http://161.123.220.10:8080/Mihai@radoi/tB21x1AHD4/544129
@@ -1356,20 +1359,20 @@ http://45.90.106.7:9790/play/JtS1098K5@T4V
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
-#EXTINF:-1 group-title="-",Deluxe Music SD
-http://176.116.105.82/Deluxe_Music/index.m3u8
-#EXTINF:-1 group-title="-",MTV Global
-http://176.116.105.82/MTV_Europe/index.m3u8
+#EXTINF:-1 group-title="-",MTV Global 1
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="-",MTV Global 2
+http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="-",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:-1 group-title="-",MTV Germany
 http://157.143.44.195/play/a06h
 #EXTINF:0 group-title="-",MTV Spain
 http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:-1 group-title="-",MTV Latino
+#EXTINF:-1 group-title="-",MTV Latino HD
+http://45.173.75.4:2061/play/a09g
+#EXTINF:-1 group-title="-",MTV Latino SD
 http://148.222.225.136:8004/play/a04h/index.m3u8
-#EXTINF:-1 group-title="-",MTV India
-http://103.178.78.151:7505/play/a13y
 #EXTINF:-1 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MTV Live
@@ -1651,5 +1654,3 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
-
-
