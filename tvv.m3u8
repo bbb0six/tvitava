@@ -510,7 +510,7 @@ http://92.118.251.84:8080/syfy/index.m3u8
 #EXTINF:0 group-title="España",MTV ES
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:0 group-title="España",Star TVE
-http://45.5.117.57:5550/play/a01u
+http://45.164.151.197:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 1
@@ -1040,8 +1040,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:0,RAI ITALIA
-http://138.121.15.230:9001/RAI/index.m3u8
+#EXTINF:0,500
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0,ESPN 1 ES
 http://138.121.15.230:9001/ESPN/index.m3u8
 #EXTINF:0,ESPN 2 ES
