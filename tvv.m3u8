@@ -829,11 +829,11 @@ http://176.65.146.100:8026/play/a06j/index.m3u8
 http://176.65.146.100:8025/play/a07i/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat2
 http://176.65.146.100:8025/play/a07s/index.m3u8
-#EXTINF:0 group-title="World",1+1 Марафон
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="Music",MuzTV RU
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://178.124.179.122:8080/MuzTV/index.m3u8
+#EXTINF:0 group-title="Music",MTV Japan
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -862,8 +862,8 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:0 group-title="i",MDS IT EU
-http://213.169.39.30:5255
+#EXTINF:0 group-title="World",1+1 Марафон
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="World",CCTV 4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0 group-title="World",CGTN
@@ -1654,3 +1654,4 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
+
