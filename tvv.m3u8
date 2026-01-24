@@ -554,7 +554,7 @@ https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",ProSieben
 http://23.88.66.93/Pro7/index.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
-http://176.10.117.68:6060/pro7mxx/tracks-v1a1/mono.m3u8
+http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
@@ -752,9 +752,9 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.
 #EXTINF:0 group-title="CH",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:0 group-title="CH",3+ CH
-http://176.10.117.68:6060/3HD/tracks-v1a1/mono.m3u8
+http://157.143.44.195/play/a01l
 #EXTINF:0 group-title="CH",4+ CH
-http://176.10.117.68:6060/4hd/tracks-v1a1/mono.m3u8
+http://157.143.44.195/play/a01m
 #EXTINF:0 group-title="CH",5+ CH
 http://157.143.44.195/play/a01n
 #EXTINF:0 group-title="CH",6+ CH
