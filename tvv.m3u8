@@ -1242,7 +1242,7 @@ http://185.207.34.31:8000/play/a018/index.m3u8
 #EXTINF:0,599
 http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0 group-title="-",_
-http://dvr2.kablova.tv/Sport1/index.m3u8
+http://185.207.34.31:8000/play/a00d/index.m3u8
 #EXTINF:0 group-title="IT",Rai 1
 http://185.207.34.31:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="IT",Rai 2
