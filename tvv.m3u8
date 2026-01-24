@@ -1241,8 +1241,8 @@ http://185.207.34.31:8000/play/a00u/index.m3u8
 http://185.207.34.31:8000/play/a018/index.m3u8
 #EXTINF:0,599
 http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:0 group-title="IT",Senato
-http://185.207.34.31:8000/play/a012/index.m3u8
+#EXTINF:0 group-title="-",_
+http://dvr2.kablova.tv/Sport1/index.m3u8
 #EXTINF:0 group-title="IT",Rai 1
 http://185.207.34.31:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="IT",Rai 2
@@ -1256,11 +1256,11 @@ http://thksmom.shop/NL_NPO1/mpegts
 #EXTINF:0 group-title="NL",NPO 2
 http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:0 group-title="NL",NPO 3
-http://thksmom.shop/NL_NPO3/mpegts
+http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:0 group-title="NL",RTL 4
 http://thksmom.shop/NL_NPO4/mpegts
-#EXTINF:0 group-title="TR",TRT 1
-http://thksmom.shop/TR_TRT1FHDTR/mpegts
+#EXTINF:0 group-title="NL",NPO 1 HD
+http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
@@ -1346,7 +1346,7 @@ http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:0 group-title="UK",STV
 http://92.118.251.84:8080/stv/index.m3u8
 #EXTINF:-1 group-title="-",_
-https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:-1 group-title="-",_
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="-",_
@@ -1361,7 +1361,7 @@ http://45.90.106.7:9790/play/GqLu6281K5@T2N
 http://212.32.241.201:8000/play/a01g
 #EXTINF:-1 group-title="-",MTV Global 1
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="-",MTV Global 2
+#EXTINF:0 group-title="-",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="-",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
@@ -1654,4 +1654,3 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
-
