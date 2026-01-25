@@ -241,17 +241,17 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:0 group-title="IT",RAI 1
+#EXTINF:0 group-title="IT",Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:0 group-title="IT",RAI 2
+#EXTINF:0 group-title="IT",Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:0 group-title="IT",RAI 3
+#EXTINF:0 group-title="IT",Rai 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:0 group-title="IT",RETE 4
+#EXTINF:0 group-title="IT",Rete 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:0 group-title="IT",CANALE 5
+#EXTINF:0 group-title="IT",Canale 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:0 group-title="IT",ITALIA 1
+#EXTINF:0 group-title="IT",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
@@ -261,13 +261,13 @@ https://uvotv.zappr.stream/269.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:0 group-title="IT",RAI SPORT
+#EXTINF:0 group-title="IT",Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0 group-title="IT",RAI STORIA
+#EXTINF:0 group-title="IT",Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:0 group-title="IT",RAI GULP
+#EXTINF:0 group-title="IT",Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0 group-title="News",RAI NEWS 24
+#EXTINF:0 group-title="News",Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
 https://uvotv.zappr.stream/293.m3u8
@@ -1228,7 +1228,7 @@ http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0 group-title="Adria",Eurosport 2
 http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:-1,593
-http://95.216.97.235:7777/ITV1
+http://185.207.34.31:8000/play/a018/index.m3u8
 #EXTINF:-1,594
 http://185.207.34.31:8000/play/a01t/index.m3u8
 #EXTINF:-1,595
@@ -1238,31 +1238,31 @@ http://185.207.34.31:8000/play/21229/index.m3u8
 #EXTINF:0,597
 http://185.207.34.31:8000/play/a00u/index.m3u8
 #EXTINF:0,598
-http://185.207.34.31:8000/play/a018/index.m3u8
+http://185.207.34.31:8000/play/a01g/index.m3u8
 #EXTINF:0,599
-http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:0 group-title="-",_
 http://185.207.34.31:8000/play/a00d/index.m3u8
-#EXTINF:0 group-title="IT",Rai 1
-http://185.207.34.31:8000/play/a00g/index.m3u8
-#EXTINF:0 group-title="IT",Rai 2
-http://185.207.34.31:8000/play/a010/index.m3u8
-#EXTINF:0 group-title="IT",Rai 3
-http://185.207.34.31:8000/play/a01a/index.m3u8
-#EXTINF:0 group-title="FR",TV5MONDE
+#EXTINF:0 group-title="FR",TV5 MONDE
 http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="IT",RAI 1
+http://185.207.34.31:8000/play/a00g/index.m3u8
+#EXTINF:0 group-title="IT",RAI 2
+http://185.207.34.31:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="IT",RAI 3
+http://185.207.34.31:8000/play/a01a/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
-http://thksmom.shop/NL_NPO1/mpegts
+http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 2
 http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:0 group-title="NL",NPO 3
 http://185.207.34.31:8000/play/21040/index.m3u8
-#EXTINF:0 group-title="NL",RTL 4
-http://thksmom.shop/NL_NPO4/mpegts
-#EXTINF:0 group-title="NL",NPO 1 HD
-http://185.207.34.31:8000/play/21029/index.m3u8
-#EXTINF:0 group-title="PS",Palestine
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="BE",VTM 1
+http://185.207.34.31:8000/play/7030/index.m3u8
+#EXTINF:0 group-title="BE",VTM 2
+http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0 group-title="BE",VRT 1
+http://185.207.34.31:8000/play/21025/index.m3u8
+#EXTINF:0 group-title="BE",VRT Canvas
+http://185.207.34.31:8000/play/21030/index.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
@@ -1335,6 +1335,14 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+#EXTINF:0 group-title="PS",Palestine
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 group-title="-",_
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 group-title="-",_
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="-",_
+https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
 #EXTINF:0 group-title="test",Pro7
 http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
 #EXTINF:0 group-title="test",Pro7 Maxx
@@ -1345,22 +1353,14 @@ http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
 #EXTINF:0 group-title="UK",STV
 http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1 group-title="-",_
-http://185.207.34.31:8000/play/21025/index.m3u8
-#EXTINF:-1 group-title="-",_
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="-",_
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="-",_
-https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
+#EXTINF:0 group-title="UK",UTV
+http://95.216.97.235:7777/ITV1
 #EXTINF:0 group-title="Music",Trace Urban FR
 http://45.90.106.7:9790/play/JtS1098K5@T4V
 #EXTINF:0 group-title="Music",M6 Music FR
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
-#EXTINF:-1 group-title="-",MTV Global 1
-http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="-",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="-",MTV France
