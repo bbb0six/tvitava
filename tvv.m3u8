@@ -472,9 +472,9 @@ http://176.65.146.237:8401/play/a0ac
 #EXTINF:0 group-title="España",Divinity
 http://176.65.146.237:8401/play/a09q
 #EXTINF:0 group-title="España",BOM Cine
-http://176.65.146.237:8401/play/a09d
+https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0 group-title="España",Squirrel
-http://176.65.146.237:8401/play/a09h
+https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0 group-title="España",Squirrel Dos
 http://176.65.146.237:8401/play/a09i
 #EXTINF:0 group-title="España",a3series
@@ -501,14 +501,14 @@ http://176.65.146.237:8401/play/a09t
 http://176.65.146.237:8401/play/a0aj
 #EXTINF:0 group-title="España",DMAX ES
 http://176.65.146.237:8401/play/a09j
-#EXTINF:0 group-title="España",Eurosport 1 ES
+#EXTINF:0 group-title="-",_
 http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0 group-title="España",Eurosport 2 ES
+#EXTINF:0 group-title="-",_
 http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0 group-title="España",SYFY ES
+#EXTINF:0 group-title="-",_
 http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:0 group-title="España",MTV ES
-http://92.118.251.84:8080/MTV/index.m3u8
+#EXTINF:0 group-title="-",_
+http://45.5.116.178:8000/play/a06i/index.m3u8
 #EXTINF:0 group-title="España",Star TVE
 http://45.164.151.197:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
