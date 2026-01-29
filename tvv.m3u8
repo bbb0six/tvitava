@@ -439,80 +439,68 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mp
 https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0 group-title="IT",Canale Italia
 https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
-#EXTINF:0 group-title="España",TVE INT
+#EXTINF:0 group-title="ES",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0 group-title="España",La 1
+#EXTINF:0 group-title="ES",La 1
 http://176.65.146.237:8401/play/a095
-#EXTINF:0 group-title="España",La 2
+#EXTINF:0 group-title="ES",La 2
 http://176.65.146.237:8401/play/a098
-#EXTINF:0 group-title="España",Antena3
+#EXTINF:0 group-title="ES",Antena3
 http://176.65.146.237:8401/play/a0ae
-#EXTINF:0 group-title="España",Cuatro
+#EXTINF:0 group-title="ES",Cuatro
 http://176.65.146.237:8401/play/a09s
-#EXTINF:0 group-title="España",Telecinco
+#EXTINF:0 group-title="ES",Telecinco
 http://176.65.146.237:8401/play/a09r
-#EXTINF:0 group-title="España",laSexta
+#EXTINF:0 group-title="ES",laSexta
 http://176.65.146.237:8401/play/a0af
-#EXTINF:0 group-title="España",24h
+#EXTINF:0 group-title="ES",24h
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
-#EXTINF:0 group-title="España",FDF
+#EXTINF:0 group-title="ES",FDF
 http://176.65.146.237:8401/play/a09p
-#EXTINF:0 group-title="España",TDP
+#EXTINF:0 group-title="ES",TDP
 http://176.65.146.237:8401/play/a093
-#EXTINF:0 group-title="España",TEN
+#EXTINF:0 group-title="ES",TEN
 http://176.65.146.237:8401/play/a0al
-#EXTINF:0 group-title="España",Mega
+#EXTINF:0 group-title="ES",Mega
 http://176.65.146.237:8401/play/a0a5
-#EXTINF:0 group-title="España",Neox
+#EXTINF:0 group-title="ES",Neox
 http://176.65.146.237:8401/play/a0ag
-#EXTINF:0 group-title="España",Nova
+#EXTINF:0 group-title="ES",Nova
 http://176.65.146.237:8401/play/a0ah
-#EXTINF:0 group-title="España",Energy
+#EXTINF:0 group-title="ES",Energy
 http://176.65.146.237:8401/play/a0ac
-#EXTINF:0 group-title="España",Divinity
+#EXTINF:0 group-title="ES",Divinity
 http://176.65.146.237:8401/play/a09q
-#EXTINF:0 group-title="España",BOM Cine
+#EXTINF:0 group-title="ES",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-#EXTINF:0 group-title="España",Squirrel
+#EXTINF:0 group-title="ES",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
-#EXTINF:0 group-title="España",Squirrel Dos
+#EXTINF:0 group-title="ES",Squirrel Dos
 http://176.65.146.237:8401/play/a09i
-#EXTINF:0 group-title="España",a3series
+#EXTINF:0 group-title="ES",a3series
 http://176.65.146.237:8401/play/a0ai
-#EXTINF:0 group-title="España",Boing ES
+#EXTINF:0 group-title="ES",Boing ES
 http://176.65.146.237:8401/play/a0ad
-#EXTINF:0 group-title="España",3CAT
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0 group-title="España",3CAT Info
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:0 group-title="España",Aragon TV
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
-#EXTINF:0 group-title="España",TeleMadrid
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
-#EXTINF:0 group-title="España",Andalucia TV
+#EXTINF:0 group-title="ES",Andalucia TV
 http://176.65.146.237:8401/play/a09g/
-#EXTINF:0 group-title="España",Trece
+#EXTINF:0 group-title="ES",Trece
 http://176.65.146.237:8401/play/a0a9
-#EXTINF:0 group-title="España",DKISS
+#EXTINF:0 group-title="ES",DKISS
 http://176.65.146.237:8401/play/a09y
-#EXTINF:0 group-title="España",Clan
+#EXTINF:0 group-title="ES",Clan
 http://176.65.146.237:8401/play/a09t
-#EXTINF:0 group-title="España",BeMad tv HD
+#EXTINF:0 group-title="ES",BeMad tv HD
 http://176.65.146.237:8401/play/a0aj
-#EXTINF:0 group-title="España",DMAX ES
+#EXTINF:0 group-title="ES",DMAX ES
 http://176.65.146.237:8401/play/a09j
-#EXTINF:0 group-title="-",_
-http://92.118.251.84:8080/Eurosport1/index.m3u8
-#EXTINF:0 group-title="-",_
-http://92.118.251.84:8080/Eurosport2/index.m3u8
-#EXTINF:0 group-title="-",_
-http://92.118.251.84:8080/syfy/index.m3u8
-#EXTINF:0 group-title="-",_
-http://45.5.116.178:8000/play/a06i/index.m3u8
-#EXTINF:0 group-title="España",Star TVE
+#EXTINF:0 group-title="ES",3CAT
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:0 group-title="ES",3CAT Info
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="ES",Aragon TV
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:0 group-title="ES",Star TVE
 http://45.164.151.197:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="DE",ARTE DE
-https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
@@ -521,6 +509,8 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:0 group-title="DE",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:0 group-title="DE",ARTE DE
+https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:0 group-title="DE",ZDF
@@ -539,10 +529,16 @@ https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTINF:0 group-title="DE",Super RTL
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:0 group-title="DE",HR
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
+#EXTINF:0 group-title="DE",MDR
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 #EXTINF:0 group-title="DE",NDR
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 #EXTINF:0 group-title="DE",WDR
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+#EXTINF:0 group-title="DE",RBB
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
 #EXTINF:0 group-title="DE",KIKA
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
 #EXTINF:0 group-title="DE",Comedy Central DE
@@ -552,13 +548,17 @@ https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:0 group-title="DE",TELE 5
 https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",ProSieben
-http://23.88.66.93/Pro7/index.m3u8
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Pro7 MAXX
 http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
 #EXTINF:0 group-title="DE",SAT.1
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
-http://77.23.37.6:9981/stream/channelid/1175389372?profile=pass
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",SIXX
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",ALPHA
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 #EXTINF:0 group-title="Vari",Radio 24
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Radio
