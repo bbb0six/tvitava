@@ -1337,6 +1337,8 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="PS",Musawa
+https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 group-title="-",_
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 group-title="-",_
@@ -1351,13 +1353,13 @@ http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
 http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
 #EXTINF:0 group-title="test",Sat1 Gold
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
-#EXTINF:0 group-title="UK",STV
+#EXTINF:-1 group-title="-",_
 http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:0 group-title="UK",UTV
+#EXTINF:-1 group-title="-",_
 http://95.216.97.235:7777/ITV1
-#EXTINF:0 group-title="Music",Trace Urban FR
+#EXTINF:-1 group-title="-",_
 http://45.90.106.7:9790/play/JtS1098K5@T4V
-#EXTINF:0 group-title="Music",M6 Music FR
+#EXTINF:-1 group-title="-",_
 http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
@@ -1367,8 +1369,6 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:-1 group-title="-",MTV Germany
 http://157.143.44.195/play/a06h
-#EXTINF:0 group-title="-",MTV Spain
-http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:-1 group-title="-",MTV Latino HD
 http://45.173.75.4:2061/play/a09g
 #EXTINF:-1 group-title="-",MTV Latino SD
@@ -1379,8 +1379,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",_
 http://84.17.40.25/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="RU",Nostalgia
-http://95.66.188.74:80/Nostalgia/mono.m3u8
+#EXTINF:-1 group-title="-",_
+http://95.47.155.244:8001/play/a021
 #EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
