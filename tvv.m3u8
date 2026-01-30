@@ -442,57 +442,57 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="ES",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="ES",La 1
-http://176.65.146.237:8401/play/a095
+http://176.65.146.237:8401/play/a095/index.m3u8
 #EXTINF:0 group-title="ES",La 2
-http://176.65.146.237:8401/play/a098
+http://176.65.146.237:8401/play/a098/index.m3u8
 #EXTINF:0 group-title="ES",Antena3
-http://176.65.146.237:8401/play/a0ae
+http://176.65.146.237:8401/play/a0ae/index.m3u8
 #EXTINF:0 group-title="ES",Cuatro
-http://176.65.146.237:8401/play/a09s
+http://176.65.146.237:8401/play/a09s/index.m3u8
 #EXTINF:0 group-title="ES",Telecinco
-http://176.65.146.237:8401/play/a09r
+http://176.65.146.237:8401/play/a09r/index.m3u8
 #EXTINF:0 group-title="ES",laSexta
-http://176.65.146.237:8401/play/a0af
+http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:0 group-title="ES",24h
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0 group-title="ES",FDF
-http://176.65.146.237:8401/play/a09p
+http://176.65.146.237:8401/play/a09p/index.m3u8
 #EXTINF:0 group-title="ES",TDP
-http://176.65.146.237:8401/play/a093
+http://176.65.146.237:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="ES",TEN
-http://176.65.146.237:8401/play/a0al
+http://176.65.146.237:8401/play/a0al/index.m3u8
 #EXTINF:0 group-title="ES",Mega
-http://176.65.146.237:8401/play/a0a5
+http://176.65.146.237:8401/play/a0a5/index.m3u8
 #EXTINF:0 group-title="ES",Neox
-http://176.65.146.237:8401/play/a0ag
+http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:0 group-title="ES",Nova
-http://176.65.146.237:8401/play/a0ah
+http://176.65.146.237:8401/play/a0ah/index.m3u8
 #EXTINF:0 group-title="ES",Energy
-http://176.65.146.237:8401/play/a0ac
+http://176.65.146.237:8401/play/a0ac/index.m3u8
 #EXTINF:0 group-title="ES",Divinity
-http://176.65.146.237:8401/play/a09q
+http://176.65.146.237:8401/play/a09q/index.m3u8
 #EXTINF:0 group-title="ES",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0 group-title="ES",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0 group-title="ES",Squirrel Dos
-http://176.65.146.237:8401/play/a09i
+http://176.65.146.237:8401/play/a09i/index.m3u8
 #EXTINF:0 group-title="ES",a3series
-http://176.65.146.237:8401/play/a0ai
+http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:0 group-title="ES",Boing ES
-http://176.65.146.237:8401/play/a0ad
+http://176.65.146.237:8401/play/a0ad/index.m3u8
 #EXTINF:0 group-title="ES",Andalucia TV
-http://176.65.146.237:8401/play/a09g/
+http://176.65.146.237:8401/play/a09g/index.m3u8
 #EXTINF:0 group-title="ES",Trece
-http://176.65.146.237:8401/play/a0a9
+http://176.65.146.237:8401/play/a0a9/index.m3u8
 #EXTINF:0 group-title="ES",DKISS
-http://176.65.146.237:8401/play/a09y
+http://176.65.146.237:8401/play/a09y/index.m3u8
 #EXTINF:0 group-title="ES",Clan
-http://176.65.146.237:8401/play/a09t
+http://176.65.146.237:8401/play/a09t/index.m3u8
 #EXTINF:0 group-title="ES",BeMad tv HD
-http://176.65.146.237:8401/play/a0aj
+http://176.65.146.237:8401/play/a0aj/index.m3u8
 #EXTINF:0 group-title="ES",DMAX ES
-http://176.65.146.237:8401/play/a09j
+http://176.65.146.237:8401/play/a09j/index.m3u8
 #EXTINF:0 group-title="ES",3CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0 group-title="ES",3CAT Info
@@ -564,7 +564,7 @@ https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.
 #EXTINF:0 group-title="Vari",Radio Radio
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
 #EXTINF:0 group-title="Vari",byoblu
-https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/master.m3u8
+https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/chunklist_b3128000.m3u8
 #EXTINF:0 group-title="Vari",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Euro TV
