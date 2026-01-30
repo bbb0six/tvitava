@@ -916,7 +916,7 @@ https://fl1.moveonjoy.com/CBS/index.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 group-title="USA",Cinemax East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:0 group-title="USA",CNN
+#EXTINF:0 group-title="USA",CNN USA
 https://fl1.moveonjoy.com/CNN/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
@@ -1275,14 +1275,14 @@ https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 #EXTINF:0 group-title="IL",KAN EDU
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
-#EXTINF:0 group-title="IL",KAN 11
+#EXTINF:0 group-title="IL",KAN WEB
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:0 group-title="IL",i24 News
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 group-title="EU",CNN
+http://dvr2.kablova.tv/CNN/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://dvr1.kablova.tv/CT1/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1323,10 +1323,6 @@ http://dvr2.kablova.tv/Eurosport_1/index.m3u8
 http://dvr2.kablova.tv/Eurosport_2/index.m3u8
 #EXTINF:-1 group-title="CZ",Sport 1
 http://dvr2.kablova.tv/Sport1/index.m3u8
-#EXTINF:-1 group-title="EU",CNN
-http://dvr2.kablova.tv/CNN/index.m3u8
-#EXTINF:-1 group-title="EU",MTV EU
-http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="AM",ARM TV1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1339,48 +1335,52 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="PS",Musawa
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 group-title="-",_
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/playlist.m3u8
-#EXTINF:-1 group-title="-",_
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="-",_
-https://list.iptvcat.com/my_list/s/9f62f66e571699d2811398cb29d1ab01.m3u8
-#EXTINF:0 group-title="test",Pro7
-http://5.180.164.5:9981/stream/channelid/828295634?profile=Customer
-#EXTINF:0 group-title="test",Pro7 Maxx
-http://5.180.164.5:9981/stream/channelid/1716953389?profile=Customer
-#EXTINF:0 group-title="test",Sat1
-http://5.180.164.5:9981/stream/channelid/1781244157?profile=Customer
-#EXTINF:0 group-title="test",Sat1 Gold
+#EXTINF:-1 group-title="IL",Sport 1
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 2
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 3
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 4
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 5
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 6
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="IL",ONE 1
+http://185.132.134.159:80/one/index.m3u8
+#EXTINF:-1 group-title="IL",ONE 2
+http://185.132.134.159:80/one2/index.m3u8
+#EXTINF:-1 group-title="IL",HOT 3
+http://185.132.134.159:80/hot3/index.m3u8
+#EXTINF:-1 group-title="IL",KAN 11
+http://185.132.134.159:80/kan11/index.m3u8
+#EXTINF:-1 group-title="IL",Keshet 12
+http://185.132.134.159:80/keshet12/index.m3u8
+#EXTINF:-1 group-title="IL",Reshet 13
+http://185.132.134.159:80/reshet13/index.m3u8
+#EXTINF:0 group-title="-",_
 http://5.180.164.5:9981/stream/channelid/971825738?profile=Customer
-#EXTINF:-1 group-title="-",_
-http://92.118.251.84:8080/stv/index.m3u8
-#EXTINF:-1 group-title="-",_
-http://95.216.97.235:7777/ITV1
-#EXTINF:-1 group-title="-",_
-http://45.90.106.7:9790/play/JtS1098K5@T4V
-#EXTINF:-1 group-title="-",_
-http://45.90.106.7:9790/play/GqLu6281K5@T2N
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
-#EXTINF:0 group-title="-",MTV Global
+#EXTINF:0 group-title="-",MTV EU
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:0 group-title="-",MTV France
+#EXTINF:0 group-title="-",MTV FR
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:-1 group-title="-",MTV Germany
+#EXTINF:-1 group-title="-",MTV DE
 http://157.143.44.195/play/a06h
-#EXTINF:-1 group-title="-",MTV Latino HD
+#EXTINF:-1 group-title="-",MTV LA HD
 http://45.173.75.4:2061/play/a09g
-#EXTINF:-1 group-title="-",MTV Latino SD
+#EXTINF:-1 group-title="-",MTV LA SD
 http://148.222.225.136:8004/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Music",MTV Japan
+#EXTINF:-1 group-title="Music",MTV JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="Music",MTV Live
+#EXTINF:-1 group-title="Music",MTV Live 1
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="Music",MTV Live 2
 http://84.17.40.25/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="-",_
-http://95.47.155.244:8001/play/a021
+http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
@@ -1639,7 +1639,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTINF:0 group-title="test",La7 dvr
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",793
-http://157.143.44.195/play/a0fq
+http://79.127.207.193:80/TVKoper/playlist.m3u8
 #EXTINF:-1 group-title="test",794
 https://uvotv.zappr.stream/101.m3u8
 #EXTINF:-1 group-title="test",795
