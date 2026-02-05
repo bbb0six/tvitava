@@ -1041,8 +1041,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:0,500
-https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0,CNN ESPAÑOL
+http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
 #EXTINF:0,ESPN 1 ES
 http://138.121.15.230:9001/ESPN/index.m3u8
 #EXTINF:0,ESPN 2 ES
@@ -1058,11 +1058,11 @@ http://138.121.15.230:9001/ESPN-6/index.m3u8
 #EXTINF:0,ESPN 7 ES
 http://138.121.15.230:9001/ESPN-7/index.m3u8
 #EXTINF:-1 group-title="-",508
-http://ip1.orgip.net/202/video.m3u8?token=Ceba8e4412
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="-",509
-http://ip1.orgip.net/203/video.m3u8?token=Ceba8e4412
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="-",510
-http://ip1.orgip.net/204/video.m3u8?token=Ceba8e4412
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=tvqBYZSvuq
 #EXTINF:-1 group-title="star",511
 http://45.5.117.57:5550/play/a04g/index.m3u8
 #EXTINF:-1 group-title="star",512
@@ -1077,68 +1077,68 @@ http://45.5.117.57:5550/play/a04f/index.m3u8
 http://45.5.117.57:5550/play/a04j/index.m3u8
 #EXTINF:-1 group-title="star",517
 http://45.5.117.57:5550/play/a031/index.m3u8
-#EXTINF:-1 group-title="sports",ESPN Premium
-http://38.44.109.41:8003/play/a02m
-#EXTINF:-1 group-title="sports",ESPN2_MOD
-http://38.44.109.41:8003/play/a03u
-#EXTINF:-1 group-title="sports",ESPN3_MOD
-http://38.44.109.41:8003/play/a03v
-#EXTINF:-1 group-title="sports",ESPN5_MOD
-http://38.44.109.41:8003/play/a03w
-#EXTINF:-1 group-title="sports",ESPNPremium_MOD
-http://38.44.109.41:8003/play/a03y
-#EXTINF:0,group-title="sports",ESPN TWC
-http://181.118.156.46:8000/play/a04g/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 1 TWC
-http://181.118.156.46:8000/play/a04h/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 2 TWC 
-http://181.118.156.46:8000/play/a04i/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 3 TWC  
-http://181.118.156.46:8000/play/a04j/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 4 TWC   
-http://181.118.156.46:8000/play/a04k/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 5 TWC   
-http://181.118.156.46:8000/play/a04l/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 6 TWC  
-http://181.118.156.46:8000/play/a04m/index.m3u8
-#EXTINF:0,group-title="sports",ESPN 7 TWC   
-http://181.118.156.46:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="hn",ESPN
-http://181.189.241.114:5050/play/a07l
-#EXTINF:-1 group-title="hn",ESPN 2
-http://181.189.241.114:5050/play/a06k
-#EXTINF:-1 group-title="hn",ESPN 2
-http://181.189.241.114:5050/play/a0q3
-#EXTINF:-1 group-title="hn",ESPN 3
-http://181.189.241.114:5050/play/a07e
-#EXTINF:-1 group-title="hn",ESPN 3 HD
-http://181.189.241.114:5050/play/a0pp
-#EXTINF:-1 group-title="hn",ESPN 4HD
-http://181.189.241.114:5050/play/a06l
-#EXTINF:-1 group-title="hn",ESPN 4
-http://181.189.241.114:5050/play/a0po
-#EXTINF:-1 group-title="hn",ESPN 6HD
-http://181.189.241.114:5050/play/a0pq
-#EXTINF:-1 group-title="hn",ESPN 7HD
-http://181.189.241.114:5050/play/a0bw
-#EXTINF:-1 group-title="hn",ESPN HD
-http://181.189.241.114:5050/play/a0q6
-#EXTINF:-1 group-title="-",541
-http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:-1 group-title="-",542
-http://179.60.51.134:8888/ESPN2/index.m3u8
-#EXTINF:-1 group-title="-",543
-http://179.60.51.134:8888/ESPN3/index.m3u8
-#EXTINF:-1 group-title="-",544
-http://179.60.51.134:8888/ESPN4/index.m3u8
-#EXTINF:-1 group-title="-",545
+#EXTINF:-1 group-title="-",518
+http://ip1.orgip.net/202/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="-",519
+http://ip1.orgip.net/203/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="-",520
+http://ip1.orgip.net/204/video.m3u8?token=Ceba8e4412
+#EXTINF:-1 group-title="sports",521
+http://38.44.109.41:8003/play/a03x/index.m3u8
+#EXTINF:-1 group-title="sports",522
+http://38.44.109.41:8003/play/a03u/index.m3u8
+#EXTINF:-1 group-title="sports",523
+http://38.44.109.41:8003/play/a03v/index.m3u8
+#EXTINF:-1 group-title="sports",524
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:-1 group-title="sports",525
+http://38.44.109.41:8003/play/a03z/index.m3u8
+#EXTINF:-1 group-title="sports",526
+http://38.44.109.41:8003/play/a03y/index.m3u8
+#EXTINF:-1 group-title="sports",527
 http://38.49.128.38:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",546
+#EXTINF:-1 group-title="sports",528
 http://38.49.128.38:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="-",547
+#EXTINF:-1 group-title="sports",529
 http://38.49.128.38:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="-",548
+#EXTINF:-1 group-title="sports",530
 http://38.49.128.38:8000/play/a0kf/index.m3u8
+#EXTINF:-1 group-title="sports",531
+http://179.1.146.22:8000/play/a0hk/index.m3u8
+#EXTINF:-1 group-title="sports",532
+http://179.1.146.22:8000/play/a0hf/index.m3u8
+#EXTINF:-1 group-title="sports",533
+http://179.1.146.22:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="sports",534
+http://179.1.146.22:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="sports",535
+http://179.1.146.22:8000/play/a0kv/index.m3u8
+#EXTINF:-1 group-title="sports",536
+http://179.1.146.22:8000/play/a0kp/index.m3u8
+#EXTINF:-1 group-title="sports",537
+http://179.1.146.22:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="sports",538
+http://179.1.146.22:8000/play/a0ho/index.m3u8
+#EXTINF:-1 group-title="sports",539
+http://179.1.146.22:8000/play/a0js/index.m3u8
+#EXTINF:-1 group-title="sports",540
+http://179.1.146.22:8000/play/a0jt/index.m3u8
+#EXTINF:-1 group-title="sports",541
+http://179.1.146.22:8000/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="sports",542
+http://179.1.146.22:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="sports",543
+http://179.1.146.22:8000/play/a0kn/index.m3u8
+#EXTINF:-1 group-title="-",544
+http://179.60.51.134:8888/ESPN/index.m3u8
+#EXTINF:-1 group-title="-",545
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 group-title="-",546
+http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1 group-title="-",547
+http://179.60.51.134:8888/ESPN4/index.m3u8
+#EXTINF:0,548
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0,549
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:0,550
@@ -1228,16 +1228,16 @@ http://45.173.75.4:2061/play/a09g
 http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:0 group-title="Adria",Eurosport 2
 http://23.88.66.93/Eurosport2/index.m3u8
-#EXTINF:-1,593
-http://185.207.34.31:8000/play/a018/index.m3u8
-#EXTINF:-1,594
-http://185.207.34.31:8000/play/a01t/index.m3u8
-#EXTINF:-1,595
-http://185.207.34.31:8000/play/a00l/index.m3u8
-#EXTINF:0,596
-http://185.207.34.31:8000/play/21229/index.m3u8
+#EXTINF:-1,bbvipal ch1
+http://79.127.207.193/BigBrotherAlbania1/playlist.m3u8
+#EXTINF:-1,bbvipal ch2
+http://79.127.207.193/BigBrotherAlbania2/playlist.m3u8
+#EXTINF:-1,bbvipks ch1
+http://79.127.207.193:80/BigBrother1/playlist.m3u8
+#EXTINF:-1,bbvipks ch2
+http://79.127.207.193:80/BigBrother2/playlist.m3u8
 #EXTINF:0,597
-http://185.207.34.31:8000/play/a00u/index.m3u8
+http://185.207.34.31:8000/play/a00l/index.m3u8
 #EXTINF:0,598
 http://185.207.34.31:8000/play/a01g/index.m3u8
 #EXTINF:0,599
