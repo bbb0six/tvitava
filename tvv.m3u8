@@ -335,7 +335,7 @@ https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
 #EXTINF:0 group-title="FR",RTL 9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="UK",BBC 1
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+http://176.65.146.99:4001/play/a08d/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:0 group-title="UK",BBC 3
@@ -1579,9 +1579,9 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://179.1.146.22:8000/play/a0kn/index.m3u8
+http://79.127.207.193:80/TVKoper/playlist.m3u8
 #EXTINF:0,769
-http://157.143.44.195/play/a0ci
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:0,770
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,771
@@ -1640,7 +1640,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTINF:0 group-title="test",La7 dvr
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",793
-http://79.127.207.193:80/TVKoper/playlist.m3u8
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:-1 group-title="test",794
 https://uvotv.zappr.stream/101.m3u8
 #EXTINF:-1 group-title="test",795
