@@ -1234,22 +1234,22 @@ http://79.127.207.193/BigBrotherAlbania1/playlist.m3u8
 http://79.127.207.193/BigBrotherAlbania2/playlist.m3u8
 #EXTINF:-1,bbvipks ch1
 http://79.127.207.193:80/BigBrother1/playlist.m3u8
-#EXTINF:-1,bbvipks ch2
-http://79.127.207.193:80/BigBrother2/playlist.m3u8
+#EXTINF:0,596
+http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0,597
 http://185.207.34.31:8000/play/a00l/index.m3u8
 #EXTINF:0,598
 http://185.207.34.31:8000/play/a01g/index.m3u8
 #EXTINF:0,599
 http://185.207.34.31:8000/play/a00d/index.m3u8
-#EXTINF:0 group-title="FR",TV5 MONDE
-http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:0 group-title="IT",RAI 1
-http://185.207.34.31:8000/play/a00g/index.m3u8
-#EXTINF:0 group-title="IT",RAI 2
-http://185.207.34.31:8000/play/a010/index.m3u8
-#EXTINF:0 group-title="IT",RAI 3
-http://185.207.34.31:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="CZ",Sport 1 CZ
+http://dvr2.kablova.tv/Sport1/index.m3u8
+#EXTINF:0 group-title="-",_
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:0 group-title="-",_
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:0 group-title="-",_
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 2
@@ -1274,10 +1274,10 @@ http://77.137.40.221:8000/play/a018
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
 http://77.137.40.221:8000/play/a00y
-#EXTINF:0 group-title="IL",KAN EDU
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/source1_2.5k/chunklist.m3u8
+#EXTINF:0 group-title="IL",9TV
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="IL",KAN WEB
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
