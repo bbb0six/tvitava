@@ -215,7 +215,7 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:0 group-title="Music",Radio Ibiza TV
 https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
 #EXTINF:0 group-title="Music",Company TV
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
@@ -610,12 +610,12 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV Music
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:0 group-title="Vari",Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
 #EXTINF:0 group-title="Vari",Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/master.m3u8
 #EXTINF:0 group-title="Vari",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 group-title="Vari",TV33
-https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/index.m3u8
 #EXTINF:0 group-title="Vari",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="Vari",Orler TV
@@ -772,13 +772,13 @@ http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
 http://88.212.7.14/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:0 group-title="sk",Docu Box
+#EXTINF:0 group-title="-",Docu Box
 http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="sk",Fashion Box
+#EXTINF:0 group-title="-",Fashion Box
 http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="sk",Fast&Fun Box
+#EXTINF:0 group-title="-",Fast&Fun Box
 http://88.212.7.14/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="sk",Film Box Arthouse
+#EXTINF:0 group-title="-",Film Box Arthouse
 http://88.212.7.14/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0 group-title="FR",France 24 FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
@@ -844,11 +844,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
-http://169.150.223.25/Rai1/index.m3u8
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
 http://169.150.223.25/Rai2/index.m3u8
 #EXTINF:0 group-title="i",Rai 3 SAT
-http://169.150.223.25/Rai3/index.m3u8
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia LA
@@ -1167,11 +1167,11 @@ http://58.65.205.171:8000/play/a064
 #EXTINF:-1,group-title="-",561
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1,group-title="-",562
-http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
-#EXTINF:-1,group-title="-",563
-http://169.150.223.25/Eurosport1HD/index.m3u8
-#EXTINF:-1,group-title="-",564
 http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1,group-title="-",563
+http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
+#EXTINF:-1,group-title="-",564
+http://38.250.127.17:9800/play/a0b3/index.m3u8
 #EXTINF:-1,group-title="-",565
 http://169.150.223.25/Rai1/index.m3u8
 #EXTINF:-1,group-title="-",566
