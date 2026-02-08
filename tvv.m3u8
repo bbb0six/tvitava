@@ -863,8 +863,6 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:0 group-title="World",1+1 Марафон
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:0 group-title="World",CCTV 4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
 #EXTINF:0 group-title="World",CGTN
@@ -883,12 +881,12 @@ http://88.212.7.14/live/test_nhk/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="World",MTV Global
+http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="World",Eurosport 1
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
 http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="World",MTV Global
-http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="USA",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
@@ -991,6 +989,8 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Nick JR
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:0 group-title="USA",OAN
+http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:0 group-title="USA",Paramount
@@ -1062,7 +1062,7 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0,SPORT 2 CZ
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="-",510
-http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=tvqBYZSvuq
+http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="star",511
 http://45.5.117.57:5550/play/a04g/index.m3u8
 #EXTINF:-1 group-title="star",512
@@ -1165,7 +1165,7 @@ http://58.65.205.171:8000/play/a053
 #EXTINF:-1 group-title="-",560
 http://58.65.205.171:8000/play/a064
 #EXTINF:-1,group-title="-",561
-http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
+http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1,group-title="-",562
 http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
 #EXTINF:-1,group-title="-",563
@@ -1175,9 +1175,9 @@ http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1,group-title="-",565
 http://169.150.223.25/Rai1/index.m3u8
 #EXTINF:-1,group-title="-",566
-http://169.150.223.25/Rai2/index.m3u8
+http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
 #EXTINF:-1,group-title="-",567
-http://169.150.223.25/Rai3/index.m3u8
+http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
 #EXTINF:-1,group-title="-",568
 http://169.150.223.25/TopChannel/index.m3u8
 #EXTINF:-1,group-title="-",569
@@ -1218,38 +1218,92 @@ http://45.173.75.4:2061/play/a01r
 http://45.173.75.4:2061/play/a017
 #EXTINF:0 group-title="PP",ESPN 7
 http://45.173.75.4:2061/play/a016
-#EXTINF:0 group-title="PP",ESPN
-http://45.173.75.4:2061/play/a0b0
+#EXTINF:0 group-title="PP",ESPN 8
+http://45.173.75.4:2061/play/a0b2
 #EXTINF:0 group-title="PP",America TV
 http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:0 group-title="Adria",Eurosport 1
-http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:0 group-title="Adria",Eurosport 2
-http://23.88.66.93/Eurosport2/index.m3u8
-#EXTINF:0,593
-http://79.127.207.193/BigBrotherAlbania1/playlist.m3u8
-#EXTINF:0,594
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:0,595
-http://185.207.34.31:8000/play/a00l/index.m3u8
-#EXTINF:0,596
-http://185.207.34.31:8000/play/a00q/index.m3u8
-#EXTINF:0,597
-http://185.207.34.31:8000/play/a00d/index.m3u8
-#EXTINF:0,598
-http://185.207.34.31:8000/play/a01g/index.m3u8
-#EXTINF:0,599
+#EXTINF:-1 group-title="IL",Sport 1
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 2
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 3
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 4
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 5
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 6
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="IL",ONE 1
+http://185.132.134.159:80/one/index.m3u8
+#EXTINF:-1 group-title="IL",ONE 2
+http://185.132.134.159:80/one2/index.m3u8
+#EXTINF:-1 group-title="EU",MTV EU
+http://dvr2.kablova.tv/MTV/index.m3u8
+#EXTINF:-1 group-title="EU",CNN EU
+http://dvr2.kablova.tv/CNN/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT1
+http://dvr1.kablova.tv/CT1/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT2
+http://dvr1.kablova.tv/CT2/index.m3u8
+#EXTINF:-1 group-title="CZ",ČT24
+http://dvr2.kablova.tv/CT24/index.m3u8
+#EXTINF:-1 group-title="CZ",ČTSport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="CZ",Sport 1 CZ
+#EXTINF:-1 group-title="CZ",ČTArt
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Nova CZ
+http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Prima CZ
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Eurosport 1
+http://dvr2.kablova.tv/Eurosport_1/index.m3u8
+#EXTINF:-1 group-title="CZ",Eurosport 2
+http://dvr2.kablova.tv/Eurosport_2/index.m3u8
+#EXTINF:-1 group-title="CZ",Sport 1
 http://dvr2.kablova.tv/Sport1/index.m3u8
-#EXTINF:0 group-title="-",_
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:-1 group-title="SK",STV1 Jednotka
+http://dvr4.kablova.tv/STV1/index.m3u8
+#EXTINF:-1 group-title="SK",STV2 Dvojka
+http://dvr3.kablova.tv/STV2/index.m3u8
+#EXTINF:-1 group-title="SK",STV3 Trojka
+http://dvr2.kablova.tv/STV3/index.m3u8
+#EXTINF:-1 group-title="SK",Markíza
+http://dvr1.kablova.tv/Markiza/index.m3u8
+#EXTINF:-1 group-title="SK",TA3
+http://dvr1.kablova.tv/TA3/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ
+http://dvr4.kablova.tv/JOJ/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ Sport 1
+http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
+#EXTINF:-1 group-title="SK",JOJ Sport 2
+http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
+#EXTINF:-1 group-title="HU",ATV HU
+http://dvr2.kablova.tv/ATV/index.m3u8
+#EXTINF:-1 group-title="HU",TV2 HU
+http://dvr4.kablova.tv/TV2/index.m3u8
+#EXTINF:-1 group-title="HU",M1 HU
+http://dvr4.kablova.tv/M1/index.m3u8
+#EXTINF:-1 group-title="HU",M2 HU
+http://dvr4.kablova.tv/M2/index.m3u8
+#EXTINF:-1 group-title="HU",Duna TV
+http://dvr1.kablova.tv/DUNA/index.m3u8
+#EXTINF:-1 group-title="HU",M4 Sport
+http://dvr1.kablova.tv/M4/index.m3u8
+#EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:0 group-title="-",_
-https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:-1 group-title="HU",AXN HU
+http://dvr1.kablova.tv/AXN/index.m3u8
+#EXTINF:-1 group-title="SK",AMC SK
+http://dvr4.kablova.tv/AMC/index.m3u8
+#EXTINF:-1 group-title="CZ",Jim Jam CZ
+http://dvr1.kablova.tv/JimJam/index.m3u8
+#EXTINF:0 group-title="UA",1+1 Марафон
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:0 group-title="NL",BBC NL
+http://185.207.34.31:8000/play/21168/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 2
@@ -1264,6 +1318,12 @@ http://185.207.34.31:8000/play/7056/index.m3u8
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
+#EXTINF:0 group-title="IL",KAN WEB
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",9TV
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
+#EXTINF:0 group-title="IL",MAKAN 33
+http://77.137.40.221:8000/play/a00y
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
@@ -1272,58 +1332,10 @@ http://77.137.40.221:8000/play/a017
 http://77.137.40.221:8000/play/a018
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN 33
-http://77.137.40.221:8000/play/a00y
-#EXTINF:0 group-title="IL",9TV
-https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",KAN WEB
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:-1 group-title="EU",CNN
-http://dvr2.kablova.tv/CNN/index.m3u8
-#EXTINF:-1 group-title="CZ",ČT1
-http://dvr1.kablova.tv/CT1/index.m3u8
-#EXTINF:-1 group-title="CZ",ČT2
-http://dvr1.kablova.tv/CT2/index.m3u8
-#EXTINF:-1 group-title="CZ",ČT24
-http://dvr2.kablova.tv/CT24/index.m3u8
-#EXTINF:-1 group-title="SK",STV1
-http://dvr4.kablova.tv/STV1/index.m3u8
-#EXTINF:-1 group-title="SK",STV2
-http://dvr3.kablova.tv/STV2/index.m3u8
-#EXTINF:-1 group-title="SK",TA3
-http://dvr1.kablova.tv/TA3/index.m3u8
-#EXTINF:-1 group-title="SK",TV Markíza
-http://dvr1.kablova.tv/Markiza/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ
-http://dvr4.kablova.tv/JOJ/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ Sport 1
-http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ Sport 2
-http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
-#EXTINF:-1 group-title="HU",M1 HU
-http://dvr4.kablova.tv/M1/index.m3u8
-#EXTINF:-1 group-title="HU",M2 HU
-http://dvr4.kablova.tv/M2/index.m3u8
-#EXTINF:-1 group-title="HU",Duna TV
-http://dvr1.kablova.tv/DUNA/index.m3u8
-#EXTINF:-1 group-title="HU",M4 Sport
-http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 group-title="HU",TV2 HU
-http://dvr4.kablova.tv/TV2/index.m3u8
-#EXTINF:-1 group-title="HU",ATV HU
-http://dvr2.kablova.tv/ATV/index.m3u8
-#EXTINF:-1 group-title="CZ",Jim Jam CZ
-http://dvr1.kablova.tv/JimJam/index.m3u8
-#EXTINF:-1 group-title="CZ",Eurosport 1
-http://dvr2.kablova.tv/Eurosport_1/index.m3u8
-#EXTINF:-1 group-title="CZ",Eurosport 2
-http://dvr2.kablova.tv/Eurosport_2/index.m3u8
-#EXTINF:-1 group-title="CZ",Sport 1 CZ
-http://dvr2.kablova.tv/Sport1/index.m3u8
 #EXTINF:0 group-title="AM",ARM TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1338,10 +1350,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 group-title="IL",ONE 1
-http://185.132.134.159:80/one/index.m3u8
-#EXTINF:-1 group-title="IL",ONE 2
-http://185.132.134.159:80/one2/index.m3u8
 #EXTINF:-1 group-title="IL",HOT 3
 http://185.132.134.159:80/hot3/index.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
@@ -1350,18 +1358,10 @@ http://185.132.134.159:80/kan11/index.m3u8
 http://185.132.134.159:80/keshet12/index.m3u8
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 1
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 2
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 3
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 4
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 5
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 6
-http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="-",658
+http://185.207.34.31:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",659
+http://185.207.34.31:8000/play/a01g/index.m3u8
 #EXTINF:0 group-title="-",MTV EU
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="-",MTV FR
@@ -1655,4 +1655,3 @@ https://uvotv.zappr.stream/281.m3u8
 https://uvotv.zappr.stream/293.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
-
