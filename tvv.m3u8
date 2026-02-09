@@ -887,16 +887,14 @@ http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
 http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
-#EXTINF:0 group-title="USA",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://fl1.moveonjoy.com/ANE/index.m3u8
+#EXTINF:0 group-title="USA",ABC 7
+http://fl1.moveonjoy.com/ABC/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 group-title="USA",ABC EAST
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",AMC NETWORK
@@ -915,6 +913,8 @@ https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:0 group-title="USA",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="USA",Cinemax East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
@@ -963,8 +963,6 @@ https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:0 group-title="USA",MSNBC
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -1036,7 +1034,9 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",FOX NEWS
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+http://186.33.181.166:9981/play/a1ft
+#EXTINF:0 group-title="USA",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
@@ -1057,11 +1057,11 @@ http://138.121.15.230:9001/ESPN-5/index.m3u8
 http://138.121.15.230:9001/ESPN-6/index.m3u8
 #EXTINF:0,ESPN 7 ES
 http://138.121.15.230:9001/ESPN-7/index.m3u8
-#EXTINF:0,SPORT 1 CZ
+#EXTINF:0,SPORT 1 SK
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:0,SPORT 2 CZ
+#EXTINF:0,SPORT 2 SK
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 group-title="-",510
+#EXTINF:0,M4 SPORT HU
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="star",511
 http://45.5.117.57:5550/play/a04g/index.m3u8
@@ -1314,16 +1314,16 @@ http://185.207.34.31:8000/play/21040/index.m3u8
 http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 2
 http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0 group-title="BE",VTM 3
+http://185.207.34.31:8000/play/21120/index.m3u8
+#EXTINF:0 group-title="BE",VTM 4
+http://185.207.34.31:8000/play/21122/index.m3u8
 #EXTINF:0 group-title="BE",VRT 1
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
 #EXTINF:0 group-title="IL",KAN WEB
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",9TV
-https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN 33
-http://77.137.40.221:8000/play/a00y
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
@@ -1332,6 +1332,10 @@ http://77.137.40.221:8000/play/a017
 http://77.137.40.221:8000/play/a018
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",MAKAN 33
+http://77.137.40.221:8000/play/a00y
+#EXTINF:0 group-title="IL",9TV
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
@@ -1358,10 +1362,6 @@ http://185.132.134.159:80/kan11/index.m3u8
 http://185.132.134.159:80/keshet12/index.m3u8
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/index.m3u8
-#EXTINF:-1 group-title="-",658
-http://185.207.34.31:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",659
-http://185.207.34.31:8000/play/a01g/index.m3u8
 #EXTINF:0 group-title="-",MTV EU
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="-",MTV FR
