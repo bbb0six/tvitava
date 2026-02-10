@@ -884,9 +884,9 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="World",MTV Global
 http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="World",Eurosport 1
-http://178.23.88.55/Eurosport_1/tracks-v1a2/mono.m3u8
+http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
-http://178.23.88.55/Eurosport_2/tracks-v1a2/mono.m3u8
+http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",A&E
@@ -1258,12 +1258,12 @@ http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Prima CZ
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="CZ",Eurosport 1
-http://dvr2.kablova.tv/Eurosport_1/index.m3u8
-#EXTINF:-1 group-title="CZ",Eurosport 2
-http://dvr2.kablova.tv/Eurosport_2/index.m3u8
-#EXTINF:-1 group-title="CZ",Sport 1
-http://dvr2.kablova.tv/Sport1/index.m3u8
+#EXTINF:-1 group-title="CZ",Prima Love CZ
+http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Kanal 1 CZ
+https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="CZ",A11 CZ
+http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV1 Jednotka
 http://dvr4.kablova.tv/STV1/index.m3u8
 #EXTINF:-1 group-title="SK",STV2 Dvojka
@@ -1272,9 +1272,9 @@ http://dvr3.kablova.tv/STV2/index.m3u8
 http://dvr2.kablova.tv/STV3/index.m3u8
 #EXTINF:-1 group-title="SK",Markíza
 http://dvr1.kablova.tv/Markiza/index.m3u8
-#EXTINF:-1 group-title="SK",TA3
+#EXTINF:-1 group-title="SK",TA3 SK
 http://dvr1.kablova.tv/TA3/index.m3u8
-#EXTINF:-1 group-title="SK",JOJ
+#EXTINF:-1 group-title="SK",JOJ SK
 http://dvr4.kablova.tv/JOJ/index.m3u8
 #EXTINF:-1 group-title="SK",JOJ Sport 1
 http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
@@ -1291,7 +1291,7 @@ http://dvr4.kablova.tv/M2/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
 http://dvr1.kablova.tv/DUNA/index.m3u8
 #EXTINF:-1 group-title="HU",M4 Sport
-http://dvr1.kablova.tv/M4/index.m3u8
+http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="HU",AXN HU
@@ -1519,7 +1519,7 @@ http://157.143.44.195/play/a0fa
 #EXTINF:0,737
 http://88.212.7.14/live/test_tv7/playlist.m3u8
 #EXTINF:0,738
-http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
+http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:0,739
 http://88.212.7.14/live/test_tv9/playlist.m3u8
 #EXTINF:0,740
@@ -1529,9 +1529,9 @@ https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,742
 https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
-https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:0,744
-http://88.212.7.14/live/test_batv/playlist.m3u8
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,745
 http://88.212.7.14/live/test_regio_tv/playlist.m3u8
 #EXTINF:0,746
