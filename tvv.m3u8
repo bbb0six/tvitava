@@ -501,7 +501,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
-http://45.164.151.197:8000/play/a0h0/index.m3u8
+http://45.5.117.57:5550/play/a01u/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
@@ -881,8 +881,8 @@ http://88.212.7.14/live/test_nhk/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="World",MTV Global
-http://178.23.88.55/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="World",CNN EU
+http://178.23.88.55/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="World",Eurosport 1
 http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
@@ -890,9 +890,9 @@ http://23.88.66.93/Eurosport2/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",A&E
-http://fl1.moveonjoy.com/ANE/index.m3u8
+http://fl2.moveonjoy.com/ANE/index.m3u8
 #EXTINF:0 group-title="USA",ABC 7
-http://fl1.moveonjoy.com/ABC/index.m3u8
+http://fl2.moveonjoy.com/ABC/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",ACC NETWORK
@@ -904,9 +904,9 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",BET
-https://fl1.moveonjoy.com/BET/index.m3u8
+https://fl2.moveonjoy.com/BET/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
-https://fl1.moveonjoy.com/BRAVO/index.m3u8
+http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:0 group-title="USA",C SPAN
 https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:0 group-title="USA",CBS East
@@ -966,9 +966,9 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-https://fl1.moveonjoy.com/MTV_2/index.m3u8
+http://84.17.40.25/MTV_2/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
-https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+http://84.17.40.25/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
