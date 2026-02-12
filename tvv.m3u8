@@ -830,19 +830,18 @@ http://176.65.146.100:8026/play/a06j/index.m3u8
 http://176.65.146.100:8025/play/a07i/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat2
 http://176.65.146.100:8025/play/a07s/index.m3u8
-#EXTINF:0 group-title="Music",MuzTV RU
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://178.124.179.122:8080/MuzTV/index.m3u8
-#EXTINF:0 group-title="Music",MTV JP
-https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:0 group-title="Music",Trace UK
+https://tvradiozap.eu/1261
+#EXTINF:0 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Music",MTV JP
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
@@ -1061,7 +1060,7 @@ http://138.121.15.230:9001/ESPN-7/index.m3u8
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0,SPORT 2 SK
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:0,M4 SPORT HU
+#EXTINF:0,510
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="star",511
 http://45.5.117.57:5550/play/a04g/index.m3u8
@@ -1245,11 +1244,11 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:-1 group-title="EU",CNN EU
 http://dvr2.kablova.tv/CNN/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
-http://dvr1.kablova.tv/CT1/index.m3u8
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
-http://dvr1.kablova.tv/CT2/index.m3u8
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT24
-http://dvr2.kablova.tv/CT24/index.m3u8
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČTSport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČTArt
@@ -1265,31 +1264,31 @@ https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="CZ",A11 CZ
 http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV1 Jednotka
-http://dvr4.kablova.tv/STV1/index.m3u8
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV2 Dvojka
-http://dvr3.kablova.tv/STV2/index.m3u8
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV3 Trojka
-http://dvr2.kablova.tv/STV3/index.m3u8
+http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Markíza
-http://dvr1.kablova.tv/Markiza/index.m3u8
+http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",TA3 SK
-http://dvr1.kablova.tv/TA3/index.m3u8
+http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
-http://dvr4.kablova.tv/JOJ/index.m3u8
+http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Televízia Slovensko
+http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ Sport 1
 http://dvr2.kablova.tv/JOJ_Sport/index.m3u8
 #EXTINF:-1 group-title="SK",JOJ Sport 2
 http://dvr3.kablova.tv/JOJ_Sport_2/index.m3u8
-#EXTINF:-1 group-title="HU",ATV HU
-http://dvr2.kablova.tv/ATV/index.m3u8
 #EXTINF:-1 group-title="HU",TV2 HU
 http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:-1 group-title="HU",M1 HU
 http://dvr4.kablova.tv/M1/index.m3u8
 #EXTINF:-1 group-title="HU",M2 HU
-http://dvr4.kablova.tv/M2/index.m3u8
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
-http://dvr1.kablova.tv/DUNA/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 #EXTINF:-1 group-title="HU",M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
@@ -1535,9 +1534,9 @@ https://dash2.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:0,745
 http://88.212.7.14/live/test_regio_tv/playlist.m3u8
 #EXTINF:0,746
-http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:0,747
 http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:0,747
+http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0,748
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,749
