@@ -257,7 +257,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="IT",LA7
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
-https://uvotv.zappr.stream/269.m3u8
+http://157.143.44.195/play/a0eg
 #EXTINF:0 group-title="IT",NOVE
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -271,7 +271,7 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 #EXTINF:0 group-title="News",RAI NEWS 24
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
-https://uvotv.zappr.stream/293.m3u8
+http://157.143.44.195/play/a0dd
 #EXTINF:0 group-title="News",SKY NEWS
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",BBC NEWS
@@ -1239,9 +1239,9 @@ http://185.132.134.159:80/sport6/index.m3u8
 http://185.132.134.159:80/one/index.m3u8
 #EXTINF:-1 group-title="IL",ONE 2
 http://185.132.134.159:80/one2/index.m3u8
-#EXTINF:-1 group-title="EU",MTV EU
+#EXTINF:-1 group-title="EU",599
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:-1 group-title="EU",CNN EU
+#EXTINF:-1 group-title="EU",600
 http://dvr2.kablova.tv/CNN/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
