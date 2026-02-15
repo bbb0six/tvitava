@@ -446,7 +446,8 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveintern
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 group-title="ES",La 2
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/111.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 group-title="ES",Antena3
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/112.m3u8
 #EXTINF:0 group-title="ES",Cuatro
