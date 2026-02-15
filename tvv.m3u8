@@ -1165,24 +1165,24 @@ http://58.65.205.171:8000/play/a042
 http://58.65.205.171:8000/play/a053
 #EXTINF:-1 group-title="-",560
 http://58.65.205.171:8000/play/a064
-#EXTINF:-1,group-title="-",561
-http://169.150.223.25/Eurosport1HD/index.m3u8
-#EXTINF:-1,group-title="-",562
-http://169.150.223.25/Eurosport2HD/index.m3u8
-#EXTINF:-1,group-title="-",563
-http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
-#EXTINF:-1,group-title="-",564
-http://38.250.127.17:9800/play/a0b3/index.m3u8
-#EXTINF:-1,group-title="-",565
-http://169.150.223.25/Rai1/index.m3u8
-#EXTINF:-1,group-title="-",566
-http://178.33.11.6:8696/live/rtvteutaott/playlist.m3u8
+#EXTINF:-1,561
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1,562
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1,563
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1,564
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1,565
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1,566
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1,group-title="-",567
 http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
 #EXTINF:-1,group-title="-",568
-http://169.150.223.25/TopChannel/index.m3u8
+http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1,group-title="-",569
-http://169.150.223.25/TopNews/index.m3u8
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 03 
 http://200.92.227.238:8000/play/a0pt/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 01 HD
@@ -1242,9 +1242,9 @@ http://185.132.134.159:80/one/index.m3u8
 #EXTINF:-1 group-title="IL",ONE 2
 http://185.132.134.159:80/one2/index.m3u8
 #EXTINF:-1 group-title="EU",599
-http://dvr2.kablova.tv/MTV/index.m3u8
+http://38.250.127.17:9800/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="EU",600
-http://169.150.223.25/Rai1/index.m3u8
+https://dash4.antik.sk/live/test_moldava/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
