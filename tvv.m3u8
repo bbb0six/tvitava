@@ -482,16 +482,16 @@ https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236536.ts
 #EXTINF:0 group-title="ES",a3series
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236395.ts
-#EXTINF:0 group-title="ES",Boing ES
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/131.m3u8
 #EXTINF:0 group-title="ES",Clan
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236535.ts
-#EXTINF:0 group-title="ES",Odisea
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236370.ts
-#EXTINF:0 group-title="ES",Trece
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/118.m3u8
-#EXTINF:0 group-title="ES",DKISS
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/159.m3u8
+#EXTINF:0 group-title="-",_
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+#EXTINF:0 group-title="-",_
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:0 group-title="-",_
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:0 group-title="-",_
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w341245661.m3u8
 #EXTINF:0 group-title="ES",BeMad tv HD
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236346.ts
 #EXTINF:0 group-title="ES",DMAX ES
