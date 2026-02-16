@@ -239,7 +239,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Mediaset",GF Live +1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Rai",Rai 4K (HbbTV)
+#EXTINF:0 group-title="Rai",Rai 4K
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
@@ -643,7 +643,7 @@ https://streamcdng18-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live
 #EXTINF:0 group-title="Vari",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
 http://217.73.139.200:5443/play/a00f
 #EXTINF:0 group-title="AL",RTSH 2
