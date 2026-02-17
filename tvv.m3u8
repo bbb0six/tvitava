@@ -549,8 +549,8 @@ http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236517.ts
 #EXTINF:0 group-title="ES",TEN
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236518.ts
-#EXTINF:0 group-title="Vari",Rock TV
-https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+#EXTINF:0 group-title="Vari",_
+http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="Vari",TeleFoggia
@@ -563,10 +563,10 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:0 group-title="Vari",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
-#EXTINF:0 group-title="Vari",CR1
-https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Primantenna
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:0 group-title="Vari",CR1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:0 group-title="Vari",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:0 group-title="Vari",Radio 24
@@ -1370,11 +1370,11 @@ http://185.132.134.159:80/kan11/index.m3u8
 http://185.132.134.159:80/keshet12/index.m3u8
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/index.m3u8
-#EXTINF:0 group-title="-",MTV EU
-http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:0 group-title="-",MTV FR
+#EXTINF:0 group-title="-",660
+http://58.147.140.106:4000/play/a0h4
+#EXTINF:0 group-title="-",661
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:-1 group-title="-",MTV DE
+#EXTINF:-1 group-title="-",662
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="-",663
 http://3paket5.com:8080/salvatores16/fS7g8mr/114688
@@ -1382,7 +1382,7 @@ http://3paket5.com:8080/salvatores16/fS7g8mr/114688
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/138.m3u8
 #EXTINF:-1 group-title="-",665
 http://23.88.66.93/Sat1/index.m3u8
-#EXTINF:-1 group-title="Music",MTV Japan
+#EXTINF:-1 group-title="-",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
