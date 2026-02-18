@@ -18,8 +18,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Cairo",LA7
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="Sky IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
@@ -27,19 +26,19 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="Svizzera",RSI La 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 group-title="Svizzera",RSI La 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 group-title="Svizzera",RTS 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 group-title="Svizzera",RTS 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 group-title="Svizzera",SRF Info
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold
@@ -1307,7 +1306,7 @@ http://dvr4.kablova.tv/AMC/index.m3u8
 #EXTINF:0 group-title="-",_
 http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 #EXTINF:0 group-title="-",_
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:0 group-title="NL",TV5 Monde Europe HD
 http://185.207.34.31:8000/play/a00q/index.m3u8
 #EXTINF:0 group-title="NL",BBC NL
@@ -1648,7 +1647,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forc
 #EXTINF:0 group-title="test",La7 dvr
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",793
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 group-title="test",794
 https://uvotv.zappr.stream/101.m3u8
 #EXTINF:-1 group-title="test",795
