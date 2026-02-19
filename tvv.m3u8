@@ -745,7 +745,7 @@ http://51.83.135.95/RTS3/index.m3u8
 #EXTINF:0 group-title="RS",TV PINK
 http://51.83.135.95/Pink/index.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c_output_0.m3u8
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",TVM Sport
 https://server.streammalta.com/memfs/fe8441fa-98a5-4b8d-b3ba-26ceb18864c3.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
@@ -1303,12 +1303,12 @@ http://88.212.15.19/live/m4_hun/index.m3u8
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="SK",AMC SK
 http://dvr4.kablova.tv/AMC/index.m3u8
-#EXTINF:0 group-title="-",_
-http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
-#EXTINF:0 group-title="-",_
-https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:0 group-title="HR",TV Koper
+http://79.127.207.193:80/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="NL",TV5 Monde Europe HD
 http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:0 group-title="UK",BBC UK
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 #EXTINF:0 group-title="NL",BBC NL
 http://185.207.34.31:8000/play/21168/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1
@@ -1586,9 +1586,9 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://79.127.207.193:80/TVKoper/playlist.m3u8
-#EXTINF:0,769
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+#EXTINF:0,769
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
 #EXTINF:0,770
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,771
@@ -1600,7 +1600,7 @@ https://d4k.it/hls/live3/live.m3u8
 #EXTINF:0,774
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
 #EXTINF:0,775
-http://nocable.cc:8080/5467546/3648794/212903
+https://cloudtv.azotosolutions.com:9553/politicaltv/politicaltv/manifest.mpd
 #EXTINF:0,776
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,777
@@ -1644,22 +1644,22 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 group-title="test",La7 dvr
+#EXTINF:0 group-title="test",La7 dvr 1
 https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 group-title="test",793
+#EXTINF:-1 group-title="test",La7 dvr 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 group-title="test",794
-https://uvotv.zappr.stream/101.m3u8
+http://213.3.8.156:4022/udp/224.100.2.1:1234
 #EXTINF:-1 group-title="test",795
-https://uvotv.zappr.stream/530.m3u8
+http://213.3.8.156:4022/udp/224.100.2.2:1234
 #EXTINF:-1 group-title="test",796
-https://uvotv.zappr.stream/257.m3u8
+http://213.3.8.156:4022/udp/224.100.2.3:1234
 #EXTINF:-1 group-title="test",797
-https://uvotv.zappr.stream/269.m3u8
+http://213.3.8.156:4022/udp/224.100.6.1:1234
 #EXTINF:-1 group-title="test",798
-https://uvotv.zappr.stream/281.m3u8
+http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 group-title="test",799
-https://uvotv.zappr.stream/293.m3u8
+http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 http://157.143.44.195/play/a0ci
