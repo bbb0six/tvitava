@@ -108,8 +108,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="Mediaset",Boing Plus
-https://uvotv.zappr.stream/101.m3u8
+#EXTINF:-1 group-title="-",_
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -509,10 +509,10 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 #EXTINF:0 group-title="DE",Blue Zoom FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-#EXTINF:0 group-title="Music",MTV Live USA
-http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:0 group-title="Music",MTV Japan
-https://nl.utako.moe/mtv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:0 group-title="AT",ATV
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
