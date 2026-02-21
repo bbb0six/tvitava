@@ -242,33 +242,33 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:0 group-title="IT",RAI 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:0 group-title="IT",RAI 3
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
 #EXTINF:0 group-title="IT",RETE 4
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:0 group-title="IT",CANALE 5
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:0 group-title="IT",ITALIA 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:0 group-title="IT",TV8
 http://157.143.44.195/play/a0eg
 #EXTINF:0 group-title="IT",NOVE
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:0 group-title="IT",RAI SPORT
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:0 group-title="IT",RAI STORIA
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:0 group-title="IT",RAI GULP
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0 group-title="News",RAI NEWS 24
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
 http://157.143.44.195/play/a0dd
 #EXTINF:0 group-title="News",SKY NEWS
@@ -447,8 +447,8 @@ https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 #EXTINF:0 group-title="AT",Servus TV
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
-#EXTINF:0 group-title="DE",ARTE DE
-https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="AT",ATV
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SIXX
@@ -459,8 +459,8 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",3sat
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:0 group-title="DE",ARTE DE
+https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:0 group-title="DE",ZDF
@@ -469,6 +469,8 @@ https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTINF:0 group-title="DE",ZDF neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:0 group-title="DE",3sat
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:0 group-title="DE",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTINF:0 group-title="DE",RTL 2
@@ -479,6 +481,8 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:0 group-title="DE",NITRO
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTINF:0 group-title="DE",ALPHA
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 #EXTINF:0 group-title="DE",BR
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-dash/brhdsud.mpd
 #EXTINF:0 group-title="DE",HR
@@ -495,14 +499,12 @@ https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
 https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
 #EXTINF:0 group-title="DE",KIKA
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
+#EXTINF:0 group-title="DE",TELE 5
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:0 group-title="DE",Comedy Central DE
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 #EXTINF:0 group-title="DE",DMAX DE
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
-#EXTINF:0 group-title="DE",TELE 5
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-#EXTINF:0 group-title="DE",ALPHA
-https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 #EXTINF:0 group-title="DE",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 #EXTINF:0 group-title="DE",Blue Zoom DE
@@ -510,9 +512,7 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 #EXTINF:0 group-title="DE",Blue Zoom FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 #EXTINF:0 group-title="Music",MTV Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:0 group-title="AT",ATV
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
@@ -548,7 +548,7 @@ http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236517.ts
 #EXTINF:0 group-title="ES",TEN
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236518.ts
-#EXTINF:0 group-title="Vari",_
+#EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
@@ -1285,14 +1285,14 @@ http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Televízia Slovensko
 http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1 group-title="SK",AMC SK
+http://dvr4.kablova.tv/AMC/index.m3u8
 #EXTINF:0 group-title="PL",TVP1 PL
 http://157.143.44.195/play/a0bb
 #EXTINF:0 group-title="PL",TVP2 PL
 http://157.143.44.195/play/a0bc
-#EXTINF:-1 group-title="HU",TV2 HU
-http://dvr4.kablova.tv/TV2/index.m3u8
 #EXTINF:-1 group-title="HU",M1 HU
-http://dvr4.kablova.tv/M1/index.m3u8
+http://157.143.44.195/play/a09t
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
@@ -1301,8 +1301,8 @@ https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="SK",AMC SK
-http://dvr4.kablova.tv/AMC/index.m3u8
+#EXTINF:-1 group-title="HU",M4 Plus
+http://157.143.44.195/play/a09w
 #EXTINF:0 group-title="HR",TV Koper
 http://79.127.207.193:80/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="NL",TV5 Monde Europe HD
@@ -1385,8 +1385,8 @@ http://23.88.66.93/Sat1/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
-#EXTINF:-1 group-title="Music",Bridge RU
-http://92.100.174.169:81/play/a011
+#EXTINF:-1 group-title="RU",Сибирь 24
+http://95.47.155.244:8001/play/a021
 #EXTINF:-1 group-title="RU",TVRTS RU
 http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="RU",ТВ7
@@ -1588,7 +1588,7 @@ http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:0,769
-https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
+http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
 #EXTINF:0,770
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,771
