@@ -894,6 +894,8 @@ http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 http://23.88.66.93/Eurosport1/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
 http://23.88.66.93/Eurosport2/index.m3u8
+#EXTINF:0 group-title="USA",MTV Live USA
+http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",A&E
@@ -914,16 +916,16 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 https://fl2.moveonjoy.com/BET/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:0 group-title="USA",C SPAN
-https://fl2.moveonjoy.com/C-SPAN/index.m3u8
-#EXTINF:0 group-title="USA",CBS East
-https://fl2.moveonjoy.com/CBS/index.m3u8
+#EXTINF:0 group-title="USA",CSPAN1
+http://41.205.93.154/CSPAN1/mpegts
+#EXTINF:0 group-title="USA",CSPAN2
+http://41.205.93.154/CSPAN2/mpegts
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 group-title="USA",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="USA",Cinemax East
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:0 group-title="USA",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Discovery
@@ -931,7 +933,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",Disney
 https://fl2.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 group-title="USA",Disney Jr
-https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3848.ts
 #EXTINF:0 group-title="USA",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
@@ -941,7 +943,7 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 group-title="USA",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:0 group-title="USA",HGTV USA
-https://fl2.moveonjoy.com/HGTV/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
 #EXTINF:0 group-title="USA",HBO 1
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
@@ -960,8 +962,6 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 https://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime Movie
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 group-title="USA",Magnolia
-http://fl2.moveonjoy.com/DIY/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
@@ -997,7 +997,7 @@ https://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",Oxygen
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
@@ -1017,13 +1017,13 @@ https://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TBS
-https://fl2.moveonjoy.com/TBS/index.m3u8
+http://41.205.93.154/TBS/mpegts
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TLC
 https://fl2.moveonjoy.com/TLC/index.m3u8
 #EXTINF:0 group-title="USA",TNT
-https://fl2.moveonjoy.com/TNT/index.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3844.ts
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",TV LAND
