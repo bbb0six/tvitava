@@ -1136,16 +1136,16 @@ http://179.1.146.22:8000/play/a0dc/index.m3u8
 http://179.1.146.22:8000/play/a0nc/index.m3u8
 #EXTINF:-1 group-title="sports",543
 http://179.1.146.22:8000/play/a0kn/index.m3u8
-#EXTINF:-1 group-title="-",544
-http://179.60.51.134:8888/ESPN/index.m3u8
-#EXTINF:-1 group-title="-",545
-http://179.60.51.134:8888/ESPN2/index.m3u8
-#EXTINF:-1 group-title="-",546
-http://179.60.51.134:8888/ESPN3/index.m3u8
-#EXTINF:-1 group-title="-",547
-http://179.60.51.134:8888/ESPN4/index.m3u8
-#EXTINF:0,548
-https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="sports",544
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="sports",545
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="sports",546
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="sports",547
+http://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="sports",548
+http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:0,549
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:0,550
@@ -1184,9 +1184,9 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1,566
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1,group-title="-",567
-http://195.181.169.152:8080/RTSH_HD_AL/video.m3u8?token=test
-#EXTINF:-1,group-title="-",568
 http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1,group-title="-",568
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1,group-title="-",569
 http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 03 
@@ -1248,9 +1248,9 @@ http://185.132.134.159:80/one/index.m3u8
 #EXTINF:-1 group-title="IL",ONE 2
 http://185.132.134.159:80/one2/index.m3u8
 #EXTINF:-1 group-title="EU",599
-http://38.250.127.17:9800/play/a0b3/index.m3u8
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="EU",600
-https://dash4.antik.sk/live/test_moldava/playlist.m3u8
+http://38.250.127.17:9800/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
