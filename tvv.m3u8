@@ -521,33 +521,26 @@ https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:0 group-title="ES",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
-#EXTINF:0 group-title="ES",TVE La1
+#EXTINF:0 group-title="ES",La 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236478.ts
-#EXTINF:0 group-title="ES",TVE La2
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 group-title="ES",La 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236480.ts
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:0 group-title="ES",Antena3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236482.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/112.m3u8
 #EXTINF:0 group-title="ES",Cuatro
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236484.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/113.m3u8
 #EXTINF:0 group-title="ES",Telecinco
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236487.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/114.m3u8
 #EXTINF:0 group-title="ES",laSexta
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236488.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/115.m3u8
 #EXTINF:0 group-title="ES",FDF
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236504.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/22321.m3u8
 #EXTINF:0 group-title="ES",TDP
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236517.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/187.m3u8
 #EXTINF:0 group-title="ES",TEN
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://ultra-premium-pro.xyz:8080/live/977671415tv/hgf547682s/236518.ts
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/188.m3u8
 #EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
