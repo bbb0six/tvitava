@@ -253,10 +253,10 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:0 group-title="IT",ITALIA 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:0 group-title="IT",LA7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:0 group-title="IT",TV8
-http://157.143.44.195/play/a0eg
+#EXTINF:0 group-title="IT",LA7 HD
+http://78.130.250.2:8023/play/a045/index.m3u8
+#EXTINF:0 group-title="IT",TV8 HD
+http://78.130.250.2:8023/play/a06h/index.m3u8
 #EXTINF:0 group-title="IT",NOVE
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -1062,7 +1062,7 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0,SPORT 2 SK
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:0,510
-http://138.121.15.230:9001/ESPN-CO/index.m3u8
+http://78.130.250.2:8023/play/a06q/index.m3u8
 #EXTINF:-1 group-title="star",511
 http://45.5.117.57:5550/play/a04g/index.m3u8
 #EXTINF:-1 group-title="star",512
@@ -1181,9 +1181,9 @@ http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1,group-title="-",568
 http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1,group-title="-",569
-http://169.150.223.25/Eurosport2HD/index.m3u8
-#EXTINF:0 group-title="OO",ESPN 03 
-http://200.92.227.238:8000/play/a0pt/index.m3u8
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1,group-title="-",570
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 01 HD
 http://200.92.227.238:8000/play/a0tj/index.m3u8
 #EXTINF:0 group-title="OO",ESPN 02 HD
@@ -1363,13 +1363,13 @@ http://185.132.134.159:80/keshet12/index.m3u8
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/index.m3u8
 #EXTINF:0 group-title="-",660
-http://58.147.140.106:4000/play/a0h4
-#EXTINF:0 group-title="-",661
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0 group-title="-",661
+http://103.229.254.25:7001/play/a02s
 #EXTINF:-1 group-title="-",662
-http://157.143.44.195/play/a06h
+http://58.147.140.106:4000/play/a0h4
 #EXTINF:-1 group-title="-",663
-http://3paket5.com:8080/salvatores16/fS7g8mr/114688
+http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="-",664
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/138.m3u8
 #EXTINF:-1 group-title="-",665
