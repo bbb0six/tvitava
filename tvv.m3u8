@@ -512,7 +512,7 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 #EXTINF:0 group-title="DE",Blue Zoom FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
 #EXTINF:0 group-title="Music",MTV Japan
-https://nl.utako.moe/mtv/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
@@ -1579,11 +1579,11 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://78.130.250.2:8023/play/a06q/index.m3u8
+http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
 #EXTINF:0,769
-http://78.130.250.2:8023/play/a06g/index.m3u8
+http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
 #EXTINF:0,770
-http://78.130.250.2:8023/play/a05x/index.m3u8
+http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
