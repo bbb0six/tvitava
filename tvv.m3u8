@@ -523,18 +523,18 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="ES",La 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+http://176.65.146.138:8046/play/a06s/index.m3u8
 #EXTINF:0 group-title="ES",La 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ztnr.rtve.es/ztnr/1688885.m3u8
+http://176.65.146.138:8046/play/a06t/index.m3u8
 #EXTINF:0 group-title="ES",Antena3
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/112.m3u8
+http://176.65.146.138:8046/play/a07g/index.m3u8
 #EXTINF:0 group-title="ES",Cuatro
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/113.m3u8
 #EXTINF:0 group-title="ES",Telecinco
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/114.m3u8
 #EXTINF:0 group-title="ES",laSexta
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/115.m3u8
+http://176.65.146.138:8046/play/a07h/index.m3u8
 #EXTINF:0 group-title="ES",FDF
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/22321.m3u8
 #EXTINF:0 group-title="ES",TDP
@@ -1104,31 +1104,31 @@ http://38.49.128.38:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="sports",530
 http://38.49.128.38:8000/play/a0kf/index.m3u8
 #EXTINF:-1 group-title="sports",531
-http://179.1.146.22:8000/play/a0hk/index.m3u8
+http://179.1.146.22:8000/play/a0hk
 #EXTINF:-1 group-title="sports",532
-http://179.1.146.22:8000/play/a0hf/index.m3u8
+http://179.1.146.22:8000/play/a0hf
 #EXTINF:-1 group-title="sports",533
-http://179.1.146.22:8000/play/a0l2/index.m3u8
+http://179.1.146.22:8000/play/a0l2
 #EXTINF:-1 group-title="sports",534
-http://179.1.146.22:8000/play/a0gc/index.m3u8
+http://179.1.146.22:8000/play/a0gc
 #EXTINF:-1 group-title="sports",535
-http://179.1.146.22:8000/play/a0kv/index.m3u8
+http://179.1.146.22:8000/play/a0kv
 #EXTINF:-1 group-title="sports",536
-http://179.1.146.22:8000/play/a0kp/index.m3u8
+http://179.1.146.22:8000/play/a0kp
 #EXTINF:-1 group-title="sports",537
-http://179.1.146.22:8000/play/a0g4/index.m3u8
+http://179.1.146.22:8000/play/a0g4
 #EXTINF:-1 group-title="sports",538
-http://179.1.146.22:8000/play/a0ho/index.m3u8
+http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="sports",539
-http://179.1.146.22:8000/play/a0js/index.m3u8
+http://179.1.146.22:8000/play/a0js
 #EXTINF:-1 group-title="sports",540
-http://179.1.146.22:8000/play/a0jt/index.m3u8
+http://179.1.146.22:8000/play/a0jt
 #EXTINF:-1 group-title="sports",541
-http://179.1.146.22:8000/play/a0dc/index.m3u8
+http://179.1.146.22:8000/play/a0dc
 #EXTINF:-1 group-title="sports",542
-http://179.1.146.22:8000/play/a0nc/index.m3u8
+http://179.1.146.22:8000/play/a0nc
 #EXTINF:-1 group-title="sports",543
-http://179.1.146.22:8000/play/a0kn/index.m3u8
+http://179.1.146.22:8000/play/a0kn
 #EXTINF:-1 group-title="sports",544
 http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="sports",545
@@ -1159,9 +1159,9 @@ http://38.191.80.20:8023/play/a011
 #EXTINF:0,557
 http://38.191.80.20:8023/play/a015
 #EXTINF:-1 group-title="-",558
-http://58.65.205.171:8000/play/a042
+http://213.230.65.254:8100/play/a05g
 #EXTINF:-1 group-title="-",559
-http://58.65.205.171:8000/play/a053
+http://213.230.65.254:8100/play/a05w
 #EXTINF:-1 group-title="-",560
 http://58.65.205.171:8000/play/a064
 #EXTINF:-1,561
@@ -1294,7 +1294,7 @@ https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="HU",M4 Plus
+#EXTINF:-1 group-title="HU",Duna World
 http://157.143.44.195/play/a09w
 #EXTINF:0 group-title="HR",TV Koper
 http://79.127.207.193:80/TVKoper/playlist.m3u8
@@ -1310,6 +1310,8 @@ http://185.207.34.31:8000/play/21029/index.m3u8
 http://thksmom.shop/NL_NPO2/mpegts
 #EXTINF:0 group-title="NL",NPO 3
 http://185.207.34.31:8000/play/21040/index.m3u8
+#EXTINF:0 group-title="NL",RTL 4
+http://thksmom.shop/NL_NPO4/mpegts
 #EXTINF:0 group-title="BE",VTM 1
 http://185.207.34.31:8000/play/7030/index.m3u8
 #EXTINF:0 group-title="BE",VTM 2
@@ -1322,8 +1324,6 @@ http://185.207.34.31:8000/play/21122/index.m3u8
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:0 group-title="IL",KAN WEB
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
@@ -1365,13 +1365,15 @@ http://185.132.134.159:80/reshet13/index.m3u8
 #EXTINF:0 group-title="-",660
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="-",661
-http://103.229.254.25:7001/play/a02s
+#EXTVLCOPT:network-caching=1000
+http://boxviptv.net:25461/Mhmn0054/62855748/54
 #EXTINF:-1 group-title="-",662
-http://58.147.140.106:4000/play/a0h4
+#EXTVLCOPT:network-caching=1000
+http://boxviptv.net:25461/Mhmn0054/62855748/602
 #EXTINF:-1 group-title="-",663
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="-",664
-http://thksmom.shop/NL_NPO4/mpegts
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="-",665
 http://23.88.66.93/Sat1/index.m3u8
 #EXTINF:-1 group-title="-",MTV Japan
@@ -1653,6 +1655,6 @@ http://213.3.8.156:4022/udp/224.100.6.1:1234
 #EXTINF:-1 group-title="test",798
 http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 group-title="test",799
-http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
+http://103.229.254.25:7001/play/a02s
 #EXTINF:-1 group-title="test",800
-http://157.143.44.195/play/a0ci
+http://58.147.140.106:4000/play/a0h4
