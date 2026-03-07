@@ -823,6 +823,8 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",Show Turk
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
+#EXTINF:0 group-title="World",Euro D Turk
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:0 group-title="World",TV2 Algérie
 https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
 #EXTINF:0 group-title="World",2M Maroc
@@ -831,8 +833,6 @@ http://176.65.146.100:8026/play/a06j/index.m3u8
 http://176.65.146.100:8025/play/a07i/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat2
 http://176.65.146.100:8025/play/a07s/index.m3u8
-#EXTINF:0 group-title="Music",Trace UK
-https://tvradiozap.eu/1261
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
@@ -884,15 +884,15 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="World",Eurosport 1
-http://23.88.66.93/Eurosport1/index.m3u8
+http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
-http://23.88.66.93/Eurosport2/index.m3u8
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="World",Eurosport FR
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0 group-title="USA",MTV Live USA
 http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",A&E
-http://fl2.moveonjoy.com/ANE/index.m3u8
 #EXTINF:0 group-title="USA",ABC 7
 http://fl2.moveonjoy.com/ABC/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
@@ -1140,30 +1140,30 @@ http://181.13.252.102:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="sports",548
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:0,549
-https://spstr.abntv.live/hls/psstream.m3u8
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/raiplay3_2400/chunklist.m3u8
 #EXTINF:0,550
 #EXTVLCOPT:network-caching=1000
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
 #EXTINF:0,551
-http://38.191.80.20:8023/play/a00w
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
-http://38.191.80.20:8023/play/a035
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
 #EXTINF:0,553
-http://38.191.80.20:8023/play/a010
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
 #EXTINF:0,554
-http://38.191.80.20:8023/play/a01b
+http://38.191.80.20:8023/play/a00w
 #EXTINF:0,555
-http://38.191.80.20:8023/play/a014
+http://38.191.80.20:8023/play/a035
 #EXTINF:0,556
-http://38.191.80.20:8023/play/a011
+http://38.191.80.20:8023/play/a010
 #EXTINF:0,557
+http://38.191.80.20:8023/play/a01b
+#EXTINF:0,558
+http://38.191.80.20:8023/play/a014
+#EXTINF:0,559
+http://38.191.80.20:8023/play/a011
+#EXTINF:0,560
 http://38.191.80.20:8023/play/a015
-#EXTINF:-1 group-title="-",558
-http://213.230.65.254:8100/play/a05g
-#EXTINF:-1 group-title="-",559
-http://213.230.65.254:8100/play/a05w
-#EXTINF:-1 group-title="-",560
-http://58.65.205.171:8000/play/a064
 #EXTINF:-1,561
 http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
 #EXTINF:-1,562
@@ -1177,13 +1177,13 @@ http://79.127.207.193:80/ArtSport5/playlist.m3u8
 #EXTINF:-1,566
 http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1,group-title="-",567
-http://169.150.223.25/Eurosport1HD/index.m3u8
+http://213.230.65.254:8100/play/a05g
 #EXTINF:-1,group-title="-",568
-http://169.150.223.25/Eurosport2HD/index.m3u8
+http://213.230.65.254:8100/play/a05w
 #EXTINF:-1,group-title="-",569
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+http://213.230.65.254:8100/play/a04g
 #EXTINF:-1,group-title="-",570
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+http://213.230.65.254:8100/play/a04j
 #EXTINF:-1,571
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,572
