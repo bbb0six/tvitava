@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="-",BBC Earth IT Fast
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -511,8 +511,8 @@ https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 #EXTINF:0 group-title="DE",Blue Zoom FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-#EXTINF:0 group-title="Music",MTV Japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:0 group-title="Vari",MANGA IT
+https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
@@ -530,17 +530,19 @@ http://176.65.146.138:8046/play/a06t/index.m3u8
 #EXTINF:0 group-title="ES",Antena3
 http://176.65.146.138:8046/play/a07g/index.m3u8
 #EXTINF:0 group-title="ES",Cuatro
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/113.m3u8
 #EXTINF:0 group-title="ES",Telecinco
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/114.m3u8
 #EXTINF:0 group-title="ES",laSexta
 http://176.65.146.138:8046/play/a07h/index.m3u8
-#EXTINF:0 group-title="ES",FDF
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/22321.m3u8
+#EXTINF:0 group-title="ES",neox
+http://176.65.146.138:8046/play/a07i/index.m3u8
+#EXTINF:0 group-title="ES",nova
+http://176.65.146.138:8046/play/a07j/index.m3u8
 #EXTINF:0 group-title="ES",TDP
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/187.m3u8
-#EXTINF:0 group-title="ES",TEN
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/188.m3u8
+http://176.65.146.138:8046/play/a06q/index.m3u8
 #EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
