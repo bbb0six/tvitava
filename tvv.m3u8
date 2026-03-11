@@ -968,7 +968,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-http://84.17.40.25/MTV_2/index.m3u8
+http://tv2watch.icu:8080/96924127/96924127/9308
 #EXTINF:0 group-title="USA",MTV CLASSIC
 http://84.17.40.25/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
@@ -978,7 +978,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
-https://fl2.moveonjoy.com/NBA_TV/index.m3u8
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:0 group-title="USA",News Nation
