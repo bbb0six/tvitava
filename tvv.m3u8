@@ -896,11 +896,11 @@ http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",ABC 7
-http://fl2.moveonjoy.com/ABC/index.m3u8
+http://89.105.221.127/ABC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
-#EXTINF:0 group-title="USA",AMC NETWORK
-http://41.205.93.154/AMC/index.m3u8
+#EXTINF:0 group-title="USA",AMC
+http://89.105.221.127/AMC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
@@ -908,7 +908,7 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",BET
-https://fl2.moveonjoy.com/BET/index.m3u8
+http://89.105.221.127/BET/index.m3u8?token=test
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:0 group-title="USA",CSPAN1
@@ -918,7 +918,7 @@ http://41.205.93.154/CSPAN2/mpegts
 #EXTINF:0 group-title="USA",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:0 group-title="USA",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://89.105.221.127/HBOComedy/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
@@ -926,7 +926,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",Disney
-https://fl2.moveonjoy.com/DISNEY/index.m3u8
+http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Disney Jr
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3848.ts
 #EXTINF:0 group-title="USA",E! Entertainment
@@ -944,11 +944,11 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 group-title="USA",HBO Comedy
-https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+http://89.105.221.127/HBOComedy/index.m3u8?token=test
 #EXTINF:0 group-title="USA",HBO Zone
-https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+http://89.105.221.127/HBOZone/index.m3u8?token=test
 #EXTINF:0 group-title="USA",History
-https://fl1.moveonjoy.com/history_channel/index.m3u8
+http://89.105.221.127/HistoryChannel/index.m3u8?token=test
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
@@ -960,7 +960,7 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0 group-title="USA",MLB Network
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+http://89.105.221.127/MLBNetwork/index.m3u8?token=test
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
@@ -981,18 +981,18 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0 group-title="USA",News Nation
-http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 group-title="USA",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
-https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:0 group-title="USA",Nick JR
-https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+http://89.105.221.127/Nickelodeon/index.m3u8?token=test
+#EXTINF:0 group-title="USA",Cartoon Network
+http://89.105.221.127/CartoonNetwork/index.m3u8?token=test
+#EXTINF:0 group-title="USA",Hallmark
+http://89.105.221.127/Hallmark/index.m3u8?token=test
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",Oxygen
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3839.ts
+http://89.105.221.127/Oxygen/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
@@ -1007,8 +1007,6 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0 group-title="USA",Starz Encore Action
-https://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TBS
@@ -1016,15 +1014,17 @@ http://41.205.93.154/TBS/mpegts
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TLC
-https://fl2.moveonjoy.com/TLC/index.m3u8
+http://89.105.221.127/tlc/index.m3u8?token=test
 #EXTINF:0 group-title="USA",TNT
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3844.ts
+http://89.105.221.127/TNT/index.m3u8?token=test
+#EXTINF:0 group-title="USA",Travel
+http://89.105.221.127/TravelChannel/index.m3u8?token=test
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0 group-title="USA",TV LAND
-https://fl2.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:0 group-title="USA",MeTV
+http://89.105.221.127/MeTV/index.m3u8?token=test
 #EXTINF:0 group-title="USA",USA Network
-https://fl2.moveonjoy.com/USA_NETWORK/index.m3u8
+http://89.105.221.127/USANetwork/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",VH1
@@ -1038,7 +1038,7 @@ https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",FOX NEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="USA",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
+http://89.105.221.127/MSNBC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-dash/cnbc.mpd
 #EXTINF:0 group-title="USA",BLOOMBERG
@@ -1659,4 +1659,4 @@ http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 group-title="test",799
 http://103.229.254.25:7001/play/a02s
 #EXTINF:-1 group-title="test",800
-http://58.147.140.106:4000/play/a0h4
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
