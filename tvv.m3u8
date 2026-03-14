@@ -915,10 +915,10 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://41.205.93.154/CSPAN1/mpegts
 #EXTINF:0 group-title="USA",CSPAN2
 http://41.205.93.154/CSPAN2/mpegts
-#EXTINF:0 group-title="USA",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:0 group-title="USA",CNN USA
-http://89.105.221.127/HBOComedy/index.m3u8?token=test
+#EXTINF:0 group-title="USA",CBS
+http://89.105.221.127/CBS/index.m3u8?token=test
+#EXTINF:0 group-title="USA",CNN
+http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
@@ -969,8 +969,8 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
 http://tv2watch.icu:8080/96924127/96924127/9308
-#EXTINF:0 group-title="USA",MTV CLASSIC
-http://84.17.40.25/MTV_CLASSIC/index.m3u8
+#EXTINF:0 group-title="USA",MeTV
+http://89.105.221.127/MeTV/index.m3u8?token=test
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
@@ -1021,8 +1021,8 @@ http://89.105.221.127/TNT/index.m3u8?token=test
 http://89.105.221.127/TravelChannel/index.m3u8?token=test
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0 group-title="USA",MeTV
-http://89.105.221.127/MeTV/index.m3u8?token=test
+#EXTINF:0 group-title="USA",TV Land
+http://tv2watch.icu:8080/96924127/96924127/9271
 #EXTINF:0 group-title="USA",USA Network
 http://89.105.221.127/USANetwork/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Vice TV
@@ -1657,6 +1657,6 @@ http://213.3.8.156:4022/udp/224.100.6.1:1234
 #EXTINF:-1 group-title="test",798
 http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 group-title="test",799
-http://103.229.254.25:7001/play/a02s
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="test",800
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
