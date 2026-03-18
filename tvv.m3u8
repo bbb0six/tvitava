@@ -1263,7 +1263,7 @@ http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Prima Love CZ
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Kanal 1 CZ
-https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="CZ",A11 CZ
 http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV1 Jednotka
@@ -1351,9 +1351,9 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://157.143.44.195/play/a04e
 #EXTINF:0 group-title="TR",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+http://157.143.44.195/play/a09q
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 group-title="IL",HOT 3
@@ -1368,10 +1368,10 @@ http://185.132.134.159:80/reshet13/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="-",661
 #EXTVLCOPT:network-caching=1000
-http://boxviptv.net:25461/Mhmn0054/62855748/54
+http://157.143.44.195/play/a0d7
 #EXTINF:-1 group-title="-",662
 #EXTVLCOPT:network-caching=1000
-http://boxviptv.net:25461/Mhmn0054/62855748/602
+http://157.143.44.195/play/a0dc
 #EXTINF:-1 group-title="-",663
 http://157.143.44.195/play/a06h
 #EXTINF:-1 group-title="-",664
