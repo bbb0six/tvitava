@@ -671,10 +671,6 @@ http://178.33.34.186:15151/live/reportott/playlist.m3u8
 http://217.73.139.200:5443/play/a009
 #EXTINF:0 group-title="AL",A2 CNN
 http://217.73.139.200:5443/play/a00d
-#EXTINF:0 group-title="AL",Klan News
-http://217.73.139.200:5443/play/a005
-#EXTINF:0 group-title="AL",Klan Music
-http://217.73.139.200:5443/play/a008
 #EXTINF:0 group-title="AL",RTSH Film
 http://217.73.139.200:5443/play/a00n
 #EXTINF:0 group-title="AL",RTSH Muzikë
@@ -683,14 +679,18 @@ http://217.73.139.200:5443/play/a00p
 http://217.73.139.200:5443/play/a01d
 #EXTINF:0 group-title="AL",RTSH Shkollë
 http://217.73.139.200:5443/play/a00v
+#EXTINF:0 group-title="AL",Klan News
+http://217.73.139.200:5443/play/a005
+#EXTINF:0 group-title="AL",Klan Music
+http://217.73.139.200:5443/play/a008
+#EXTINF:0 group-title="AL",Klan Nostalgji
+http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
 #EXTINF:0 group-title="AL",Euronews Albania
 http://178.33.34.186:15151/live/euronewsott/playlist.m3u8
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="AL",FaxNews
-http://217.73.139.200:5443/play/a012
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
@@ -1080,11 +1080,11 @@ http://45.5.117.57:5550/play/a04j
 #EXTINF:-1 group-title="star",517
 http://45.5.117.57:5550/play/a031
 #EXTINF:-1 group-title="-",518
-http://ip1.orgip.net/202/video.m3u8?token=Ceba8e4412
+http://91.146.94.234:10001/play/a0dk
 #EXTINF:-1 group-title="-",519
-http://ip1.orgip.net/203/video.m3u8?token=Ceba8e4412
+http://91.146.94.234:10001/play/a0en
 #EXTINF:-1 group-title="-",520
-http://ip1.orgip.net/204/video.m3u8?token=Ceba8e4412
+http://91.146.94.234:10001/play/a05n
 #EXTINF:-1 group-title="sports",521
 http://38.44.109.41:8003/play/a03x/index.m3u8
 #EXTINF:-1 group-title="sports",522
@@ -1183,9 +1183,9 @@ http://213.230.65.254:8100/play/a05g
 #EXTINF:-1,group-title="-",568
 http://213.230.65.254:8100/play/a05w
 #EXTINF:-1,group-title="-",569
-http://213.230.65.254:8100/play/a04g
+http://103.229.254.25:7001/play/a02s
 #EXTINF:-1,group-title="-",570
-http://213.230.65.254:8100/play/a04j
+http://58.147.140.106:4000/play/a0h4
 #EXTINF:-1,571
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,572
@@ -1364,22 +1364,20 @@ http://185.132.134.159:80/kan11/index.m3u8
 http://185.132.134.159:80/keshet12/index.m3u8
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/index.m3u8
-#EXTINF:0 group-title="-",660
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0 group-title="-",661
-#EXTVLCOPT:network-caching=1000
-http://157.143.44.195/play/a0d7
-#EXTINF:-1 group-title="-",662
-#EXTVLCOPT:network-caching=1000
-http://157.143.44.195/play/a0dc
-#EXTINF:-1 group-title="-",663
-http://157.143.44.195/play/a06h
-#EXTINF:-1 group-title="-",664
+#EXTINF:0 group-title="IL",KAN WEB
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="-",665
-http://23.88.66.93/Sat1/index.m3u8
-#EXTINF:-1 group-title="-",MTV Japan
+#EXTINF:0 group-title="-",MTV France
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0 group-title="-",MTV Germany
+http://157.143.44.195/play/a06h
+#EXTINF:0 group-title="-",MTV Italy
+http://91.146.94.234:10001/play/a0fa
+#EXTINF:0 group-title="-",MTV Latino
+http://181.176.20.167:9050/play/a0ih
+#EXTINF:0 group-title="-",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+#EXTINF:-1 group-title="Music",MCM Top
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
 #EXTINF:-1 group-title="RU",Сибирь 24
@@ -1567,7 +1565,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:0,759
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:0,760
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:0,761
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,762
@@ -1646,15 +1644,15 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",La7 dvr 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 group-title="test",794
+#EXTINF:-1 group-title="test",Rete4 test
 http://213.3.8.156:4022/udp/224.100.2.1:1234
-#EXTINF:-1 group-title="test",795
+#EXTINF:-1 group-title="test",Canale5 test
 http://213.3.8.156:4022/udp/224.100.2.2:1234
-#EXTINF:-1 group-title="test",796
+#EXTINF:-1 group-title="test",Italia1 test
 http://213.3.8.156:4022/udp/224.100.2.3:1234
-#EXTINF:-1 group-title="test",797
+#EXTINF:-1 group-title="test",Rsi La1 test
 http://213.3.8.156:4022/udp/224.100.6.1:1234
-#EXTINF:-1 group-title="test",798
+#EXTINF:-1 group-title="test",Rsi La2 test
 http://213.3.8.156:4022/udp/224.100.6.2:1234
 #EXTINF:-1 group-title="test",799
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
