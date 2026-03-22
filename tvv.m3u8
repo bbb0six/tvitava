@@ -522,27 +522,23 @@ https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.
 #EXTINF:0 group-title="ES",TVE INT
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 #EXTINF:0 group-title="ES",La 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.146.138:8046/play/a06s/index.m3u8
 #EXTINF:0 group-title="ES",La 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.146.138:8046/play/a06t/index.m3u8
 #EXTINF:0 group-title="ES",Antena3
 http://176.65.146.138:8046/play/a07g/index.m3u8
-#EXTINF:0 group-title="ES",Cuatro
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/113.m3u8
-#EXTINF:0 group-title="ES",Telecinco
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/114.m3u8
-#EXTINF:0 group-title="ES",laSexta
-http://176.65.146.138:8046/play/a07h/index.m3u8
+#EXTINF:0 group-title="ES",tdp
+http://176.65.146.138:8046/play/a06q/index.m3u8
 #EXTINF:0 group-title="ES",neox
 http://176.65.146.138:8046/play/a07i/index.m3u8
-#EXTINF:0 group-title="ES",nova
-http://176.65.146.138:8046/play/a07j/index.m3u8
-#EXTINF:0 group-title="ES",TDP
-http://176.65.146.138:8046/play/a06q/index.m3u8
+#EXTINF:0 group-title="ES",laSexta
+http://176.65.146.138:8046/play/a07h/index.m3u8
+#EXTINF:0 group-title="Vari",TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
+#EXTINF:0 group-title="Vari",TV33 TN
+http://84.22.55.2:8032/play/s368
+#EXTINF:0 group-title="Vari",TELECHIARA
+http://84.22.55.2:8032/play/s367
 #EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
@@ -551,7 +547,7 @@ https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 #EXTINF:0 group-title="Vari",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
-#EXTINF:0 group-title="Vari",RTP
+#EXTINF:0 group-title="Vari",RTP Messina
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
@@ -1181,7 +1177,7 @@ http://79.127.207.193:80/ArtSport6/playlist.m3u8
 #EXTINF:-1,group-title="-",567
 http://213.230.65.254:8100/play/a05g
 #EXTINF:-1,group-title="-",568
-http://213.230.65.254:8100/play/a05w
+http://181.176.20.167:9050/play/a0ih
 #EXTINF:-1,group-title="-",569
 http://103.229.254.25:7001/play/a02s
 #EXTINF:-1,group-title="-",570
@@ -1326,18 +1322,6 @@ http://185.207.34.31:8000/play/21122/index.m3u8
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:0 group-title="IL",CH 11 ISR
-http://77.137.40.221:8000/play/a05b
-#EXTINF:0 group-title="IL",CH 12 ISR
-http://77.137.40.221:8000/play/a017
-#EXTINF:0 group-title="IL",CH 13 ISR
-http://77.137.40.221:8000/play/a018
-#EXTINF:0 group-title="IL",CH 14 ISR
-https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN 33
-http://77.137.40.221:8000/play/a00y
-#EXTINF:0 group-title="IL",9TV
-https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
@@ -1356,6 +1340,20 @@ http://157.143.44.195/play/a04e
 http://157.143.44.195/play/a09q
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="IL",CH 10 ISR
+https://t.freetv.fun/live/arutz-10.m3u8
+#EXTINF:0 group-title="IL",CH 11 ISR
+http://77.137.40.221:8000/play/a05b
+#EXTINF:0 group-title="IL",CH 12 ISR
+http://77.137.40.221:8000/play/a017
+#EXTINF:0 group-title="IL",CH 13 ISR
+http://77.137.40.221:8000/play/a018
+#EXTINF:0 group-title="IL",CH 14 ISR
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",MAKAN 33
+http://77.137.40.221:8000/play/a00y
+#EXTINF:0 group-title="IL",9TV
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:-1 group-title="IL",HOT 3
 http://185.132.134.159:80/hot3/index.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
@@ -1366,26 +1364,24 @@ http://185.132.134.159:80/keshet12/index.m3u8
 http://185.132.134.159:80/reshet13/index.m3u8
 #EXTINF:0 group-title="IL",KAN WEB
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="-",MTV France
+#EXTINF:0 group-title="FR",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0 group-title="-",MTV Germany
-http://157.143.44.195/play/a06h
-#EXTINF:0 group-title="-",MTV Italy
+#EXTINF:0 group-title="FR",MTV Italy
 http://91.146.94.234:10001/play/a0fa
-#EXTINF:0 group-title="-",MTV Latino
-http://181.176.20.167:9050/play/a0ih
-#EXTINF:0 group-title="-",MTV Japan
+#EXTINF:0 group-title="Music",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
-#EXTINF:-1 group-title="RU",Сибирь 24
-http://95.47.155.244:8001/play/a021
-#EXTINF:-1 group-title="RU",TVRTS RU
-http://95.47.155.244:8001/play/a022
-#EXTINF:-1 group-title="RU",ТВ7
-http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="Music",NOW 70s
+http://212.32.241.201:8000/play/a01b
+#EXTINF:-1 group-title="Music",NOW 80s
+http://212.32.241.201:8000/play/a019
+#EXTINF:-1 group-title="Music",NOW 90s 00s
+http://212.32.241.201:8000/play/a01i
+#EXTINF:-1 group-title="Music",NOW ROCK
+http://212.32.241.201:8000/play/a01h
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
@@ -1426,24 +1422,24 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="RU",20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="RU",Сибирь 24
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1 group-title="RU",TVRTS RU
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="RU",ТВ7
+http://95.47.155.244:8001/play/a023
 #EXTINF:-1,TRENTINO TV
 http://84.22.55.2:8032/play/s361
 #EXTINF:-1,RTTR
 http://84.22.55.2:8032/play/s362
 #EXTINF:-1,Telepace Trento
 http://84.22.55.2:8032/play/s363
-#EXTINF:-1,Telepadova 7 GOLD
-http://84.22.55.2:8032/play/s364
 #EXTINF:-1,TELENUOVO
 http://84.22.55.2:8032/play/s365
-#EXTINF:-1,ANTENNA TRE VENETO
-http://84.22.55.2:8032/play/s366
-#EXTINF:-1,TELECHIARA
-http://84.22.55.2:8032/play/s367
 #EXTINF:-1,TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:-1,TV7 Triveneta Network
-http://84.22.55.2:8032/play/s369
+#EXTINF:0,699
+http://157.143.44.195/play/a06h
 #EXTINF:0,700
 http://157.143.44.195/play/a0f3
 #EXTINF:0,701
