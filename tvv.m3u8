@@ -601,8 +601,8 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Reggio TV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
-#EXTINF:0 group-title="Vari",GS Channel TMC
-https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+#EXTINF:0 group-title="Vari",TMC Telemontecarlo
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Le Cronache
 http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:0 group-title="Vari",ZeroUno TV
@@ -1283,7 +1283,7 @@ http://157.143.44.195/play/a0bc
 #EXTINF:0 group-title="RO",TVR 1 RO
 http://46.149.191.217:9005/play/a02d
 #EXTINF:-1 group-title="HU",M1 HU
-http://46.149.191.217:9000/play/a040
+http://46.149.191.217:9000/play/a04o
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
@@ -1368,7 +1368,7 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="FR",MTV Italy
 http://91.146.94.234:10001/play/a0fa
-#EXTINF:0 group-title="Music",MTV Japan
+#EXTINF:0 group-title="-",664
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
