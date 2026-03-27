@@ -225,10 +225,11 @@ http://88.212.7.14/live/mb_classic/index.m3u8
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",TV Koper
 http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="-",Antenna 3
-http://157.143.44.195/play/a0d0
-#EXTINF:-1 group-title="-",Telelombardia
-http://157.143.44.195/play/a0de
+#EXTINF:-1 group-title="-",_
+http://169.150.255.53/TVMaribor/index.m3u8
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -735,12 +736,12 @@ http://51.83.135.95/RTS2/index.m3u8
 http://51.83.135.95/RTS3/index.m3u8
 #EXTINF:0 group-title="RS",TV PINK
 http://51.83.135.95/Pink/index.m3u8
+#EXTINF:0 group-title="RS",B92
+http://51.83.135.95/B92/index.m3u8
+#EXTINF:0 group-title="MT",Prva
+http://51.83.135.95/Prva/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
-#EXTINF:0 group-title="MT",TVM Malta
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
-#EXTINF:0 group-title="MT",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="CH",CARAC 1
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-dash/rougetv.mpd
 #EXTINF:0 group-title="CH",CARAC 2
@@ -751,14 +752,14 @@ https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-dash/lfmtv.mpd
 https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
 #EXTINF:0 group-title="CH",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
-#EXTINF:0 group-title="CH",3+ CH
-http://157.143.44.195/play/a01l
-#EXTINF:0 group-title="CH",4+ CH
-http://157.143.44.195/play/a01m
-#EXTINF:0 group-title="CH",5+ CH
-http://157.143.44.195/play/a01n
-#EXTINF:0 group-title="CH",6+ CH
-http://157.143.44.195/play/a07f
+#EXTINF:0 group-title="CH",TVM3 CH
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
+#EXTINF:0 group-title="MT",TVM Malta
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
+#EXTINF:0 group-title="MT",TVM Sport
+https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
@@ -1647,10 +1648,10 @@ http://91.146.94.234:10001/play/a03g
 #EXTINF:-1 group-title="test",Italia1 test
 http://91.146.94.234:10001/play/a03f
 #EXTINF:-1 group-title="test",797
-http://91.146.94.234:10001/play/a03m
+http://169.150.255.53/HRTInt/index.m3u8
 #EXTINF:-1 group-title="test",798
-http://91.146.94.234:10001/play/a03b
+http://169.150.255.53/DomaTV/index.m3u8
 #EXTINF:-1 group-title="test",799
-http://91.146.94.234:10001/play/a0e8
+http://169.150.255.53/SportskaTV/index.m3u8
 #EXTINF:-1 group-title="test",800
-http://190.83.9.222:4022/udp/234.0.0.89:2079
+http://169.150.255.53/SLO3/index.m3u8
