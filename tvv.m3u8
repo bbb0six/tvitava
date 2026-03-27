@@ -224,7 +224,7 @@ http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",TV Koper
-http://169.150.223.25/TVKoper/index.m3u8
+http://169.150.255.53/TVKoper/index.m3u8
 #EXTINF:-1 group-title="-",Antenna 3
 http://157.143.44.195/play/a0d0
 #EXTINF:-1 group-title="-",Telelombardia
@@ -255,8 +255,8 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:0 group-title="IT",LA7 IT
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:0 group-title="IT",TV8 IT
-http://157.143.44.195/play/a0eg
+#EXTINF:0 group-title="IT",LA7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:0 group-title="IT",NOVE
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
@@ -270,7 +270,7 @@ https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
 #EXTINF:0 group-title="News",RAI NEWS 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
-http://157.143.44.195/play/a0dd
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="News",SKY NEWS
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",BBC NEWS
@@ -844,7 +844,7 @@ https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
-http://169.150.223.25/Rai2/index.m3u8
+http://169.150.255.53/Rai2/index.m3u8
 #EXTINF:0 group-title="i",Rai 3 SAT
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
@@ -882,9 +882,9 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
 #EXTINF:-1 group-title="World",Eurosport 1
-http://169.150.223.25/Eurosport1HD/index.m3u8
+http://169.150.255.53/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport 2
-http://169.150.223.25/Eurosport2HD/index.m3u8
+http://169.150.255.53/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport FR
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0 group-title="USA",MTV Live USA
@@ -1274,12 +1274,12 @@ http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
 http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",TV7 SK
+http://88.212.7.14/live/test_tv7/playlist.m3u8
 #EXTINF:-1 group-title="SK",Televízia Slovensko
 http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:0 group-title="PL",TVP 1 PL
-http://157.143.44.195/play/a0bb
-#EXTINF:0 group-title="PL",TVP 2 PL
-http://157.143.44.195/play/a0bc
+#EXTINF:-1 group-title="SK",TV Bratislava
+http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 1 RO
 http://46.149.191.217:9005/play/a02d
 #EXTINF:-1 group-title="HU",M1 HU
@@ -1335,9 +1335,9 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-http://157.143.44.195/play/a04e
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TR",TRT 2
-http://157.143.44.195/play/a09q
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="PS",Palestine
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:0 group-title="IL",CH 10 ISR
@@ -1354,7 +1354,7 @@ https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 http://77.137.40.221:8000/play/a00y
 #EXTINF:0 group-title="IL",9TV
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:-1 group-title="IL",HOT 3
+#EXTINF:-1 group-title="IL",_
 http://185.132.134.159:80/hot3/index.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
 http://185.132.134.159:80/kan11/index.m3u8
@@ -1438,82 +1438,82 @@ http://84.22.55.2:8032/play/s363
 http://84.22.55.2:8032/play/s365
 #EXTINF:-1,TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,699
-http://157.143.44.195/play/a06h
+#EXTINF:-1,7GOLD Telepadova
+http://84.22.55.2:8032/play/s364
 #EXTINF:0,700
-http://157.143.44.195/play/a0f3
-#EXTINF:0,701
-http://157.143.44.195/play/a04k
-#EXTINF:0,702
-http://157.143.44.195/play/a04l
-#EXTINF:0,703
-http://157.143.44.195/play/a040
-#EXTINF:0,704
-http://157.143.44.195/play/a092
-#EXTINF:0,705
-http://157.143.44.195/play/a093
-#EXTINF:0,706
-http://157.143.44.195/play/a091
-#EXTINF:0,707
-http://157.143.44.195/play/a094
-#EXTINF:0,708
-http://157.143.44.195/play/a0eg
-#EXTINF:0,709
-http://157.143.44.195/play/a0da
-#EXTINF:0,710
-http://157.143.44.195/play/a0dd
-#EXTINF:0,711
-http://157.143.44.195/play/a01k
-#EXTINF:0,712
-http://157.143.44.195/play/a02m
-#EXTINF:0,713
-http://157.143.44.195/play/a041
-#EXTINF:0,714
-http://157.143.44.195/play/a0f6
-#EXTINF:0,715
-http://157.143.44.195/play/a0dm
-#EXTINF:0,716
-http://157.143.44.195/play/a0eh
-#EXTINF:0,717
-http://157.143.44.195/play/a0f1
-#EXTINF:0,718
-http://157.143.44.195/play/a0dn
-#EXTINF:0,719
-http://157.143.44.195/play/a0d9
-#EXTINF:0,720
-http://157.143.44.195/play/a0cx
-#EXTINF:0,721
-http://157.143.44.195/play/a0dh
-#EXTINF:0,722
-http://157.143.44.195/play/a0e4
-#EXTINF:0,723
-http://157.143.44.195/play/a076
-#EXTINF:0,724
-http://157.143.44.195/play/a0dl
-#EXTINF:0,725
-http://157.143.44.195/play/a0dj
-#EXTINF:0,726
-http://157.143.44.195/play/a0ct
-#EXTINF:0,727
-http://157.143.44.195/play/a0eb
-#EXTINF:0,728
-http://157.143.44.195/play/a0ch
-#EXTINF:0,729
-http://157.143.44.195/play/a0e9
-#EXTINF:0,730
-http://157.143.44.195/play/a0d8
+http://91.146.94.234:10001/play/a0e8
+#EXTINF:0,Rai 1 HD 
+http://91.146.94.234:10001/play/a08y
+#EXTINF:0,Rai 2 HD
+http://91.146.94.234:10001/play/a132
+#EXTINF:0,Rai 3 HD
+http://91.146.94.234:10001/play/a133
+#EXTINF:0,Rete 4
+http://91.146.94.234:10001/play/a03h
+#EXTINF:0,Canale 5
+http://91.146.94.234:10001/play/a03g
+#EXTINF:0,Italia 1
+http://91.146.94.234:10001/play/a03f
+#EXTINF:0,LA7
+http://91.146.94.234:10001/play/a03q
+#EXTINF:0,TV8 HD
+http://91.146.94.234:10001/play/a03b
+#EXTINF:0,Nove HD
+http://91.146.94.234:10001/play/a09q
+#EXTINF:0,Rai 4 HD
+http://91.146.94.234:10001/play/a02p
+#EXTINF:0,Iris
+http://91.146.94.234:10001/play/a03i
+#EXTINF:0,La 5
+http://91.146.94.234:10001/play/a03k
+#EXTINF:0,Rai 5 HD
+http://91.146.94.234:10001/play/a03a
+#EXTINF:0,Rai Movie HD
+http://91.146.94.234:10001/play/a02r
+#EXTINF:0,Rai Premium HD
+http://91.146.94.234:10001/play/a02q
+#EXTINF:0,Mediaset ITALIA DUE
+http://91.146.94.234:10001/play/a03n
+#EXTINF:0,Mediaset EXTRA
+http://91.146.94.234:10001/play/a03m
+#EXTINF:0,TV2000 HD
+http://91.146.94.234:10001/play/a04x
+#EXTINF:0,cielo
+http://91.146.94.234:10001/play/a04w
+#EXTINF:0,20Mediaset HD
+http://91.146.94.234:10001/play/a08s
+#EXTINF:0,Rai Sport 1 HD
+http://91.146.94.234:10001/play/ars1
+#EXTINF:0,Focus
+http://91.146.94.234:10001/play/a03d
+#EXTINF:0,Rai Storia HD
+http://91.146.94.234:10001/play/a09g
+#EXTINF:0,Rai News 24 HD
+http://91.146.94.234:10001/play/a135
+#EXTINF:0,TGCOM24 HD
+http://91.146.94.234:10001/play/a08t
+#EXTINF:0,Rai Scuola HD
+http://91.146.94.234:10001/play/a038
+#EXTINF:0,27Twentyseven HD
+http://91.146.94.234:10001/play/a08u
+#EXTINF:0,Giallo HD
+http://91.146.94.234:10001/play/a09p
+#EXTINF:0,LA7 Cinema
+http://91.146.94.234:10001/play/a03r
+#EXTINF:0,Gambero Rosso HD
+http://91.146.94.234:10001/play/a0ff
 #EXTINF:0,731
-http://157.143.44.195/play/a0do
+http://91.146.94.234:10001/play/a0dw
 #EXTINF:0,732
-http://157.143.44.195/play/a0e0
+http://91.146.94.234:10001/play/a0e7
 #EXTINF:0,733
-http://157.143.44.195/play/a0ec
-#EXTINF:0,734
-http://157.143.44.195/play/a0d4
+http://91.146.94.234:10001/play/a03o
+#EXTINF:0,Cine34
+http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
-http://157.143.44.195/play/a0d5
+http://91.146.94.234:10001/play/a03d
 #EXTINF:0,736
-http://157.143.44.195/play/a0fa
+http://91.146.94.234:10001/play/a0it
 #EXTINF:0,737
 http://88.212.7.14/live/test_tv7/playlist.m3u8
 #EXTINF:0,738
