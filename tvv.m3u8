@@ -738,7 +738,7 @@ http://51.83.135.95/RTS3/index.m3u8
 http://51.83.135.95/Pink/index.m3u8
 #EXTINF:0 group-title="RS",B92
 http://51.83.135.95/B92/index.m3u8
-#EXTINF:0 group-title="MT",Prva
+#EXTINF:0 group-title="RS",Prva
 http://51.83.135.95/Prva/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
@@ -754,12 +754,12 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-dash/teleswizz.mpd
 #EXTINF:0 group-title="CH",TVM3 CH
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
-#EXTINF:0 group-title="MT",TVM Malta
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
-#EXTINF:0 group-title="MT",TVM Sport
-https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
+#EXTINF:0 group-title="FR",MTV France
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:0 group-title="Music",Muz TV RU
+http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
@@ -1641,11 +1641,13 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",La7 dvr 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 group-title="test",Rete4 test
-http://91.146.94.234:10001/play/a03h
-#EXTINF:-1 group-title="test",Canale5 test
-http://91.146.94.234:10001/play/a03g
-#EXTINF:-1 group-title="test",Italia1 test
+#EXTINF:0 group-title="test",RTVE La1 dvr
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 group-title="test",RTVE La2 dvr
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="test",796
 http://91.146.94.234:10001/play/a03f
 #EXTINF:-1 group-title="test",797
 http://169.150.255.53/HRTInt/index.m3u8
