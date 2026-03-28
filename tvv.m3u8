@@ -723,9 +723,9 @@ http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
-http://23.88.66.93/RTCG_1/index.m3u8
+http://169.150.255.53/RTCG1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
-http://23.88.66.93/RTCG_2/index.m3u8
+http://169.150.255.53/RTCG2/index.m3u8
 #EXTINF:0 group-title="RS",РТС Свет
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="RS",РТС 1
@@ -1355,22 +1355,22 @@ https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 http://77.137.40.221:8000/play/a00y
 #EXTINF:0 group-title="IL",9TV
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:-1 group-title="IL",_
-http://185.132.134.159:80/hot3/index.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
-http://185.132.134.159:80/kan11/index.m3u8
+http://185.132.134.159:80/kan11/mpegts
 #EXTINF:-1 group-title="IL",Keshet 12
-http://185.132.134.159:80/keshet12/index.m3u8
+http://185.132.134.159:80/keshet12/mpegts
 #EXTINF:-1 group-title="IL",Reshet 13
-http://185.132.134.159:80/reshet13/index.m3u8
+http://185.132.134.159:80/reshet13/mpegts
 #EXTINF:0 group-title="IL",KAN WEB
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 group-title="MT",TVM Malta
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
+#EXTINF:0 group-title="MT",TVM Sport
+https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
 #EXTINF:0 group-title="FR",MTV France
 https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0 group-title="FR",MTV Italy
 http://91.146.94.234:10001/play/a0fa
-#EXTINF:0 group-title="-",664
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 group-title="Music",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Music",Clubland UK
