@@ -229,7 +229,7 @@ http://169.150.255.53/TVKoper/index.m3u8
 http://169.150.255.53/TVMaribor/index.m3u8
 #EXTINF:0 group-title="-",_
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -528,18 +528,18 @@ http://176.65.146.138:8046/play/a06s/index.m3u8
 http://176.65.146.138:8046/play/a06t/index.m3u8
 #EXTINF:0 group-title="ES",Antena3
 http://176.65.146.138:8046/play/a07g/index.m3u8
-#EXTINF:0 group-title="ES",tdp
-http://176.65.146.138:8046/play/a06q/index.m3u8
 #EXTINF:0 group-title="ES",neox
 http://176.65.146.138:8046/play/a07i/index.m3u8
+#EXTINF:0 group-title="ES",nova
+http://176.65.146.138:8046/play/a07j/index.m3u8
 #EXTINF:0 group-title="ES",laSexta
 http://176.65.146.138:8046/play/a07h/index.m3u8
-#EXTINF:0 group-title="Vari",TV7 Triveneta Network
-http://84.22.55.2:8032/play/s369
-#EXTINF:0 group-title="Vari",TV33 TN
-http://84.22.55.2:8032/play/s368
-#EXTINF:0 group-title="Vari",TELECHIARA
-http://84.22.55.2:8032/play/s367
+#EXTINF:0 group-title="ES",tdp
+http://176.65.146.138:8046/play/a06q/index.m3u8
+#EXTINF:0 group-title="PT",RTP 1
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
@@ -693,15 +693,15 @@ http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
 https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
 #EXTINF:0 group-title="KS",RTK 2
-http://94.100.50.220/RTK2/tracks-v1a1/mono.m3u8
+http://94.100.50.220/RTK2/mpegts
 #EXTINF:0 group-title="KS",RTK 3
-http://94.100.50.220/RTK3/tracks-v1a1/mono.m3u8
+http://94.100.50.220/RTK3/mpegts
 #EXTINF:0 group-title="KS",RTK 4
-http://94.100.50.220/RKT4/tracks-v1a1/mono.m3u8
+http://94.100.50.220/RKT4/mpegts
 #EXTINF:0 group-title="KS",RTV 21
-http://94.100.50.220/RTV21/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="KS",ATV KS
-http://94.100.50.220/ATV/tracks-v1a1/mono.m3u8
+http://94.100.50.220/RTV21/mpegts
+#EXTINF:0 group-title="HR",Doma TV
+http://169.150.255.53/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -716,8 +716,8 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",NOVA HR
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:0 group-title="HR",TV Nova Pula
-https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:0 group-title="HR",RTL Kockica 
+http://169.150.255.53/RTLKockica/index.m3u8
 #EXTINF:0 group-title="SI",SLO 1
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
@@ -882,14 +882,14 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 group-title="World",Eurosport 1
+#EXTINF:-1 group-title="World",Eurosport 1 RS
 http://169.150.255.53/Eurosport1HD/index.m3u8
-#EXTINF:-1 group-title="World",Eurosport 2
+#EXTINF:-1 group-title="World",Eurosport 2 RS
 http://169.150.255.53/Eurosport2HD/index.m3u8
 #EXTINF:-1 group-title="World",Eurosport FR
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0 group-title="USA",MTV Live USA
-http://41.205.93.154/MTVUSA/index.m3u8
+#EXTINF:-1 group-title="World",_
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",ABC 7
@@ -950,7 +950,7 @@ http://89.105.221.127/HistoryChannel/index.m3u8?token=test
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:0 group-title="USA",Lifetime
+#EXTINF:0 group-title="USA",_
 https://fl2.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime Movie
 http://23.237.104.106:8080/USA_LMN/index.m3u8
@@ -994,7 +994,7 @@ http://89.105.221.127/Oxygen/index.m3u8?token=test
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",Revolt
+#EXTINF:0 group-title="USA",_
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
@@ -1032,8 +1032,8 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:0 group-title="USA",FOX NEWS
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="USA",Fox News Channel
+http://38.199.4.105:9999/play/a0oj
 #EXTINF:0 group-title="USA",MSNBC
 http://89.105.221.127/MSNBC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",CNBC
@@ -1439,8 +1439,8 @@ http://84.22.55.2:8032/play/s363
 http://84.22.55.2:8032/play/s365
 #EXTINF:-1,TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:-1,7GOLD Telepadova
-http://84.22.55.2:8032/play/s364
+#EXTINF:-1,TELECHIARA
+http://84.22.55.2:8032/play/s367
 #EXTINF:0,700
 http://91.146.94.234:10001/play/a0e8
 #EXTINF:0,Rai 1 HD 
@@ -1652,7 +1652,7 @@ http://91.146.94.234:10001/play/a03f
 #EXTINF:-1 group-title="test",797
 http://169.150.255.53/HRTInt/index.m3u8
 #EXTINF:-1 group-title="test",798
-http://169.150.255.53/DomaTV/index.m3u8
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="test",799
 http://169.150.255.53/SportskaTV/index.m3u8
 #EXTINF:-1 group-title="test",800
