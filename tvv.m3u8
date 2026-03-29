@@ -643,9 +643,9 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
-http://217.73.139.200:5443/play/a00f
+http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 2
-http://217.73.139.200:5443/play/a00k
+http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 24
 http://178.33.34.186:15151/live/rtsh24/playlist.m3u8
 #EXTINF:0 group-title="AL",Klan TV
@@ -1367,11 +1367,11 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",TVM Sport
 https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
-#EXTINF:0 group-title="FR",MTV France
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0 group-title="FR",MTV Italy
-http://91.146.94.234:10001/play/a0fa
-#EXTINF:-1 group-title="Music",MCM Top
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:-1 group-title="Music",M6 Music FR
+http://145.239.5.177/320/mpegts
+#EXTINF:-1 group-title="Music",MCM Top FR
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Music",Clubland UK
 http://212.32.241.201:8000/play/a01g
@@ -1578,11 +1578,11 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
+http://145.239.5.177/530/mpegts
 #EXTINF:0,769
-http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
+http://145.239.5.177/361/mpegts
 #EXTINF:0,770
-http://79.127.207.193:80/TVKoper/playlist.m3u8
+http://145.239.5.177/371/mpegts
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
