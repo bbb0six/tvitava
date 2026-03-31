@@ -799,7 +799,7 @@ https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
 https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
 #EXTINF:0 group-title="World",TVR INT
 https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
-#EXTINF:0 group-title="World",RTP INT
+#EXTINF:0 group-title="World",RTP Mundo
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 #EXTINF:0 group-title="World",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -1515,9 +1515,9 @@ http://91.146.94.234:10001/play/a03d
 #EXTINF:0,736
 http://91.146.94.234:10001/play/a0it
 #EXTINF:0,737
-http://88.212.7.14/live/test_tv7/playlist.m3u8
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
 #EXTINF:0,738
-http://88.212.7.14/live/test_batv/playlist.m3u8
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,739
 http://88.212.7.14/live/test_tv9/playlist.m3u8
 #EXTINF:0,740
@@ -1577,11 +1577,11 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://145.239.5.177/530/mpegts
+http://169.150.255.53/HRTInt/index.m3u8
 #EXTINF:0,769
-http://145.239.5.177/361/mpegts
+http://169.150.255.53/SportskaTV/index.m3u8
 #EXTINF:0,770
-http://145.239.5.177/371/mpegts
+http://169.150.255.53/SLO3/index.m3u8
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
@@ -1649,10 +1649,10 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",796
 http://91.146.94.234:10001/play/a03f
 #EXTINF:-1 group-title="test",797
-http://169.150.255.53/HRTInt/index.m3u8
+http://145.239.5.177/530/mpegts
 #EXTINF:-1 group-title="test",798
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+http://145.239.5.177/361/mpegts
 #EXTINF:-1 group-title="test",799
-http://169.150.255.53/SportskaTV/index.m3u8
+http://145.239.5.177/371/mpegts
 #EXTINF:-1 group-title="test",800
 http://169.150.255.53/SLO3/index.m3u8
