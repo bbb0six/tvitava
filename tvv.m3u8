@@ -18,7 +18,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Cairo",LA7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0 group-title="Sky IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
@@ -1175,13 +1175,13 @@ http://169.150.255.53/ArtSport5/index.m3u8
 #EXTINF:0,566
 http://169.150.255.53/ArtSport6/index.m3u8
 #EXTINF:-1,group-title="-",567
-http://181.176.20.167:9050/play/a0pp/index.m3u8
-#EXTINF:-1,group-title="-",568
-http://181.176.20.167:9050/play/a0ih
-#EXTINF:-1,group-title="-",569
-http://103.229.254.25:7001/play/a02s
-#EXTINF:-1,group-title="-",570
 http://58.147.140.106:4000/play/a0h4
+#EXTINF:-1,group-title="-",568
+http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
+#EXTINF:-1,group-title="-",569
+http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
+#EXTINF:-1,group-title="-",570
+http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
 #EXTINF:-1,571
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,572
@@ -1635,9 +1635,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 group-title="test",La7 dvr 1
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 group-title="test",La7 dvr 2
+#EXTINF:-1 group-title="test",La7 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:0 group-title="test",RTVE La1 dvr
@@ -1646,6 +1644,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 group-title="test",RTVE La2 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="test",795
+http://181.176.20.167:9050/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="test",796
 http://91.146.94.234:10001/play/a03f
 #EXTINF:-1 group-title="test",797
@@ -1655,4 +1655,4 @@ http://145.239.5.177/361/mpegts
 #EXTINF:-1 group-title="test",799
 http://145.239.5.177/371/mpegts
 #EXTINF:-1 group-title="test",800
-http://169.150.255.53/SLO3/index.m3u8
+http://103.229.254.25:7001/play/a02s
