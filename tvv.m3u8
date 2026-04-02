@@ -891,7 +891,7 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",ABC 7
+#EXTINF:0 group-title="USA",ABC
 http://89.105.221.127/ABC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
@@ -949,8 +949,8 @@ http://89.105.221.127/HistoryChannel/index.m3u8?token=test
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:0 group-title="USA",_
-https://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:0 group-title="USA",Lifetime
+http://tv2watch.icu:8080/96924127/96924127/9275
 #EXTINF:0 group-title="USA",Lifetime Movie
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
@@ -977,8 +977,8 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0 group-title="USA",NHL Network
-http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",MS NOW
+http://tv2watch.icu:8080/96924127/96924127/9296
 #EXTINF:0 group-title="USA",Nickelodeon
 http://89.105.221.127/Nickelodeon/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Cartoon Network
@@ -993,8 +993,8 @@ http://89.105.221.127/Oxygen/index.m3u8?token=test
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:0 group-title="USA",fyi
+http://tv2watch.icu:8080/96924127/96924127/9240
 #EXTINF:0 group-title="USA",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
@@ -1006,7 +1006,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TBS
-http://41.205.93.154/TBS/mpegts
+http://89.105.221.127/TBS/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TLC
@@ -1175,32 +1175,52 @@ http://169.150.255.53/ArtSport5/index.m3u8
 #EXTINF:0,566
 http://169.150.255.53/ArtSport6/index.m3u8
 #EXTINF:-1,group-title="-",567
-http://58.147.140.106:4000/play/a0h4
-#EXTINF:-1,group-title="-",568
 http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
-#EXTINF:-1,group-title="-",569
+#EXTINF:-1,group-title="-",568
 http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
-#EXTINF:-1,group-title="-",570
+#EXTINF:-1,group-title="-",569
 http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
-#EXTINF:-1,571
+#EXTINF:-1,group-title="-",570
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="IL",ONE 1
+http://185.132.134.159:80/one/index.m3u8
+#EXTINF:-1 group-title="IL",ONE 2
+http://185.132.134.159:80/one2/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 1
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 2
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 3
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 4
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 5
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="IL",Sport 5 Live
+http://185.132.134.159:80/sport5live/mpegts
+#EXTINF:-1 group-title="IL",Sport 5 Plus
+http://185.132.134.159:80/sport5plus/mpegts
+#EXTINF:-1 group-title="IL",Sport 6
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
-#EXTINF:-1,572
+#EXTINF:-1,582
 http://181.78.8.199:8000/play/a0b2/index.m3u8
-#EXTINF:-1,573
+#EXTINF:-1,583
 http://181.78.8.199:8000/play/a0b3/index.m3u8
-#EXTINF:-1,574
+#EXTINF:-1,584
 http://181.78.8.199:8000/play/a09b/index.m3u8
-#EXTINF:-1,575
+#EXTINF:-1,585
 http://181.78.8.199:8000/play/a08n/index.m3u8
-#EXTINF:-1,576
+#EXTINF:-1,586
 http://181.78.8.199:8000/play/a07g/index.m3u8
-#EXTINF:-1,577
+#EXTINF:-1,587
 http://181.78.8.199:8000/play/a08o/index.m3u8
-#EXTINF:-1,578
+#EXTINF:-1,588
 http://181.78.8.199:8000/play/a08z/index.m3u8
-#EXTINF:-1,579
+#EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
-#EXTINF:-1,580
+#EXTINF:-1,590
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:0 group-title="PP",ESPN 1
 http://45.173.75.4:2061/play/a09z
@@ -1222,26 +1242,6 @@ http://45.173.75.4:2061/play/a0b2
 http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",MTV Latino
 http://45.173.75.4:2061/play/a09g
-#EXTINF:-1 group-title="IL",Sport 1
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 2
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 3
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 4
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 5
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 6
-http://185.132.134.159:80/sport6/index.m3u8
-#EXTINF:-1 group-title="IL",ONE 1
-http://185.132.134.159:80/one/index.m3u8
-#EXTINF:-1 group-title="IL",ONE 2
-http://185.132.134.159:80/one2/index.m3u8
-#EXTINF:-1 group-title="EU",599
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="EU",600
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
