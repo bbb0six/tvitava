@@ -1338,8 +1338,8 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 http://157.143.44.195/play/a04e
 #EXTINF:0 group-title="TR",TRT 2
 http://157.143.44.195/play/a09q
-#EXTINF:0 group-title="PS",Palestine
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:0 group-title="IL",9TV IL
+https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="IL",CH 10 ISR
 https://t.freetv.fun/live/arutz-10.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
@@ -1352,20 +1352,20 @@ http://77.137.40.221:8000/play/a018
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
 http://77.137.40.221:8000/play/a00y
-#EXTINF:0 group-title="IL",9TV
-https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
 http://185.132.134.159:80/kan11/mpegts
 #EXTINF:-1 group-title="IL",Keshet 12
 http://185.132.134.159:80/keshet12/mpegts
 #EXTINF:-1 group-title="IL",Reshet 13
 http://185.132.134.159:80/reshet13/mpegts
-#EXTINF:0 group-title="MT",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",TVM Sport
 https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:-1 group-title="Music","2TV LT
+http://78.62.9.23:55555/2TV
 #EXTINF:-1 group-title="Music",TVM3 CH
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
 #EXTINF:-1 group-title="Music",M6 Music FR
@@ -1440,7 +1440,7 @@ http://84.22.55.2:8032/play/s365
 http://84.22.55.2:8032/play/s368
 #EXTINF:-1,TELECHIARA
 http://84.22.55.2:8032/play/s367
-#EXTINF:0,700
+#EXTINF:0,Class CNBC IT
 http://91.146.94.234:10001/play/a0e8
 #EXTINF:0,Rai 1 HD 
 http://91.146.94.234:10001/play/a08y
@@ -1460,54 +1460,54 @@ http://91.146.94.234:10001/play/a03q
 http://91.146.94.234:10001/play/a03b
 #EXTINF:0,Nove HD
 http://91.146.94.234:10001/play/a09q
+#EXTINF:0,Euronews Italian
+http://157.143.44.195/play/a0f3
+#EXTINF:0,RSI La1
+http://157.143.44.195/play/a01k
+#EXTINF:0,RSI La2
+http://157.143.44.195/play/a02m
+#EXTINF:0,Rai Sport HD
+http://91.146.94.234:10001/play/ars1
+#EXTINF:0,Rai News 24 HD
+http://91.146.94.234:10001/play/a135
+#EXTINF:0,TGCOM24 HD
+http://91.146.94.234:10001/play/a08t
+#EXTINF:0,Mediaset Italia Due
+http://91.146.94.234:10001/play/a03n
+#EXTINF:0,Mediaset Extra
+http://91.146.94.234:10001/play/a03m
+#EXTINF:0,Giallo
+http://91.146.94.234:10001/play/a09p
+#EXTINF:0,Top Crime
+http://91.146.94.234:10001/play/a03o
+#EXTINF:0,20Mediaset HD
+http://91.146.94.234:10001/play/a08s
 #EXTINF:0,Rai 4 HD
 http://91.146.94.234:10001/play/a02p
 #EXTINF:0,Iris
 http://91.146.94.234:10001/play/a03i
-#EXTINF:0,La 5
-http://91.146.94.234:10001/play/a03k
 #EXTINF:0,Rai 5 HD
 http://91.146.94.234:10001/play/a03a
 #EXTINF:0,Rai Movie HD
 http://91.146.94.234:10001/play/a02r
 #EXTINF:0,Rai Premium HD
 http://91.146.94.234:10001/play/a02q
-#EXTINF:0,Mediaset Italia Due
-http://91.146.94.234:10001/play/a03n
-#EXTINF:0,Mediaset Extra
-http://91.146.94.234:10001/play/a03m
-#EXTINF:0,TV2000 HD
-http://91.146.94.234:10001/play/a04x
 #EXTINF:0,cielo
 http://91.146.94.234:10001/play/a04w
-#EXTINF:0,20Mediaset HD
-http://91.146.94.234:10001/play/a08s
-#EXTINF:0,Rai Sport HD
-http://91.146.94.234:10001/play/ars1
-#EXTINF:0,Focus
-http://91.146.94.234:10001/play/a03d
-#EXTINF:0,Rai Storia HD
-http://91.146.94.234:10001/play/a09g
-#EXTINF:0,Rai News 24 HD
-http://91.146.94.234:10001/play/a135
-#EXTINF:0,TGCOM24 HD
-http://91.146.94.234:10001/play/a08t
-#EXTINF:0,Rai Scuola HD
-http://91.146.94.234:10001/play/a038
 #EXTINF:0,27Twentyseven HD
 http://91.146.94.234:10001/play/a08u
-#EXTINF:0,Giallo HD
-http://91.146.94.234:10001/play/a09p
+#EXTINF:0,TV2000
+http://157.143.44.195/play/a0ch
 #EXTINF:0,LA7 Cinema
 http://91.146.94.234:10001/play/a03r
-#EXTINF:0,Gambero Rosso HD
-http://91.146.94.234:10001/play/a0ff
-#EXTINF:0,Real Time
+#EXTINF:0,La 5
+http://91.146.94.234:10001/play/a03k
+#EXTINF:0,Real Time IT
 http://157.143.44.195/play/a0do
-#EXTINF:0,732
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
-#EXTINF:0,Top Crime
-http://91.146.94.234:10001/play/a03o
+#EXTINF:0,HGTV IT
+http://91.146.94.234:10001/play/a09s
+#EXTINF:0,Food Network IT
+http://157.143.44.195/play/a0ec
 #EXTINF:0,Cine34
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,Focus
@@ -1516,32 +1516,32 @@ http://91.146.94.234:10001/play/a03d
 http://157.143.44.195/play/a0fa
 #EXTINF:0,Discovery IT
 http://157.143.44.195/play/a0f2
-#EXTINF:0,738
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:0,739
+#EXTINF:0,Giallo HD
+http://91.146.94.234:10001/play/a09p
+#EXTINF:0,Deejay TV
 http://157.143.44.195/play/a0eh
-#EXTINF:0,740
+#EXTINF:0,RadioItalia TV
 http://157.143.44.195/play/a0f1
 #EXTINF:0,741
-http://157.143.44.195/play/a01k
-#EXTINF:0,742
-http://157.143.44.195/play/a02m
-#EXTINF:0,743
-http://157.143.44.195/play/a07l
-#EXTINF:0,744
-https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:0,745
-http://88.212.7.14/live/test_regio_tv/playlist.m3u8
-#EXTINF:0,746
-http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:0,747
-http://178.124.179.122:8080/MuzTV/index.m3u8
-#EXTINF:0,748
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
-#EXTINF:0,749
 http://91.146.94.234:10001/play/a0dw
-#EXTINF:0,750
+#EXTINF:0,742
 http://91.146.94.234:10001/play/a0e7
+#EXTINF:0,743
+http://91.146.94.234:10001/play/a0e9
+#EXTINF:0,744
+http://91.146.94.234:10001/play/a0ef
+#EXTINF:0,745
+http://91.146.94.234:10001/play/a0ds
+#EXTINF:0,746
+http://91.146.94.234:10001/play/a0ea
+#EXTINF:0,747
+http://91.146.94.234:10001/play/a0f7
+#EXTINF:0,748
+http://91.146.94.234:10001/play/a0fe
+#EXTINF:0,749
+http://91.146.94.234:10001/play/a0iu
+#EXTINF:0,750
+http://91.146.94.234:10001/play/a0dq
 #EXTINF:0,SC Action
 http://91.146.94.234:10001/play/a0ez
 #EXTINF:0,SC Collection
@@ -1563,13 +1563,13 @@ http://91.146.94.234:10001/play/a0h5
 #EXTINF:0,SC Uno +24
 http://91.146.94.234:10001/play/a0ec
 #EXTINF:0,761
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://91.146.94.234:10001/play/a0f4
 #EXTINF:0,762
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+http://91.146.94.234:10001/play/a0fa
 #EXTINF:0,763
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+http://157.143.44.195/play/a07l
 #EXTINF:0,764
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,765
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0,766
@@ -1577,9 +1577,9 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:0,767
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,768
-http://169.150.255.53/SLO3/index.m3u8
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,769
-http://169.150.255.53/HRTInt/index.m3u8
+http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0,770
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,771
@@ -1656,4 +1656,4 @@ http://145.239.5.177/361/mpegts
 #EXTINF:-1 group-title="test",799
 http://145.239.5.177/371/mpegts
 #EXTINF:-1 group-title="test",800
-http://157.143.44.195/play/a0f3
+http://91.146.94.234:10001/play/a0fa
