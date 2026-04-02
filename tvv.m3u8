@@ -1448,13 +1448,13 @@ http://91.146.94.234:10001/play/a08y
 http://91.146.94.234:10001/play/a132
 #EXTINF:0,Rai 3 HD
 http://91.146.94.234:10001/play/a133
-#EXTINF:0,Rete 4
+#EXTINF:0,Rete4 HD
 http://91.146.94.234:10001/play/a03h
-#EXTINF:0,Canale 5
+#EXTINF:0,Canale5 HD
 http://91.146.94.234:10001/play/a03g
-#EXTINF:0,Italia 1
+#EXTINF:0,Italia1 HD
 http://91.146.94.234:10001/play/a03f
-#EXTINF:0,LA7
+#EXTINF:0,LA7 HD
 http://91.146.94.234:10001/play/a03q
 #EXTINF:0,TV8 HD
 http://91.146.94.234:10001/play/a03b
@@ -1472,9 +1472,9 @@ http://91.146.94.234:10001/play/a03a
 http://91.146.94.234:10001/play/a02r
 #EXTINF:0,Rai Premium HD
 http://91.146.94.234:10001/play/a02q
-#EXTINF:0,Mediaset ITALIA DUE
+#EXTINF:0,Mediaset Italia Due
 http://91.146.94.234:10001/play/a03n
-#EXTINF:0,Mediaset EXTRA
+#EXTINF:0,Mediaset Extra
 http://91.146.94.234:10001/play/a03m
 #EXTINF:0,TV2000 HD
 http://91.146.94.234:10001/play/a04x
@@ -1482,7 +1482,7 @@ http://91.146.94.234:10001/play/a04x
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0,20Mediaset HD
 http://91.146.94.234:10001/play/a08s
-#EXTINF:0,Rai Sport 1 HD
+#EXTINF:0,Rai Sport HD
 http://91.146.94.234:10001/play/ars1
 #EXTINF:0,Focus
 http://91.146.94.234:10001/play/a03d
@@ -1502,20 +1502,20 @@ http://91.146.94.234:10001/play/a09p
 http://91.146.94.234:10001/play/a03r
 #EXTINF:0,Gambero Rosso HD
 http://91.146.94.234:10001/play/a0ff
-#EXTINF:0,731
-http://91.146.94.234:10001/play/a0dw
+#EXTINF:0,Real Time
+http://157.143.44.195/play/a0do
 #EXTINF:0,732
-http://91.146.94.234:10001/play/a0e7
-#EXTINF:0,733
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0,Top Crime
 http://91.146.94.234:10001/play/a03o
 #EXTINF:0,Cine34
 http://91.146.94.234:10001/play/a04o
-#EXTINF:0,735
+#EXTINF:0,Focus
 http://91.146.94.234:10001/play/a03d
-#EXTINF:0,736
+#EXTINF:0,RTL 102.5
 http://157.143.44.195/play/a0fa
-#EXTINF:0,737
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+#EXTINF:0,Discovery IT
+http://157.143.44.195/play/a0f2
 #EXTINF:0,738
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,739
@@ -1539,29 +1539,29 @@ http://178.124.179.122:8080/MuzTV/index.m3u8
 #EXTINF:0,748
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
 #EXTINF:0,749
-https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://91.146.94.234:10001/play/a0dw
 #EXTINF:0,750
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:0,751
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:0,752
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:0,753
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:0,754
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:0,755
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:0,756
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:0,757
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:0,758
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:0,759
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:0,760
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+http://91.146.94.234:10001/play/a0e7
+#EXTINF:0,SC Action
+http://91.146.94.234:10001/play/a0ez
+#EXTINF:0,SC Collection
+http://91.146.94.234:10001/play/a0e6
+#EXTINF:0,SC Comedy
+http://91.146.94.234:10001/play/a0et
+#EXTINF:0,SC Drama
+http://91.146.94.234:10001/play/a0f2
+#EXTINF:0,SC Family
+http://91.146.94.234:10001/play/a0f0
+#EXTINF:0,SC Romance
+http://91.146.94.234:10001/play/a0ed
+#EXTINF:0,SC Stories
+http://91.146.94.234:10001/play/a0dj
+#EXTINF:0,SC Suspense
+http://91.146.94.234:10001/play/a0f3
+#EXTINF:0,SC Uno
+http://91.146.94.234:10001/play/a0h5
+#EXTINF:0,SC Uno +24
+http://91.146.94.234:10001/play/a0ec
 #EXTINF:0,761
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0,762
