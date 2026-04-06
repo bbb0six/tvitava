@@ -341,7 +341,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:0 group-title="UK",BBC 4
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
 #EXTINF:0 group-title="UK",ITV 1
-http://176.65.146.99:4004/play/a07h/index.m3u8
+http://176.65.146.99:4004/play/a082/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 #EXTINF:0 group-title="UK",ITV 3
@@ -677,7 +677,7 @@ http://217.73.139.200:5443/play/a00v
 #EXTINF:0 group-title="AL",Klan News
 http://217.73.139.200:5443/play/a005
 #EXTINF:0 group-title="AL",Klan Music
-http://217.73.139.200:5443/play/a008
+http://178.33.34.186:15151/live/klanmusicott/playlist.m3u8
 #EXTINF:0 group-title="AL",Klan Nostalgji
 http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
 #EXTINF:0 group-title="AL",Euronews Albania
@@ -721,7 +721,7 @@ http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
 http://23.88.66.93/SLO2/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
-http://23.88.66.93/RTCG_1/index.m3u8
+http://169.150.255.53/RTCG1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
 http://169.150.255.53/RTCG2/index.m3u8
 #EXTINF:0 group-title="RS",РТС Свет
@@ -1566,19 +1566,19 @@ http://91.146.94.234:10001/play/a0f4
 http://91.146.94.234:10001/play/a0fa
 #EXTINF:0,763
 http://157.143.44.195/play/a07l
-#EXTINF:0,764
+#EXTINF:-1 group-title="RU",1TV RU
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:0,765
+#EXTINF:-1 group-title="RU",RT EN
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:0,766
+#EXTINF:-1 group-title="RU",RT FR
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:0,767
+#EXTINF:-1 group-title="RU",RT ES
 http://181.78.82.6:46090/play/a03j/index.m3u8
-#EXTINF:0,768
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
-#EXTINF:0,769
-http://178.124.179.122:8080/MuzTV/index.m3u8
-#EXTINF:0,770
+#EXTINF:-1 group-title="RU",Shanson RU
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:-1 group-title="Music",Music Box PL
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
+#EXTINF:-1 group-title="Music",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
