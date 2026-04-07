@@ -1120,12 +1120,12 @@ http://179.1.146.22:8000/play/a0ho
 http://179.1.146.22:8000/play/a0js
 #EXTINF:-1 group-title="sports",540
 http://179.1.146.22:8000/play/a0jt
-#EXTINF:-1 group-title="sports",541
-http://179.1.146.22:8000/play/a0dc
-#EXTINF:-1 group-title="sports",542
-http://179.1.146.22:8000/play/a0nc
-#EXTINF:-1 group-title="sports",543
-http://179.1.146.22:8000/play/a0kn
+#EXTINF:0,541
+http://31.133.46.225:8000/play/a03f
+#EXTINF:0,542
+http://31.133.46.225:8000/play/a03h
+#EXTINF:0,543
+http://31.133.46.225:8000/play/a03i
 #EXTINF:0,544
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8?checkedby:iptvcat.com
 #EXTINF:0,545
@@ -1362,7 +1362,7 @@ https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:-1 group-title="Music","2TV LT
+#EXTINF:-1 group-title="Music",2TV LT
 http://78.62.9.23:55555/2TV
 #EXTINF:-1 group-title="Music",TVM3 CH
 https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-dash/tvm3.mpd
