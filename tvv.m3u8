@@ -1426,18 +1426,18 @@ http://95.47.155.244:8001/play/a021
 http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
-#EXTINF:-1,TRENTINO TV
-http://84.22.55.2:8032/play/s361
-#EXTINF:-1,RTTR
-http://84.22.55.2:8032/play/s362
-#EXTINF:-1,Telepace Trento
-http://84.22.55.2:8032/play/s363
-#EXTINF:-1,TELENUOVO
-http://84.22.55.2:8032/play/s365
-#EXTINF:-1,TV33 TN
-http://84.22.55.2:8032/play/s368
-#EXTINF:-1,TELECHIARA
-http://84.22.55.2:8032/play/s367
+#EXTINF:-1 group-title="RU",8TV RU
+http://157.143.44.195/play/a09v
+#EXTINF:-1 group-title="RU",FON Music
+http://31.133.46.225:8000/play/a059
+#EXTINF:-1 group-title="RU",Shanson RU
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:-1 group-title="RU",RT EN
+https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT FR
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT ES
+http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:0,Rai 4K
 http://91.146.94.234:10001/play/a131
 #EXTINF:0,Rai 1 HD 
@@ -1561,25 +1561,25 @@ http://91.146.94.234:10001/play/a0h5
 #EXTINF:0,SC Uno +24
 http://91.146.94.234:10001/play/a0ec
 #EXTINF:0,761
-http://91.146.94.234:10001/play/a0f4
-#EXTINF:0,762
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-#EXTINF:0,763
+#EXTINF:0,762
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0,763
+http://84.22.55.2:8032/play/s363
 #EXTINF:0,764
-https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="RU",RT EN
-https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="RU",RT FR
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1 group-title="RU",RT ES
-http://181.78.82.6:46090/play/a03j/index.m3u8
-#EXTINF:-1 group-title="RU",Shanson RU
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+http://84.22.55.2:8032/play/s365
+#EXTINF:0,765
+http://84.22.55.2:8032/play/s367
+#EXTINF:0,766
+http://84.22.55.2:8032/play/s368
+#EXTINF:0,767
+http://84.22.55.2:8032/play/s369
+#EXTINF:0,768
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0,769
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0,770
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
