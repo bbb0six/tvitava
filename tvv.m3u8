@@ -1563,10 +1563,10 @@ http://91.146.94.234:10001/play/a0ec
 #EXTINF:0,761
 http://91.146.94.234:10001/play/a0f4
 #EXTINF:0,762
-http://91.146.94.234:10001/play/a0fa
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,763
-http://157.143.44.195/play/a07l
-#EXTINF:-1 group-title="RU",1TV RU
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0,764
 https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="RU",RT EN
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
@@ -1576,10 +1576,10 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 http://181.78.82.6:46090/play/a03j/index.m3u8
 #EXTINF:-1 group-title="RU",Shanson RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
-#EXTINF:-1 group-title="Music",Music Box PL
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc027/musicboxpolskahdraw/musicboxpolskahdraw.m3u8
-#EXTINF:-1 group-title="Music",CMC HR
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0,769
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
+#EXTINF:0,770
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
@@ -1587,9 +1587,9 @@ https://d4k.it/hls/live2/live.m3u8
 #EXTINF:0,773
 https://d4k.it/hls/live3/live.m3u8
 #EXTINF:0,774
-https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
+https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0,775
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0,776
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:0,777
