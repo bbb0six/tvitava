@@ -1540,25 +1540,25 @@ http://91.146.94.234:10001/play/a0fe
 http://91.146.94.234:10001/play/a0iu
 #EXTINF:0,750
 http://91.146.94.234:10001/play/a0dq
-#EXTINF:0,SC Action
+#EXTINF:0,751
 http://91.146.94.234:10001/play/a0ez
-#EXTINF:0,SC Collection
+#EXTINF:0,752
 http://91.146.94.234:10001/play/a0e6
-#EXTINF:0,SC Comedy
+#EXTINF:0,753
 http://91.146.94.234:10001/play/a0et
-#EXTINF:0,SC Drama
+#EXTINF:0,754
 http://91.146.94.234:10001/play/a0f2
-#EXTINF:0,SC Family
+#EXTINF:0,755
 http://91.146.94.234:10001/play/a0f0
-#EXTINF:0,SC Romance
+#EXTINF:0,756
 http://91.146.94.234:10001/play/a0ed
-#EXTINF:0,SC Stories
+#EXTINF:0,757
 http://91.146.94.234:10001/play/a0dj
-#EXTINF:0,SC Suspense
+#EXTINF:0,758
 http://91.146.94.234:10001/play/a0f3
-#EXTINF:0,SC Uno
+#EXTINF:0,759
 http://91.146.94.234:10001/play/a0h5
-#EXTINF:0,SC Uno +24
+#EXTINF:0,760
 http://91.146.94.234:10001/play/a0ec
 #EXTINF:0,761
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
@@ -1573,7 +1573,7 @@ http://84.22.55.2:8032/play/s367
 #EXTINF:0,766
 http://84.22.55.2:8032/play/s368
 #EXTINF:0,767
-http://84.22.55.2:8032/play/s369
+https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0,768
 https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0,769
@@ -1645,7 +1645,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:0 group-title="test",TVE 2 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="test",TRT 1 dvr
+#EXTINF:-1 group-title="test",796
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test",797
 http://212.126.107.190:9001/play/a1f1
