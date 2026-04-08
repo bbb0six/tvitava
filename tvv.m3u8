@@ -1073,7 +1073,7 @@ http://45.5.117.57:5550/play/a04f
 #EXTINF:-1 group-title="star",516
 http://45.5.117.57:5550/play/a04j
 #EXTINF:-1 group-title="star",517
-http://45.5.117.57:5550/play/a031
+http://91.146.94.234:10001/play/a05o
 #EXTINF:-1 group-title="-",518
 http://91.146.94.234:10001/play/a0dk
 #EXTINF:-1 group-title="-",519
@@ -1127,17 +1127,17 @@ http://31.133.46.225:8000/play/a03h
 #EXTINF:0,543
 http://31.133.46.225:8000/play/a03i
 #EXTINF:0,544
-http://91.146.94.234:10001/play/a0fa
+http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,545
-https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-dash/mtvfrance.mpd
+http://169.150.255.53/Eurosport1HD/index.m3u8
 #EXTINF:0,546
-https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
+http://169.150.255.53/Eurosport2HD/index.m3u8
 #EXTINF:0,547
-https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay1/hls/raiplay1_2400/chunklist.m3u8
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,548
-https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/raiplay2_2400/chunklist.m3u8
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:0,549
-https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/raiplay3_2400/chunklist.m3u8
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay/hls/raiplay_2400/chunklist.m3u8
 #EXTINF:0,550
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0,551
@@ -1220,25 +1220,25 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
 http://181.78.8.199:8000/play/a08y/index.m3u8
-#EXTINF:0 group-title="PP",ESPN 1
+#EXTINF:0 group-title="PP",591
 http://45.173.75.4:2061/play/a09z
-#EXTINF:0 group-title="PP",ESPN 2
+#EXTINF:0 group-title="PP",592
 http://45.173.75.4:2061/play/a06l
-#EXTINF:0 group-title="PP",ESPN 3
+#EXTINF:0 group-title="PP",593
 http://45.173.75.4:2061/play/a020
-#EXTINF:0 group-title="PP",ESPN 4
+#EXTINF:0 group-title="PP",594
 http://45.173.75.4:2061/play/a063
-#EXTINF:0 group-title="PP",ESPN 5
+#EXTINF:0 group-title="PP",595
 http://45.173.75.4:2061/play/a01r
-#EXTINF:0 group-title="PP",ESPN 6
+#EXTINF:0 group-title="PP",596
 http://45.173.75.4:2061/play/a017
-#EXTINF:0 group-title="PP",ESPN 7
+#EXTINF:0 group-title="PP",597
 http://45.173.75.4:2061/play/a016
-#EXTINF:0 group-title="PP",ESPN 8
+#EXTINF:0 group-title="PP",598
 http://45.173.75.4:2061/play/a0b2
-#EXTINF:0 group-title="PP",America TV
+#EXTINF:0 group-title="PP",599
 http://45.173.75.4:2061/play/a08h
-#EXTINF:0 group-title="PP",MTV Latino
+#EXTINF:0 group-title="PP",600
 http://45.173.75.4:2061/play/a09g
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
@@ -1514,8 +1514,8 @@ http://91.146.94.234:10001/play/a03d
 http://157.143.44.195/play/a0fa
 #EXTINF:0,Discovery IT
 http://157.143.44.195/play/a0f2
-#EXTINF:0,Giallo HD
-http://91.146.94.234:10001/play/a09p
+#EXTINF:0,Giallo
+http://157.143.44.195/play/a0d6
 #EXTINF:0,Deejay TV
 http://157.143.44.195/play/a0eh
 #EXTINF:0,RadioItalia TV
