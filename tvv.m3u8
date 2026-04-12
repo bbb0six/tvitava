@@ -1565,17 +1565,17 @@ https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,762
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0,763
-http://84.22.55.2:8032/play/s363
-#EXTINF:0,764
-http://84.22.55.2:8032/play/s365
-#EXTINF:0,765
-http://84.22.55.2:8032/play/s367
-#EXTINF:0,766
-http://84.22.55.2:8032/play/s368
-#EXTINF:0,767
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
+#EXTINF:0,764
+http://84.22.55.2:8032/play/s363
+#EXTINF:0,765
+http://84.22.55.2:8032/play/s365
+#EXTINF:0,766
+http://84.22.55.2:8032/play/s367
+#EXTINF:0,767
+http://84.22.55.2:8032/play/s368
 #EXTINF:0,768
-https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+http://84.22.55.2:8032/play/s361
 #EXTINF:0,769
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0,770
@@ -1650,8 +1650,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test",797
 http://212.126.107.190:9001/play/a1f1
 #EXTINF:-1 group-title="test",798
-http://212.126.107.190:9001/play/a1f2
-#EXTINF:-1 group-title="test",799
 http://212.126.107.190:9001/play/a1jn
+#EXTINF:-1 group-title="test",799
+https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="test",800
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
