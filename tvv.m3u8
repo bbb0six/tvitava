@@ -27,19 +27,19 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="Svizzera",RSI La 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+http://157.143.44.195/play/a01k
 #EXTINF:-1 group-title="Svizzera",RSI La 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+http://157.143.44.195/play/a02m
 #EXTINF:-1 group-title="Svizzera",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+http://157.143.44.195/play/a01h
 #EXTINF:-1 group-title="Svizzera",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+http://157.143.44.195/play/a01j
 #EXTINF:-1 group-title="Svizzera",SRF 1
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+http://157.143.44.195/play/a01e
 #EXTINF:-1 group-title="Svizzera",SRF 2
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+http://157.143.44.195/play/a01f
 #EXTINF:-1 group-title="Svizzera",SRF Info
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+http://157.143.44.195/play/a01g
 #EXTINF:-1 group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold
@@ -71,7 +71,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="Cairo",La7Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+http://157.143.44.195/play/a0d8
 #EXTINF:-1 group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+http://157.143.44.195/play/a077
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
