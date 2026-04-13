@@ -1437,8 +1437,8 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT DE
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
-#EXTINF:-1 group-title="RU",Shanson RU
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:-1 group-title="RU",RT Doc
+https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,Rai 4K
 http://91.146.94.234:10001/play/a131
 #EXTINF:0,Rai 1 HD 
@@ -1642,11 +1642,11 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",794
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
+http://176.65.146.189:8701/play/a09l
 #EXTINF:-1 group-title="test",795
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 group-title="test",796
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="test",796
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:-1 group-title="test",797
 http://212.126.107.190:9001/play/a1f1
 #EXTINF:-1 group-title="test",798
