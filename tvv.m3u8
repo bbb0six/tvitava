@@ -336,27 +336,27 @@ https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
 #EXTINF:0 group-title="UK",BBC 1
 http://176.65.146.99:4001/play/a08d/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+http://176.65.146.99:4001/play/a08n/index.m3u8
 #EXTINF:0 group-title="UK",BBC 3
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+http://176.65.146.99:4001/play/a08q/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+http://176.65.146.99:4001/play/a08j/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://176.65.146.99:4004/play/a082/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+http://176.65.146.99:4004/play/a07g/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+http://176.65.146.99:4004/play/a07r/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+http://176.65.146.99:4004/play/a07z/index.m3u8
 #EXTINF:0 group-title="UK",CHANNEL 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+http://176.65.146.99:4001/play/a07v/index.m3u8
 #EXTINF:0 group-title="UK",CHANNEL 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+http://176.65.146.99:4003/play/a06h/index.m3u8
 #EXTINF:0 group-title="UK",FILM 4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+http://176.65.146.99:4001/play/a086/index.m3u8
 #EXTINF:0 group-title="UK",MORE 4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+http://176.65.146.99:4001/play/a087/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
