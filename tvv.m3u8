@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+http://169.150.255.53/RaiScuola/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -690,7 +690,7 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
-https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+http://23.88.66.93/RTK_1/index.m3u8
 #EXTINF:0 group-title="KS",RTK 2
 http://94.100.50.220/RTK2/mpegts
 #EXTINF:0 group-title="KS",RTK 3
@@ -728,17 +728,17 @@ http://23.88.66.93/RTCG_2/index.m3u8
 #EXTINF:0 group-title="RS",РТС Свет
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd
 #EXTINF:0 group-title="RS",РТС 1
-http://51.83.135.95/RTS1/index.m3u8
+http://23.88.66.93/RTS_1/index.m3u8
 #EXTINF:0 group-title="RS",РТС 2
-http://51.83.135.95/RTS2/index.m3u8
+http://23.88.66.93/RTS_2/index.m3u8
 #EXTINF:0 group-title="RS",РТС 3
-http://51.83.135.95/RTS3/index.m3u8
-#EXTINF:0 group-title="RS",TV PINK
-http://51.83.135.95/Pink/index.m3u8
-#EXTINF:0 group-title="RS",B92
-http://51.83.135.95/B92/index.m3u8
-#EXTINF:0 group-title="RS",Prva
-http://51.83.135.95/Prva/index.m3u8
+http://23.88.66.93/RTS_3/index.m3u8
+#EXTINF:0 group-title="MK",MRT 1
+http://23.88.66.93/MRT_1/index.m3u8
+#EXTINF:0 group-title="MK",MRT 2
+http://23.88.66.93/MRT_2/index.m3u8
+#EXTINF:0 group-title="BA",BNT 1
+http://23.88.66.93/BHT/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="CH",carac 1
