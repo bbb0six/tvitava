@@ -757,8 +757,8 @@ http://157.143.44.195/play/a01l
 http://157.143.44.195/play/a01m
 #EXTINF:0 group-title="CH",5+ CH
 http://157.143.44.195/play/a01n
-#EXTINF:0 group-title="CH",6+ CH
-http://157.143.44.195/play/a07f
+#EXTINF:0 group-title="Music",FON Music RU
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
