@@ -294,7 +294,7 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:0 group-title="FR",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:0 group-title="FR",ARTE FR
-https://viamotionhsi.netplus.ch/live/eds/artehd/browser-dash/artehd.mpd
+http://145.239.5.177/300/mpegts
 #EXTINF:0 group-title="FR",LCP
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 #EXTINF:0 group-title="FR",W9
@@ -332,7 +332,7 @@ https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouvert
 #EXTINF:0 group-title="FR",RMC Life
 https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
 #EXTINF:0 group-title="FR",RTL 9
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
+http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="UK",BBC 1
 http://176.65.146.99:4001/play/a08d/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
@@ -742,7 +742,7 @@ http://23.88.66.93/BHT/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="CH",carac 1
-https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+http://145.239.5.177/371/mpegts
 #EXTINF:-1 group-title="CH",carac 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 3
