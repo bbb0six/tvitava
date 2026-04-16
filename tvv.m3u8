@@ -226,10 +226,10 @@ http://88.212.7.14/live/mb_classic/index.m3u8
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",TV Koper
 http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="-",Antenna 3
-http://157.143.44.195/play/a0d0
-#EXTINF:-1 group-title="-",Telelombardia
-http://157.143.44.195/play/a0de
+#EXTINF:-1 group-title="-",_
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:-1 group-title="-",_
+https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Mediaset",GF Live 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
