@@ -1428,7 +1428,7 @@ http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
 #EXTINF:-1 group-title="RU",8TV RU
-http://157.143.44.195/play/a09v
+https://v4.proofix.ru/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="RU",RT EN
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT FR
