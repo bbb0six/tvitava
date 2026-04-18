@@ -1439,88 +1439,88 @@ https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,Rai 4K
+#EXTINF:0,700
 http://91.146.94.234:10001/play/a131
-#EXTINF:0,Rai 1 HD 
+#EXTINF:0,701
 http://91.146.94.234:10001/play/a08y
-#EXTINF:0,Rai 2 HD
+#EXTINF:0,702
 http://91.146.94.234:10001/play/a132
-#EXTINF:0,Rai 3 HD
+#EXTINF:0,703
 http://91.146.94.234:10001/play/a133
-#EXTINF:0,Rete4 HD
+#EXTINF:0,704
 http://91.146.94.234:10001/play/a03h
-#EXTINF:0,Canale5 HD
+#EXTINF:0,705
 http://91.146.94.234:10001/play/a03g
-#EXTINF:0,Italia1 HD
+#EXTINF:0,706
 http://91.146.94.234:10001/play/a03f
-#EXTINF:0,LA7 HD
+#EXTINF:0,707
 http://91.146.94.234:10001/play/a03q
-#EXTINF:0,TV8 HD
+#EXTINF:0,708
 http://91.146.94.234:10001/play/a03b
-#EXTINF:0,Nove HD
+#EXTINF:0,709
 http://91.146.94.234:10001/play/a09q
-#EXTINF:0,Euronews Italian
-http://157.143.44.195/play/a0f3
-#EXTINF:0,RSI La1
-http://157.143.44.195/play/a01k
-#EXTINF:0,RSI La2
-http://157.143.44.195/play/a02m
-#EXTINF:0,Rai Sport HD
+#EXTINF:0,710
+http://91.146.94.234:10001/play/a0e8
+#EXTINF:0,711
+http://91.146.94.234:10001/play/a0fh
+#EXTINF:0,712
+http://91.146.94.234:10001/play/a08m
+#EXTINF:0,713
+http://91.146.94.234:10001/play/a0e4
+#EXTINF:0,714
+http://91.146.94.234:10001/play/a0fa
+#EXTINF:0,715
 http://91.146.94.234:10001/play/ars1
-#EXTINF:0,Rai News 24 HD
+#EXTINF:0,716
 http://91.146.94.234:10001/play/a135
-#EXTINF:0,TGCOM24 HD
+#EXTINF:0,717
 http://91.146.94.234:10001/play/a08t
-#EXTINF:0,Mediaset Italia Due
+#EXTINF:0,718
 http://91.146.94.234:10001/play/a03n
-#EXTINF:0,Mediaset Extra
+#EXTINF:0,719
 http://91.146.94.234:10001/play/a03m
-#EXTINF:0,Giallo
-http://91.146.94.234:10001/play/a09p
-#EXTINF:0,Top Crime
-http://91.146.94.234:10001/play/a03o
-#EXTINF:0,20Mediaset HD
+#EXTINF:0,720
 http://91.146.94.234:10001/play/a08s
-#EXTINF:0,Rai 4 HD
+#EXTINF:0,721
 http://91.146.94.234:10001/play/a02p
-#EXTINF:0,Iris
+#EXTINF:0,722
 http://91.146.94.234:10001/play/a03i
-#EXTINF:0,Rai 5 HD
+#EXTINF:0,723
 http://91.146.94.234:10001/play/a03a
-#EXTINF:0,Rai Movie HD
+#EXTINF:0,724
 http://91.146.94.234:10001/play/a02r
-#EXTINF:0,Rai Premium HD
+#EXTINF:0,725
 http://91.146.94.234:10001/play/a02q
-#EXTINF:0,cielo
+#EXTINF:0,726
 http://91.146.94.234:10001/play/a04w
-#EXTINF:0,27Twentyseven HD
+#EXTINF:0,727
 http://91.146.94.234:10001/play/a08u
-#EXTINF:0,TV2000
-http://157.143.44.195/play/a0ch
-#EXTINF:0,LA7 Cinema
+#EXTINF:0,728
+http://91.146.94.234:10001/play/a0fg
+#EXTINF:0,729
 http://91.146.94.234:10001/play/a03r
-#EXTINF:0,La 5
+#EXTINF:0,730
 http://91.146.94.234:10001/play/a03k
-#EXTINF:0,Real Time IT
-http://157.143.44.195/play/a0do
-#EXTINF:0,HGTV IT
+#EXTINF:0,731
+http://91.146.94.234:10001/play/a0dw
+#EXTINF:0,732
+http://91.146.94.234:10001/play/a0e7
+#EXTINF:0,733
 http://91.146.94.234:10001/play/a09s
-#EXTINF:0,Food Network IT
-http://157.143.44.195/play/a0ec
-#EXTINF:0,Cine34
+#EXTINF:0,734
 http://91.146.94.234:10001/play/a04o
-#EXTINF:0,Focus
+#EXTINF:0,735
 http://91.146.94.234:10001/play/a03d
-#EXTINF:0,RTL 102.5
+#EXTINF:0,736
 http://157.143.44.195/play/a0fa
-#EXTINF:0,Discovery IT
-http://157.143.44.195/play/a0f2
-#EXTINF:0,Giallo
-http://157.143.44.195/play/a0d6
-#EXTINF:0,Deejay TV
-http://157.143.44.195/play/a0eh
-#EXTINF:0,RadioItalia TV
-http://157.143.44.195/play/a0f1
+#EXTINF:0,737
+http://91.146.94.234:10001/play/a0it
+#EXTINF:0,738
+http://91.146.94.234:10001/play/a09p
+#EXTINF:0,739
+http://91.146.94.234:10001/play/a03o
+#EXTINF:0,740
+http://91.146.94.234:10001/play/a03j
 #EXTINF:0,741
 http://91.146.94.234:10001/play/a0dw
 #EXTINF:0,742
