@@ -25,22 +25,22 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:0 group-title="News",Euronews IT
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:-1 group-title="Svizzera",RSI La 1
-https://netplus.zappr.stream/rsila1hd.m3u8
-#EXTINF:-1 group-title="Svizzera",RSI La 2
-https://netplus.zappr.stream/rsila2hd.m3u8
-#EXTINF:-1 group-title="Svizzera",RTS 1
-https://netplus.zappr.stream/rts1hd.m3u8
-#EXTINF:-1 group-title="Svizzera",RTS 2
-https://netplus.zappr.stream/rts2hd.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF 1
-https://netplus.zappr.stream/srf1hd.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF 2
-https://netplus.zappr.stream/srf2hd.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF Info
+https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="CH",RSI LA 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:0 group-title="CH",RSI LA 2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:0 group-title="CH",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:0 group-title="CH",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:0 group-title="CH",SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:0 group-title="CH",SRF 2
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:0 group-title="CH",SRF INFO
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-#EXTINF:-1 group-title="Svizzera",TeleTicino
+#EXTINF:-1 group-title="CH",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold
 http://84.22.55.2:8032/play/s364
@@ -109,8 +109,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="-",BBC Earth IT Fast
-https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="-",WeDo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -224,11 +224,11 @@ http://88.212.7.14/live/mb_dance/index.m3u8
 http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="-",TV Koper
+#EXTINF:-1 group-title="SI",TV Koper
 http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="-",RSI La1
+#EXTINF:-1 group-title="CH",RSI La 1
 http://169.150.255.53/RSILa1/index.m3u8
-#EXTINF:-1 group-title="-",RSI La2
+#EXTINF:-1 group-title="CH",RSI La 2
 http://169.150.255.53/RSILa2/index.m3u8
 #EXTINF:0 group-title="Mediaset",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -879,8 +879,8 @@ http://88.212.7.14/live/test_nhk/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",1+1 Марафон
-http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+#EXTINF:0 group-title="World",Euronews IT
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="World",MTV Classic 1
 http://nor1live.win/livehttpplay?channel_id=23086
 #EXTINF:-1 group-title="World",MTV Classic 2
@@ -1648,7 +1648,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test",796
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:-1 group-title="test",797
-http://212.126.107.190:9001/play/a1f1
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="test",798
 http://91.146.94.234:10001/play/a0fa
 #EXTINF:-1 group-title="test",799
