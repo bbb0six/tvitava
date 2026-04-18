@@ -312,9 +312,9 @@ https://viamotionhsi.netplus.ch/live/eds/itele/browser-dash/itele.mpd
 #EXTINF:0 group-title="FR",LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
 #EXTINF:0 group-title="FR",franceinfo
-https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-dash/franceinfo.mpd
+http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+http://145.239.5.177/361/mpegts
 #EXTINF:0 group-title="FR",T18
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
 #EXTINF:0 group-title="FR",NOVO19
@@ -324,7 +324,7 @@ https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 #EXTINF:0 group-title="FR",L'equipe
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
 #EXTINF:0 group-title="FR",6Ter
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+http://145.239.5.177/314/mpegts
 #EXTINF:0 group-title="FR",RMC Story
 https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -360,15 +360,15 @@ http://176.65.146.99:4001/play/a087/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-1h&end=now
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 #EXTINF:0 group-title="Regionali",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-1h&end=now
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sud
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-1h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sud Extra
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-1h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
 #EXTINF:0 group-title="Regionali",Teleregione Color
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-1h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
 #EXTINF:0 group-title="Regionali",Telebari
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Teledehon
@@ -755,22 +755,22 @@ https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 http://157.143.44.195/play/a01l
 #EXTINF:0 group-title="CH",4+ CH
 http://157.143.44.195/play/a01m
-#EXTINF:0 group-title="CH",5+ CH
-http://157.143.44.195/play/a01n
+#EXTINF:0 group-title="Music",Shanson TV RU
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
-http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel
-http://88.212.7.14/live/test_rebel/playlist.m3u8
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Expres
-http://88.212.7.14//live/test_ocko_expres/playlist.m3u8
+https://dash2.antik.sk/live/test_ocko_expres/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Black
-http://88.212.7.14/live/test_ocko_black/playlist.m3u8
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Star
-http://88.212.7.14/live/test_ocko_star/playlist.m3u8
+https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
-http://88.212.7.14/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0 group-title="-",Docu Box
 http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="-",Fashion Box
@@ -881,9 +881,9 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:-1 group-title="World",MTV Classic 1
+#EXTINF:-1 group-title="World",_
 http://nor1live.win/livehttpplay?channel_id=23086
-#EXTINF:-1 group-title="World",MTV Classic 2
+#EXTINF:-1 group-title="World",MTV Classic
 http://nor1live.win/livehttpplay?channel_id=23087
 #EXTINF:-1 group-title="World",MTV Live SD
 http://nor1live.win/livehttpplay?channel_id=23081
@@ -1334,9 +1334,9 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-http://157.143.44.195/play/a04e
-#EXTINF:0 group-title="TR",TRT 2
-http://157.143.44.195/play/a09q
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="AZ",ictimai
+http://176.65.146.189:8701/play/a09l
 #EXTINF:0 group-title="IL",9TV IL
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
 #EXTINF:0 group-title="IL",CH 10 ISR
@@ -1634,23 +1634,22 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 group-title="test",TVE 1 dvr
+#EXTINF:0 group-title="test",792
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:0 group-title="test",TVE 2 dvr
+#EXTINF:0 group-title="test",793
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",794
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://176.65.146.189:8701/play/a09l
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 group-title="test",795
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 group-title="test",796
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 group-title="test",797
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="test",798
-http://91.146.94.234:10001/play/a0fa
+https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:-1 group-title="test",799
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="test",800
