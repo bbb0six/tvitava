@@ -27,17 +27,17 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="Svizzera",RSI La 1
-http://169.150.255.53/RSILa1/index.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 group-title="Svizzera",RSI La 2
-http://169.150.255.53/RSILa2/index.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:-1 group-title="Svizzera",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:-1 group-title="Svizzera",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+https://netplus.zappr.stream/rts2hd.m3u8
 #EXTINF:-1 group-title="Svizzera",SRF 1
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+https://netplus.zappr.stream/srf1hd.m3u8
 #EXTINF:-1 group-title="Svizzera",SRF 2
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:-1 group-title="Svizzera",SRF Info
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
 #EXTINF:-1 group-title="Svizzera",TeleTicino
@@ -226,17 +226,17 @@ http://88.212.7.14/live/mb_classic/index.m3u8
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="-",TV Koper
 http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="-",_
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
-#EXTINF:-1 group-title="-",_
-https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Mediaset",GF Live 1
+#EXTINF:-1 group-title="-",RSI La1
+http://169.150.255.53/RSILa1/index.m3u8
+#EXTINF:-1 group-title="-",RSI La2
+http://169.150.255.53/RSILa2/index.m3u8
+#EXTINF:0 group-title="Mediaset",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Live 2
+#EXTINF:0 group-title="Mediaset",GF Regia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Live +1
+#EXTINF:0 group-title="Mediaset",GF Un'ora fa
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai 4K
