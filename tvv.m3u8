@@ -360,15 +360,15 @@ http://176.65.146.99:4001/play/a087/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Antenna Sud
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Antenna Sud Extra
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Teleregione Color
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telebari
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Teledehon
