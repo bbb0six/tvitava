@@ -751,10 +751,10 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 5
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
-#EXTINF:0 group-title="CH",3+ CH
-http://157.143.44.195/play/a01l
-#EXTINF:0 group-title="CH",4+ CH
-http://157.143.44.195/play/a01m
+#EXTINF:-1 group-title="CH",TVM3 CH
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="FR",M6 Music FR
+http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="Music",Shanson TV RU
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
@@ -824,7 +824,7 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:0 group-title="World",Euro D Turk
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 #EXTINF:0 group-title="World",TV2 Algérie
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+http://176.65.146.100:8041/play/a06a/index.m3u8
 #EXTINF:0 group-title="World",2M Maroc
 http://176.65.146.100:8026/play/a06j/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat1
@@ -842,11 +842,11 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",MTV JP
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
-http://157.143.44.195/play/a04l
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:0 group-title="i",Rai 3 SAT
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai Italia EU
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 #EXTINF:0 group-title="i",Rai Italia LA
@@ -862,7 +862,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="World",CCTV 4
-https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
+http://91.146.94.234:10001/play/a0br
 #EXTINF:0 group-title="World",CGTN
 http://88.212.7.14/live/test_cgtn/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN DOC
@@ -881,9 +881,9 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:-1 group-title="World",_
+#EXTINF:-1 group-title="World",MTV Classic 1
 http://nor1live.win/livehttpplay?channel_id=23086
-#EXTINF:-1 group-title="World",MTV Classic
+#EXTINF:-1 group-title="World",MTV Classic 2
 http://nor1live.win/livehttpplay?channel_id=23087
 #EXTINF:-1 group-title="World",MTV Live SD
 http://nor1live.win/livehttpplay?channel_id=23081
