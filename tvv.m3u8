@@ -442,13 +442,13 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="DE",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0 group-title="AT",ORF 1
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+http://smart.lokkeweb.workers.dev/ID=3506200154cb5d519372de
 #EXTINF:0 group-title="AT",ORF 2
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+http://smart.lokkeweb.workers.dev/ID=420378349719952e3dcb15
+#EXTINF:0 group-title="AT",ORF 3
+http://smart.lokkeweb.workers.dev/ID=3354430713b0f1d4585078
 #EXTINF:0 group-title="AT",Servus TV
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
-#EXTINF:0 group-title="AT",ATV
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SIXX
@@ -1641,9 +1641,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",794
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h&end=now
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="test",795
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h&end=now
+http://smart.lokkeweb.workers.dev/ID=209976521200ac6aba7ff3
 #EXTINF:-1 group-title="test",796
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 group-title="test",797
