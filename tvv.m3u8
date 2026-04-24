@@ -282,7 +282,7 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
 #EXTINF:0 group-title="FR",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 2
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 3
@@ -292,15 +292,15 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTINF:0 group-title="FR",FRANCE 5
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 #EXTINF:0 group-title="FR",M6
-http://151.80.18.177:86/M6_HD/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 #EXTINF:0 group-title="FR",ARTE FR
 http://145.239.5.177/300/mpegts
 #EXTINF:0 group-title="FR",LCP
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-dash/lcp.mpd
 #EXTINF:0 group-title="FR",W9
-http://151.80.18.177:86/W9_HD/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
 #EXTINF:0 group-title="FR",TMC
-http://151.80.18.177:86/TMC/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 #EXTINF:0 group-title="FR",TFX
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
 #EXTINF:0 group-title="FR",GULLI
