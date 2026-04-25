@@ -1062,19 +1062,19 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="SK",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 group-title="star",511
-http://45.5.117.57:5550/play/a04g
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19081/mpegts
 #EXTINF:-1 group-title="star",512
-http://45.5.117.57:5550/play/a04h
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19082/mpegts
 #EXTINF:-1 group-title="star",513
-http://45.5.117.57:5550/play/a04i
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19083/mpegts
 #EXTINF:-1 group-title="star",514
-http://45.5.117.57:5550/play/a01g
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19084/mpegts
 #EXTINF:-1 group-title="star",515
-http://45.5.117.57:5550/play/a04f
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19085/mpegts
 #EXTINF:-1 group-title="star",516
-http://45.5.117.57:5550/play/a04j
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19173/mpegts
 #EXTINF:-1 group-title="star",517
-http://45.5.117.57:5550/play/a031
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19199/mpegts
 #EXTINF:-1 group-title="-",518
 http://91.146.94.234:10001/play/a0dk
 #EXTINF:-1 group-title="-",519
@@ -1174,11 +1174,11 @@ http://169.150.255.53/ArtSport5/index.m3u8
 #EXTINF:0,566
 http://169.150.255.53/ArtSport6/index.m3u8
 #EXTINF:-1,group-title="-",567
-http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
 #EXTINF:-1,group-title="-",568
-http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
 #EXTINF:-1,group-title="-",569
-http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
 #EXTINF:-1,group-title="-",570
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="IL",ONE 1
