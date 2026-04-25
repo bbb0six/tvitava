@@ -1061,14 +1061,14 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="SK",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
-#EXTINF:-1 group-title="star",511
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19081/mpegts
-#EXTINF:-1 group-title="star",512
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19082/mpegts
-#EXTINF:-1 group-title="star",513
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19083/mpegts
-#EXTINF:-1 group-title="star",514
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19084/mpegts
+#EXTINF:0,511
+http://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.m3u8
+#EXTINF:0,512
+http://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.m3u8
+#EXTINF:0,513
+http://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.m3u8
+#EXTINF:0,514
+http://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.m3u8
 #EXTINF:-1 group-title="star",515
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19085/mpegts
 #EXTINF:-1 group-title="star",516
@@ -1122,13 +1122,13 @@ http://179.1.146.22:8000/play/a0js
 #EXTINF:-1 group-title="sports",540
 http://179.1.146.22:8000/play/a0jt
 #EXTINF:0,541
-http://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19081/mpegts
 #EXTINF:0,542
-http://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19082/mpegts
 #EXTINF:0,543
-http://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19083/mpegts
 #EXTINF:0,544
-http://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19084/mpegts
 #EXTINF:0,545
 http://169.150.255.53/Eurosport1HD/index.m3u8
 #EXTINF:0,546
@@ -1286,13 +1286,13 @@ http://46.149.191.217:9000/play/a04o
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
-https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+http://46.149.191.217:9009/play/a02j
 #EXTINF:-1 group-title="HU",M4 Sport
 http://46.149.191.217:9010/play/a017
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="HU",Duna World
-http://157.143.44.195/play/a09w
+http://46.149.191.217:9007/play/a02q
 #EXTINF:-1 group-title="HU",TV2 HU
 http://46.149.191.217:9005/play/a01q
 #EXTINF:0 group-title="NL",TV5 Monde Europe HD
