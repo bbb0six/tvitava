@@ -955,8 +955,8 @@ http://tv2watch.icu:8080/96924127/96924127/9275
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",MLB Network
-http://89.105.221.127/MLBNetwork/index.m3u8?token=test
+#EXTINF:0 group-title="USA",OAN
+http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
@@ -969,6 +969,8 @@ http://tv2watch.icu:8080/96924127/96924127/9308
 http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",MTV CLASSIC
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -987,8 +989,6 @@ http://nor1live.win/livehttpplay?channel_id=23006
 http://nor1live.win/livehttpplay?channel_id=23079
 #EXTINF:0 group-title="USA",Logo
 http://nor1live.win/livehttpplay?channel_id=23013
-#EXTINF:0 group-title="USA",OAN
-http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",Hallmark
 http://nor1live.win/livehttpplay?channel_id=23057
 #EXTINF:0 group-title="USA",Paramount
