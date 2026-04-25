@@ -891,7 +891,7 @@ http://nor1live.win/livehttpplay?channel_id=23081
 http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",ABC
+#EXTINF:0 group-title="USA",_
 http://89.105.221.127/ABC/index.m3u8?token=test
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
@@ -923,7 +923,7 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:0 group-title="USA",Disney
+#EXTINF:0 group-title="USA",_
 http://89.105.221.127/Disney/index.m3u8?token=test
 #EXTINF:0 group-title="USA",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -940,10 +940,10 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:0 group-title="USA",HBO Comedy
-http://89.105.221.127/HBOComedy/index.m3u8?token=test
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
-http://89.105.221.127/HBOZone/index.m3u8?token=test
-#EXTINF:0 group-title="USA",History
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:0 group-title="USA",_
 http://89.105.221.127/HistoryChannel/index.m3u8?token=test
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
@@ -1013,7 +1013,7 @@ http://nor1live.win/livehttpplay?channel_id=23137
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TNT
 http://nor1live.win/livehttpplay?channel_id=23133
-#EXTINF:0 group-title="USA",Travel
+#EXTINF:0 group-title="USA",_
 http://89.105.221.127/TravelChannel/index.m3u8?token=test
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
