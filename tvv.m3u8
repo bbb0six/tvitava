@@ -442,11 +442,11 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="DE",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0 group-title="AT",ORF 1
-http://smart.lokkeweb.workers.dev/ID=3506200154cb5d519372de
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
-http://smart.lokkeweb.workers.dev/ID=420378349719952e3dcb15
-#EXTINF:0 group-title="AT",ORF 3
-http://smart.lokkeweb.workers.dev/ID=3354430713b0f1d4585078
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:0 group-title="AT",ATV
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:0 group-title="AT",Servus TV
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
 #EXTINF:0 group-title="DE",Kabel Eins
@@ -462,7 +462,7 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-http://23.88.66.93/ARD/index.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:0 group-title="DE",ZDF
 http://23.88.66.93/ZDF/index.m3u8
 #EXTINF:0 group-title="DE",ZDF info
@@ -516,25 +516,25 @@ https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aI
 #EXTINF:0 group-title="ES",Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
 #EXTINF:0 group-title="ES",Star TVE
-https://viamotionhsi.netplus.ch/live/eds/starhd/browser-dash/starhd.mpd
-#EXTINF:0 group-title="ES",TVE 24h
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
+http://200.229.147.142:8000/play/a025/index.m3u8
 #EXTINF:0 group-title="ES",TVE INT
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+http://200.229.147.142:8000/play/a04l/index.m3u8
+#EXTINF:0 group-title="ES",TVE 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:0 group-title="ES",La 1
-http://176.65.146.138:8046/play/a06s/index.m3u8
+http://185.94.79.41/1709/index.m3u8
 #EXTINF:0 group-title="ES",La 2
-http://176.65.146.138:8046/play/a06t/index.m3u8
-#EXTINF:0 group-title="ES",Antena3
-http://176.65.146.138:8046/play/a07g/index.m3u8
-#EXTINF:0 group-title="ES",neox
-http://176.65.146.138:8046/play/a07i/index.m3u8
-#EXTINF:0 group-title="ES",nova
-http://176.65.146.138:8046/play/a07j/index.m3u8
+http://185.94.79.41/1807/index.m3u8
+#EXTINF:0 group-title="ES",Antena 3
+http://185.94.77.41/1705/index.m3u8
+#EXTINF:0 group-title="ES",Cuatro
+http://185.94.77.40/1706/index.m3u8
+#EXTINF:0 group-title="ES",Telecinco
+http://185.94.79.41/1707/index.m3u8
 #EXTINF:0 group-title="ES",laSexta
-http://176.65.146.138:8046/play/a07h/index.m3u8
+http://185.94.79.41/1708/index.m3u8
 #EXTINF:0 group-title="ES",tdp
-http://176.65.146.138:8046/play/a06q/index.m3u8
+http://185.94.79.41/1704/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -755,8 +755,8 @@ https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
-#EXTINF:0 group-title="Music",Shanson TV RU
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:-1 group-title="Music",MCM TOP FR
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -883,8 +883,8 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="World",_
 http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="World",MTV Classic 2
-http://nor1live.win/livehttpplay?channel_id=23087
+#EXTINF:0 group-title="-",_
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:-1 group-title="World",MTV Live SD
 http://nor1live.win/livehttpplay?channel_id=23081
 #EXTINF:-1 group-title="World",MTV U
