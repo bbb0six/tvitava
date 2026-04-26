@@ -881,8 +881,8 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:-1 group-title="World",MTV Classic 1
-http://nor1live.win/livehttpplay?channel_id=23086
+#EXTINF:-1 group-title="World",_
+http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:-1 group-title="World",MTV Classic 2
 http://nor1live.win/livehttpplay?channel_id=23087
 #EXTINF:-1 group-title="World",MTV Live SD
@@ -1069,18 +1069,18 @@ http://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.m3u8
 http://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.m3u8
 #EXTINF:0,514
 http://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.m3u8
-#EXTINF:-1 group-title="star",515
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19085/mpegts
-#EXTINF:-1 group-title="star",516
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19173/mpegts
-#EXTINF:-1 group-title="star",517
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19199/mpegts
-#EXTINF:-1 group-title="-",518
-http://91.146.94.234:10001/play/a0dk
-#EXTINF:-1 group-title="-",519
-http://91.146.94.234:10001/play/a0en
-#EXTINF:-1 group-title="-",520
-http://91.146.94.234:10001/play/a05n
+#EXTINF:0,515
+http://200.229.147.142:8000/play/a013/index.m3u8
+#EXTINF:0,516
+http://200.229.147.142:8000/play/a03b/index.m3u8
+#EXTINF:0,517
+http://200.229.147.142:8000/play/a02r/index.m3u8
+#EXTINF:0,518
+http://200.229.147.142:8000/play/a03w/index.m3u8
+#EXTINF:0,519
+http://200.229.147.142:8000/play/a05y/index.m3u8
+#EXTINF:0,520
+http://200.229.147.142:8000/play/a05r/index.m3u8
 #EXTINF:0,521
 http://86.87.15.10:8008/play/a01h/index.m3u8
 #EXTINF:0,522
@@ -1119,16 +1119,16 @@ http://179.1.146.22:8000/play/a0g4
 http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="sports",539
 http://179.1.146.22:8000/play/a0js
-#EXTINF:-1 group-title="sports",540
-http://179.1.146.22:8000/play/a0jt
+#EXTINF:0,540
+http://91.146.94.234:10001/play/a0dv
 #EXTINF:0,541
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19081/mpegts
+http://91.146.94.234:10001/play/a0dk
 #EXTINF:0,542
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19082/mpegts
+http://91.146.94.234:10001/play/a0en
 #EXTINF:0,543
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19083/mpegts
+http://91.146.94.234:10001/play/a05n
 #EXTINF:0,544
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19084/mpegts
+http://185.207.34.31:8000/play/a018/index.m3u8
 #EXTINF:0,545
 http://169.150.255.53/Eurosport1HD/index.m3u8
 #EXTINF:0,546
