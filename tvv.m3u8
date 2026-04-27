@@ -885,8 +885,8 @@ https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 group-title="-",_
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
-#EXTINF:-1 group-title="World",MTV Live SD
-http://nor1live.win/livehttpplay?channel_id=23081
+#EXTINF:0 group-title="-",_
+http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:-1 group-title="World",MTV U
 http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:0 group-title="USA",5 STAR MAX
