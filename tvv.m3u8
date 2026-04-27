@@ -470,51 +470,51 @@ http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:0 group-title="DE",3sat
-http://41.223.30.230/3SAT/index.m3u8
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:0 group-title="DE",RTL 2
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
+http://213.169.39.30:5291
+#EXTINF:0 group-title="DE",RTL Zwei
+http://213.169.39.30:5294
+#EXTINF:0 group-title="DE",RTL UP
+http://213.169.39.30:5292
 #EXTINF:0 group-title="DE",VOX
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:0 group-title="DE",Super RTL
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ALPHA
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-dash/bralpha.mpd
 #EXTINF:0 group-title="DE",BR
 https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-dash/brhdsud.mpd
 #EXTINF:0 group-title="DE",HR
-https://viamotionhsi.netplus.ch/live/eds/hr/browser-dash/hr.mpd
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",MDR
-https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NDR
-https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
+https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WDR
-https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
+https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RBB
-https://viamotionhsi.netplus.ch/live/eds/rbb/browser-dash/rbb.mpd
+https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SWR
-https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",KIKA
-https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
-#EXTINF:0 group-title="DE",TELE 5
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
-#EXTINF:0 group-title="DE",Comedy Central DE
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
-#EXTINF:0 group-title="DE",DMAX DE
-https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
 http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://185.228.163.146:8000/play/a007/index.m3u8
+#EXTINF:0 group-title="DE",_
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+#EXTINF:0 group-title="Music",MTV Japan
+http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
-#EXTINF:0 group-title="Vari",7 Gold
-http://84.22.55.2:8032/play/s364
+#EXTINF:0 group-title="Vari",7G ER
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0 group-title="ES",Star TVE
 http://200.229.147.142:8000/play/a025/index.m3u8
 #EXTINF:0 group-title="ES",TVE INT
@@ -563,8 +563,10 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_outp
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Radio
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
-#EXTINF:0 group-title="Vari",byoblu
-https://streamcdnm3-09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/chunklist_b3128000.m3u8
+#EXTINF:-1,ByoBlu
+#EXTVLCOPT:http-origin=https://www.byoblu.com
+#EXTVLCOPT:http-referrer=https://www.byoblu.com/
+https://live.pwsvideo.com/a286a5b5-4732-4826-a408-08c3a691fbf1/3c5atq75c8o1m91ajrx1/720p/playlist.m3u8
 #EXTINF:0 group-title="Vari",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Euro TV
@@ -1365,12 +1367,12 @@ https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:-1 group-title="Music",2TV LT
 http://78.62.9.23:55555/2TV
-#EXTINF:-1 group-title="Music",TVM3 CH
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Music",M6 Music FR
-http://145.239.5.177/320/mpegts
-#EXTINF:-1 group-title="Music",MCM TOP FR
-http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Music",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="Music",Bridge Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="Music",Bridge Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="Music",Clubland UK
 http://176.65.146.99:4002/play/a06j/index.m3u8
 #EXTINF:-1 group-title="Music",NOW 70s
@@ -1645,7 +1647,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="test",795
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="test",796
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",797
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
 #EXTINF:-1 group-title="test",798
