@@ -462,11 +462,11 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+http://23.88.66.93/ARD/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
 http://23.88.66.93/ZDF/index.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:0 group-title="DE",3sat
@@ -507,14 +507,14 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentra
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 #EXTINF:0 group-title="DE",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-dash/n24.mpd
-#EXTINF:0 group-title="DE",Blue Zoom DE
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
-#EXTINF:0 group-title="DE",Blue Zoom FR
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+#EXTINF:0 group-title="PT",RTP 1
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
-#EXTINF:0 group-title="ES",Aragon TV
-https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-dash/aragontv.mpd
+#EXTINF:0 group-title="Vari",7 Gold
+http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="ES",Star TVE
 http://200.229.147.142:8000/play/a025/index.m3u8
 #EXTINF:0 group-title="ES",TVE INT
@@ -533,12 +533,12 @@ http://185.94.77.40/1706/index.m3u8
 http://185.94.79.41/1707/index.m3u8
 #EXTINF:0 group-title="ES",laSexta
 http://185.94.79.41/1708/index.m3u8
-#EXTINF:0 group-title="ES",tdp
+#EXTINF:0 group-title="ES",TDP
 http://185.94.79.41/1704/index.m3u8
-#EXTINF:0 group-title="PT",RTP 1
-http://185.228.163.146:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="PT",RTP 2
-http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="ES",Divinity
+http://185.94.79.41/1875/index.m3u8
+#EXTINF:0 group-title="ES",Squirrel
+http://185.94.77.41/1770/index.m3u8
 #EXTINF:0 group-title="Vari",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="Vari",TVRS
@@ -1643,7 +1643,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",794
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="test",795
-https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="test",796
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
 #EXTINF:-1 group-title="test",797
