@@ -224,12 +224,12 @@ http://88.212.7.14/live/mb_dance/index.m3u8
 http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="SI",TV Koper
-http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 1
-http://169.150.255.53/RSILa1/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 2
-http://169.150.255.53/RSILa2/index.m3u8
+#EXTINF:0 group-title="News",BBC News
+https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:0 group-title="News",SKY News
+https://dash4.antik.sk/live/test_skynews/playlist.m3u8
+#EXTINF:0 group-title="News",CNN Int
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Mediaset",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -269,14 +269,14 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:0 group-title="CH",RTS 2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:0 group-title="News",_
-https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/52698f56-bcde-4bf7-b0e1-807e46bfbbbb/1.m3u8
-#EXTINF:0 group-title="News",SKY NEWS
-https://dash4.antik.sk/live/test_skynews/playlist.m3u8
-#EXTINF:0 group-title="News",BBC NEWS
-https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
-#EXTINF:0 group-title="News",CNN NEWS
-http://5.57.74.130:8000/play/a0d9/index.m3u8
+#EXTINF:0 group-title="CH",SRF 1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:0 group-title="CH",SRF 2
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:0 group-title="CH",SRF INFO
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:0 group-title="-",TV Koper
+http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
@@ -774,13 +774,13 @@ https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0 group-title="-",Docu Box
-http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
+https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="-",Fashion Box
-http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="-",Fast&Fun Box
-http://88.212.7.14/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="-",Film Box Arthouse
-http://88.212.7.14/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0 group-title="FR",France 24 FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:0 group-title="FR",France 24 EN
@@ -821,12 +821,12 @@ http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
 http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:0 group-title="World",Show Turk
-https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
-#EXTINF:0 group-title="World",Euro D Turk
-https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:0 group-title="World",TV2 Algérie
-http://176.65.146.100:8041/play/a06a/index.m3u8
+#EXTINF:-1 group-title="SI",TV Koper
+http://169.150.255.53/TVKoper/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La 1 backup
+http://169.150.255.53/RSILa1/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La 2 backup
+http://169.150.255.53/RSILa2/index.m3u8
 #EXTINF:0 group-title="World",2M Maroc
 http://176.65.146.100:8026/play/a06j/index.m3u8
 #EXTINF:0 group-title="World",Tunisia Nat1
@@ -889,8 +889,8 @@ http://200.229.147.142:8000/play/a06e/index.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0 group-title="-",_
 http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
-#EXTINF:-1 group-title="World",MTV U
-http://nor1live.win/livehttpplay?channel_id=23078
+#EXTINF:-1 group-title="-",_
+http://5.57.74.130:8000/play/a0d9/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",_
@@ -905,11 +905,11 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",BET 1
+#EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23062
-#EXTINF:0 group-title="USA",BET 2
+#EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23064
-#EXTINF:0 group-title="USA",BET HER
+#EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23065
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
@@ -1033,8 +1033,8 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:0 group-title="USA",Fox News Channel
-http://38.199.4.105:9999/play/a0oj
+#EXTINF:0 group-title="USA",FOX NEWS
+http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="USA",CNBC
 http://nor1live.win/livehttpplay?channel_id=23115
 #EXTINF:0 group-title="USA",CNBC World
