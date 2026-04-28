@@ -284,7 +284,7 @@ https://viamotionhsi.netplus.ch/live/eds/euronews/browser-dash/euronews.mpd
 #EXTINF:0 group-title="FR",TF1
 http://173.229.4.239:5004/auto/v1
 #EXTINF:0 group-title="FR",France 2
-http://173.229.4.239:5004/auto/v2
+http://41.205.70.146/FRANCE2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
 http://173.229.4.239:5004/auto/v3
 #EXTINF:0 group-title="FR",France 4
