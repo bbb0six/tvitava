@@ -242,23 +242,23 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+http://91.146.94.234:10001/play/a08y
 #EXTINF:0 group-title="IT",RAI 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+http://91.146.94.234:10001/play/a132
 #EXTINF:0 group-title="IT",RAI 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+http://91.146.94.234:10001/play/a133
 #EXTINF:0 group-title="IT",RETE 4
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+http://91.146.94.234:10001/play/a03h
 #EXTINF:0 group-title="IT",CANALE 5
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+http://91.146.94.234:10001/play/a03g
 #EXTINF:0 group-title="IT",ITALIA 1
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:0 group-title="IT",LA7 
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-#EXTINF:0 group-title="IT",LA7CINEMA
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+http://91.146.94.234:10001/play/a03f
+#EXTINF:0 group-title="IT",LA7
+http://91.146.94.234:10001/play/a03q
+#EXTINF:0 group-title="IT",TV8
+http://91.146.94.234:10001/play/a03b
 #EXTINF:0 group-title="IT",NOVE
-https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",DMAX IT
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:0 group-title="CH",RSI LA 1
