@@ -27,9 +27,9 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI LA 1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+http://169.150.223.25/RSILa1/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:0 group-title="CH",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:0 group-title="CH",RTS 2
@@ -261,14 +261,14 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
 #EXTINF:0 group-title="IT",DMAX IT
 https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:0 group-title="IT",RAI SPORT
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:0 group-title="IT",RAI STORIA
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:0 group-title="IT",RAI GULP
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:0 group-title="News",RAI NEWS 24
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:0 group-title="CH",RSI LA 1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:0 group-title="CH",RSI LA 2
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+#EXTINF:0 group-title="CH",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:0 group-title="CH",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:0 group-title="News",SKY TG24 IT
 http://157.143.44.195/play/a0dd
 #EXTINF:0 group-title="News",SKY NEWS
@@ -445,12 +445,12 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:0 group-title="AT",ORF 2
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:0 group-title="AT",ATV
-https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTINF:0 group-title="AT",Servus TV
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-dash/servustvhd.mpd
+http://169.150.223.25/ServusTV/index.m3u8
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",Tele 5
+http://169.150.223.25/Tele5/index.m3u8
 #EXTINF:0 group-title="DE",SIXX
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ProSieben
@@ -508,7 +508,7 @@ http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://185.228.163.146:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="DE",_
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
+http://169.150.223.25/Tele5/index.m3u8
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Vari",MANGA IT
