@@ -259,8 +259,8 @@ http://91.146.94.234:10001/play/a03q
 http://91.146.94.234:10001/play/a03b
 #EXTINF:0 group-title="IT",NOVE
 http://91.146.94.234:10001/play/a09q
-#EXTINF:0 group-title="IT",DMAX IT
-https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:0 group-title="IT",CIELO
+http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:0 group-title="CH",RSI LA 2
@@ -508,7 +508,7 @@ http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://185.228.163.146:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="DE",_
-http://169.150.223.25/Tele5/index.m3u8
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Vari",MANGA IT
@@ -906,9 +906,9 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",_
-http://nor1live.win/livehttpplay?channel_id=23062
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
 #EXTINF:0 group-title="USA",_
-http://nor1live.win/livehttpplay?channel_id=23064
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
 #EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23065
 #EXTINF:0 group-title="USA",BRAVO
