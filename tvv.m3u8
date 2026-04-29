@@ -26,9 +26,9 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI LA 1
+#EXTINF:0 group-title="CH",RSI La 1
 http://169.150.223.25/RSILa1/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI LA 2
+#EXTINF:0 group-title="CH",RSI La 2
 http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:0 group-title="CH",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
@@ -442,9 +442,9 @@ https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-dash/canaleit.mpd
 #EXTINF:0 group-title="DE",Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:0 group-title="AT",ORF 1
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
 http://169.150.223.25/ServusTV/index.m3u8
 #EXTINF:0 group-title="DE",Kabel Eins
@@ -474,7 +474,7 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL
 http://213.169.39.30:5291
 #EXTINF:0 group-title="DE",RTL Zwei
-http://213.169.39.30:5294
+http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL UP
 http://213.169.39.30:5292
 #EXTINF:0 group-title="DE",VOX
@@ -484,7 +484,7 @@ https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ALPHA
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:0 group-title="DE",BR
-https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+http://88.212.7.14/live/test_br_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",HR
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",MDR
