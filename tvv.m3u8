@@ -27,19 +27,19 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 1
-http://169.150.223.25/RSILa1/playlist.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:0 group-title="CH",RSI La 2
-http://169.150.223.25/RSILa2/playlist.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:0 group-title="CH",RTS 1
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+https://netplus.zappr.stream/rts2hd.m3u8
 #EXTINF:0 group-title="CH",SRF 1
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+https://netplus.zappr.stream/srf1hd.m3u8
 #EXTINF:0 group-title="CH",SRF 2
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:0 group-title="CH",SRF INFO
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+http://91.146.94.234:10001/play/a08m
 #EXTINF:-1 group-title="CH",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold
@@ -262,9 +262,9 @@ http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",CIELO
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
-https://netplus.zappr.stream/rsila1hd.m3u8
+http://169.150.223.25/RSILa1/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
-https://netplus.zappr.stream/rsila2hd.m3u8
+http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:0 group-title="CH",RTS 1
 https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
@@ -423,20 +423,20 @@ https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="UK",4seven
 http://176.65.146.99:4001/play/a082/index.m3u8
-#EXTINF:0 group-title="UK",5star
+#EXTINF:0 group-title="UK",5ACTION
+http://176.65.146.99:4003/play/a06i/index.m3u8
+#EXTINF:0 group-title="UK",5SELECT
+http://176.65.146.99:4003/play/a06e/index.m3u8
+#EXTINF:0 group-title="UK",5STAR
 http://176.65.146.99:4003/play/a06d/index.m3u8
 #EXTINF:0 group-title="UK",5USA
 http://176.65.146.99:4003/play/a06b/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
 http://176.65.146.99:4007/play/a073/index.m3u8
-#EXTINF:0 group-title="FR",Planete+
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
 #EXTINF:0 group-title="FR",MEZZO
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="Music",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
-#EXTINF:0 group-title="Music",Video Italia
-https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-dash/videoitalia.mpd
 #EXTINF:0 group-title="-",_
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 #EXTINF:0 group-title="-",_
