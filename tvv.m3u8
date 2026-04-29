@@ -270,7 +270,7 @@ https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
 https://netplus.zappr.stream/rts2hd.m3u8
 #EXTINF:0 group-title="CH",SRF 1
-http://91.146.94.234:10001/play/a0fh
+https://netplus.zappr.stream/srf1hd.m3u8
 #EXTINF:0 group-title="CH",SRF 2
 https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:0 group-title="CH",SRF INFO
@@ -505,10 +505,10 @@ https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
 http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="PT",RTP Notícias
+#EXTINF:0 group-title="PT",RTP N
 http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="DE",_
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+#EXTINF:0 group-title="PT",RTP Mundo
+http://84.54.186.107:8000/play/a02i
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Vari",MANGA IT
@@ -908,13 +908,13 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",_
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
 #EXTINF:0 group-title="USA",_
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
-#EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23065
 #EXTINF:0 group-title="USA",_
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",_
 http://stream.cammonitorplus.net/1812/index.m3u8
+#EXTINF:0 group-title="USA",fyi
+http://nor1live.win/livehttpplay?channel_id=23108
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:0 group-title="USA",CSPAN1
@@ -972,6 +972,8 @@ http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+#EXTINF:0 group-title="USA",MTV CLASSIC 2
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -997,8 +999,6 @@ http://nor1live.win/livehttpplay?channel_id=23057
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",fyi
-http://nor1live.win/livehttpplay?channel_id=23108
 #EXTINF:0 group-title="USA",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:0 group-title="USA",Starz
