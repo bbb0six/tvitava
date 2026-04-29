@@ -475,8 +475,8 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 http://213.169.39.30:5291
 #EXTINF:0 group-title="DE",RTL Zwei
 http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",RTL UP
-http://213.169.39.30:5292
+#EXTINF:0 group-title="DE",Super RTL
+http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
