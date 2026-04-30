@@ -799,20 +799,30 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="World",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 group-title="World",Africanews EN
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:0 group-title="World",Africanews FR
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0 group-title="World",Al Jazeera EN
 https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="World",Al Jazeera AR
 https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
-#EXTINF:0 group-title="World",383
+#EXTINF:0 group-title="World",CCTV 4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN
+https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN DOC
+https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN ES
+https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",CGTN FR
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",Arirang TV
+https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:0 group-title="World",NHK World Japan
+https://dash2.antik.sk/live/test_nhk/playlist.m3u8
+#EXTINF:0 group-title="World",Freedom UATV
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:0 group-title="World",Current Time
 https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:0 group-title="World",384
-https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-dash/monacotv.mpd
-#EXTINF:0 group-title="World",385
-https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+#EXTINF:0 group-title="World",24 Канал UA
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Info
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
@@ -821,18 +831,8 @@ http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
 http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 group-title="SI",TV Koper
-http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 1 backup
-http://169.150.255.53/RSILa1/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 2 backup
-http://169.150.255.53/RSILa2/index.m3u8
-#EXTINF:0 group-title="World",2M Maroc
-http://176.65.146.100:8026/play/a06j/index.m3u8
-#EXTINF:0 group-title="World",Tunisia Nat1
-http://176.65.146.100:8025/play/a07i/index.m3u8
-#EXTINF:0 group-title="World",Tunisia Nat2
-http://176.65.146.100:8025/play/a07s/index.m3u8
+#EXTINF:-1 group-title="World",_
+http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
@@ -863,32 +863,32 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
-#EXTINF:0 group-title="World",CCTV 4
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:0 group-title="World",CGTN
-https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
-#EXTINF:0 group-title="World",CGTN DOC
-https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:0 group-title="World",CGTN ES
-https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-#EXTINF:0 group-title="World",CGTN FR
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-#EXTINF:0 group-title="World",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:0 group-title="World",NHK World Japan
-https://dash2.antik.sk/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",Freedom UATV
-https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0 group-title="World",24 Канал UA
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="SI",TV Koper
+http://169.150.255.53/TVKoper/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La 1 backup
+http://169.150.255.53/RSILa1/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La 2 backup
+http://169.150.255.53/RSILa2/index.m3u8
+#EXTINF:0 group-title="World",2M Maroc
+http://176.65.146.100:8026/play/a06j/index.m3u8
+#EXTINF:0 group-title="World",Tunisia Nat1
+http://176.65.146.100:8025/play/a07i/index.m3u8
+#EXTINF:0 group-title="World",Tunisia Nat2
+http://176.65.146.100:8025/play/a07s/index.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:0 group-title="World",Africanews EN
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:0 group-title="World",Africanews FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:0 group-title="World",_
+http://213.169.39.30:5255
+#EXTINF:0 group-title="World",_
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
 #EXTINF:0 group-title="CH",_
 http://79.127.207.193:80/RSILa1/index.m3u8
 #EXTINF:0 group-title="CH",_
 http://79.127.207.193:80/RSILa2/index.m3u8
-#EXTINF:-1 group-title="World",_
-http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 group-title="-",_
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:-1 group-title="-",_
