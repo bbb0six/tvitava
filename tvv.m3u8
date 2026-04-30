@@ -793,8 +793,6 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:0 group-title="World",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:0 group-title="World",TV5Monde FBS
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:0 group-title="World",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="World",DW Español
@@ -823,16 +821,18 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="World",Africanews FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:0 group-title="World",Africanews EN
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:0 group-title="World",TRT World
+http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:0 group-title="World",TVP World
+http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Info
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
 http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0 group-title="World",TVP World
-http://88.212.7.14/live/test_tvp_world/playlist.m3u8
-#EXTINF:0 group-title="World",TRT World
-http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 group-title="World",_
-http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
@@ -863,36 +863,36 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT AU
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:0 group-title="i",MDS IT EU
+http://213.169.39.30:5255
 #EXTINF:-1 group-title="SI",TV Koper
 http://169.150.255.53/TVKoper/index.m3u8
 #EXTINF:-1 group-title="CH",RSI La 1 backup
 http://169.150.255.53/RSILa1/index.m3u8
 #EXTINF:-1 group-title="CH",RSI La 2 backup
 http://169.150.255.53/RSILa2/index.m3u8
-#EXTINF:0 group-title="World",2M Maroc
-http://176.65.146.100:8026/play/a06j/index.m3u8
-#EXTINF:0 group-title="World",Tunisia Nat1
-http://176.65.146.100:8025/play/a07i/index.m3u8
-#EXTINF:0 group-title="World",Tunisia Nat2
-http://176.65.146.100:8025/play/a07s/index.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0 group-title="World",Africanews EN
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:0 group-title="World",Africanews FR
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0 group-title="World",_
-http://213.169.39.30:5255
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",_
-https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 group-title="World",_
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+#EXTINF:0 group-title="World",_
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
+#EXTINF:0 group-title="World",_
+http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 group-title="CH",_
 http://79.127.207.193:80/RSILa1/index.m3u8
 #EXTINF:0 group-title="CH",_
 http://79.127.207.193:80/RSILa2/index.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="World",_
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:0 group-title="-",_
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
 #EXTINF:-1 group-title="-",_
-http://5.57.74.130:8000/play/a0d9/index.m3u8
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:0 group-title="USA",_
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
 #EXTINF:0 group-title="USA",_
@@ -971,10 +971,10 @@ http://tv2watch.icu:8080/96924127/96924127/9308
 http://41.205.93.154/MTVUSA/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV CLASSIC
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+#EXTINF:0 group-title="USA",MTV CLASSIC 1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
 #EXTINF:0 group-title="USA",MTV CLASSIC 2
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -1175,14 +1175,14 @@ http://169.150.255.53/ArtSport4/index.m3u8
 http://169.150.255.53/ArtSport5/index.m3u8
 #EXTINF:0,566
 http://169.150.255.53/ArtSport6/index.m3u8
-#EXTINF:-1,group-title="-",567
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
-#EXTINF:-1,group-title="-",568
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
-#EXTINF:-1,group-title="-",569
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
-#EXTINF:-1,group-title="-",570
-https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0,567
+http://213.169.39.30:5138
+#EXTINF:0,568
+http://213.169.39.30:5140
+#EXTINF:0,569
+http://213.169.39.30:5142
+#EXTINF:0,570
+http://213.169.39.30:5130
 #EXTINF:-1 group-title="IL",ONE 1
 http://185.132.134.159:80/one/index.m3u8
 #EXTINF:-1 group-title="IL",ONE 2
@@ -1242,7 +1242,7 @@ http://45.173.75.4:2061/play/a0b2
 #EXTINF:0 group-title="PP",599
 http://45.173.75.4:2061/play/a08h
 #EXTINF:0 group-title="PP",600
-http://45.173.75.4:2061/play/a09g
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1636,8 +1636,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 group-title="test",Rai Scuola dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="test",Videolina dvr
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(-JS1fB8B4I8vBiURwjeU33WlmeGHp2XOqsmy8k4O1mP8M5FktLTVHFva0AnyieDBTbGdY25aNFN7_UfX5pyJj2DxQQSIxIKkGYnCZ8YHLDCfiNfzdqDiOWMljdtW2WBi)/cloud/3/xa0aoxk/d/live-720.m3u8
+#EXTINF:-1 group-title="test",792
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0 group-title="test",793
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
