@@ -280,7 +280,7 @@ http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
-https://jmp2.uk/stvp-FR2600004SS
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
 #EXTINF:0 group-title="FR",TF1
 http://173.229.4.239:5004/auto/v1
 #EXTINF:0 group-title="FR",France 2
@@ -433,13 +433,13 @@ http://176.65.146.99:4003/play/a06d/index.m3u8
 http://176.65.146.99:4003/play/a06b/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
 http://176.65.146.99:4007/play/a073/index.m3u8
-#EXTINF:0 group-title="FR",MEZZO
-http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="Music",Deluxe Music
-https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
-#EXTINF:0 group-title="-",_
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 group-title="News",Euronews ES
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:0 group-title="News",Euronews IT
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="News",Euronews DE
 https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
@@ -507,8 +507,8 @@ http://185.228.163.146:8000/play/a002/index.m3u8
 http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="PT",RTP N
 http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="PT",RTP Mundo
-http://84.54.186.107:8000/play/a02i
+#EXTINF:0 group-title="Music",MEZZO
+http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Vari",MANGA IT
@@ -873,33 +873,33 @@ http://169.150.255.53/RSILa1/index.m3u8
 http://169.150.255.53/RSILa2/index.m3u8
 #EXTINF:0 group-title="World",Euronews IT
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0 group-title="World",_
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 group-title="World",_
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
-#EXTINF:0 group-title="World",_
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
-#EXTINF:0 group-title="World",_
-http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:0 group-title="CH",_
-http://79.127.207.193:80/RSILa1/index.m3u8
-#EXTINF:0 group-title="CH",_
-http://79.127.207.193:80/RSILa2/index.m3u8
-#EXTINF:0 group-title="World",_
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
-#EXTINF:0 group-title="-",_
-https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
-#EXTINF:-1 group-title="-",_
+#EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="World",Shanson RU
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+#EXTINF:0 group-title="World",Telesur ES
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 group-title="World",Telesur EN
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 group-title="-",420
+https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+#EXTINF:0 group-title="CH",421
+http://79.127.207.193:80/RSILa1/index.m3u8
+#EXTINF:0 group-title="CH",422
+http://79.127.207.193:80/RSILa2/index.m3u8
+#EXTINF:0 group-title="World",423
+http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+#EXTINF:0 group-title="World",424
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
+#EXTINF:0 group-title="World",425
+http://200.229.147.142:8000/play/a06e/index.m3u8
+#EXTINF:0 group-title="USA",426
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",427
 http://nor1live.win/livehttpplay?channel_id=23065
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",428
 http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",429
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
