@@ -891,42 +891,42 @@ http://79.127.207.193:80/RSILa2/index.m3u8
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
 #EXTINF:0 group-title="World",424
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
-#EXTINF:0 group-title="World",425
-http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:0 group-title="USA",426
+#EXTINF:0 group-title="USA",425
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
-#EXTINF:0 group-title="USA",427
-http://nor1live.win/livehttpplay?channel_id=23065
-#EXTINF:0 group-title="USA",428
+#EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:0 group-title="USA",429
+#EXTINF:0 group-title="USA",NBC 4 NY
 http://stream.cammonitorplus.net/1812/index.m3u8
+#EXTINF:0 group-title="USA",ABC 6 WPVI-TV
+http://stream.cammonitorplus.net/1813/index.m3u8
+#EXTINF:0 group-title="USA",A&E
+http://nor1live.win/livehttpplay?channel_id=23104
+#EXTINF:0 group-title="USA",TBS
+http://nor1live.win/livehttpplay?channel_id=23137
+#EXTINF:0 group-title="USA",fyi
+http://nor1live.win/livehttpplay?channel_id=23108
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",ABC NEWS
-http://41.205.93.154/ABC/index.m3u8
-#EXTINF:0 group-title="USA",A&E
-http://nor1live.win/livehttpplay?channel_id=23104
-#EXTINF:0 group-title="USA",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",5 STAR MAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",fyi
-http://nor1live.win/livehttpplay?channel_id=23108
+#EXTINF:0 group-title="USA",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:0 group-title="USA",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:0 group-title="USA",CSPAN1
-http://41.205.93.154/CSPAN1/mpegts
-#EXTINF:0 group-title="USA",CSPAN2
-http://41.205.93.154/CSPAN2/mpegts
-#EXTINF:0 group-title="USA",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:0 group-title="USA",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 group-title="USA",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:0 group-title="USA",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",E! Entertainment
@@ -939,6 +939,10 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:0 group-title="USA",HGTV
 http://nor1live.win/livehttpplay?channel_id=23151
+#EXTINF:0 group-title="USA",MAV TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 group-title="USA",OAN
+http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",HBO 1
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
@@ -955,10 +959,6 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://tv2watch.icu:8080/96924127/96924127/9275
 #EXTINF:0 group-title="USA",Lifetime Movie
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 group-title="USA",MAV TV
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",OAN
-http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
@@ -1009,8 +1009,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 group-title="USA",TBS
-http://nor1live.win/livehttpplay?channel_id=23137
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TNT
@@ -1032,13 +1030,15 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
+http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="USA",ABC NEWS
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
-http://nor1live.win/livehttpplay?channel_id=23115
-#EXTINF:0 group-title="USA",CNBC World
-http://nor1live.win/livehttpplay?channel_id=23117
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:0 group-title="USA",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",CNN LIVE
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,CNN ESPAÑOL
