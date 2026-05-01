@@ -462,21 +462,21 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-http://213.169.39.30:5281
+http://31.149.103.41:8000/play/45/index.m3u8
 #EXTINF:0 group-title="DE",ZDF
-http://213.169.39.30:5288
+http://31.149.103.41:8000/play/46/index.m3u8
 #EXTINF:0 group-title="DE",ZDF info
 http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
 http://213.169.39.30:5289
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",RTL
-http://213.169.39.30:5291
+#EXTINF:0 group-title="DE",RTL Television
+http://31.149.103.41:8000/play/47/index.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
-http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
+http://31.149.103.41:8000/play/65/index.m3u8
 #EXTINF:0 group-title="DE",Super RTL
-http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
+http://31.149.103.41:8000/play/66/index.m3u8
 #EXTINF:0 group-title="DE",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
@@ -821,10 +821,10 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",Africanews FR
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0 group-title="World",Africanews EN
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:0 group-title="World",Africanews FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",TVP World
