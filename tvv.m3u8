@@ -19,11 +19,11 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Cairo",LA7
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
 #EXTINF:0 group-title="Sky IT",TV8
 https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="Discovery IT",NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 1
