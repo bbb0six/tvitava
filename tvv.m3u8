@@ -27,10 +27,10 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 1
-https://netplus.zappr.stream/rsila1hd.m3u8
+http://169.150.223.25/RSILa1/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 2
-https://netplus.zappr.stream/rsila2hd.m3u8
-#EXTINF:0 group-title="CH",RTS 1
+http://169.150.223.25/RSILa2/playlist.m3u8
+#EXTINF:0 group-title="CH",_
 https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
 https://netplus.zappr.stream/rts2hd.m3u8
@@ -38,8 +38,8 @@ https://netplus.zappr.stream/rts2hd.m3u8
 https://netplus.zappr.stream/srf1hd.m3u8
 #EXTINF:0 group-title="CH",SRF 2
 https://netplus.zappr.stream/srf2hd.m3u8
-#EXTINF:0 group-title="CH",SRF INFO
-http://91.146.94.234:10001/play/a08m
+#EXTINF:0 group-title="CH",WeDo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:-1 group-title="CH",TeleTicino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="-",7Gold
@@ -109,8 +109,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="Discovery IT",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 group-title="-",WeDo Movies
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:-1 group-title="-",GO TV
+https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -149,17 +149,17 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
 https://jmp2.uk/stvp-ITBA2200010O1
-#EXTINF:0 group-title="Sciscione",iL61
+#EXTINF:0 group-title="Vari",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
-#EXTINF:0 group-title="Sciscione",Donna TV
+#EXTINF:0 group-title="Vari",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/master.m3u8
-#EXTINF:0 group-title="Vari",GO TV
-https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
+#EXTINF:0 group-title="Vari",SI SoloCalcio
+https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 group-title="Vari",SI SoloCalcio
-https://jmp2.uk/stvp-ITBC4700002CO
+#EXTINF:-1 group-title="Vari",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 group-title="Mediaset",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
@@ -262,9 +262,9 @@ http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",CIELO
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
-http://169.150.223.25/RSILa1/playlist.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
-http://169.150.223.25/RSILa2/playlist.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:0 group-title="CH",RTS 1
 https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
