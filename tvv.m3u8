@@ -1036,7 +1036,7 @@ http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
-http://41.205.93.154/CNBC/index.m3u8
+https://jmp2.uk/stvp-ITBD3600002PA
 #EXTINF:0 group-title="USA",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",CNN LIVE
