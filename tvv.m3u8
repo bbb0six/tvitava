@@ -522,23 +522,23 @@ http://200.229.147.142:8000/play/a04l/index.m3u8
 #EXTINF:0 group-title="ES",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
-http://185.94.79.41/1709/index.m3u8
+http://92.176.119.180:2095/play/a16x
 #EXTINF:0 group-title="ES",La 2
-http://185.94.79.41/1807/index.m3u8
+http://92.176.119.180:2095/play/a16y
 #EXTINF:0 group-title="ES",Antena 3
-http://185.94.77.41/1705/index.m3u8
+http://92.176.119.180:2095/play/a1ee
 #EXTINF:0 group-title="ES",Cuatro
-http://185.94.77.40/1706/index.m3u8
+http://92.176.119.180:2095/play/a1g2
 #EXTINF:0 group-title="ES",Telecinco
-http://185.94.79.41/1707/index.m3u8
+http://92.176.119.180:2095/play/a15y
 #EXTINF:0 group-title="ES",laSexta
-http://185.94.79.41/1708/index.m3u8
+http://92.176.119.180:2095/play/a1ef
 #EXTINF:0 group-title="ES",TDP
-http://185.94.79.41/1704/index.m3u8
+http://92.176.119.180:2095/play/a1f6
 #EXTINF:0 group-title="ES",Divinity
-http://185.94.79.41/1875/index.m3u8
-#EXTINF:0 group-title="ES",Squirrel
-http://185.94.77.41/1770/index.m3u8
+http://92.176.119.180:2095/play/a1g1
+#EXTINF:0 group-title="ES",Energy
+http://92.176.119.180:2095/play/a17a
 #EXTINF:0 group-title="Vari",GO TV
 https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 #EXTINF:0 group-title="Vari",TVRS
