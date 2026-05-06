@@ -26,11 +26,14 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 1
+#EXTINF:0 group-title="-",RSI La 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://169.150.223.25/RSILa1/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 2
+#EXTINF:0 group-title="-",RSI La 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:0 group-title="-",TV Koper
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="-",Videolina
 http://78.130.250.2:8023/play/a066/index.m3u8
@@ -509,7 +512,8 @@ http://185.228.163.146:8000/play/a003/index.m3u8
 http://185.228.163.146:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="Music",MEZZO
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
-#EXTINF:0 group-title="Music",Anime Channel IT
+#EXTINF:0 group-title="Vari",Anime Channel
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://host2.hbbtv.me:28443/hls/animechannel/playlist.m3u8
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
@@ -967,12 +971,12 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
 http://tv2watch.icu:8080/96924127/96924127/9308
-#EXTINF:0 group-title="USA",MTV LIVE SD
-http://41.205.93.154/MTVUSA/index.m3u8
+#EXTINF:0 group-title="USA",MTV U
+http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC 1
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
+http://nor1live.win/livehttpplay?channel_id=23086
 #EXTINF:0 group-title="USA",MTV CLASSIC 2
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
