@@ -895,8 +895,8 @@ http://79.127.207.193:80/RSILa2/index.m3u8
 http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
 #EXTINF:0 group-title="World",424
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
-#EXTINF:0 group-title="USA",425
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/266390
+#EXTINF:0 group-title="USA",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -970,11 +970,13 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-http://tv2watch.icu:8080/96924127/96924127/9308
-#EXTINF:0 group-title="USA",MTV U
-http://nor1live.win/livehttpplay?channel_id=23078
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:0 group-title="USA",MTV LIVE SD
+http://41.205.93.154/MTVUSA/mpegts
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",MTV U
+http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:0 group-title="USA",MTV CLASSIC 1
 http://nor1live.win/livehttpplay?channel_id=23086
 #EXTINF:0 group-title="USA",MTV CLASSIC 2
@@ -987,8 +989,6 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0 group-title="USA",MS NOW
-http://tv2watch.icu:8080/96924127/96924127/9296
 #EXTINF:0 group-title="USA",Nickelodeon
 http://nor1live.win/livehttpplay?channel_id=23010
 #EXTINF:0 group-title="USA",Nick Jr
@@ -1015,12 +1015,12 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:0 group-title="USA",TNT
-http://nor1live.win/livehttpplay?channel_id=23133
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0 group-title="USA",TV Land
-http://tv2watch.icu:8080/96924127/96924127/9271
+#EXTINF:0 group-title="USA",TBX
+http://rezofoot.tv/TBS/index.m3u8
+#EXTINF:0 group-title="USA",TNT
+http://nor1live.win/livehttpplay?channel_id=23133
 #EXTINF:0 group-title="USA",USA Network
 http://nor1live.win/livehttpplay?channel_id=23069
 #EXTINF:0 group-title="USA",Vice TV
