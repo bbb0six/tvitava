@@ -1067,14 +1067,14 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 group-title="SK",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
-#EXTINF:0,511
-http://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.m3u8
-#EXTINF:0,512
-http://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.m3u8
-#EXTINF:0,513
-http://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.m3u8
-#EXTINF:0,514
-http://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.m3u8
+#EXTINF:0,maxsport 1
+http://77.46.130.252:99/maxsport1
+#EXTINF:0,maxsport 2
+http://77.46.130.252:99/maxsport2
+#EXTINF:0,maxsport 3
+http://77.46.130.252:99/maxsport3
+#EXTINF:0,maxsport 4
+http://77.46.130.252:99/maxsport4
 #EXTINF:0,515
 http://200.229.147.142:8000/play/a013/index.m3u8
 #EXTINF:0,516
