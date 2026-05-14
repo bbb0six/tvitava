@@ -465,9 +465,9 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-http://31.149.103.41:8000/play/45/index.m3u8
+http://213.169.39.30:5281
 #EXTINF:0 group-title="DE",ZDF
-http://31.149.103.41:8000/play/46/index.m3u8
+http://213.169.39.30:5288
 #EXTINF:0 group-title="DE",ZDF info
 http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
@@ -475,11 +475,11 @@ http://213.169.39.30:5289
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
-http://31.149.103.41:8000/play/47/index.m3u8
+http://213.169.39.30:5291
 #EXTINF:0 group-title="DE",RTL Zwei
-http://31.149.103.41:8000/play/65/index.m3u8
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Super RTL
-http://31.149.103.41:8000/play/66/index.m3u8
+https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
