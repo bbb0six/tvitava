@@ -465,9 +465,9 @@ https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
 https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-http://213.169.39.30:5281
+https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
-http://213.169.39.30:5288
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF info
 http://23.88.66.93/ZDF_Info/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
