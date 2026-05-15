@@ -28,10 +28,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-",RSI La 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://new.intheworlditalia.co:80/live/sara36/020921/356.ts
+http://169.150.223.25/RSILa1/playlist.m3u8
 #EXTINF:0 group-title="-",RSI La 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://new.intheworlditalia.co:80/live/sara36/020921/357.ts
+http://169.150.223.25/RSILa2/playlist.m3u8
 #EXTINF:0 group-title="-",TV Koper
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://169.150.223.25/TVKoper/playlist.m3u8
@@ -144,7 +144,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://169.150.255.53/RaiScuola/playlist.m3u8
+https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -837,8 +837,8 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
 http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="World",_
+http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -1126,27 +1126,27 @@ http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="sports",539
 http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
-http://91.146.94.234:10001/play/a0dv
-#EXTINF:0,541
-http://91.146.94.234:10001/play/a0dk
-#EXTINF:0,542
-http://91.146.94.234:10001/play/a0en
-#EXTINF:0,543
 http://91.146.94.234:10001/play/a05n
+#EXTINF:0,541
+http://169.150.255.53/RSILa1/index.m3u8
+#EXTINF:0,542
+http://169.150.255.53/RSILa2/index.m3u8
+#EXTINF:0,543
+http://169.150.255.53/TVKoper/index.m3u8
 #EXTINF:0,544
-http://185.207.34.31:8000/play/a018/index.m3u8
-#EXTINF:0,545
 http://169.150.255.53/Eurosport1HD/index.m3u8
-#EXTINF:0,546
+#EXTINF:0,545
 http://169.150.255.53/Eurosport2HD/index.m3u8
-#EXTINF:0,547
+#EXTINF:0,546
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0,548
+#EXTINF:0,547
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:0,549
+#EXTINF:0,548
 http://99.27.51.147:8080/EuroSport/index.m3u8
-#EXTINF:0,550
+#EXTINF:0,549
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:0,550
+https://catchup.acdsolutions.it/jstag/videoplayerLiveFluid/TV?ch=0
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1341,18 +1341,18 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="AZ",ictimai
+#EXTINF:0 group-title="AZ",İctimai
 http://176.65.146.189:8701/play/a09l
-#EXTINF:0 group-title="IL",9TV IL
+#EXTINF:0 group-title="AZ",AZTV
+http://176.65.146.189:8701/play/a09i
+#EXTINF:0 group-title="IL",9TV ISR
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",CH 10 ISR
-https://t.freetv.fun/live/arutz-10.m3u8
 #EXTINF:0 group-title="IL",CH 11 ISR
 http://77.137.40.221:8000/play/a05b
 #EXTINF:0 group-title="IL",CH 12 ISR
-http://77.137.40.221:8000/play/a017
+http://77.137.40.221:8000/play/t017
 #EXTINF:0 group-title="IL",CH 13 ISR
-http://77.137.40.221:8000/play/a018
+http://77.137.40.221:8000/play/t018
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
@@ -1369,8 +1369,8 @@ https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:-1 group-title="Music",2TV LT
-http://78.62.9.23:55555/2TV
+#EXTINF:-1 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",RTL Gold
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge Hits
@@ -1466,7 +1466,7 @@ http://91.146.94.234:10001/play/a03b
 #EXTINF:0,709
 http://91.146.94.234:10001/play/a09q
 #EXTINF:0,710
-http://91.146.94.234:10001/play/a0e8
+http://91.146.94.234:10001/play/a04w
 #EXTINF:0,711
 http://91.146.94.234:10001/play/a0fh
 #EXTINF:0,712
@@ -1502,7 +1502,7 @@ http://91.146.94.234:10001/play/a04w
 #EXTINF:0,727
 http://91.146.94.234:10001/play/a08u
 #EXTINF:0,728
-http://91.146.94.234:10001/play/a0fg
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:0,729
 http://91.146.94.234:10001/play/a03r
 #EXTINF:0,730
@@ -1572,7 +1572,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,762
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0,763
-https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
+http://84.22.55.2:8032/play/s362
 #EXTINF:0,764
 http://84.22.55.2:8032/play/s363
 #EXTINF:0,765
