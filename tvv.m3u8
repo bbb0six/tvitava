@@ -113,7 +113,7 @@ https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.
 #EXTINF:-1 group-title="WBD IT",Frisbee
 https://alwaysdata-api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 group-title="-",Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/master.m3u8
+http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -1554,13 +1554,13 @@ http://91.146.94.234:10001/play/a0e6
 #EXTINF:0,753
 http://91.146.94.234:10001/play/a0et
 #EXTINF:0,754
-http://91.146.94.234:10001/play/a0f2
+http://78.130.250.2:8023/play/a06h/index.m3u8
 #EXTINF:0,755
-http://91.146.94.234:10001/play/a0f0
+http://78.130.250.2:8023/play/a05y/index.m3u8
 #EXTINF:0,756
-http://91.146.94.234:10001/play/a0ed
+http://78.130.250.2:8023/play/a064/index.m3u8
 #EXTINF:0,757
-http://91.146.94.234:10001/play/a0dj
+http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:0,758
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,759
