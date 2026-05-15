@@ -28,10 +28,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-",RSI La 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://169.150.223.25/RSILa1/playlist.m3u8
+http://new.intheworlditalia.co:80/live/sara36/020921/356.ts
 #EXTINF:0 group-title="-",RSI La 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://169.150.223.25/RSILa2/playlist.m3u8
+http://new.intheworlditalia.co:80/live/sara36/020921/357.ts
 #EXTINF:0 group-title="-",TV Koper
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://169.150.223.25/TVKoper/playlist.m3u8
@@ -285,49 +285,49 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
 https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
 #EXTINF:0 group-title="FR",TF1
-http://173.229.4.239:5004/auto/v1
+http://176.65.146.100:8047/play/a07d
 #EXTINF:0 group-title="FR",France 2
-http://173.229.4.239:5004/auto/v2
+http://176.65.146.100:8047/play/a073
 #EXTINF:0 group-title="FR",France 3
-http://173.229.4.239:5004/auto/v3
+http://176.65.146.100:8047/play/a076
 #EXTINF:0 group-title="FR",France 4
-http://173.229.4.239:5004/auto/v4
+http://176.65.146.100:8047/play/a074
 #EXTINF:0 group-title="FR",France 5
-http://173.229.4.239:5004/auto/v5
+http://176.65.146.100:8047/play/a07a
 #EXTINF:0 group-title="FR",M6
-http://173.229.4.239:5004/auto/v6
+http://176.65.146.100:8047/play/a077
 #EXTINF:0 group-title="FR",Arte FR
-http://173.229.4.239:5004/auto/v7
+http://176.65.146.100:8047/play/a079
 #EXTINF:0 group-title="FR",LCP
-http://173.229.4.239:5004/auto/v8
+http://176.65.146.100:8047/play/a07h
 #EXTINF:0 group-title="FR",W9
-http://173.229.4.239:5004/auto/v9
+http://176.65.146.100:8047/play/a078
 #EXTINF:0 group-title="FR",TMC
-http://173.229.4.239:5004/auto/v10
+http://176.65.146.100:8047/play/a07f/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-http://173.229.4.239:5004/auto/v11
+http://176.65.146.100:8047/play/a07g/index.m3u8
 #EXTINF:0 group-title="FR",GULLI
 http://173.229.4.239:5004/auto/v12
 #EXTINF:0 group-title="FR",BFM TV
-http://173.229.4.239:5004/auto/v13
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
-http://173.229.4.239:5004/auto/v14
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://173.229.4.239:5004/auto/v15
+http://151.80.18.177:86/LCI_HD/mpegts
 #EXTINF:0 group-title="FR",franceinfo
-http://173.229.4.239:5004/auto/v16
+http://176.65.146.100:8047/play/a075
 #EXTINF:0 group-title="FR",CSTAR
-http://173.229.4.239:5004/auto/v17
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
-http://173.229.4.239:5004/auto/v18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
 #EXTINF:0 group-title="FR",NOVO19
 http://173.229.4.239:5004/auto/v19
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://173.229.4.239:5004/auto/v20
+http://176.65.146.100:8047/play/a07i
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-http://173.229.4.239:5004/auto/v22
+http://176.65.146.100:8047/play/a07b
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -648,11 +648,11 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
-http://178.33.34.186:15151/live/rtsh1ott/playlist.m3u8
+http://217.73.139.200:5443/play/a00f
 #EXTINF:0 group-title="AL",RTSH 2
-http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
+http://217.73.139.200:5443/play/a00k
 #EXTINF:0 group-title="AL",RTSH 24
-http://178.33.34.186:15151/live/rtsh24/playlist.m3u8
+http://217.73.139.200:5443/play/a00s
 #EXTINF:0 group-title="AL",Klan TV
 http://217.73.139.200:5443/play/a002
 #EXTINF:0 group-title="AL",Top Channel
@@ -664,11 +664,11 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_7.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC AL
-http://178.33.34.186:15151/live/abcnewsott/playlist.m3u8
+http://217.73.139.200:5443/play/a003
 #EXTINF:0 group-title="AL",Top News
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
-http://178.33.34.186:15151/live/reportott/playlist.m3u8
+http://217.73.139.200:5443/play/a01c
 #EXTINF:0 group-title="AL",SCAN
 http://217.73.139.200:5443/play/a009
 #EXTINF:0 group-title="AL",A2 CNN
@@ -684,15 +684,15 @@ http://217.73.139.200:5443/play/a00v
 #EXTINF:0 group-title="AL",Klan News
 http://217.73.139.200:5443/play/a005
 #EXTINF:0 group-title="AL",Klan Music
-http://178.33.34.186:15151/live/klanmusicott/playlist.m3u8
-#EXTINF:0 group-title="AL",Klan Nostalgji
-http://178.33.34.186:15151/live/klannostalgjiott/playlist.m3u8
+http://217.73.139.200:5443/play/a008
 #EXTINF:0 group-title="AL",Euronews Albania
-http://178.33.34.186:15151/live/euronewsott/playlist.m3u8
+http://217.73.139.200:5443/play/a007
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0 group-title="AL",IN TV
+http://217.73.139.200:5443/play/a010
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
