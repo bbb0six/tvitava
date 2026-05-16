@@ -837,8 +837,8 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
 http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://202.169.224.202:8800/udp/239.6.2.1:1234
+#EXTINF:0 group-title="Music",Eska TV
+http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -869,14 +869,14 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT EU
 http://213.169.39.30:5255
-#EXTINF:-1 group-title="SI",TV Koper
-http://169.150.255.53/TVKoper/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 1 backup
-http://169.150.255.53/RSILa1/index.m3u8
-#EXTINF:-1 group-title="CH",RSI La 2 backup
-http://169.150.255.53/RSILa2/index.m3u8
-#EXTINF:0 group-title="World",Euronews IT
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:-1 group-title="i",Rai Italia
+http://202.169.224.202:8800/udp/239.6.2.3:1234
+#EXTINF:-1 group-title="i",RTP Mundo
+http://202.169.224.202:8800/udp/239.6.2.1:1234
+#EXTINF:-1 group-title="i",TV5 Monde
+http://202.169.224.202:8800/udp/239.6.1.3:1234
+#EXTINF:-1 group-title="i",Dubai TV
+http://202.169.224.202:8800/udp/239.6.3.3:1234
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:0 group-title="World",Shanson RU
@@ -886,17 +886,17 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:0 group-title="-",420
-https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8
+http://202.169.224.202:8800/udp/239.6.3.5:1234
 #EXTINF:0 group-title="CH",421
 http://79.127.207.193:80/RSILa1/index.m3u8
 #EXTINF:0 group-title="CH",422
 http://79.127.207.193:80/RSILa2/index.m3u8
 #EXTINF:0 group-title="World",423
-http://tvsound.icu:8080/r7DvhMC/Wa6K0Ma/53734
+https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:0 group-title="World",424
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19192/mpegts
-#EXTINF:0 group-title="USA",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:0 group-title="-",425
+http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -979,8 +979,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 http://nor1live.win/livehttpplay?channel_id=23078
 #EXTINF:0 group-title="USA",MTV CLASSIC 1
 http://nor1live.win/livehttpplay?channel_id=23086
-#EXTINF:0 group-title="USA",MTV CLASSIC 2
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -1037,6 +1035,8 @@ https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="USA",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1540,19 +1540,19 @@ http://91.146.94.234:10001/play/a0ds
 #EXTINF:0,746
 http://91.146.94.234:10001/play/a0ea
 #EXTINF:0,747
-http://91.146.94.234:10001/play/a0f7
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0,748
-http://91.146.94.234:10001/play/a0fe
+https://jmp2.uk/stvp-ITBD4400003JF
 #EXTINF:0,749
-http://91.146.94.234:10001/play/a0iu
+https://jmp2.uk/stvp-ITBD440000698
 #EXTINF:0,750
-http://91.146.94.234:10001/play/a0dq
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest_w516707448.mpd
 #EXTINF:0,751
-http://91.146.94.234:10001/play/a0ez
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 #EXTINF:0,752
-http://91.146.94.234:10001/play/a0e6
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0,753
-http://91.146.94.234:10001/play/a0et
+http://78.130.250.2:8023/play/a06l/index.m3u8
 #EXTINF:0,754
 http://78.130.250.2:8023/play/a06h/index.m3u8
 #EXTINF:0,755
@@ -1566,25 +1566,25 @@ http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,759
 http://78.130.250.2:8023/play/a06q/index.m3u8
 #EXTINF:0,760
-http://78.130.250.2:8023/play/a06l/index.m3u8
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0,761
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:0,763
 http://84.22.55.2:8032/play/s362
-#EXTINF:0,764
+#EXTINF:0,763
 http://84.22.55.2:8032/play/s363
+#EXTINF:0,764
+http://84.22.55.2:8032/play/s364
 #EXTINF:0,765
 http://84.22.55.2:8032/play/s365
 #EXTINF:0,766
-http://84.22.55.2:8032/play/s367
+http://84.22.55.2:8032/play/s366
 #EXTINF:0,767
-http://84.22.55.2:8032/play/s368
+http://84.22.55.2:8032/play/s367
 #EXTINF:0,768
-http://84.22.55.2:8032/play/s361
+http://84.22.55.2:8032/play/s368
 #EXTINF:0,769
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
+http://84.22.55.2:8032/play/s369
 #EXTINF:0,770
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
 #EXTINF:0,771
