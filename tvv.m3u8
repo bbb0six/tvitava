@@ -27,7 +27,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="-",RSI La 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
 http://169.150.223.25/RSILa1/playlist.m3u8
 #EXTINF:0 group-title="-",RSI La 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -265,8 +265,10 @@ http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",CIELO
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
 https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:0 group-title="CH",RTS 1
 https://netplus.zappr.stream/rts1hd.m3u8
