@@ -1528,11 +1528,11 @@ http://91.146.94.234:10001/play/a03o
 #EXTINF:0,740
 http://91.146.94.234:10001/play/a03j
 #EXTINF:0,741
-http://91.146.94.234:10001/play/a0dw
+http://203.39.27.34:55555/SBS%20ONE%20HD
 #EXTINF:0,742
-http://91.146.94.234:10001/play/a0e7
+http://90.236.77.208:55555/DR1
 #EXTINF:0,743
-http://91.146.94.234:10001/play/a0e9
+http://90.236.77.208:55555/TV2
 #EXTINF:0,744
 http://91.146.94.234:10001/play/a0ef
 #EXTINF:0,745
@@ -1659,4 +1659,4 @@ https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="test",799
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="test",800
-https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest_w516707448.mpd
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest_w516707448.mp
