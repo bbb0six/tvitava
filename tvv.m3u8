@@ -569,10 +569,8 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_outp
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:0 group-title="Vari",Radio Radio
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
-#EXTINF:-1,ByoBlu
-#EXTVLCOPT:http-origin=https://www.byoblu.com
-#EXTVLCOPT:http-referrer=https://www.byoblu.com/
-https://live.pwsvideo.com/a286a5b5-4732-4826-a408-08c3a691fbf1/3c5atq75c8o1m91ajrx1/720p/playlist.m3u8
+#EXTINF:-1,262
+https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
 #EXTINF:0 group-title="Vari",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:0 group-title="Vari",Euro TV
@@ -708,7 +706,7 @@ http://94.100.50.220/RKT4/mpegts
 #EXTINF:0 group-title="KS",RTV 21
 http://94.100.50.220/RTV21/mpegts
 #EXTINF:0 group-title="HR",Doma TV
-http://169.150.255.53/DomaTV/index.m3u8
+http://169.150.223.25/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -724,7 +722,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",NOVA HR
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0 group-title="HR",RTL Kockica 
-http://169.150.255.53/RTLKockica/index.m3u8
+http://169.150.223.25/RTLKockica/index.m3u8
 #EXTINF:0 group-title="SI",SLO 1
 http://23.88.66.93/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
@@ -1130,15 +1128,15 @@ http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0,541
-http://169.150.255.53/RSILa1/index.m3u8
+http://169.150.223.25/RSILa1/index.m3u8
 #EXTINF:0,542
-http://169.150.255.53/RSILa2/index.m3u8
+http://169.150.223.25/RSILa2/index.m3u8
 #EXTINF:0,543
-http://169.150.255.53/TVKoper/index.m3u8
+http://169.150.223.25/TVKoper/index.m3u8
 #EXTINF:0,544
-http://169.150.255.53/Eurosport1HD/index.m3u8
+http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:0,545
-http://169.150.255.53/Eurosport2HD/index.m3u8
+http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:0,546
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,547
@@ -1176,11 +1174,11 @@ http://90.236.77.208:55555/TV2
 #EXTINF:0,563
 http://203.39.27.34:55555/SBS%20ONE%20HD
 #EXTINF:0,564
-http://169.150.255.53/ArtSport4/index.m3u8
+http://185.97.73.187:11000/play/bnt1/index.m3u8
 #EXTINF:0,565
-http://169.150.255.53/ArtSport5/index.m3u8
+http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:0,566
-http://169.150.255.53/ArtSport6/index.m3u8
+http://169.150.223.25/ArtSport6/index.m3u8
 #EXTINF:0,567
 http://213.169.39.30:5138
 #EXTINF:0,568
