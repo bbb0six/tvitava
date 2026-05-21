@@ -440,12 +440,12 @@ http://176.65.146.99:4003/play/a06b/index.m3u8
 http://176.65.146.99:4007/play/a073/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="News",Euronews ES
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:0 group-title="News",198
+http://81.15.109.89:8001/play/EskaRock
+#EXTINF:0 group-title="News",199
+http://81.15.109.89:8001/play/EskaTVExtra
 #EXTINF:0 group-title="News",Euronews IT
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
-#EXTINF:0 group-title="News",Euronews DE
-https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
@@ -516,7 +516,7 @@ http://185.228.163.146:8000/play/a007/index.m3u8
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="Vari",235
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://host2.hbbtv.me:28443/hls/animechannel/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:0 group-title="Vari",7G ER
@@ -559,8 +559,8 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:0 group-title="Vari",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
-#EXTINF:0 group-title="Vari",Primantenna
-https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:0 group-title="Vari",Gambero Rosso
+https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",CR1
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:0 group-title="Vari",GRP
@@ -1356,7 +1356,7 @@ http://77.137.40.221:8000/play/t018
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
-http://77.137.40.221:8000/play/a00y
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="IL",KAN 11
 http://185.132.134.159:80/kan11/mpegts
 #EXTINF:-1 group-title="IL",Keshet 12
@@ -1524,9 +1524,9 @@ http://91.146.94.234:10001/play/a0it
 #EXTINF:0,738
 http://91.146.94.234:10001/play/a09p
 #EXTINF:0,739
-http://91.146.94.234:10001/play/a03o
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,740
-http://91.146.94.234:10001/play/a03j
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,741
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,742
