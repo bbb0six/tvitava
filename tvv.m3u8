@@ -892,36 +892,38 @@ http://79.127.207.193:80/RSILa2/index.m3u8
 https://www.mytivu.it/Application/Channels/Euronews.php
 #EXTINF:0 group-title="World",424
 https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:0 group-title="-",425
+#EXTINF:0 group-title="World",425
+https://www.mytivu.it/Application/Channels/SkyTG24.php
+#EXTINF:0 group-title="-",426
 http://202.169.224.202:8800/udp/239.6.3.4:1234
+#EXTINF:0 group-title="USA",427
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",ABC 6 WPVI-TV
 http://stream.cammonitorplus.net/1813/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://nor1live.win/livehttpplay?channel_id=23104
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",ACCN
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:0 group-title="USA",BEIN
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:0 group-title="USA",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",5 STAR MAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:0 group-title="USA",Boomerang
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:0 group-title="USA",CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0 group-title="USA",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 group-title="USA",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:0 group-title="USA",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",Cinemax
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Cooking Channel
@@ -942,8 +944,6 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",OAN
-http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",HBO 1
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
@@ -956,14 +956,14 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:0 group-title="USA",Lifetime
-http://tv2watch.icu:8080/96924127/96924127/9275
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 group-title="USA",MoreMax
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:0 group-title="USA",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0 group-title="USA",MTV
+http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -974,7 +974,7 @@ http://41.205.93.154/MTVUSA/mpegts
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
-#EXTINF:0 group-title="USA",466
+#EXTINF:0 group-title="USA",MTV Classic
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -1010,18 +1010,18 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0 group-title="USA",NFL NETWORK
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:0 group-title="USA",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",WE TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:0 group-title="USA",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",_
+http://41.205.93.154/CSPAN2/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
@@ -1444,38 +1444,38 @@ https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,700
 http://91.146.94.234:10001/play/a131
-#EXTINF:0,701
-http://91.146.94.234:10001/play/a08y
-#EXTINF:0,702
-http://91.146.94.234:10001/play/a132
-#EXTINF:0,703
-http://91.146.94.234:10001/play/a133
-#EXTINF:0,704
-http://91.146.94.234:10001/play/a03h
-#EXTINF:0,705
-http://91.146.94.234:10001/play/a03g
-#EXTINF:0,706
-http://91.146.94.234:10001/play/a03f
-#EXTINF:0,707
-http://91.146.94.234:10001/play/a03q
-#EXTINF:0,708
-http://91.146.94.234:10001/play/a03b
-#EXTINF:0,709
-http://91.146.94.234:10001/play/a09q
-#EXTINF:0,710
-http://91.146.94.234:10001/play/a04w
-#EXTINF:0,711
-http://91.146.94.234:10001/play/a0fh
-#EXTINF:0,712
-http://91.146.94.234:10001/play/a08m
-#EXTINF:0,713
-http://91.146.94.234:10001/play/a0e4
-#EXTINF:0,714
-http://91.146.94.234:10001/play/a0fa
-#EXTINF:0,715
-http://91.146.94.234:10001/play/ars1
-#EXTINF:0,716
-http://91.146.94.234:10001/play/a135
+#EXTINF:0 group-title="FR",TF1
+http://176.65.146.100:8047/play/a07d
+#EXTINF:0 group-title="FR",France 2
+http://176.65.146.100:8047/play/a073
+#EXTINF:0 group-title="FR",France 3
+http://176.65.146.100:8047/play/a076
+#EXTINF:0 group-title="FR",France 4
+http://176.65.146.100:8047/play/a074
+#EXTINF:0 group-title="FR",France 5
+http://176.65.146.100:8047/play/a07a
+#EXTINF:0 group-title="FR",M6
+http://176.65.146.100:8047/play/a077
+#EXTINF:0 group-title="FR",Arte FR
+http://176.65.146.100:8047/play/a079
+#EXTINF:0 group-title="FR",LCP
+http://176.65.146.100:8047/play/a07h
+#EXTINF:0 group-title="FR",W9
+http://176.65.146.100:8047/play/a078
+#EXTINF:0 group-title="FR",TMC
+http://176.65.146.100:8047/play/a07f/index.m3u8
+#EXTINF:0,Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:0,Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:0,Euronews Deutsch
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:0,Euronews Español
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:0,Euronews Italiano
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+#EXTINF:0,Euronews Português
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:0,717
 http://91.146.94.234:10001/play/a08t
 #EXTINF:0,718
@@ -1499,7 +1499,7 @@ http://91.146.94.234:10001/play/a04w
 #EXTINF:0,727
 http://91.146.94.234:10001/play/a08u
 #EXTINF:0,728
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
+http://91.146.94.234:10001/play/ars1
 #EXTINF:0,729
 http://91.146.94.234:10001/play/a03r
 #EXTINF:0,730
@@ -1515,7 +1515,7 @@ http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
 http://91.146.94.234:10001/play/a03d
 #EXTINF:0,736
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
+http://91.146.94.234:10001/play/a135
 #EXTINF:0,737
 http://91.146.94.234:10001/play/a0it
 #EXTINF:0,738
