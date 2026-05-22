@@ -8,13 +8,13 @@ https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u
 #EXTINF:-1 group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Rete 4
+#EXTINF:-1 group-title="MDS",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Mediaset",Canale 5
+#EXTINF:-1 group-title="MDS",Canale 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Mediaset",Italia 1
+#EXTINF:-1 group-title="MDS",Italia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Cairo",LA7
@@ -26,14 +26,11 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="-",RSI La 1
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
+#EXTINF:0 group-title="CH",RSI La 1
 http://169.150.223.25/RSILa1/playlist.m3u8
-#EXTINF:0 group-title="-",RSI La 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTINF:0 group-title="CH",RSI La 2
 http://169.150.223.25/RSILa2/playlist.m3u8
-#EXTINF:0 group-title="-",TV Koper
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTINF:0 group-title="SI",TV Koper
 http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
 http://78.130.250.2:8023/play/a066/index.m3u8
@@ -47,13 +44,13 @@ http://84.22.55.2:8032/play/s364
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0 group-title="-",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",20 Mediaset
+#EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Iris
+#EXTINF:-1 group-title="MDS",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai 5
@@ -67,7 +64,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 #EXTINF:-1 group-title="Sky IT",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 group-title="Mediaset",27 Twentyseven
+#EXTINF:-1 group-title="MDS",27 Twentyseven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="TV2000",TV2000
@@ -75,7 +72,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="Cairo",La7Cinema
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
-#EXTINF:-1 group-title="Mediaset",La 5
+#EXTINF:-1 group-title="MDS",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",Real Time
@@ -84,10 +81,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 group-title="WBD IT",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
-#EXTINF:-1 group-title="Mediaset",Cine34
+#EXTINF:-1 group-title="MDS",Cine34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Mediaset",FOCUS
+#EXTINF:-1 group-title="MDS",FOCUS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 TV
@@ -96,14 +93,14 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 group-title="WBD IT",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
-#EXTINF:-1 group-title="Mediaset",Top Crime
+#EXTINF:-1 group-title="MDS",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Mediaset",Boing
+#EXTINF:-1 group-title="MDS",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",K2
-https://alwaysdata-api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
+https://alwaysdata-api.zappr.stream/k2.mpd
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -111,10 +108,10 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-https://alwaysdata-api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
+https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="-",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
-#EXTINF:-1 group-title="Mediaset",Cartoonito
+#EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Paramount IT",Super!
@@ -122,12 +119,12 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTINF:-1 group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Mediaset Italia Due
+#EXTINF:-1 group-title="MDS",Mediaset Italia Due
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Sky IT",Sky TG24
 https://www.mytivu.it/Application/Channels/SkyTG24.php/index.m3u8
-#EXTINF:-1 group-title="Mediaset",TGCOM 24
+#EXTINF:-1 group-title="MDS",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",DMAX
@@ -137,7 +134,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Mediaset Extra
+#EXTINF:-1 group-title="MDS",Mediaset Extra
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",HGTV Home&Garden
@@ -163,10 +160,10 @@ https://jmp2.uk/stvp-ITBC4700002CO
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Radio 105 TV
+#EXTINF:-1 group-title="MDS",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Mediaset",R101 TV
+#EXTINF:-1 group-title="MDS",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0 group-title="Vari",BOM Channel
@@ -192,7 +189,7 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 group-title="Mediaset",Virgin Radio TV
+#EXTINF:-1 group-title="MDS",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
@@ -207,7 +204,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 #EXTINF:-1 group-title="GEDI",M2O TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 group-title="Mediaset",Radio Montecarlo TV
+#EXTINF:-1 group-title="MDS",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
@@ -233,13 +230,13 @@ https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:0 group-title="Mediaset",GF Regia 1
+#EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Regia 2
+#EXTINF:0 group-title="MDS",GF Regia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="Mediaset",GF Un'ora fa
+#EXTINF:0 group-title="MDS",GF Un'ora fa
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -275,7 +272,7 @@ https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:0 group-title="CH",RTS 2
 https://netplus.zappr.stream/rts2hd.m3u8
 #EXTINF:0 group-title="CH",SRF 1
-https://netplus.zappr.stream/srf1hd.m3u8
+http://91.146.94.234:10001/play/a0fh
 #EXTINF:0 group-title="CH",SRF 2
 https://netplus.zappr.stream/srf2hd.m3u8
 #EXTINF:0 group-title="CH",SRF INFO
@@ -287,27 +284,27 @@ https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews FR
 https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
 #EXTINF:0 group-title="FR",TF1
-http://176.65.146.100:8047/play/a07d
+http://173.229.4.239:5004/auto/v1
 #EXTINF:0 group-title="FR",France 2
-http://176.65.146.100:8047/play/a073
+http://173.229.4.239:5004/auto/v2
 #EXTINF:0 group-title="FR",France 3
-http://176.65.146.100:8047/play/a076
+http://173.229.4.239:5004/auto/v3
 #EXTINF:0 group-title="FR",France 4
-http://176.65.146.100:8047/play/a074
+http://173.229.4.239:5004/auto/v4
 #EXTINF:0 group-title="FR",France 5
-http://176.65.146.100:8047/play/a07a
+http://173.229.4.239:5004/auto/v5
 #EXTINF:0 group-title="FR",M6
-http://176.65.146.100:8047/play/a077
+http://173.229.4.239:5004/auto/v6
 #EXTINF:0 group-title="FR",Arte FR
-http://176.65.146.100:8047/play/a079
+http://173.229.4.239:5004/auto/v7
 #EXTINF:0 group-title="FR",LCP
-http://176.65.146.100:8047/play/a07h
+http://173.229.4.239:5004/auto/v8
 #EXTINF:0 group-title="FR",W9
-http://176.65.146.100:8047/play/a078
+http://173.229.4.239:5004/auto/v9
 #EXTINF:0 group-title="FR",TMC
-http://176.65.146.100:8047/play/a07f/index.m3u8
+http://173.229.4.239:5004/auto/v10
 #EXTINF:0 group-title="FR",TFX
-http://176.65.146.100:8047/play/a07g/index.m3u8
+http://173.229.4.239:5004/auto/v11
 #EXTINF:0 group-title="FR",GULLI
 http://173.229.4.239:5004/auto/v12
 #EXTINF:0 group-title="FR",BFM TV
@@ -315,9 +312,9 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://151.80.18.177:86/LCI_HD/mpegts
+http://173.229.4.239:5004/auto/v15
 #EXTINF:0 group-title="FR",franceinfo
-http://176.65.146.100:8047/play/a075
+http://173.229.4.239:5004/auto/v16
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
@@ -325,11 +322,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18
 #EXTINF:0 group-title="FR",NOVO19
 http://173.229.4.239:5004/auto/v19
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://176.65.146.100:8047/play/a07i
+http://173.229.4.239:5004/auto/v20
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-http://176.65.146.100:8047/play/a07b
+http://173.229.4.239:5004/auto/v22
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -869,13 +866,15 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0 group-title="i",MDS IT EU
 http://213.169.39.30:5255
-#EXTINF:-1 group-title="i",Rai Italia
+#EXTINF:-1 group-title="World",Rai Italia
 http://202.169.224.202:8800/udp/239.6.2.3:1234
-#EXTINF:-1 group-title="i",RTP Mundo
+#EXTINF:-1 group-title="World",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
-#EXTINF:-1 group-title="i",TV5 Monde
+#EXTINF:-1 group-title="World",TVE
+http://202.169.224.202:8800/udp/239.6.3.5:1234
+#EXTINF:-1 group-title="World",TV5 Monde
 http://202.169.224.202:8800/udp/239.6.1.3:1234
-#EXTINF:-1 group-title="i",Dubai TV
+#EXTINF:-1 group-title="World",Dubai TV
 http://202.169.224.202:8800/udp/239.6.3.3:1234
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
@@ -885,8 +884,6 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="-",420
-http://202.169.224.202:8800/udp/239.6.3.5:1234
 #EXTINF:0 group-title="CH",421
 http://79.127.207.193:80/RSILa1/index.m3u8
 #EXTINF:0 group-title="CH",422
@@ -903,12 +900,12 @@ http://stream.cammonitorplus.net/1810/index.m3u8
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",ABC 6 WPVI-TV
 http://stream.cammonitorplus.net/1813/index.m3u8
-#EXTINF:0 group-title="USA",A&E
+#EXTINF:0 group-title="USA",_
 http://nor1live.win/livehttpplay?channel_id=23104
-#EXTINF:0 group-title="USA",TBS
-http://nor1live.win/livehttpplay?channel_id=23137
-#EXTINF:0 group-title="USA",fyi
-http://nor1live.win/livehttpplay?channel_id=23108
+#EXTINF:0 group-title="USA",_
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:0 group-title="USA",Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC World News
@@ -941,8 +938,8 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 group-title="USA",FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:0 group-title="USA",HGTV
-http://nor1live.win/livehttpplay?channel_id=23151
+#EXTINF:0 group-title="USA",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 #EXTINF:0 group-title="USA",OAN
@@ -961,12 +958,12 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",Lifetime
 http://tv2watch.icu:8080/96924127/96924127/9275
-#EXTINF:0 group-title="USA",Lifetime Movie
+#EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",MoreMax
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 group-title="USA",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 group-title="USA",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -975,10 +972,10 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 http://41.205.93.154/MTVUSA/mpegts
 #EXTINF:0 group-title="USA",MTV LIVE USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV U
-http://nor1live.win/livehttpplay?channel_id=23078
-#EXTINF:0 group-title="USA",MTV CLASSIC 1
-http://nor1live.win/livehttpplay?channel_id=23086
+#EXTINF:0 group-title="USA",MTV CLASSIC
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
+#EXTINF:0 group-title="USA",466
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -987,18 +984,14 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
-#EXTINF:0 group-title="USA",Nickelodeon
-http://nor1live.win/livehttpplay?channel_id=23010
-#EXTINF:0 group-title="USA",Nick Jr
-http://nor1live.win/livehttpplay?channel_id=23006
-#EXTINF:0 group-title="USA",Nick Toons
-http://nor1live.win/livehttpplay?channel_id=23079
-#EXTINF:0 group-title="USA",Logo
-http://nor1live.win/livehttpplay?channel_id=23013
-#EXTINF:0 group-title="USA",Hallmark
-http://nor1live.win/livehttpplay?channel_id=23057
+#EXTINF:0 group-title="USA",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:0 group-title="USA",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:0 group-title="USA",Showtime
@@ -1009,36 +1002,40 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0 group-title="USA",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:0 group-title="USA",TBX
-http://rezofoot.tv/TBS/index.m3u8
-#EXTINF:0 group-title="USA",TNT
-http://nor1live.win/livehttpplay?channel_id=23133
-#EXTINF:0 group-title="USA",USA Network
-http://nor1live.win/livehttpplay?channel_id=23069
+#EXTINF:0 group-title="USA",NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0 group-title="USA",WE TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",OAN
+http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
 http://41.205.93.154/FOX-NEWS/index.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
 http://41.205.93.154/ABC/index.m3u8
+#EXTINF:0 group-title="USA",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:0 group-title="USA",MSNBC
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://jmp2.uk/stvp-ITBD3600002PA
 #EXTINF:0 group-title="USA",CBS NEWS
@@ -1128,11 +1125,11 @@ http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0,541
-http://169.150.223.25/RSILa1/index.m3u8
+http://169.150.223.25/RSILa1/mpegts
 #EXTINF:0,542
-http://169.150.223.25/RSILa2/index.m3u8
+http://169.150.223.25/RSILa2/mpegts
 #EXTINF:0,543
-http://169.150.223.25/TVKoper/index.m3u8
+http://169.150.223.25/TVKoper/mpegts
 #EXTINF:0,544
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:0,545
