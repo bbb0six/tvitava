@@ -441,8 +441,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="News",Euronews IT
-https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+#EXTINF:0 group-title="Music",Mezzo
+http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="AT",ORF 1
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
@@ -504,15 +504,14 @@ https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:0 group-title="PT",RTP 1
-http://185.228.163.146:8000/play/a002/index.m3u8
+http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
-http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="PT",RTP N
-http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="Music",MEZZO
-http://185.98.209.11:81/mezzo/index.m3u8?token=test
-#EXTINF:0 group-title="Vari",235
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="AD",RTVA Andorra
 https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/h264_720p_manifest.m3u8
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
@@ -1354,12 +1353,12 @@ http://77.137.40.221:8000/play/t018
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="IL",KAN 11
-http://185.132.134.159:80/kan11/mpegts
-#EXTINF:-1 group-title="IL",Keshet 12
-http://185.132.134.159:80/keshet12/mpegts
-#EXTINF:-1 group-title="IL",Reshet 13
-http://185.132.134.159:80/reshet13/mpegts
+#EXTINF:-1 group-title="DZ",TV2 Algeria
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 group-title="MA",2M Maroc
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 group-title="SA",MBC 1
+http://185.9.2.18/chid_374/index.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",TVM Sport
@@ -1505,11 +1504,11 @@ http://91.146.94.234:10001/play/a03r
 #EXTINF:0,730
 http://91.146.94.234:10001/play/a03k
 #EXTINF:0,731
-http://91.146.94.234:10001/play/a0dw
+http://185.132.134.159:80/kan11/mpegts
 #EXTINF:0,732
-http://91.146.94.234:10001/play/a0e7
+http://185.132.134.159:80/keshet12/mpegts
 #EXTINF:0,733
-http://91.146.94.234:10001/play/a09s
+http://185.132.134.159:80/reshet13/mpegts
 #EXTINF:0,734
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
@@ -1531,7 +1530,7 @@ https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
 https://dash2.antik.sk/live/rik_atk/index.m3u8
 #EXTINF:0,744
-https://timlive0.cb.ticdn.it/Content/DASH/Live/channel(frisbee)/manifest_mob.mpd
+http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0,745
 http://185.78.112.47:8077/bridge-tv/video.m3u8
 #EXTINF:0,746
