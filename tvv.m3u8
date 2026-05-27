@@ -148,14 +148,14 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 #EXTINF:-1 group-title="WBD IT",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://jmp2.uk/stvp-ITBA2200010O1
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Vari",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/master.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
-https://jmp2.uk/stvp-ITBC4700002CO
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
@@ -179,25 +179,12 @@ https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Vari",RadioBruno TV
 https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
-#EXTINF:-1 group-title="Music",RadioItalia Live TV
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Vari",Kiss Kiss Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Caliente
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Traffic
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 group-title="MDS",Virgin Radio TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 group-title="RTL 102.5",RADIOZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1 group-title="RDS",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="GEDI",Radio Capital TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
@@ -207,15 +194,27 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 group-title="MDS",Radio Montecarlo TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
+#EXTINF:-1 group-title="MDS",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:0 group-title="Music",Radio 51 TV
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:0 group-title="Music",Radio Ibiza TV
-https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
-#EXTINF:0 group-title="Music",Company TV
-https://company.fluid.stream/CompanyTV/livestream/index.m3u8
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RADIOZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Napulè
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 group-title="RDS",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
@@ -594,8 +593,6 @@ http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
-#EXTINF:0 group-title="Vari",Prima Free
-https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Sport Outdoor TV
@@ -606,14 +603,16 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 #EXTINF:0 group-title="Music",Hip Hop TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
-#EXTINF:0 group-title="Vari",ZeroUno TV
+#EXTINF:0 group-title="Music",ZeroUno TV
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
-#EXTINF:0 group-title="Vari",ZeroUno TV Music
+#EXTINF:0 group-title="Music",ZeroUno TV Music
 https://5f22d76e220e1.streamlock.net:443/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:0 group-title="Vari",Telecampione
-https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
-#EXTINF:0 group-title="Vari",Telereporter
-https://5f22d76e220e1.streamlock.net/telereporter/telereporter/master.m3u8
+#EXTINF:0 group-title="Music",Radio 51 TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:0 group-title="Music",Radio Ibiza TV
+https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
+#EXTINF:0 group-title="Music",Company TV
+https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #EXTINF:0 group-title="Vari",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",TRSP
@@ -626,14 +625,14 @@ https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
 #EXTINF:0 group-title="Vari",Reggio TV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
+#EXTINF:0 group-title="Vari",Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
+#EXTINF:0 group-title="Vari",Telereporter
+https://5f22d76e220e1.streamlock.net/telereporter/telereporter/master.m3u8
 #EXTINF:0 group-title="Vari",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Parole Di Vita
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:0 group-title="Vari",Medjugorje TV Italia
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-#EXTINF:0 group-title="Vari",TCI
-https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/NXTAdMkM/live.isml/.mpd
 #EXTINF:0 group-title="Vari",Fano TV
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 #EXTINF:0 group-title="Vari",Tele A1
@@ -882,20 +881,20 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="World",Vatican Media
 http://202.169.224.202:8800/udp/239.6.3.4:1234
-#EXTINF:0 group-title="CH",421
-http://79.127.207.193:80/RSILa1/index.m3u8
-#EXTINF:0 group-title="CH",422
-http://79.127.207.193:80/RSILa2/index.m3u8
-#EXTINF:0 group-title="World",423
-https://www.mytivu.it/Application/Channels/Euronews.php
-#EXTINF:0 group-title="World",424
-https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:0 group-title="World",425
-https://www.mytivu.it/Application/Channels/SkyTG24.php
-#EXTINF:0 group-title="-",426
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
-#EXTINF:0 group-title="USA",427
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0 group-title="IE",RTÉ ONE
+http://149.102.245.111:80/29/playlist.m3u8
+#EXTINF:0 group-title="IE",RTÉ 2
+http://149.102.245.111:80/30/playlist.m3u8
+#EXTINF:0 group-title="IE",Virgin Media One
+http://149.102.245.111:80/31/playlist.m3u8
+#EXTINF:0 group-title="IE",TG 4
+http://149.102.245.111:80/32/playlist.m3u8
+#EXTINF:0 group-title="AU",SBS ONE
+http://203.39.27.34:55555/SBS%20ONE%20HD
+#EXTINF:0 group-title="World",CNBC
+http://149.102.245.111:80/40/playlist.m3u8
+#EXTINF:0 group-title="World",Bloomberg
+http://149.102.245.111:80/39/playlist.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -1035,7 +1034,7 @@ http://41.205.93.154/NBC/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
-https://jmp2.uk/stvp-ITBD3600002PA
+https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",CNN LIVE
@@ -1182,26 +1181,26 @@ http://213.169.39.30:5140
 http://213.169.39.30:5142
 #EXTINF:0,570
 http://213.169.39.30:5130
-#EXTINF:-1 group-title="IL",ONE 1
-http://185.132.134.159:80/one/index.m3u8
-#EXTINF:-1 group-title="IL",ONE 2
-http://185.132.134.159:80/one2/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 1
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 2
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 3
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 4
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 5
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:-1 group-title="IL",Sport 5 Live
-http://185.132.134.159:80/sport5live/mpegts
-#EXTINF:-1 group-title="IL",Sport 5 Plus
-http://185.132.134.159:80/sport5plus/mpegts
-#EXTINF:-1 group-title="IL",Sport 6
-http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:0,571
+http://77.137.40.221:8000/play/k01d
+#EXTINF:0,572
+http://77.137.40.221:8000/play/k01f
+#EXTINF:0,573
+http://77.137.40.221:8000/play/k016
+#EXTINF:0,574
+http://77.137.40.221:8000/play/k019
+#EXTINF:0,575
+http://77.137.40.221:8000/play/k01a
+#EXTINF:0,576
+http://77.137.40.221:8000/play/k01b
+#EXTINF:0,577
+http://77.137.40.221:8000/play/k01c
+#EXTINF:0,578
+http://77.137.40.221:8000/play/k00i
+#EXTINF:0,579
+http://77.137.40.221:8000/play/k001
+#EXTINF:0,580
+http://77.137.40.221:8000/play/k03w
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1650,8 +1649,8 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="test",797
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",798
-http://203.39.27.34:55555/SBS%20ONE%20HD
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",799
-http://90.236.77.208:55555/DR1
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:-1 group-title="test",800
 https://dash2.antik.sk/live/mb_classic/index.m3u8
