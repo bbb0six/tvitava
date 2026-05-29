@@ -279,86 +279,6 @@ http://91.146.94.234:10001/play/a08m
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:0 group-title="-",120
-http://173.229.4.239:5004/auto/v32
-#EXTINF:0 group-title="FR",TF1
-http://173.229.4.239:5004/auto/v1
-#EXTINF:0 group-title="FR",France 2
-http://173.229.4.239:5004/auto/v2
-#EXTINF:0 group-title="FR",France 3
-http://173.229.4.239:5004/auto/v3
-#EXTINF:0 group-title="FR",France 4
-http://173.229.4.239:5004/auto/v4
-#EXTINF:0 group-title="FR",France 5
-http://173.229.4.239:5004/auto/v5
-#EXTINF:0 group-title="FR",M6
-http://173.229.4.239:5004/auto/v6
-#EXTINF:0 group-title="FR",Arte FR
-http://173.229.4.239:5004/auto/v7
-#EXTINF:0 group-title="FR",LCP
-http://173.229.4.239:5004/auto/v8
-#EXTINF:0 group-title="FR",W9
-http://173.229.4.239:5004/auto/v9
-#EXTINF:0 group-title="FR",TMC
-http://173.229.4.239:5004/auto/v10
-#EXTINF:0 group-title="FR",TFX
-http://173.229.4.239:5004/auto/v11
-#EXTINF:0 group-title="FR",GULLI
-http://173.229.4.239:5004/auto/v12
-#EXTINF:0 group-title="FR",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
-#EXTINF:0 group-title="FR",CNEWS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:0 group-title="FR",LCI
-http://173.229.4.239:5004/auto/v15
-#EXTINF:0 group-title="FR",franceinfo
-http://173.229.4.239:5004/auto/v16
-#EXTINF:0 group-title="FR",CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
-#EXTINF:0 group-title="FR",T18
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
-#EXTINF:0 group-title="FR",NOVO19
-http://173.229.4.239:5004/auto/v19
-#EXTINF:0 group-title="FR",TF1 Series Film
-http://173.229.4.239:5004/auto/v20
-#EXTINF:0 group-title="FR",L'équipe
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:0 group-title="FR",6Ter
-http://173.229.4.239:5004/auto/v22
-#EXTINF:0 group-title="FR",RMC Story
-https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:0 group-title="FR",RMC Decouverte
-https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
-#EXTINF:0 group-title="FR",RMC Life
-https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:0 group-title="FR",RTL 9
-http://145.239.5.177/308/mpegts
-#EXTINF:0 group-title="UK",BBC 1
-http://176.65.146.99:4001/play/a08d/index.m3u8
-#EXTINF:0 group-title="UK",BBC 2
-http://176.65.146.99:4001/play/a08n/index.m3u8
-#EXTINF:0 group-title="UK",BBC 3
-http://176.65.146.99:4001/play/a08q/index.m3u8
-#EXTINF:0 group-title="UK",BBC 4
-http://176.65.146.99:4001/play/a08j/index.m3u8
-#EXTINF:0 group-title="UK",ITV 1
-http://176.65.146.99:4004/play/a082/index.m3u8
-#EXTINF:0 group-title="UK",ITV 2
-http://176.65.146.99:4004/play/a07g/index.m3u8
-#EXTINF:0 group-title="UK",ITV 3
-http://176.65.146.99:4004/play/a07r/index.m3u8
-#EXTINF:0 group-title="UK",ITV 4
-http://176.65.146.99:4004/play/a07z/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 4
-http://176.65.146.99:4001/play/a07v/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 5
-http://176.65.146.99:4003/play/a06h/index.m3u8
-#EXTINF:0 group-title="UK",FILM 4
-http://176.65.146.99:4001/play/a086/index.m3u8
-#EXTINF:0 group-title="UK",MORE 4
-http://176.65.146.99:4001/play/a087/index.m3u8
-#EXTINF:0 group-title="UK",E4
-http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -421,6 +341,32 @@ https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4g
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
+#EXTINF:0 group-title="UK",BBC 1
+http://176.65.146.99:4001/play/a08d/index.m3u8
+#EXTINF:0 group-title="UK",BBC 2
+http://176.65.146.99:4001/play/a08n/index.m3u8
+#EXTINF:0 group-title="UK",BBC 3
+http://176.65.146.99:4001/play/a08q/index.m3u8
+#EXTINF:0 group-title="UK",BBC 4
+http://176.65.146.99:4001/play/a08j/index.m3u8
+#EXTINF:0 group-title="UK",ITV 1
+http://176.65.146.99:4004/play/a082/index.m3u8
+#EXTINF:0 group-title="UK",ITV 2
+http://176.65.146.99:4004/play/a07g/index.m3u8
+#EXTINF:0 group-title="UK",ITV 3
+http://176.65.146.99:4004/play/a07r/index.m3u8
+#EXTINF:0 group-title="UK",ITV 4
+http://176.65.146.99:4004/play/a07z/index.m3u8
+#EXTINF:0 group-title="UK",CHANNEL 4
+http://176.65.146.99:4001/play/a07v/index.m3u8
+#EXTINF:0 group-title="UK",CHANNEL 5
+http://176.65.146.99:4003/play/a06h/index.m3u8
+#EXTINF:0 group-title="UK",FILM 4
+http://176.65.146.99:4001/play/a086/index.m3u8
+#EXTINF:0 group-title="UK",MORE 4
+http://176.65.146.99:4001/play/a087/index.m3u8
+#EXTINF:0 group-title="UK",E4
+http://176.65.146.99:4001/play/a084/index.m3u8
 #EXTINF:0 group-title="UK",4seven
 http://176.65.146.99:4001/play/a082/index.m3u8
 #EXTINF:0 group-title="UK",5ACTION
@@ -433,6 +379,60 @@ http://176.65.146.99:4003/play/a06d/index.m3u8
 http://176.65.146.99:4003/play/a06b/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
 http://176.65.146.99:4007/play/a073/index.m3u8
+#EXTINF:0 group-title="LU",RTL 9
+http://145.239.5.177/308/mpegts
+#EXTINF:0 group-title="FR",TF1
+http://173.229.4.239:5004/auto/v1
+#EXTINF:0 group-title="FR",France 2
+http://173.229.4.239:5004/auto/v2
+#EXTINF:0 group-title="FR",France 3
+http://173.229.4.239:5004/auto/v3
+#EXTINF:0 group-title="FR",France 4
+http://173.229.4.239:5004/auto/v4
+#EXTINF:0 group-title="FR",France 5
+http://173.229.4.239:5004/auto/v5
+#EXTINF:0 group-title="FR",M6
+http://173.229.4.239:5004/auto/v6
+#EXTINF:0 group-title="FR",Arte FR
+http://173.229.4.239:5004/auto/v7
+#EXTINF:0 group-title="FR",LCP
+http://173.229.4.239:5004/auto/v8
+#EXTINF:0 group-title="FR",W9
+http://173.229.4.239:5004/auto/v9
+#EXTINF:0 group-title="FR",TMC
+http://173.229.4.239:5004/auto/v10
+#EXTINF:0 group-title="FR",TFX
+http://173.229.4.239:5004/auto/v11
+#EXTINF:0 group-title="FR",GULLI
+http://173.229.4.239:5004/auto/v12
+#EXTINF:0 group-title="FR",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+#EXTINF:0 group-title="FR",CNEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:0 group-title="FR",LCI
+http://173.229.4.239:5004/auto/v15
+#EXTINF:0 group-title="FR",franceinfo
+http://173.229.4.239:5004/auto/v16
+#EXTINF:0 group-title="FR",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:0 group-title="FR",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
+#EXTINF:0 group-title="FR",NOVO19
+http://173.229.4.239:5004/auto/v19
+#EXTINF:0 group-title="FR",TF1 Series Film
+http://173.229.4.239:5004/auto/v20
+#EXTINF:0 group-title="FR",L'équipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:0 group-title="FR",6Ter
+http://173.229.4.239:5004/auto/v22
+#EXTINF:0 group-title="FR",RMC Story
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:0 group-title="FR",RMC Decouverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:0 group-title="FR",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="FR",20 Minutes TV Île-de-France
+http://173.229.4.239:5004/auto/v32
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -1502,25 +1502,25 @@ http://91.146.94.234:10001/play/a03r
 #EXTINF:0,730
 http://91.146.94.234:10001/play/a03k
 #EXTINF:0,731
-http://185.132.134.159:80/kan11/mpegts
+http://91.146.94.234:10001/play/a135
 #EXTINF:0,732
-http://185.132.134.159:80/keshet12/mpegts
+http://91.146.94.234:10001/play/a0it
 #EXTINF:0,733
-http://185.132.134.159:80/reshet13/mpegts
+http://91.146.94.234:10001/play/a09p
 #EXTINF:0,734
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
 http://91.146.94.234:10001/play/a03d
 #EXTINF:0,736
-http://91.146.94.234:10001/play/a135
+https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 #EXTINF:0,737
-http://91.146.94.234:10001/play/a0it
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:0,738
-http://91.146.94.234:10001/play/a09p
-#EXTINF:0,739
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,740
+#EXTINF:0,739
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,740
+https://uvotv.zappr.stream/101.m3u8
 #EXTINF:0,741
 https://dash2.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:0,742
