@@ -561,8 +561,8 @@ https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:0 group-title="Vari",Radio 24
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
-#EXTINF:0 group-title="Vari",Radio Radio
-https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="Vari",Gold TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -621,14 +621,14 @@ https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",TMC Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
-#EXTINF:0 group-title="Vari",GS Channel
-https://rst2.saiuzwebnetwork.it:8081/retereggio/index.m3u8
-#EXTINF:0 group-title="Vari",Reggio TV
-https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 #EXTINF:0 group-title="Vari",Telecampione
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/master.m3u8
 #EXTINF:0 group-title="Vari",Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/master.m3u8
+#EXTINF:0 group-title="Vari",Radio Radio
+https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="Vari",Reggio TV
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 #EXTINF:0 group-title="Vari",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="Vari",Parole Di Vita
@@ -1442,25 +1442,23 @@ https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,700
 http://91.146.94.234:10001/play/a131
 #EXTINF:0,701
-http://176.65.146.100:8047/play/a07d/index.m3u8
+http://176.65.146.100:8047/play/a07d
 #EXTINF:0,702
-http://176.65.146.100:8047/play/a073/index.m3u8
+http://176.65.146.100:8047/play/a073
 #EXTINF:0,703
-http://176.65.146.100:8047/play/a076/index.m3u8
+http://176.65.146.100:8047/play/a076
 #EXTINF:0,704
-http://176.65.146.100:8047/play/a074/index.m3u8
+http://176.65.146.100:8047/play/a074
 #EXTINF:0,705
-http://176.65.146.100:8047/play/a07a/index.m3u8
+http://176.65.146.100:8047/play/a07a
 #EXTINF:0,706
-http://176.65.146.100:8047/play/a077/index.m3u8
+http://176.65.146.100:8047/play/a077
 #EXTINF:0,707
-http://176.65.146.100:8047/play/a079/index.m3u8
+http://176.65.146.100:8047/play/a079
 #EXTINF:0,708
-http://176.65.146.100:8047/play/a07h/index.m3u8
+https://uvotv.zappr.stream/317.m3u8
 #EXTINF:0,709
-http://176.65.146.100:8047/play/a078/index.m3u8
-#EXTINF:0,710
-http://176.65.146.100:8047/play/a07f/index.m3u8
+https://uvotv.zappr.stream/320.m3u8
 #EXTINF:0,Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0,Euronews Français
@@ -1473,6 +1471,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 #EXTINF:0,Euronews Português
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:0,Euronews Русский
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:0,717
 http://91.146.94.234:10001/play/a08t
 #EXTINF:0,718
