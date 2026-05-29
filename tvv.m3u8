@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(frisbee)/manifest.mpd
+https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="-",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -275,7 +275,6 @@ http://157.143.44.195/play/a01f
 #EXTINF:0 group-title="CH",SRF INFO
 http://91.146.94.234:10001/play/a08m
 #EXTINF:0 group-title="CH",teleticino
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
@@ -1515,9 +1514,9 @@ http://91.146.94.234:10001/play/a03d
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 #EXTINF:0,737
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:0,738
+#EXTINF:0,BBC Series IT
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,739
+#EXTINF:0,BBC Earth IT
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,740
 https://uvotv.zappr.stream/101.m3u8
@@ -1559,25 +1558,25 @@ http://78.130.250.2:8023/play/a060/index.m3u8
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,759
 http://78.130.250.2:8023/play/a06q/index.m3u8
-#EXTINF:0,760
+#EXTINF:0,Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
-#EXTINF:0,761
+#EXTINF:0,Trentino TV
 http://84.22.55.2:8032/play/s361
-#EXTINF:0,762
+#EXTINF:0,RTTR
 http://84.22.55.2:8032/play/s362
-#EXTINF:0,763
+#EXTINF:0,Telepace Trento
 http://84.22.55.2:8032/play/s363
-#EXTINF:0,764
+#EXTINF:0,7Gold Telepadova
 http://84.22.55.2:8032/play/s364
-#EXTINF:0,765
+#EXTINF:0,Telenuovo
 http://84.22.55.2:8032/play/s365
-#EXTINF:0,766
+#EXTINF:0,A3 Veneto
 http://84.22.55.2:8032/play/s366
-#EXTINF:0,767
+#EXTINF:0,Telechiara
 http://84.22.55.2:8032/play/s367
-#EXTINF:0,768
+#EXTINF:0,TV33 TN
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,769
+#EXTINF:0,TV7 Triveneta
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,770
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
@@ -1643,9 +1642,10 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",795
+#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="test",796
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="test",797
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="test",798
