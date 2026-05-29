@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-https://alwaysdata-api.zappr.stream/frisbee.mpd
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(frisbee)/manifest.mpd
 #EXTINF:-1 group-title="-",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -509,8 +509,8 @@ http://50.7.120.34:8080/RTP_2/index.m3u8
 http://50.7.120.34:8080/RTP_3/index.m3u8
 #EXTINF:0 group-title="PT",RTP Memória
 http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
-#EXTINF:0 group-title="AD",RTVA Andorra
-https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/h264_720p_manifest.m3u8
+#EXTINF:0 group-title="Music",Match Music
+https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/master.m3u8
 #EXTINF:0 group-title="Vari",MANGA IT
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:0 group-title="Vari",7G ER
