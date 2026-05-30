@@ -1023,7 +1023,7 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://41.205.93.154/FOX-NEWS/index.m3u8
+http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
@@ -1438,26 +1438,6 @@ https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,700
-http://91.146.94.234:10001/play/a131
-#EXTINF:0,701
-http://176.65.146.100:8047/play/a07d
-#EXTINF:0,702
-http://176.65.146.100:8047/play/a073
-#EXTINF:0,703
-http://176.65.146.100:8047/play/a076
-#EXTINF:0,704
-http://176.65.146.100:8047/play/a074
-#EXTINF:0,705
-http://176.65.146.100:8047/play/a07a
-#EXTINF:0,706
-http://176.65.146.100:8047/play/a077
-#EXTINF:0,707
-http://176.65.146.100:8047/play/a079
-#EXTINF:0,708
-https://uvotv.zappr.stream/317.m3u8
-#EXTINF:0,709
-https://uvotv.zappr.stream/320.m3u8
 #EXTINF:0,Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0,Euronews Français
@@ -1472,6 +1452,26 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:0,Euronews Русский
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:0,Euronews Ελληνικά
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:0,Euronews Magyar
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:0,709
+https://uvotv.zappr.stream/320.m3u8
+#EXTINF:0,710
+http://91.146.94.234:10001/play/a131
+#EXTINF:0,711
+http://176.65.146.100:8047/play/a07d
+#EXTINF:0,712
+http://176.65.146.100:8047/play/a073
+#EXTINF:0,713
+http://176.65.146.100:8047/play/a076
+#EXTINF:0,714
+http://176.65.146.100:8047/play/a074
+#EXTINF:0,715
+http://176.65.146.100:8047/play/a07a
+#EXTINF:0,716
+https://uvotv.zappr.stream/317.m3u8
 #EXTINF:0,717
 http://91.146.94.234:10001/play/a08t
 #EXTINF:0,718
@@ -1509,7 +1509,7 @@ http://91.146.94.234:10001/play/a09p
 #EXTINF:0,734
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
-http://91.146.94.234:10001/play/a03d
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
 #EXTINF:0,736
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 #EXTINF:0,737
