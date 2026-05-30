@@ -1447,7 +1447,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:0,Euronews Español
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 #EXTINF:0,Euronews Italiano
-https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25070/index.m3u8
 #EXTINF:0,Euronews Português
 https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:0,Euronews Русский
@@ -1458,18 +1458,18 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:0,709
 https://uvotv.zappr.stream/320.m3u8
-#EXTINF:0,710
-http://91.146.94.234:10001/play/a131
-#EXTINF:0,711
-http://176.65.146.100:8047/play/a07d
+#EXTINF:0,Africanews English
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:0,Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0,712
 http://176.65.146.100:8047/play/a073
 #EXTINF:0,713
 http://176.65.146.100:8047/play/a076
 #EXTINF:0,714
-http://176.65.146.100:8047/play/a074
+http://91.146.94.234:10001/play/a131
 #EXTINF:0,715
-http://176.65.146.100:8047/play/a07a
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,716
 https://uvotv.zappr.stream/317.m3u8
 #EXTINF:0,717
