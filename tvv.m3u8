@@ -838,8 +838,8 @@ http://81.15.109.89:8001/play/EskaRock
 http://81.15.109.89:8001/play/EskaTVExtra
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Music",MTV JP
-http://103.255.250.203:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+#EXTINF:0 group-title="i",ReteItalia TV
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
