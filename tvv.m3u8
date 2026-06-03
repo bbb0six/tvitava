@@ -100,7 +100,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",K2
-http://93.44.154.230:9981/stream/channelid/2078261133?profile=pass
+http://93.44.154.230:9981/stream/channelid/1488427672?profile=pass
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-http://93.44.154.230:9981/stream/channelid/1852899769?profile=pass
+http://93.44.154.230:9981/stream/channelid/1641096932?profile=pass
 #EXTINF:-1 group-title="-",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -888,8 +888,8 @@ http://149.102.245.111:80/30/playlist.m3u8
 http://149.102.245.111:80/31/playlist.m3u8
 #EXTINF:0 group-title="IE",TG 4
 http://149.102.245.111:80/32/playlist.m3u8
-#EXTINF:0 group-title="AU",SBS ONE
-http://203.39.27.34:55555/SBS%20ONE%20HD
+#EXTINF:0 group-title="World",KBS World
+http://119.82.250.109:8080/nl.m3u8?id=1154
 #EXTINF:0 group-title="World",CNBC
 http://149.102.245.111:80/40/playlist.m3u8
 #EXTINF:0 group-title="World",Bloomberg
@@ -1457,7 +1457,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:0,Euronews Magyar
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:0,709
-http://93.44.154.230:9981/stream/channelid/611334819?profile=pass
+http://119.82.250.109:8080/nl.m3u8?id=1037
 #EXTINF:0,Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:0,Africanews Français
@@ -1510,33 +1510,33 @@ http://91.146.94.234:10001/play/a09p
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
 https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
-#EXTINF:0,736
+#EXTINF:0,EQU TV
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
-#EXTINF:0,737
+#EXTINF:0,ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:0,BBC Series IT
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0,BBC Earth IT
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,740
+#EXTINF:0,Boing Plus
 https://uvotv.zappr.stream/101.m3u8
-#EXTINF:0,741
+#EXTINF:0,Duck TV
 https://dash2.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:0,742
+#EXTINF:0,Duck Plus
 https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:0,743
+#EXTINF:0,Rik TV
 https://dash2.antik.sk/live/rik_atk/index.m3u8
-#EXTINF:0,744
+#EXTINF:0,Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
-#EXTINF:0,745
+#EXTINF:0,Bridge
 http://185.78.112.47:8077/bridge-tv/video.m3u8
-#EXTINF:0,746
+#EXTINF:0,Bridge Classic
 http://185.78.112.47:8077/topsong/video.m3u8
-#EXTINF:0,747
+#EXTINF:0,Bridge Hits
 http://185.78.112.47:8077/dange/index.m3u8
-#EXTINF:0,748
+#EXTINF:0,Bridge Russian
 http://185.78.112.47:8077/rusong/index.m3u8
-#EXTINF:0,749
+#EXTINF:0,Shanson TV
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0,750
 https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest_w516707448.mpd
