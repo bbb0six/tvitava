@@ -693,7 +693,7 @@ http://23.88.66.93/RTK_1/index.m3u8
 #EXTINF:0 group-title="KS",RTK 2
 http://94.100.50.220/RTK2/mpegts
 #EXTINF:0 group-title="KS",RTK 3
-http://94.100.50.220/RTK3/mpegts
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="KS",RTK 4
 http://94.100.50.220/RKT4/mpegts
 #EXTINF:0 group-title="KS",RTV 21
