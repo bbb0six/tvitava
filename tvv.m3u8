@@ -100,7 +100,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",K2
-http://93.44.154.230:9981/stream/channelid/1488427672?profile=pass
+https://alwaysdata-api.zappr.stream/k2.mpd
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-http://93.44.154.230:9981/stream/channelid/1641096932?profile=pass
+https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="-",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -653,7 +653,7 @@ http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
 http://178.33.34.186:15151/live/klanplusott/playlist.m3u8
 #EXTINF:0 group-title="AL",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_7.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0 group-title="AL",News 24
 http://178.33.34.186:15151/live/news24ott/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC News AL
@@ -1651,6 +1651,6 @@ https://da-b948790620010678082c00030000000000000006.id.cdn.upcbroadband.com/wp/w
 #EXTINF:-1 group-title="test",798
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",799
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:-1 group-title="test",800
 https://dash2.antik.sk/live/mb_classic/index.m3u8
