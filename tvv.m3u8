@@ -694,9 +694,9 @@ http://23.88.66.93/RTK_1/index.m3u8
 http://94.100.50.220/RTK2/mpegts
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0 group-title="KS",RTK 4
+#EXTINF:0 group-title="KS",328
 http://94.100.50.220/RKT4/mpegts
-#EXTINF:0 group-title="KS",RTV 21
+#EXTINF:0 group-title="KS",329
 http://94.100.50.220/RTV21/mpegts
 #EXTINF:0 group-title="HR",Doma TV
 http://169.150.223.25/DomaTV/index.m3u8
@@ -1557,7 +1557,7 @@ http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:0,758
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,759
-http://78.130.250.2:8023/play/a06q/index.m3u8
+http://timeshift.arpinet.am/233/index.m3u8
 #EXTINF:0,Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0,Trentino TV
