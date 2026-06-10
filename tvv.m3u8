@@ -471,7 +471,7 @@ http://213.169.39.30:5289
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
-http://45.84.187.172:3001/udp/239.100.10.83:5000
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Super RTL
@@ -515,9 +515,9 @@ https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aI
 #EXTINF:0 group-title="Vari",7G ER
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0 group-title="ES",Star TVE
-http://200.229.147.142:8000/play/a025/index.m3u8
+http://200.229.147.142:8000/play/a025
 #EXTINF:0 group-title="ES",TVE INT
-http://200.229.147.142:8000/play/a04l/index.m3u8
+http://200.229.147.142:8000/play/a04l
 #EXTINF:0 group-title="ES",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
@@ -741,7 +741,7 @@ http://23.88.66.93/BHT/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="CH",carac 1
-http://145.239.5.177/371/mpegts
+https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 3
