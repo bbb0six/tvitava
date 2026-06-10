@@ -471,7 +471,7 @@ http://213.169.39.30:5289
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
-http://213.169.39.30:5291
+http://45.84.187.172:3001/udp/239.100.10.83:5000
 #EXTINF:0 group-title="DE",RTL Zwei
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Super RTL
@@ -690,14 +690,14 @@ http://217.73.139.200:5443/play/a010
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
 http://23.88.66.93/RTK_1/index.m3u8
-#EXTINF:0 group-title="KS",RTK 2
-http://94.100.50.220/RTK2/mpegts
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0 group-title="KS",328
-http://94.100.50.220/RKT4/mpegts
-#EXTINF:0 group-title="KS",329
-http://94.100.50.220/RTV21/mpegts
+#EXTINF:0 group-title="SI",SLO 1
+http://23.88.66.93/SLO1/index.m3u8
+#EXTINF:0 group-title="SI",SLO 2
+http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:0 group-title="SI",SLO 3
+http://79.127.207.193:80/SLO3/index.m3u8
 #EXTINF:0 group-title="HR",Doma TV
 http://169.150.223.25/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
@@ -716,10 +716,10 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0 group-title="HR",RTL Kockica 
 http://169.150.223.25/RTLKockica/index.m3u8
-#EXTINF:0 group-title="SI",SLO 1
-http://23.88.66.93/SLO1/index.m3u8
-#EXTINF:0 group-title="SI",SLO 2
-http://23.88.66.93/SLO2/index.m3u8
+#EXTINF:0 group-title="HR",N1 HR
+http://169.150.223.25/N1HR/index.m3u8
+#EXTINF:0 group-title="HR",CMC HR
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
 http://23.88.66.93/RTCG_1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
@@ -736,7 +736,7 @@ http://23.88.66.93/RTS_3/index.m3u8
 http://23.88.66.93/MRT_1/index.m3u8
 #EXTINF:0 group-title="MK",MRT 2
 http://23.88.66.93/MRT_2/index.m3u8
-#EXTINF:0 group-title="BA",BNT 1
+#EXTINF:0 group-title="-",_
 http://23.88.66.93/BHT/index.m3u8
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
@@ -958,8 +958,8 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:0 group-title="USA",MTV
-http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:0 group-title="USA",MTV Global
+http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -1181,25 +1181,25 @@ http://213.169.39.30:5142
 #EXTINF:0,570
 http://213.169.39.30:5130
 #EXTINF:0,571
-http://77.137.40.221:8000/play/k01d
+http://45.84.187.172:3001/udp/239.100.100.2:5000
 #EXTINF:0,572
-http://77.137.40.221:8000/play/k01f
+http://45.84.187.172:3001/udp/239.100.100.28:5000
 #EXTINF:0,573
-http://77.137.40.221:8000/play/k016
+http://45.84.187.172:3001/udp/239.100.100.48:5000
 #EXTINF:0,574
-http://77.137.40.221:8000/play/k019
+http://45.84.187.172:3001/udp/239.100.100.64:5000
 #EXTINF:0,575
-http://77.137.40.221:8000/play/k01a
+http://45.84.187.172:3001/udp/239.10.10.96:5000
 #EXTINF:0,576
-http://77.137.40.221:8000/play/k01b
+http://45.84.187.172:3001/udp/239.10.10.141:5000
 #EXTINF:0,577
-http://77.137.40.221:8000/play/k01c
+http://45.84.187.172:3001/udp/239.10.10.189:5000
 #EXTINF:0,578
-http://77.137.40.221:8000/play/k00i
+http://45.84.187.172:3001/udp/239.100.10.45:5000
 #EXTINF:0,579
-http://77.137.40.221:8000/play/k001
+http://45.84.187.172:3001/udp/239.100.10.46:5000
 #EXTINF:0,580
-http://77.137.40.221:8000/play/k03w
+http://45.84.187.172:3001/udp/239.10.10.2:5000
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1651,6 +1651,13 @@ https://da-b948790620010678082c00030000000000000006.id.cdn.upcbroadband.com/wp/w
 #EXTINF:-1 group-title="test",798
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",799
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-referrer=https://zappr.stream/clearkey/?url=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXT-X-DASH-CLEARKEY:KID="09af5f6eb89041ca8f5d164165142e86",KEY="1989cc9c9ce5b2b52cb93edaaefe8420"
+#EXT-X-DASH-CLEARKEY:KID="d268d810d8a73bd8b7d54a6a087581d2",KEY="1aaf297543168c625e05aa9e27344471"
+https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it&keys=%257B%252209af5f6eb89041ca8f5d164165142e86%2522:%25221989cc9c9ce5b2b52cb93edaaefe8420%2522%2C%2522d268d810d8a73bd8b7d54a6a087581d2%2522:%25221aaf297543168c625e05aa9e27344471%2522%257D
 #EXTINF:-1 group-title="test",800
 https://dash2.antik.sk/live/mb_classic/index.m3u8
