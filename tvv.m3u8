@@ -1236,9 +1236,9 @@ http://45.173.75.4:2061/play/a017
 http://45.173.75.4:2061/play/a016
 #EXTINF:0 group-title="PP",598
 http://45.173.75.4:2061/play/a0b2
-#EXTINF:0 group-title="PP",599
-http://45.173.75.4:2061/play/a08h
-#EXTINF:0 group-title="PP",600
+#EXTINF:0,599
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:0,600
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
@@ -1642,12 +1642,11 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",795
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 10.0; Win64; x64) Presto/2.12.388 Version/12.16
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+https://juventusonair.com/lv/ck/app/rsi/rsila1.php
 #EXTINF:-1 group-title="test",796
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+https://juventusonair.com/lv/ck/app/rsi/rsila2.php
 #EXTINF:-1 group-title="test",797
-https://da-b948790620010678082c00030000000000000006.id.cdn.upcbroadband.com/wp/wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="test",798
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",799
