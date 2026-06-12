@@ -340,44 +340,44 @@ https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4g
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
-#EXTINF:0 group-title="UK",BBC 1
-http://176.65.146.99:4001/play/a08d/index.m3u8
-#EXTINF:0 group-title="UK",BBC 2
-http://176.65.146.99:4001/play/a08n/index.m3u8
-#EXTINF:0 group-title="UK",BBC 3
-http://176.65.146.99:4001/play/a08q/index.m3u8
-#EXTINF:0 group-title="UK",BBC 4
-http://176.65.146.99:4001/play/a08j/index.m3u8
-#EXTINF:0 group-title="UK",ITV 1
-http://176.65.146.99:4004/play/a082/index.m3u8
+#EXTINF:0 group-title="UK",BBC One
+http://176.65.146.224:4001/play/a08e/index.m3u8
+#EXTINF:0 group-title="UK",BBC Two
+http://176.65.146.224:4001/play/a08f/index.m3u8
+#EXTINF:0 group-title="UK",ITV1
+http://176.65.146.224:4004/play/a07k/index.m3u8
+#EXTINF:0 group-title="UK",Channel 4
+http://176.65.146.224:4007/play/a074/index.m3u8
+#EXTINF:0 group-title="UK",5
+http://176.65.146.224:4003/play/a06m/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-http://176.65.146.99:4004/play/a07g/index.m3u8
-#EXTINF:0 group-title="UK",ITV 3
-http://176.65.146.99:4004/play/a07r/index.m3u8
-#EXTINF:0 group-title="UK",ITV 4
-http://176.65.146.99:4004/play/a07z/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 4
-http://176.65.146.99:4001/play/a07v/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 5
-http://176.65.146.99:4003/play/a06h/index.m3u8
-#EXTINF:0 group-title="UK",FILM 4
-http://176.65.146.99:4001/play/a086/index.m3u8
-#EXTINF:0 group-title="UK",MORE 4
-http://176.65.146.99:4001/play/a087/index.m3u8
-#EXTINF:0 group-title="UK",E4
-http://176.65.146.99:4001/play/a084/index.m3u8
-#EXTINF:0 group-title="UK",4seven
-http://176.65.146.99:4001/play/a082/index.m3u8
-#EXTINF:0 group-title="UK",5ACTION
-http://176.65.146.99:4003/play/a06i/index.m3u8
-#EXTINF:0 group-title="UK",5SELECT
-http://176.65.146.99:4003/play/a06e/index.m3u8
-#EXTINF:0 group-title="UK",5STAR
-http://176.65.146.99:4003/play/a06d/index.m3u8
-#EXTINF:0 group-title="UK",5USA
-http://176.65.146.99:4003/play/a06b/index.m3u8
+http://176.65.146.224:4004/play/a07l/index.m3u8
+#EXTINF:0 group-title="UK",S4C
+http://176.65.146.224:4004/play/a072/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
-http://176.65.146.99:4007/play/a073/index.m3u8
+http://176.65.146.224:4007/play/a06r/index.m3u8
+#EXTINF:0 group-title="UK",BBC Four CBeebies
+http://176.65.146.224:4001/play/a08g/index.m3u8
+#EXTINF:0 group-title="UK",ITV 3
+http://149.102.245.111/23/playlist.m3u8
+#EXTINF:0 group-title="UK",ITV 4
+http://149.102.245.111/24/playlist.m3u8
+#EXTINF:0 group-title="UK",E4
+http://149.102.245.111/25/playlist.m3u8
+#EXTINF:0 group-title="UK",MORE 4
+http://149.102.245.111/26/playlist.m3u8
+#EXTINF:0 group-title="UK",5USA
+http://149.102.245.111/27/playlist.m3u8
+#EXTINF:0 group-title="UK",5STAR
+http://149.102.245.111/28/playlist.m3u8
+#EXTINF:0 group-title="IE",RTÉ ONE
+http://149.102.245.111/29/playlist.m3u8
+#EXTINF:0 group-title="IE",RTÉ 2
+http://149.102.245.111/30/playlist.m3u8
+#EXTINF:0 group-title="IE",Virgin Media One
+http://149.102.245.111/31/playlist.m3u8
+#EXTINF:0 group-title="IE",TG 4
+http://149.102.245.111/32/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 9
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",TF1
