@@ -381,25 +381,25 @@ http://149.102.245.111/32/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 9
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",TF1
-http://173.229.4.239:5004/auto/v1
+http://84.17.50.102/tf1/index.m3u8
 #EXTINF:0 group-title="FR",France 2
-http://173.229.4.239:5004/auto/v2
+http://41.205.93.154/FRANCE2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
-http://173.229.4.239:5004/auto/v3
+http://41.205.93.154/FRANCE3/index.m3u8
 #EXTINF:0 group-title="FR",France 4
-http://173.229.4.239:5004/auto/v4
+http://84.17.50.102/france4/index.m3u8
 #EXTINF:0 group-title="FR",France 5
-http://145.239.5.177/305/mpegts
+http://84.17.50.102/france5/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://173.229.4.239:5004/auto/v6
+http://84.17.50.102/m6/index.m3u8
 #EXTINF:0 group-title="FR",Arte FR
-http://173.229.4.239:5004/auto/v7
+http://84.17.50.102/arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
 http://173.229.4.239:5004/auto/v8
 #EXTINF:0 group-title="FR",W9
 http://145.239.5.177/331/mpegts
 #EXTINF:0 group-title="FR",TMC
-http://173.229.4.239:5004/auto/v10
+http://84.17.50.102/tmc/index.m3u8
 #EXTINF:0 group-title="FR",TFX
 http://173.229.4.239:5004/auto/v11
 #EXTINF:0 group-title="FR",GULLI
@@ -409,7 +409,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://145.239.5.177/368/mpegts
+http://84.17.50.102/lci/index.m3u8
 #EXTINF:0 group-title="FR",franceinfo
 http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
@@ -419,7 +419,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18
 #EXTINF:0 group-title="FR",NOVO19
 http://173.229.4.239:5004/auto/v19
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://173.229.4.239:5004/auto/v20
+http://41.205.93.154/TF1SERIESFILMS/index.m3u8
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
