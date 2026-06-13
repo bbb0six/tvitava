@@ -344,7 +344,7 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:0 group-title="UK",BBC Two
 http://176.65.146.224:4001/play/a08f/index.m3u8
-#EXTINF:0 group-title="UK",ITV1
+#EXTINF:0 group-title="UK",ITV 1
 http://176.65.146.224:4004/play/a07k/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
 http://176.65.146.224:4007/play/a074/index.m3u8
@@ -880,14 +880,14 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="World",Vatican Media
 http://202.169.224.202:8800/udp/239.6.3.4:1234
-#EXTINF:0 group-title="IE",RTÉ ONE
-http://149.102.245.111:80/29/playlist.m3u8
-#EXTINF:0 group-title="IE",RTÉ 2
-http://149.102.245.111:80/30/playlist.m3u8
-#EXTINF:0 group-title="IE",Virgin Media One
-http://149.102.245.111:80/31/playlist.m3u8
-#EXTINF:0 group-title="IE",TG 4
-http://149.102.245.111:80/32/playlist.m3u8
+#EXTINF:0 group-title="-",_
+http://41.223.30.230/RAI1/index.m3u8
+#EXTINF:0 group-title="-",_
+http://41.223.30.230/RAI2/index.m3u8
+#EXTINF:0 group-title="-",_
+http://41.223.30.230/BBCONE/index.m3u8
+#EXTINF:0 group-title="-",_
+http://41.223.30.230/BBCTWO/index.m3u8
 #EXTINF:0 group-title="World",KBS World
 http://119.82.250.109:8080/nl.m3u8?id=1154
 #EXTINF:0 group-title="World",CNBC
@@ -1221,13 +1221,13 @@ http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:0 group-title="PP",591
-http://45.173.75.4:2061/play/a09z
+http://41.223.30.230/RAI1/index.m3u8
 #EXTINF:0 group-title="PP",592
-http://45.173.75.4:2061/play/a06l
+http://41.223.30.230/RAI2/index.m3u8
 #EXTINF:0 group-title="PP",593
-http://45.173.75.4:2061/play/a020
+http://41.223.30.230/BBCONE/index.m3u8
 #EXTINF:0 group-title="PP",594
-http://45.173.75.4:2061/play/a063
+http://41.223.30.230/BBCTWO/index.m3u8
 #EXTINF:0 group-title="PP",595
 http://45.173.75.4:2061/play/a01r
 #EXTINF:0 group-title="PP",596
