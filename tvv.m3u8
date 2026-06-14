@@ -514,30 +514,30 @@ https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/master.m3u8
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:0 group-title="Vari",7G ER
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
-#EXTINF:0 group-title="ES",Star TVE
-http://200.229.147.142:8000/play/a025
-#EXTINF:0 group-title="ES",TVE INT
-http://200.229.147.142:8000/play/a04l
-#EXTINF:0 group-title="ES",TVE 24h
+#EXTINF:0 group-title="Vari",WeDo Movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:0 group-title="ES",TVE
+http://179.1.68.245:7600/play/a081/index.m3u8
+#EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
-http://92.176.119.180:2095/play/a16x
+http://79.112.79.166:8069/udp/239.10.20.5:1234
 #EXTINF:0 group-title="ES",La 2
-http://92.176.119.180:2095/play/a16y
+http://79.112.79.166:8069/udp/239.10.20.8:1234
 #EXTINF:0 group-title="ES",Antena 3
-http://92.176.119.180:2095/play/a1ee
+http://79.112.79.166:8069/udp/239.10.20.9:1234
 #EXTINF:0 group-title="ES",Cuatro
-http://92.176.119.180:2095/play/a1g2
+http://79.112.79.166:8069/udp/239.10.20.20:1234
 #EXTINF:0 group-title="ES",Telecinco
-http://92.176.119.180:2095/play/a15y
+http://79.112.79.166:8069/udp/239.10.20.19:1234
 #EXTINF:0 group-title="ES",laSexta
-http://92.176.119.180:2095/play/a1ef
+http://79.112.79.166:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="ES",TDP
-http://92.176.119.180:2095/play/a1f6
+http://79.112.79.166:8069/udp/239.10.20.3:1234
 #EXTINF:0 group-title="ES",Divinity
-http://92.176.119.180:2095/play/a1g1
+http://79.112.79.166:8069/udp/239.10.20.18:1234
 #EXTINF:0 group-title="ES",Energy
-http://92.176.119.180:2095/play/a17a
+http://79.112.79.166:8069/udp/239.10.20.49:1234
 #EXTINF:0 group-title="Vari",GO TV
 https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 #EXTINF:0 group-title="Vari",TVRS
