@@ -27,9 +27,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 1
-http://169.150.223.25/RSILa1/playlist.m3u8
+http://91.146.94.234:10001/play/a0jn
 #EXTINF:0 group-title="CH",RSI La 2
-http://169.150.223.25/RSILa2/playlist.m3u8
+http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="SI",TV Koper
 http://169.150.223.25/TVKoper/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
