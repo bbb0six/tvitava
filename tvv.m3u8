@@ -30,20 +30,20 @@ https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 http://91.146.94.234:10001/play/a0jn
 #EXTINF:0 group-title="CH",RSI La 2
 http://91.146.94.234:10001/play/a0jo
-#EXTINF:0 group-title="SI",TV Koper
-http://169.150.223.25/TVKoper/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Videolina
-http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
-#EXTINF:-1 group-title="-",A3 Veneto
+#EXTINF:0 group-title="Regionali",Videolina
+http://78.130.250.2:8023/play/a066/index.m3u8
+#EXTINF:0 group-title="Regionali",TVA Vicenza
+http://78.130.250.2:8023/play/a064/index.m3u8
+#EXTINF:-1 group-title="Regionali",A3 Veneto
 http://84.22.55.2:8032/play/s366
-#EXTINF:-1 group-title="-",7Gold
+#EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="Regionali",Telechiara
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
-#EXTINF:0 group-title="-",WeDo Movies
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:0 group-title="SI",TV Koper
+http://79.127.207.193/TVKoper/mpegts
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -109,7 +109,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
 https://alwaysdata-api.zappr.stream/frisbee.mpd
-#EXTINF:-1 group-title="-",Travel TV
+#EXTINF:-1 group-title="Vari",Travel TV
 http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -261,13 +261,13 @@ http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",CIELO
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
-http://45.136.153.199:80/RSILa1/playlist.m3u8
+http://79.127.207.193/RSILa1/mpegts
 #EXTINF:0 group-title="CH",RSI LA 2
-http://45.136.153.199:80/RSILa2/playlist.m3u8
+http://79.127.207.193/RSILa2/mpegts
 #EXTINF:0 group-title="CH",RTS 1
-http://45.136.153.199:80/RTSUN/playlist.m3u8
+http://79.127.207.193/RTSUN/mpegts
 #EXTINF:0 group-title="CH",RTS 2
-http://45.136.153.199:80/RTSDEUX/playlist.m3u8
+http://79.127.207.193/RTSDEUX/mpegts
 #EXTINF:0 group-title="CH",SRF 1
 http://91.146.94.234:10001/play/a0fh
 #EXTINF:0 group-title="CH",SRF 2
@@ -883,7 +883,7 @@ http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0 group-title="-",_
 http://41.223.30.230/RAI1/index.m3u8
 #EXTINF:0 group-title="-",_
-http://41.223.30.230/RAI2/index.m3u8
+http://169.150.223.25/TVKoper/mpegts
 #EXTINF:0 group-title="-",_
 http://41.223.30.230/BBCONE/index.m3u8
 #EXTINF:0 group-title="-",_
