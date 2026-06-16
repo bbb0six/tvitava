@@ -26,9 +26,9 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 1
+#EXTINF:0 group-title="Svizzera",RSI La 1
 http://91.146.94.234:10001/play/a0jn
-#EXTINF:0 group-title="CH",RSI La 2
+#EXTINF:0 group-title="Svizzera",RSI La 2
 http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
@@ -268,16 +268,18 @@ http://79.127.207.193/RSILa2/mpegts
 http://79.127.207.193/RTSUN/mpegts
 #EXTINF:0 group-title="CH",RTS 2
 http://79.127.207.193/RTSDEUX/mpegts
+#EXTINF:0 group-title="CH",RTS INFO
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="CH",SRF 1
 http://91.146.94.234:10001/play/a0fh
 #EXTINF:0 group-title="CH",SRF 2
-http://157.143.44.195/play/a01f
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1974
 #EXTINF:0 group-title="CH",SRF INFO
 http://91.146.94.234:10001/play/a08m
-#EXTINF:0 group-title="CH",teleticino
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:0 group-title="News",Class CNBC IT
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -290,8 +292,6 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telebari
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
-#EXTINF:0 group-title="Regionali",Teledehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",Delta TV
 http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:0 group-title="Regionali",Rete 8
@@ -314,12 +314,10 @@ https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/master.m3u8
-#EXTINF:0 group-title="Regionali",Videolina
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Tele Costa Smeralda
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleSardegna
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
+#EXTINF:0 group-title="Regionali",Teledehon
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
@@ -330,16 +328,18 @@ https://streamcdnr6-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HV
 https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
 #EXTINF:0 group-title="Regionali",RTI Calabria
 https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Rei TV
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Esperia TV
-https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
 https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleOne
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Rei TV
+https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
+#EXTINF:0 group-title="Regionali",Esperia TV
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
+#EXTINF:0 group-title="Svizzera",Teleticino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="UK",BBC One
 http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:0 group-title="UK",BBC Two
@@ -395,15 +395,15 @@ http://84.17.50.102/m6/index.m3u8
 #EXTINF:0 group-title="FR",Arte FR
 http://84.17.50.102/arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
-http://173.229.4.239:5004/auto/v8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/582
 #EXTINF:0 group-title="FR",W9
 http://84.17.50.102/w9/index.m3u8
 #EXTINF:0 group-title="FR",TMC
 http://84.17.50.102/tmc/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-http://173.229.4.239:5004/auto/v11
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/424
 #EXTINF:0 group-title="FR",GULLI
-http://173.229.4.239:5004/auto/v12
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/547
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
@@ -554,8 +554,8 @@ https://live1.giocabet.tv/stream/6/index.m3u8
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Vari",Gambero Rosso
 https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Vari",CR1
-https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+#EXTINF:0 group-title="Vari",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
 #EXTINF:0 group-title="Vari",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:0 group-title="Vari",Radio 24
@@ -1179,7 +1179,7 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://41.223.30.230/ZDF/mpegts
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0,571
 http://45.84.187.172:3001/udp/239.100.100.2:5000
 #EXTINF:0,572
@@ -1553,9 +1553,9 @@ http://78.130.250.2:8023/play/a05y/index.m3u8
 #EXTINF:0,756
 http://78.130.250.2:8023/play/a064/index.m3u8
 #EXTINF:0,757
-http://78.130.250.2:8023/play/a060/index.m3u8
-#EXTINF:0,758
 http://78.130.250.2:8023/play/a04g/index.m3u8
+#EXTINF:0,758
+http://41.223.30.230/ZDF/mpegts
 #EXTINF:0,759
 http://timeshift.arpinet.am/233/index.m3u8
 #EXTINF:0,Alto Adige TV
@@ -1600,7 +1600,7 @@ https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:-1 group-title="test",Rai 1
+#EXTINF:-1 group-title="test",Rai 1 test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 #EXTINF:-1 group-title="test",Rai 2 dvr
@@ -1634,15 +1634,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="test",792
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:0 group-title="test",793
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/567
+#EXTINF:-1 group-title="test",793
+https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:0 group-title="test",794
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0 group-title="test",795
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 group-title="test",795
-https://juventusonair.com/lv/ck/app/rsi/rsila1.php
 #EXTINF:-1 group-title="test",796
 https://juventusonair.com/lv/ck/app/rsi/rsila2.php
 #EXTINF:-1 group-title="test",797
@@ -1650,6 +1650,6 @@ https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="test",798
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 group-title="test",799
-https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:-1 group-title="test",800
-https://dash2.antik.sk/live/mb_classic/index.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1965
