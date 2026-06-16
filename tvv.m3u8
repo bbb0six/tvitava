@@ -220,7 +220,7 @@ http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
 http://88.212.7.14/live/mb_dance/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Classic
-http://88.212.7.14/live/mb_classic/index.m3u8
+https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:0 group-title="News",BBC News
@@ -517,7 +517,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0 group-title="ES",star
 http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="ES",tve
-http://179.1.68.245:7600/play/a081
+http://190.60.37.118:4000/play/a087
 #EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
@@ -1069,17 +1069,17 @@ http://77.46.130.252:99/maxsport3
 #EXTINF:0,maxsport 4
 http://77.46.130.252:99/maxsport4
 #EXTINF:0,515
-http://200.229.147.142:8000/play/a013/index.m3u8
+http://213.169.39.30:5138
 #EXTINF:0,516
-http://200.229.147.142:8000/play/a03b/index.m3u8
+http://213.169.39.30:5140
 #EXTINF:0,517
-http://200.229.147.142:8000/play/a02r/index.m3u8
+http://213.169.39.30:5142
 #EXTINF:0,518
-http://200.229.147.142:8000/play/a03w/index.m3u8
+http://213.169.39.30:5130
 #EXTINF:0,519
-http://200.229.147.142:8000/play/a05y/index.m3u8
+http://213.169.39.30:5144
 #EXTINF:0,520
-http://200.229.147.142:8000/play/a05r/index.m3u8
+http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,521
 http://86.87.15.10:8008/play/a01h/index.m3u8
 #EXTINF:0,522
@@ -1161,25 +1161,25 @@ http://38.191.80.20:8023/play/a011
 #EXTINF:0,560
 http://38.191.80.20:8023/play/a015
 #EXTINF:0,561
-http://185.78.112.47:8077/football1_hd/index.m3u8
+http://190.60.37.118:4000/play/a0b1
 #EXTINF:0,562
-http://185.78.112.47:8077/football2_hd/index.m3u8
+http://190.60.37.118:4000/play/a0bu
 #EXTINF:0,563
-http://185.78.112.47:8077/football3_hd/index.m3u8
+http://190.60.37.118:4000/play/a0c1
 #EXTINF:0,564
-http://185.78.112.47:8077/nash_football_hd/index.m3u8
+http://190.60.37.118:4000/play/a0bj
 #EXTINF:0,565
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19114/mpegts
+http://190.60.37.118:4000/play/a0bv
 #EXTINF:0,566
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19127/mpegts
+http://190.60.37.118:4000/play/a0bp
 #EXTINF:0,567
-http://213.169.39.30:5138
+http://190.60.37.118:4000/play/a09j
 #EXTINF:0,568
-http://213.169.39.30:5140
+http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
-http://213.169.39.30:5142
+http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://213.169.39.30:5130
+http://41.223.30.230/ZDF/mpegts
 #EXTINF:0,571
 http://45.84.187.172:3001/udp/239.100.100.2:5000
 #EXTINF:0,572
@@ -1220,25 +1220,25 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
 http://181.78.8.199:8000/play/a08y/index.m3u8
-#EXTINF:0 group-title="PP",591
-http://41.223.30.230/RAI1/index.m3u8
-#EXTINF:0 group-title="PP",592
-http://41.223.30.230/RAI2/index.m3u8
-#EXTINF:0 group-title="PP",593
-http://41.223.30.230/BBCONE/index.m3u8
-#EXTINF:0 group-title="PP",594
-http://41.223.30.230/BBCTWO/index.m3u8
-#EXTINF:0 group-title="PP",595
-http://45.173.75.4:2061/play/a01r
-#EXTINF:0 group-title="PP",596
-http://45.173.75.4:2061/play/a017
-#EXTINF:0 group-title="PP",597
-http://45.173.75.4:2061/play/a016
-#EXTINF:0 group-title="PP",598
-http://45.173.75.4:2061/play/a0b2
-#EXTINF:0,599
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:0,600
+#EXTINF:-1,591
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+#EXTINF:-1,592
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19127/mpegts
+#EXTINF:-1,593
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
+#EXTINF:-1,594
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
+#EXTINF:-1,595
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
+#EXTINF:-1,596
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19102/mpegts
+#EXTINF:-1,597
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
+#EXTINF:-1,598
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
+#EXTINF:-1,599
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
+#EXTINF:-1,600
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
@@ -1333,7 +1333,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:0 group-title="AZ",İctimai
 http://176.65.146.189:8701/play/a09l
 #EXTINF:0 group-title="AZ",AZTV
@@ -1648,15 +1648,8 @@ https://juventusonair.com/lv/ck/app/rsi/rsila2.php
 #EXTINF:-1 group-title="test",797
 https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="test",798
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 group-title="test",799
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#EXTVLCOPT:http-referrer=https://zappr.stream/clearkey/?url=
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXT-X-DASH-CLEARKEY:KID="09af5f6eb89041ca8f5d164165142e86",KEY="1989cc9c9ce5b2b52cb93edaaefe8420"
-#EXT-X-DASH-CLEARKEY:KID="d268d810d8a73bd8b7d54a6a087581d2",KEY="1aaf297543168c625e05aa9e27344471"
-https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it&keys=%257B%252209af5f6eb89041ca8f5d164165142e86%2522:%25221989cc9c9ce5b2b52cb93edaaefe8420%2522%2C%2522d268d810d8a73bd8b7d54a6a087581d2%2522:%25221aaf297543168c625e05aa9e27344471%2522%257D
+https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 group-title="test",800
 https://dash2.antik.sk/live/mb_classic/index.m3u8
