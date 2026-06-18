@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+http://91.146.94.234:10001/play/a038
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -838,8 +838,8 @@ http://81.15.109.89:8001/play/EskaRock
 http://81.15.109.89:8001/play/EskaTVExtra
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="i",ReteItalia TV
-https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+#EXTINF:0 group-title="i",400
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="i",Rai 1 SAT
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="i",Rai 2 SAT
