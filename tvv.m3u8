@@ -40,10 +40,10 @@ http://78.130.250.2:8023/play/a064/index.m3u8
 http://84.22.55.2:8032/play/s366
 #EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
-#EXTINF:0 group-title="Regionali",Telechiara
-https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0 group-title="SI",TV Koper
 http://79.127.207.193/TVKoper/mpegts
+#EXTINF:0 group-title="News",Class CNBC IT
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -278,8 +278,6 @@ http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1974
 http://91.146.94.234:10001/play/a08m
 #EXTINF:0 group-title="News",Euronews EN
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:0 group-title="News",Class CNBC IT
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -294,6 +292,8 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Delta TV
 http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+#EXTINF:0 group-title="Regionali",Teledehon
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
@@ -310,14 +310,14 @@ https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
 #EXTINF:0 group-title="Regionali",Telenuovo
 https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
+#EXTINF:0 group-title="Regionali",Telechiara
+https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0 group-title="Regionali",Primantenna
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/master.m3u8
 #EXTINF:0 group-title="Regionali",TeleSardegna
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
-#EXTINF:0 group-title="Regionali",Teledehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
@@ -689,13 +689,13 @@ http://217.73.139.200:5443/play/a010
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
-http://23.88.66.93/RTK_1/index.m3u8
+http://217.73.139.200:5443/play/a00r
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="SI",SLO 1
-http://23.88.66.93/SLO1/index.m3u8
+http://79.127.207.193:80/SLO1/index.m3u8
 #EXTINF:0 group-title="SI",SLO 2
-http://23.88.66.93/SLO2/index.m3u8
+http://79.127.207.193:80/SLO2/index.m3u8
 #EXTINF:0 group-title="SI",SLO 3
 http://79.127.207.193:80/SLO3/index.m3u8
 #EXTINF:0 group-title="HR",Doma TV
@@ -721,23 +721,23 @@ http://169.150.223.25/N1HR/index.m3u8
 #EXTINF:0 group-title="HR",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
-http://23.88.66.93/RTCG_1/index.m3u8
+http://79.127.207.193:80/RTCG1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
-http://23.88.66.93/RTCG_2/index.m3u8
+http://79.127.207.193:80/RTCG2/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 3
 http://79.127.207.193:80/RTCG3/index.m3u8
 #EXTINF:0 group-title="RS",РТС 1
-http://23.88.66.93/RTS_1/index.m3u8
+http://169.150.223.25/RTS1HD/mpegts
 #EXTINF:0 group-title="RS",РТС 2
-http://23.88.66.93/RTS_2/index.m3u8
+http://169.150.223.25/RTS2HD/mpegts
 #EXTINF:0 group-title="RS",РТС 3
-http://23.88.66.93/RTS_3/index.m3u8
+http://169.150.223.25/RTS3HD/mpegts
 #EXTINF:0 group-title="MK",MRT 1
-http://23.88.66.93/MRT_1/index.m3u8
+http://169.150.223.25/MRT1/mpegts
 #EXTINF:0 group-title="MK",MRT 2
-http://23.88.66.93/MRT_2/index.m3u8
-#EXTINF:0 group-title="-",_
-http://23.88.66.93/BHT/index.m3u8
+http://169.150.223.25/MRT2/mpegts
+#EXTINF:0 group-title="MK",MRT 3
+http://169.150.223.25/MRT3/mpegts
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="CH",carac 1
