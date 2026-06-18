@@ -1644,11 +1644,15 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",796
-https://juventusonair.com/lv/ck/app/rsi/rsila2.php
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-referrer=https://zappr.stream/
+https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"117d07fd98cc46ef8e09936d0d37c506":"b9528cb3f23eaad789f0f33bf6b01868","166b2f0d56fb32d9b46d4b1ca1b5bf16":"d78ee5c91eb3b9b6d37414a4f789bc9b"}
 #EXTINF:-1 group-title="test",797
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-referrer=https://zappr.stream/
+https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="test",799
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:-1 group-title="test",800
