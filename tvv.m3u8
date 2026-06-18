@@ -34,8 +34,8 @@ http://91.146.94.234:10001/play/a0jo
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
 http://78.130.250.2:8023/play/a066/index.m3u8
-#EXTINF:0 group-title="Vari",Med TV
-http://78.130.250.2:8023/play/a065/index.m3u8
+#EXTINF:0 group-title="Regionali",Telelombardia
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:-1 group-title="Regionali",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:-1 group-title="Regionali",7Gold
@@ -1377,9 +1377,9 @@ http://119.82.250.109:8080/nl.m3u8?id=1017
 #EXTINF:-1 group-title="-",668
 http://176.65.146.99:4002/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",669
-http://176.65.146.99:4002/play/a06l/index.m3u8
+http://78.130.250.2:8023/play/a05y/index.m3u8
 #EXTINF:-1 group-title="-",670
-http://176.65.146.99:4002/play/a06k/index.m3u8
+http://78.130.250.2:8023/play/a065/index.m3u8
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
