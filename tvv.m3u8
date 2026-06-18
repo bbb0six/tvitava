@@ -34,8 +34,8 @@ http://91.146.94.234:10001/play/a0jo
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
 http://78.130.250.2:8023/play/a066/index.m3u8
-#EXTINF:0 group-title="Regionali",TVA Vicenza
-http://78.130.250.2:8023/play/a064/index.m3u8
+#EXTINF:0 group-title="Vari",Med TV
+http://78.130.250.2:8023/play/a065/index.m3u8
 #EXTINF:-1 group-title="Regionali",A3 Veneto
 http://84.22.55.2:8032/play/s366
 #EXTINF:-1 group-title="Regionali",7Gold
@@ -141,7 +141,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://91.146.94.234:10001/play/a038
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Rai",Rai Sport
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
@@ -838,32 +838,30 @@ http://81.15.109.89:8001/play/EskaRock
 http://81.15.109.89:8001/play/EskaTVExtra
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="i",400
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0 group-title="i",Rai 1 SAT
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0 group-title="i",Rai 2 SAT
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-#EXTINF:0 group-title="i",Rai 3 SAT
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0 group-title="i",404
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:0 group-title="i",405
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:0 group-title="i",406
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
-#EXTINF:0 group-title="i",407
-https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
-#EXTINF:0 group-title="i",408
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:0 group-title="i",409
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:0 group-title="World",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:0 group-title="World",Euronews Français
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:0 group-title="World",Euronews Deutsch
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:0 group-title="World",Euronews Italiano
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25070/index.m3u8
+#EXTINF:0 group-title="World",Euronews Español
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:0 group-title="World",Euronews Português
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:0 group-title="World",Euronews Polski
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:0 group-title="World",Euronews Русский
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:0 group-title="World",Euronews Ελληνικά
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:0 group-title="World",Euronews Magyar
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:0 group-title="i",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:-1 group-title="World",Rai Italia
 http://181.78.192.238:8000/play/a2hd
-#EXTINF:-1 group-title="World",Rai Italia
-http://202.169.224.202:8800/udp/239.6.2.3:1234
 #EXTINF:-1 group-title="World",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:-1 group-title="World",TVE
@@ -878,16 +876,18 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="World",MTV
+http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:-1 group-title="World",Vatican Media
 http://202.169.224.202:8800/udp/239.6.3.4:1234
-#EXTINF:0 group-title="-",_
-http://41.223.30.230/RAI1/index.m3u8
-#EXTINF:0 group-title="-",_
-http://169.150.223.25/TVKoper/mpegts
-#EXTINF:0 group-title="-",_
-http://41.223.30.230/BBCONE/index.m3u8
-#EXTINF:0 group-title="-",_
-http://41.223.30.230/BBCTWO/index.m3u8
+#EXTINF:-1 group-title="World",CCTV 1
+http://119.82.250.109:8080/nl.m3u8?id=1037
+#EXTINF:-1 group-title="World",CCTV 2
+http://119.82.250.109:8080/nl.m3u8?id=1091
+#EXTINF:0 group-title="World",_
+http://119.82.250.109:8080/nl.m3u8?id=1114
+#EXTINF:0 group-title="World",_
+http://119.82.250.109:8080/nl.m3u8?id=1119
 #EXTINF:0 group-title="World",KBS World
 http://119.82.250.109:8080/nl.m3u8?id=1154
 #EXTINF:0 group-title="World",CNBC
@@ -959,7 +959,7 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",MTV Global
-http://45.84.187.172:3001/udp/239.100.10.67:5000
+http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -1370,15 +1370,15 @@ https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Music",Bridge Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="Music",Clubland UK
-http://176.65.146.99:4002/play/a06j/index.m3u8
-#EXTINF:-1 group-title="Music",NOW 70s
-http://176.65.146.99:4002/play/a06e/index.m3u8
-#EXTINF:-1 group-title="Music",NOW 80s
+#EXTINF:-1 group-title="-",666
+http://119.82.250.109:8080/nl.m3u8?id=1044
+#EXTINF:-1 group-title="-",667
+http://119.82.250.109:8080/nl.m3u8?id=1017
+#EXTINF:-1 group-title="-",668
 http://176.65.146.99:4002/play/a06c/index.m3u8
-#EXTINF:-1 group-title="Music",NOW 90s 00s
+#EXTINF:-1 group-title="-",669
 http://176.65.146.99:4002/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Music",NOW ROCK
+#EXTINF:-1 group-title="-",670
 http://176.65.146.99:4002/play/a06k/index.m3u8
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
@@ -1438,29 +1438,29 @@ https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,Euronews English
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-#EXTINF:0,Euronews Français
-https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
-#EXTINF:0,Euronews Deutsch
-https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
-#EXTINF:0,Euronews Español
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-#EXTINF:0,Euronews Italiano
-https://cdn-euronews.akamaized.net/live/eds/euronews-it/25070/index.m3u8
-#EXTINF:0,Euronews Português
-https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
-#EXTINF:0,Euronews Русский
+#EXTINF:0,700
+http://119.82.250.109:8080/nl.m3u8?id=1052
+#EXTINF:0,701
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0,702
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:0,703
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0,704
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/master.m3u8
+#EXTINF:0,705
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:0,706
+http://169.150.223.25/TVKoper/mpegts
+#EXTINF:0,707
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:0,Euronews Ελληνικά
+#EXTINF:0,708
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
-#EXTINF:0,Euronews Magyar
-https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:0,709
-http://119.82.250.109:8080/nl.m3u8?id=1037
-#EXTINF:0,Africanews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:0,710
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:0,Africanews Français
+#EXTINF:0,711
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0,712
 http://176.65.146.100:8047/play/a073
@@ -1630,9 +1630,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 group-title="test",Rai Storia dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="test",Rai Scuola dvr
+#EXTINF:-1 group-title="test",La7 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",792
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/567
 #EXTINF:-1 group-title="test",793
