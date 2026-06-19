@@ -689,7 +689,7 @@ http://217.73.139.200:5443/play/a010
 #EXTINF:0 group-title="AL",SYRI TV
 http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
-http://217.73.139.200:5443/play/a00r
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="SI",SLO 1
