@@ -261,9 +261,9 @@ http://91.146.94.234:10001/play/a09q
 #EXTINF:0 group-title="IT",CIELO
 http://91.146.94.234:10001/play/a04w
 #EXTINF:0 group-title="CH",RSI LA 1
-http://79.127.207.193/RSILa1/mpegts
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:0 group-title="CH",RSI LA 2
-http://79.127.207.193/RSILa2/mpegts
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1965
 #EXTINF:0 group-title="CH",RTS 1
 http://79.127.207.193/RTSUN/mpegts
 #EXTINF:0 group-title="CH",RTS 2
@@ -617,8 +617,8 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
 #EXTINF:0 group-title="Music",Company TV
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
-#EXTINF:0 group-title="Vari",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="Music",Radio Ticino
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
 #EXTINF:0 group-title="Vari",TMC Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0 group-title="Vari",RTTR
@@ -719,26 +719,26 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 http://169.150.223.25/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",RTL Kockica 
 http://169.150.223.25/RTLKockica/index.m3u8
-#EXTINF:0 group-title="HR",N1 HR
-http://169.150.223.25/N1HR/index.m3u8
-#EXTINF:0 group-title="ME",RTCG 1
-http://79.127.207.193:80/RTCG1/index.m3u8
-#EXTINF:0 group-title="ME",RTCG 2
-http://79.127.207.193:80/RTCG2/index.m3u8
-#EXTINF:0 group-title="ME",RTCG 3
-http://79.127.207.193:80/RTCG3/index.m3u8
-#EXTINF:0 group-title="RS",РТС 1
-http://169.150.223.25/RTS1HD/mpegts
-#EXTINF:0 group-title="RS",РТС 2
-http://169.150.223.25/RTS2HD/mpegts
-#EXTINF:0 group-title="RS",РТС 3
-http://169.150.223.25/RTS3HD/mpegts
+#EXTINF:0 group-title="BG",TV5 Monde
+http://213.91.179.28:8000/play/a06d
+#EXTINF:0 group-title="BG",BNT 1 BG
+http://213.91.179.28:8000/play/a046
+#EXTINF:0 group-title="BG",BNT 2 BG
+http://213.91.179.28:8000/play/a049
+#EXTINF:0 group-title="BG",BNT 3 BG
+http://213.91.179.28:8000/play/a03x
+#EXTINF:0 group-title="BG",BNT 4 BG
+http://213.91.179.28:8000/play/a04u
+#EXTINF:0 group-title="BG",Rai 1 test
+http://213.91.179.28:8000/play/a0bb
+#EXTINF:0 group-title="BG",Rai 3 test
+http://213.91.179.28:8000/play/a0bd
 #EXTINF:0 group-title="MK",MRT 1
 http://169.150.223.25/MRT1/mpegts
-#EXTINF:0 group-title="MK",MRT 2
-http://169.150.223.25/MRT2/mpegts
-#EXTINF:0 group-title="MK",MRT 3
-http://169.150.223.25/MRT3/mpegts
+#EXTINF:0 group-title="-",_
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="World",Med TV
+http://78.130.250.2:8023/play/a065
 #EXTINF:0 group-title="RS",jefimija
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 group-title="CH",carac 1
@@ -771,13 +771,13 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
 https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:0 group-title="-",Docu Box
+#EXTINF:0 group-title="World",Docu Box
 https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="-",Fashion Box
+#EXTINF:0 group-title="World",Fashion Box
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="-",Fast&Fun Box
+#EXTINF:0 group-title="World",Fast&Fun Box
 https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="-",Film Box Arthouse
+#EXTINF:0 group-title="World",Film Box Arthouse
 https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0 group-title="World",France 24 FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
@@ -1378,9 +1378,9 @@ http://119.82.250.109:8080/nl.m3u8?id=1017
 #EXTINF:-1 group-title="-",668
 http://176.65.146.99:4002/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",669
-http://78.130.250.2:8023/play/a05y/index.m3u8
-#EXTINF:-1 group-title="-",670
 http://78.130.250.2:8023/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",670
+http://45.71.202.124:8000/play/a001
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
@@ -1448,9 +1448,9 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:0,703
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,704
-https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/master.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1964
 #EXTINF:0,705
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1963
 #EXTINF:0,706
 http://169.150.223.25/TVKoper/mpegts
 #EXTINF:0,707
@@ -1460,9 +1460,9 @@ http://78.130.250.2:8023/play/a06h
 #EXTINF:0,709
 http://78.130.250.2:8023/play/a06g
 #EXTINF:0,710
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1743
 #EXTINF:0,711
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1724
 #EXTINF:0,712
 http://176.65.146.100:8047/play/a073
 #EXTINF:0,713
