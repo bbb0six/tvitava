@@ -33,15 +33,15 @@ http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
-http://78.130.250.2:8023/play/a066/index.m3u8
+http://78.130.250.2:8023/play/a066
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
-#EXTINF:-1 group-title="Regionali",A3 Veneto
-http://84.22.55.2:8032/play/s366
+#EXTINF:0 group-title="Regionali",Antenna 3
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
 #EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
-#EXTINF:0 group-title="SI",TV Koper
-http://79.127.207.193/TVKoper/mpegts
+#EXTINF:-1 group-title="Regionali",A3 Veneto
+http://84.22.55.2:8032/play/s366
 #EXTINF:0 group-title="News",Class CNBC IT
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MDS",20 Mediaset
@@ -110,7 +110,7 @@ https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.
 #EXTINF:-1 group-title="WBD IT",Frisbee
 https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="Vari",Travel TV
-http://78.130.250.2:8023/play/a060/index.m3u8
+http://78.130.250.2:8023/play/a060
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -445,7 +445,8 @@ http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
-http://169.150.223.25/ServusTV/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://fl-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/servustv-at_audio_01/cenc/default.m3u8
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
@@ -465,7 +466,7 @@ https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-http://23.88.66.93/ZDF_Info/index.m3u8
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
 http://213.169.39.30:5289
 #EXTINF:0 group-title="DE",3sat
@@ -657,7 +658,7 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC News AL
-http://178.33.34.186:15151/live/abcnewsott/playlist.m3u8
+https://euc12.playlist.ttvnw.net/v1/playlist/CuoGE6qAswgS5ZbWo1r2M5Q9d5yEJ8MFVs4Rad-bfBAnsikcTxY3kDeLOeLEOxW1f6BVGG-l5cuk9lps2M6K0S3H-_sW1wv-KDili3IdNIp5H7DHKzzBaAHJKHKXO-7JT-bYgAJOMcg8A9Kya4_VkuW68gaBt-UrOHl3JPjr8xQG7Ao9uOPPskrbphW3sDMj3etIX5_uciVDQDaBe_s-LNCF5Gcj1YnGNDon46rzOMb8eIYC8hBCRor-F68Myze0g6s1I9EGBNbFsOJKQgogyR2Q6Kcm4wC37zLYnLcqUd8S2mjr42s4STm_I7wXXQcnhGtPzRECAdi9s8MiPJY3XtZgtYUiEWAzLaU18fDkCUqEVDz5WShvgs-vTcGcIk99S44p68oGlzH5emxOKCz-hykdSs2CWlCzAjXpOpgHy0g2bUyX20x_aiBH66YY4L9TXf7uAJNUHMqgDxUAk_bgyd2OlhZ-J8-vsD-oMNQXG3PrdJFpnb6BkFDj9Hx1aFURbOpoiBcDMhaZbsal7ZdTtvbecp-bE2Wum2HLhbSzzc-m8uDtb-teZKPiiBVG0PsJAQFiJCwTIS7lnlZXq5GiGiJrIRrF-09EyJQ4I4K1NDWMJLmSu0O5ka-OeHibvPis8WIkSXykgdWAWXhg-L44s1D460G6le9khbfLrmb-jaueURs5wgWNWPHHErRhr0E6FZv-0ek47xgu5WvtjDZYQpf5-4OGaNSmnqd7MAtsFhrlNPLnQJfSzsUAbU0T37ZYCpjI6GeswHrlW8l-oWTqImuqfSWp33AzNYv2CCbHhLHOvZhA1XXBWGWwd2zV8XfEy6ZGHvVKfCSCENWpQhUR5VS1iFIQ7uQDnAaKx9yNSuiJ4ohRLSvb4Scsw6R9Nd-fWI2xxVNL_QsUWmzyepQ4jIsm_pZ31xa2kopPOGx9dup3P1OIQsqr_XqzNOYkqVW4Q3BoQYNepKQsF8MN3nVfbrFIcfD8UfdkWAsS5m3tDwDEOZ0kH9yiO1rbZaezriaCg_In9ISxHGMcUrFJki-gCtJWRFORnP2NyB8mGK3acpQ6DUTyghZrESFz7Yu2TVHnIMj1LX0068FEhUwrbh7a4J5gNTt0iyMy0Twr5C0lu9g6wGujUOfqo8h6IVOLMdUVozsUUTLTZZFBxGJt9xoM_9rrMN64dGgz5i2hIAEqCWV1LXdlc3QtMjC0Dw.m3u8
 #EXTINF:0 group-title="AL",Top News AL
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
@@ -692,14 +693,14 @@ http://217.73.139.200:5443/play/a006
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0 group-title="SI",SLO 1
-http://79.127.207.193:80/SLO1/index.m3u8
-#EXTINF:0 group-title="SI",SLO 2
-http://79.127.207.193:80/SLO2/index.m3u8
-#EXTINF:0 group-title="SI",SLO 3
-http://79.127.207.193:80/SLO3/index.m3u8
-#EXTINF:0 group-title="HR",Doma TV
-http://169.150.223.25/DomaTV/index.m3u8
+#EXTINF:0 group-title="-",_
+http://193.239.186.231/NPO1/index.m3u8
+#EXTINF:0 group-title="-",_
+http://193.239.186.231/NPO3/index.m3u8
+#EXTINF:0 group-title="-",_
+http://193.239.186.231/RTL4/index.m3u8
+#EXTINF:0 group-title="HR",CMC HR
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -714,12 +715,12 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",NOVA HR
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:0 group-title="HR",Doma TV
+http://169.150.223.25/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",RTL Kockica 
 http://169.150.223.25/RTLKockica/index.m3u8
 #EXTINF:0 group-title="HR",N1 HR
 http://169.150.223.25/N1HR/index.m3u8
-#EXTINF:0 group-title="HR",CMC HR
-https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="ME",RTCG 1
 http://79.127.207.193:80/RTCG1/index.m3u8
 #EXTINF:0 group-title="ME",RTCG 2
@@ -1125,11 +1126,11 @@ http://169.150.223.25/RSILa1/mpegts
 #EXTINF:0,542
 http://169.150.223.25/RSILa2/mpegts
 #EXTINF:0,543
-http://169.150.223.25/TVKoper/mpegts
+http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:0,544
-http://169.150.223.25/Eurosport1HD/index.m3u8
+http://216.106.179.7:8080/ESPN4HD/index.m3u8
 #EXTINF:0,545
-http://169.150.223.25/Eurosport2HD/index.m3u8
+http://216.106.179.7:8080/ESPN5HD/mpegts
 #EXTINF:0,546
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,547
@@ -1453,11 +1454,11 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:0,706
 http://169.150.223.25/TVKoper/mpegts
 #EXTINF:0,707
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+http://78.130.250.2:8023/play/a045
 #EXTINF:0,708
-https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+http://78.130.250.2:8023/play/a06h
 #EXTINF:0,709
-https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+http://78.130.250.2:8023/play/a06g
 #EXTINF:0,710
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:0,711
