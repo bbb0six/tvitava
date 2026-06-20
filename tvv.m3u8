@@ -717,8 +717,8 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0 group-title="HR",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:0 group-title="World",TV5 Monde
-http://213.91.179.28:8000/play/a06d
+#EXTINF:0 group-title="BG",Nova BG
+http://213.91.179.28:8000/play/a03l
 #EXTINF:0 group-title="World",Med TV
 http://78.130.250.2:8023/play/a065
 #EXTINF:-1 group-title="PL",TVP1 PL
@@ -1376,9 +1376,9 @@ http://119.82.250.109:8080/nl.m3u8?id=1044
 #EXTINF:-1 group-title="-",667
 http://119.82.250.109:8080/nl.m3u8?id=1017
 #EXTINF:-1 group-title="-",668
-http://176.65.146.99:4002/play/a06c/index.m3u8
+http://103.157.248.140:8000/play/a01o
 #EXTINF:-1 group-title="-",669
-http://78.130.250.2:8023/play/a065/index.m3u8
+http://103.157.248.140:8000/play/a01p
 #EXTINF:-1 group-title="-",670
 http://45.71.202.124:8000/play/a001
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
