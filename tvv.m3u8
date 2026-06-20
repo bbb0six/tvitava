@@ -699,8 +699,8 @@ http://213.91.179.28:8000/play/a049
 http://213.91.179.28:8000/play/a03x
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://213.91.179.28:8000/play/a04u
-#EXTINF:0 group-title="BG",Diema
-http://213.91.179.28:8000/play/a045
+#EXTINF:0 group-title="BG",bTV BG
+http://213.91.179.28:8000/play/a03w
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -719,8 +719,8 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="BG",Nova BG
 http://213.91.179.28:8000/play/a03l
-#EXTINF:0 group-title="World",Med TV
-http://78.130.250.2:8023/play/a065
+#EXTINF:0 group-title="BG",Diema BG
+http://213.91.179.28:8000/play/a045
 #EXTINF:-1 group-title="PL",TVP1 PL
 http://91.246.72.88:8000/play/a00k
 #EXTINF:-1 group-title="PL",TVP2 PL
@@ -1042,7 +1042,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0,CNN ESPAÑOL
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
 #EXTINF:0,ESPN 1 ES
-http://138.121.15.230:9001/ESPN/index.m3u8
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,ESPN 2 ES
 http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:0,ESPN 3 ES
@@ -1078,7 +1078,7 @@ http://213.91.179.28:8000/play/a08f
 #EXTINF:0,nova sport
 http://213.91.179.28:8000/play/a04a
 #EXTINF:0,519
-http://213.91.179.28:8000/play/a07a
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,520
 http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,521
@@ -1369,8 +1369,8 @@ http://185.9.2.18/chid_375/index.m3u8
 http://185.9.2.18/chid_376/index.m3u8
 #EXTINF:-1 group-title="SA",MBC 4
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:-1 group-title="-",665
-http://213.91.179.28:8000/play/a0bb
+#EXTINF:0 group-title="World",Med TV
+http://78.130.250.2:8023/play/a065
 #EXTINF:-1 group-title="-",666
 http://119.82.250.109:8080/nl.m3u8?id=1044
 #EXTINF:-1 group-title="-",667
