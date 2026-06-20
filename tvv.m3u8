@@ -444,13 +444,12 @@ http://185.98.209.11:81/mezzo/index.m3u8?token=test
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",Servus TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://fl-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/servustv-at_audio_01/cenc/default.m3u8
+#EXTINF:0 group-title="DE",ONE
+http://92.117.129.131:9981/stream/channelid/1553078383?profile=pass
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
-http://169.150.223.25/Tele5/index.m3u8
+http://92.117.129.131:9981/stream/channelid/1862025439?profile=pass
 #EXTINF:0 group-title="DE",SIXX
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ProSieben
@@ -466,9 +465,9 @@ https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+http://92.117.129.131:9981/stream/channelid/980304219?profile=pass
 #EXTINF:0 group-title="DE",ZDF neo
-http://213.169.39.30:5289
+http://92.117.129.131:9981/stream/channelid/439627456?profile=pass
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
@@ -482,7 +481,7 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ALPHA
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+http://92.117.129.131:9981/stream/channelid/1592245530?profile=pass
 #EXTINF:0 group-title="DE",BR
 http://88.212.7.14/live/test_br_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",HR
@@ -1369,18 +1368,18 @@ http://185.9.2.18/chid_375/index.m3u8
 http://185.9.2.18/chid_376/index.m3u8
 #EXTINF:-1 group-title="SA",MBC 4
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:0 group-title="World",Med TV
-http://78.130.250.2:8023/play/a065
-#EXTINF:-1 group-title="-",666
-http://119.82.250.109:8080/nl.m3u8?id=1044
-#EXTINF:-1 group-title="-",667
+#EXTINF:0 group-title="World",TV5 Monde Asia
 http://119.82.250.109:8080/nl.m3u8?id=1017
-#EXTINF:-1 group-title="-",668
-http://103.157.248.140:8000/play/a01o
-#EXTINF:-1 group-title="-",669
+#EXTINF:-1 group-title="Music",that's 90s 00s
+http://119.82.250.109:8080/nl.m3u8?id=1044
+#EXTINF:-1 group-title="Music",Deluxe Music SD
+http://92.116.180.193:9981/stream/channelid/256487830?profile=pass
+#EXTINF:-1 group-title="Music",Deluxe Dance SD
+http://92.116.180.193:9981/stream/channelid/2129821524?profile=pass
+#EXTINF:-1 group-title="Music",Schlager Deluxe
+http://92.116.180.193:9981/stream/channelid/1575957472?profile=pass
+#EXTINF:-1 group-title="World",MTV India
 http://103.157.248.140:8000/play/a01p
-#EXTINF:-1 group-title="-",670
-http://45.71.202.124:8000/play/a001
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
@@ -1653,7 +1652,7 @@ https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.c
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_720p/chunklist_DVR.m3u8
+http://92.117.129.131:9981/stream/channelid/339678213?profile=pass
 #EXTINF:-1 group-title="test",799
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:-1 group-title="test",800
