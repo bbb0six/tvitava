@@ -220,13 +220,13 @@ http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Dance
 http://88.212.7.14/live/mb_dance/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Classic
-https://dash2.antik.sk/live/mb_classic/index.m3u8
+http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:0 group-title="News",BBC News
-https://dash4.antik.sk/live/test_bbc_world/playlist.m3u8
+http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 group-title="News",SKY News
-https://dash4.antik.sk/live/test_skynews/playlist.m3u8
+http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="MDS",GF Regia 1
@@ -277,7 +277,7 @@ http://91.146.94.234:10001/play/a08m
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
-https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+http://88.212.7.14/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
 https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
@@ -450,39 +450,39 @@ http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
 http://38.147.104.162:80/premium11/mpegts
 #EXTINF:0 group-title="DE",Kabel Eins
-https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
 http://92.117.129.131:9981/stream/channelid/1862025439?profile=pass
 #EXTINF:0 group-title="DE",SIXX
-https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ProSieben
-https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SAT.1
-https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+http://88.212.7.14/live/test_sat_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SAT.1 Gold
-https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+http://88.212.7.14/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ARTE DE
-https://dash3.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+http://88.212.7.14/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",Das Erste
-https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
+http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
-https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF info
 http://46.150.204.76:4022/udp/239.1.77.107:1234
 #EXTINF:0 group-title="DE",ZDF neo
 http://46.150.204.76:4022/udp/239.1.77.108:1234
 #EXTINF:0 group-title="DE",3sat
-https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
 http://193.239.187.106/RTL2/index.m3u8
 #EXTINF:0 group-title="DE",Super RTL
-https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",VOX
-https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
-https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ALPHA
 http://92.117.129.131:9981/stream/channelid/1592245530?profile=pass
 #EXTINF:0 group-title="DE",BR
@@ -762,25 +762,25 @@ https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
-https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Rebel CZ
-https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Expres
-https://dash2.antik.sk/live/test_ocko_expres/playlist.m3u8
+http://88.212.7.14/live/test_ocko_expres/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Black
-https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Star
-https://dash2.antik.sk/live/test_ocko_star/playlist.m3u8
+http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
-https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+http://88.212.7.14/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:0 group-title="World",Docu Box
-https://dash2.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="World",Fashion Box
-https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="World",Fast&Fun Box
-https://dash2.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+http://88.212.7.14/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="World",Film Box Arthouse
-https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:0 group-title="World",France 24 FR
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:0 group-title="World",France 24 EN
@@ -798,27 +798,27 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 group-title="World",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 group-title="World",Al Jazeera EN
-https://dash2.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+http://88.212.7.14/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="World",Al Jazeera AR
-https://dash2.antik.sk/live/test_aljazeera/playlist.m3u8
+http://88.212.7.14/live/test_aljazeera/playlist.m3u8
 #EXTINF:0 group-title="World",CCTV 4
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+http://88.212.7.14/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN
-https://dash2.antik.sk/live/test_cgtn/playlist.m3u8
+http://88.212.7.14/live/test_cgtn/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN DOC
-https://dash2.antik.sk/live/test_cgtn_doc/playlist.m3u8
+http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN ES
 https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN FR
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",Arirang TV
-https://dash2.antik.sk/live/test_arirang/playlist.m3u8
+http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
-https://dash2.antik.sk/live/test_nhk/playlist.m3u8
+http://88.212.7.14/live/test_nhk/playlist.m3u8
 #EXTINF:0 group-title="World",Freedom UATV
-https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",Current Time
-https://dash2.antik.sk/live/test_current_time_atktv/playlist.m3u8
+http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",Africanews EN
@@ -1024,7 +1024,7 @@ http://41.205.93.154/CSPAN2/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
-https://dash2.antik.sk/live/test_newsmax_avc/playlist.m3u8
+http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
 http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
@@ -1262,7 +1262,7 @@ http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="SK",TV Barrandov
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="SK",Barrandov Krimi
-https://dash2.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV1 Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STV2 Dvojka
@@ -1444,9 +1444,9 @@ https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,700
 http://119.82.250.109:8080/nl.m3u8?id=1052
 #EXTINF:0,701
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,702
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,703
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1981
 #EXTINF:0,704
@@ -1524,11 +1524,11 @@ http://213.169.39.30:5130
 #EXTINF:0,740
 http://213.169.39.30:5144
 #EXTINF:0,741
-https://dash2.antik.sk/live/duck_tv/index.m3u8
+http://88.212.7.14/live/duck_tv/index.m3u8
 #EXTINF:0,742
 https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
-https://dash2.antik.sk/live/rik_atk/index.m3u8
+http://88.212.7.14/live/rik_atk/index.m3u8
 #EXTINF:0,744
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0,745
@@ -1637,7 +1637,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",792
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 group-title="test",793
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:0 group-title="test",794
