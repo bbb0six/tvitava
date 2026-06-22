@@ -370,14 +370,17 @@ http://82.68.56.43:9981/stream/channelid/809213068?profile=webtv-vp8-vorbis-webm
 http://149.102.245.111/26/playlist.m3u8
 #EXTINF:0 group-title="UK",5USA
 http://149.102.245.111/27/playlist.m3u8
-#EXTINF:0 group-title="UK",5STAR
-http://149.102.245.111/28/playlist.m3u8
-#EXTINF:0 group-title="IE",RTÉ ONE
-http://149.102.245.111/29/playlist.m3u8
-#EXTINF:0 group-title="IE",RTÉ 2
-http://149.102.245.111/30/playlist.m3u8
-#EXTINF:0 group-title="IE",Virgin Media One
-http://149.102.245.111/31/playlist.m3u8
+#EXTINF:0 group-title="-",_
+http://92.36.202.5:10001/play/a00r
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="LU",RTL 9
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",TF1
@@ -444,8 +447,8 @@ http://185.98.209.11:81/mezzo/index.m3u8?token=test
 http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ONE
-http://92.117.129.131:9981/stream/channelid/1553078383?profile=pass
+#EXTINF:0 group-title="AT",Servus TV
+http://38.147.104.162:80/premium11/mpegts
 #EXTINF:0 group-title="DE",Kabel Eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
@@ -465,9 +468,9 @@ https://dash4.antik.sk/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-http://92.117.129.131:9981/stream/channelid/980304219?profile=pass
+http://46.150.204.76:4022/udp/239.1.77.107:1234
 #EXTINF:0 group-title="DE",ZDF neo
-http://92.117.129.131:9981/stream/channelid/439627456?profile=pass
+http://46.150.204.76:4022/udp/239.1.77.108:1234
 #EXTINF:0 group-title="DE",3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
@@ -657,7 +660,7 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC News AL
-https://euc12.playlist.ttvnw.net/v1/playlist/CuoGE6qAswgS5ZbWo1r2M5Q9d5yEJ8MFVs4Rad-bfBAnsikcTxY3kDeLOeLEOxW1f6BVGG-l5cuk9lps2M6K0S3H-_sW1wv-KDili3IdNIp5H7DHKzzBaAHJKHKXO-7JT-bYgAJOMcg8A9Kya4_VkuW68gaBt-UrOHl3JPjr8xQG7Ao9uOPPskrbphW3sDMj3etIX5_uciVDQDaBe_s-LNCF5Gcj1YnGNDon46rzOMb8eIYC8hBCRor-F68Myze0g6s1I9EGBNbFsOJKQgogyR2Q6Kcm4wC37zLYnLcqUd8S2mjr42s4STm_I7wXXQcnhGtPzRECAdi9s8MiPJY3XtZgtYUiEWAzLaU18fDkCUqEVDz5WShvgs-vTcGcIk99S44p68oGlzH5emxOKCz-hykdSs2CWlCzAjXpOpgHy0g2bUyX20x_aiBH66YY4L9TXf7uAJNUHMqgDxUAk_bgyd2OlhZ-J8-vsD-oMNQXG3PrdJFpnb6BkFDj9Hx1aFURbOpoiBcDMhaZbsal7ZdTtvbecp-bE2Wum2HLhbSzzc-m8uDtb-teZKPiiBVG0PsJAQFiJCwTIS7lnlZXq5GiGiJrIRrF-09EyJQ4I4K1NDWMJLmSu0O5ka-OeHibvPis8WIkSXykgdWAWXhg-L44s1D460G6le9khbfLrmb-jaueURs5wgWNWPHHErRhr0E6FZv-0ek47xgu5WvtjDZYQpf5-4OGaNSmnqd7MAtsFhrlNPLnQJfSzsUAbU0T37ZYCpjI6GeswHrlW8l-oWTqImuqfSWp33AzNYv2CCbHhLHOvZhA1XXBWGWwd2zV8XfEy6ZGHvVKfCSCENWpQhUR5VS1iFIQ7uQDnAaKx9yNSuiJ4ohRLSvb4Scsw6R9Nd-fWI2xxVNL_QsUWmzyepQ4jIsm_pZ31xa2kopPOGx9dup3P1OIQsqr_XqzNOYkqVW4Q3BoQYNepKQsF8MN3nVfbrFIcfD8UfdkWAsS5m3tDwDEOZ0kH9yiO1rbZaezriaCg_In9ISxHGMcUrFJki-gCtJWRFORnP2NyB8mGK3acpQ6DUTyghZrESFz7Yu2TVHnIMj1LX0068FEhUwrbh7a4J5gNTt0iyMy0Twr5C0lu9g6wGujUOfqo8h6IVOLMdUVozsUUTLTZZFBxGJt9xoM_9rrMN64dGgz5i2hIAEqCWV1LXdlc3QtMjC0Dw.m3u8
+http://217.73.139.200:5443/play/a003
 #EXTINF:0 group-title="AL",Top News AL
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
@@ -713,11 +716,11 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",NOVA HR
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+http://92.36.202.5:10001/play/a02w
+#EXTINF:0 group-title="HR",DOMA HR
+http://92.36.202.5:10001/play/a013
 #EXTINF:0 group-title="HR",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:0 group-title="BG",Nova BG
-http://213.91.179.28:8000/play/a03l
 #EXTINF:0 group-title="BG",Diema BG
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 group-title="PL",TVP1 PL
@@ -1511,11 +1514,11 @@ http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
 https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
 #EXTINF:0,736
-http://213.169.39.30:5138
+http://38.147.104.162:80/premium7/mpegts
 #EXTINF:0,737
-http://213.169.39.30:5140
+http://38.147.104.162:80/premium5/mpegts
 #EXTINF:0,738
-http://213.169.39.30:5142
+http://38.147.104.162:80/premium3/index.m3u8
 #EXTINF:0,739
 http://213.169.39.30:5130
 #EXTINF:0,740
@@ -1652,7 +1655,7 @@ https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.c
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-http://92.117.129.131:9981/stream/channelid/339678213?profile=pass
+http://45.136.153.199/HRTInt/mpegts
 #EXTINF:-1 group-title="test",799
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:-1 group-title="test",800
