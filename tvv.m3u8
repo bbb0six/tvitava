@@ -148,7 +148,7 @@ https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportun
 #EXTINF:-1 group-title="WBD IT",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 group-title="Vari",Sportitalia
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/chunks.m3u8
 #EXTINF:0 group-title="Vari",iL61
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Vari",Donna TV
@@ -476,7 +476,7 @@ https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
-https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+http://193.239.187.106/RTL2/index.m3u8
 #EXTINF:0 group-title="DE",Super RTL
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",VOX
@@ -1375,11 +1375,11 @@ http://185.9.2.18/chid_377/index.m3u8
 http://119.82.250.109:8080/nl.m3u8?id=1017
 #EXTINF:-1 group-title="Music",that's 90s 00s
 http://119.82.250.109:8080/nl.m3u8?id=1044
-#EXTINF:-1 group-title="Music",Deluxe Music SD
+#EXTINF:-1 group-title="test",667
 http://92.116.180.193:9981/stream/channelid/256487830?profile=pass
-#EXTINF:-1 group-title="Music",Deluxe Dance SD
+#EXTINF:-1 group-title="test",668
 http://92.116.180.193:9981/stream/channelid/2129821524?profile=pass
-#EXTINF:-1 group-title="Music",Schlager Deluxe
+#EXTINF:-1 group-title="test",669
 http://92.116.180.193:9981/stream/channelid/1575957472?profile=pass
 #EXTINF:-1 group-title="World",MTV India
 http://103.157.248.140:8000/play/a01p
@@ -1512,7 +1512,7 @@ http://91.146.94.234:10001/play/a09p
 #EXTINF:0,734
 http://91.146.94.234:10001/play/a04o
 #EXTINF:0,735
-https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
+http://45.136.153.199/HRTInt/mpegts
 #EXTINF:0,736
 http://38.147.104.162:80/premium7/mpegts
 #EXTINF:0,737
@@ -1523,23 +1523,23 @@ http://38.147.104.162:80/premium3/index.m3u8
 http://213.169.39.30:5130
 #EXTINF:0,740
 http://213.169.39.30:5144
-#EXTINF:0,Duck TV
+#EXTINF:0,741
 https://dash2.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:0,Duck Plus
+#EXTINF:0,742
 https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:0,Rik TV
+#EXTINF:0,743
 https://dash2.antik.sk/live/rik_atk/index.m3u8
-#EXTINF:0,Dubai TV
+#EXTINF:0,744
 http://185.9.2.18/chid_139/index.m3u8
-#EXTINF:0,Bridge
-http://185.78.112.47:8077/bridge-tv/video.m3u8
-#EXTINF:0,Bridge Classic
-http://185.78.112.47:8077/topsong/video.m3u8
-#EXTINF:0,Bridge Hits
-http://185.78.112.47:8077/dange/index.m3u8
-#EXTINF:0,Bridge Russian
-http://185.78.112.47:8077/rusong/index.m3u8
-#EXTINF:0,Shanson TV
+#EXTINF:0,745
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/chunks.m3u8
+#EXTINF:0,746
+https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
+#EXTINF:0,747
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:0,748
+http://45.136.153.199/HRTInt/mpegts
+#EXTINF:0,749
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0,750
 https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest_w516707448.mpd
@@ -1637,7 +1637,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",792
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/567
+https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 group-title="test",793
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:0 group-title="test",794
@@ -1655,7 +1655,7 @@ https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.c
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-http://45.136.153.199/HRTInt/mpegts
+http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/567
 #EXTINF:-1 group-title="test",799
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
 #EXTINF:-1 group-title="test",800
