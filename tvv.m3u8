@@ -341,17 +341,17 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="Svizzera",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="UK",BBC One
-http://176.65.146.224:4001/play/a08e/index.m3u8
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:0 group-title="UK",BBC Two
-http://176.65.146.224:4001/play/a08f/index.m3u8
+http://193.239.187.97/BBC2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-http://176.65.146.224:4004/play/a07k/index.m3u8
+http://82.68.56.43:9981/stream/channelid/1524788546?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",Channel 4
-http://176.65.146.224:4007/play/a074/index.m3u8
+http://82.68.56.43:9981/stream/channelid/1452318392?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",5
-http://176.65.146.224:4003/play/a06m/index.m3u8
+http://82.68.56.43:9981/stream/channelid/493611590?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",ITV 2
-http://176.65.146.224:4004/play/a07l/index.m3u8
+http://82.68.56.43:9981/stream/channelid/1207907172?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",S4C
 http://176.65.146.224:4004/play/a072/index.m3u8
 #EXTINF:0 group-title="UK",DMAX UK
@@ -359,11 +359,13 @@ http://176.65.146.224:4007/play/a06r/index.m3u8
 #EXTINF:0 group-title="UK",BBC Four CBeebies
 http://176.65.146.224:4001/play/a08g/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-http://149.102.245.111/23/playlist.m3u8
+http://82.68.56.43:9981/stream/channelid/1380920585?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",ITV 4
-http://149.102.245.111/24/playlist.m3u8
+http://82.68.56.43:9981/stream/channelid/1770634429?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",E4
-http://149.102.245.111/25/playlist.m3u8
+http://82.68.56.43:9981/stream/channelid/1288613582?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",FILM 4
+http://82.68.56.43:9981/stream/channelid/809213068?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="UK",MORE 4
 http://149.102.245.111/26/playlist.m3u8
 #EXTINF:0 group-title="UK",5USA
@@ -376,8 +378,6 @@ http://149.102.245.111/29/playlist.m3u8
 http://149.102.245.111/30/playlist.m3u8
 #EXTINF:0 group-title="IE",Virgin Media One
 http://149.102.245.111/31/playlist.m3u8
-#EXTINF:0 group-title="IE",TG 4
-http://149.102.245.111/32/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 9
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",TF1
@@ -728,12 +728,12 @@ http://91.246.72.88:8000/play/a00l
 http://91.246.72.88:8000/play/a00m
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://193.239.186.231/NPO1/mpegts
+#EXTINF:0 group-title="NL",NPO 2 NL
+http://193.239.187.97/NPO2/mpegts
 #EXTINF:0 group-title="NL",NPO 3 NL
 http://193.239.186.231/NPO3/mpegts
 #EXTINF:0 group-title="NL",RTL 5 NL
 http://193.239.186.231/RTL5/mpegts
-#EXTINF:0 group-title="NL",RTL 8 NL
-http://193.239.186.231/RTL8/mpegts
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
