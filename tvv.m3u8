@@ -341,35 +341,35 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="Svizzera",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="UK",BBC One
-http://193.239.186.231/BBC1/index.m3u8
+http://81.137.213.119:4202/bysid/17536
 #EXTINF:0 group-title="UK",BBC Two
-http://193.239.187.97/BBC2/index.m3u8
+http://81.137.213.119:4202/bysid/17472
 #EXTINF:0 group-title="UK",ITV 1
-http://82.68.56.43:9981/stream/channelid/1524788546?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8261
 #EXTINF:0 group-title="UK",Channel 4
-http://82.68.56.43:9981/stream/channelid/1452318392?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8384
 #EXTINF:0 group-title="UK",5
-http://82.68.56.43:9981/stream/channelid/493611590?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8500
 #EXTINF:0 group-title="UK",ITV 2
-http://82.68.56.43:9981/stream/channelid/1207907172?profile=webtv-vp8-vorbis-webm
-#EXTINF:0 group-title="UK",S4C
-http://176.65.146.224:4004/play/a072/index.m3u8
-#EXTINF:0 group-title="UK",DMAX UK
-http://176.65.146.224:4007/play/a06r/index.m3u8
-#EXTINF:0 group-title="UK",BBC Four CBeebies
-http://176.65.146.224:4001/play/a08g/index.m3u8
+http://81.137.213.119:4201/bysid/8325
+#EXTINF:0 group-title="UK",BBC Three
+http://81.137.213.119:4202/bysid/17920
+#EXTINF:0 group-title="UK",BBC Four
+http://81.137.213.119:4200/bysid/4544
 #EXTINF:0 group-title="UK",ITV 3
-http://82.68.56.43:9981/stream/channelid/1380920585?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8294
 #EXTINF:0 group-title="UK",ITV 4
-http://82.68.56.43:9981/stream/channelid/1770634429?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8330
 #EXTINF:0 group-title="UK",E4
-http://82.68.56.43:9981/stream/channelid/1288613582?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8448
 #EXTINF:0 group-title="UK",FILM 4
-http://82.68.56.43:9981/stream/channelid/809213068?profile=webtv-vp8-vorbis-webm
+http://81.137.213.119:4201/bysid/8385
 #EXTINF:0 group-title="UK",MORE 4
-http://149.102.245.111/26/playlist.m3u8
-#EXTINF:0 group-title="UK",5USA
-http://149.102.245.111/27/playlist.m3u8
+http://81.137.213.119:4201/bysid/8442
+#EXTINF:0 group-title="UK",4seven
+http://81.137.213.119:4201/bysid/8460
+#EXTINF:0 group-title="UK",DMAX UK
+http://81.137.213.119:4205/bysid/27680
 #EXTINF:0 group-title="-",_
 http://92.36.202.5:10001/play/a00r
 #EXTINF:0 group-title="-",_
@@ -394,7 +394,7 @@ http://84.17.50.102/france4/index.m3u8
 #EXTINF:0 group-title="FR",France 5
 http://84.17.50.102/france5/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://84.17.50.102/m6/index.m3u8
+http://176.65.146.100:8047/play/a077
 #EXTINF:0 group-title="FR",Arte FR
 http://84.17.50.102/arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
@@ -404,7 +404,7 @@ http://84.17.50.102/w9/index.m3u8
 #EXTINF:0 group-title="FR",TMC
 http://84.17.50.102/tmc/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/424
+http://176.65.146.100:8047/play/a07g
 #EXTINF:0 group-title="FR",GULLI
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/547
 #EXTINF:0 group-title="FR",BFM TV
@@ -861,6 +861,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:0 group-title="World",Euronews Magyar
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:0 group-title="World",Africanews EN
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:0 group-title="World",Africanews FR
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:0 group-title="i",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:-1 group-title="World",Rai Italia
@@ -879,23 +883,19 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",MTV
-http://45.84.187.172:3001/udp/239.100.10.67:5000
-#EXTINF:-1 group-title="World",Vatican Media
-http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:-1 group-title="World",CCTV 1
-http://119.82.250.109:8080/nl.m3u8?id=1037
+http://198.204.240.250:82/live/cctv1.m3u8
 #EXTINF:-1 group-title="World",CCTV 2
 http://119.82.250.109:8080/nl.m3u8?id=1091
 #EXTINF:0 group-title="World",_
-http://119.82.250.109:8080/nl.m3u8?id=1114
+http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0 group-title="World",_
 http://119.82.250.109:8080/nl.m3u8?id=1119
 #EXTINF:0 group-title="World",KBS World
 http://119.82.250.109:8080/nl.m3u8?id=1154
-#EXTINF:0 group-title="World",CNBC
+#EXTINF:0 group-title="World",_
 http://149.102.245.111:80/40/playlist.m3u8
-#EXTINF:0 group-title="World",Bloomberg
+#EXTINF:0 group-title="World",_
 http://149.102.245.111:80/39/playlist.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
@@ -1044,7 +1044,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0,CNN ESPAÑOL
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
 #EXTINF:0,ESPN 1 ES
-http://45.71.202.124:8000/play/a001
+http://181.78.192.238:8000/play/a28q
 #EXTINF:0,ESPN 2 ES
 http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:0,ESPN 3 ES
@@ -1522,7 +1522,7 @@ http://38.147.104.162:80/premium3/index.m3u8
 #EXTINF:0,739
 http://213.169.39.30:5130
 #EXTINF:0,740
-http://213.169.39.30:5144
+http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0,741
 http://88.212.7.14/live/duck_tv/index.m3u8
 #EXTINF:0,742
