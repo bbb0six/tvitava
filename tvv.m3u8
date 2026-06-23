@@ -341,9 +341,9 @@ https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="Svizzera",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="UK",BBC One
-http://81.137.213.119:4202/bysid/17536
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:0 group-title="UK",BBC Two
-http://81.137.213.119:4202/bysid/17472
+http://193.239.187.97/BBC2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://81.137.213.119:4201/bysid/8261
 #EXTINF:0 group-title="UK",Channel 4
@@ -1456,11 +1456,11 @@ http://cdn1.ayitistream.com/MCM/index.m3u8
 #EXTINF:0,706
 http://cdn1.ayitistream.com/M6-HD/index.m3u8
 #EXTINF:0,707
-http://78.130.250.2:8023/play/a045
+http://81.137.213.119:4202/bysid/17536
 #EXTINF:0,708
-http://78.130.250.2:8023/play/a06h
+http://81.137.213.119:4202/bysid/17472
 #EXTINF:0,709
-http://78.130.250.2:8023/play/a06g
+http://116.202.113.254:8888/tvr3
 #EXTINF:0,710
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,711
@@ -1538,7 +1538,7 @@ https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks
 #EXTINF:0,747
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:0,748
-http://45.136.153.199/HRTInt/mpegts
+https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
 #EXTINF:0,749
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
 #EXTINF:0,750
@@ -1564,22 +1564,22 @@ http://timeshift.arpinet.am/233/index.m3u8
 #EXTINF:0,Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0,Trentino TV
-http://84.22.55.2:8032/play/s361
-#EXTINF:0,RTTR
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+#EXTINF:0,762
 http://84.22.55.2:8032/play/s362
-#EXTINF:0,Telepace Trento
+#EXTINF:0,763
 http://84.22.55.2:8032/play/s363
-#EXTINF:0,7Gold Telepadova
+#EXTINF:0,764
 http://84.22.55.2:8032/play/s364
-#EXTINF:0,Telenuovo
+#EXTINF:0,765
 http://84.22.55.2:8032/play/s365
-#EXTINF:0,A3 Veneto
+#EXTINF:0,766
 http://84.22.55.2:8032/play/s366
-#EXTINF:0,Telechiara
+#EXTINF:0,767
 http://84.22.55.2:8032/play/s367
-#EXTINF:0,TV33 TN
+#EXTINF:0,768
 http://84.22.55.2:8032/play/s368
-#EXTINF:0,TV7 Triveneta
+#EXTINF:0,769
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,770
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/chunklist_w840147523.m3u8
