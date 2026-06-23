@@ -293,7 +293,7 @@ https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Delta TV
 http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
 #EXTINF:0 group-title="Regionali",Teledehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/master.m3u8
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
@@ -340,36 +340,36 @@ https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="Svizzera",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="UK",BBC One
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:0 group-title="UK",BBC Two
-http://193.239.187.97/BBC2/index.m3u8
+#EXTINF:0 group-title="UK",BBC ONE
+http://109.61.81.129:80/51/index.m3u8
+#EXTINF:0 group-title="UK",BBC TWO
+http://109.61.81.129:80/16/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-http://81.137.213.119:4201/bysid/8261
-#EXTINF:0 group-title="UK",Channel 4
-http://81.137.213.119:4201/bysid/8384
+http://109.61.81.129:80/17/index.m3u8
+#EXTINF:0 group-title="UK",CHANNEL 4
+http://109.61.81.129:80/18/index.m3u8
 #EXTINF:0 group-title="UK",5
-http://81.137.213.119:4201/bysid/8500
+http://109.61.81.129:80/19/index.m3u8
+#EXTINF:0 group-title="UK",BBC FOUR
+http://109.61.81.129:80/21/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-http://81.137.213.119:4201/bysid/8325
-#EXTINF:0 group-title="UK",BBC Three
-http://81.137.213.119:4202/bysid/17920
-#EXTINF:0 group-title="UK",BBC Four
-http://81.137.213.119:4200/bysid/4544
+http://109.61.81.129:80/22/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-http://81.137.213.119:4201/bysid/8294
+http://109.61.81.129:80/23/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-http://81.137.213.119:4201/bysid/8330
+http://109.61.81.129:80/24/index.m3u8
 #EXTINF:0 group-title="UK",E4
-http://81.137.213.119:4201/bysid/8448
-#EXTINF:0 group-title="UK",FILM 4
-http://81.137.213.119:4201/bysid/8385
+http://109.61.81.129:80/25/index.m3u8
 #EXTINF:0 group-title="UK",MORE 4
-http://81.137.213.119:4201/bysid/8442
-#EXTINF:0 group-title="UK",4seven
-http://81.137.213.119:4201/bysid/8460
-#EXTINF:0 group-title="UK",DMAX UK
-http://81.137.213.119:4205/bysid/27680
+http://109.61.81.129:80/26/index.m3u8
+#EXTINF:0 group-title="UK",5 USA
+http://109.61.81.129:80/27/index.m3u8
+#EXTINF:0 group-title="UK",5 STAR
+http://109.61.81.129:80/28/index.m3u8
+#EXTINF:0 group-title="UK",RTE ONE
+http://109.61.81.129:80/29/index.m3u8
+#EXTINF:0 group-title="UK",RTE 2
+http://109.61.81.129:80/30/index.m3u8
 #EXTINF:0 group-title="-",_
 http://92.36.202.5:10001/play/a00r
 #EXTINF:0 group-title="-",_
@@ -394,7 +394,7 @@ http://84.17.50.102/france4/index.m3u8
 #EXTINF:0 group-title="FR",France 5
 http://84.17.50.102/france5/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://84.17.50.102/m6/index.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0 group-title="FR",Arte FR
 http://84.17.50.102/arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
@@ -1343,10 +1343,10 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="IL",9TV ISR
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",CH 11 ISR
-http://77.137.40.221:8000/play/a05b
-#EXTINF:0 group-title="IL",CH 12 ISR
-http://77.137.40.221:8000/play/t017
+#EXTINF:0 group-title="UK",BBC 1
+http://193.239.186.231/BBC1/index.m3u8
+#EXTINF:0 group-title="UK",BBC 2
+http://193.239.187.97/BBC2/index.m3u8
 #EXTINF:0 group-title="IL",CH 13 ISR
 http://77.137.40.221:8000/play/t018
 #EXTINF:0 group-title="IL",CH 14 ISR
