@@ -394,11 +394,11 @@ http://84.17.50.102/france4/index.m3u8
 #EXTINF:0 group-title="FR",France 5
 http://84.17.50.102/france5/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://176.65.146.100:8047/play/a077
+http://84.17.50.102/m6/index.m3u8
 #EXTINF:0 group-title="FR",Arte FR
 http://84.17.50.102/arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/582
+http://176.65.146.100:8047/play/a07h/index.m3u8
 #EXTINF:0 group-title="FR",W9
 http://84.17.50.102/w9/index.m3u8
 #EXTINF:0 group-title="FR",TMC
@@ -821,10 +821,12 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",Africanews EN
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:0 group-title="World",Africanews FR
-https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:0 group-title="World",Kvartal TV
+http://88.212.7.14/live/kvartal_tv/playlist.m3u8
+#EXTINF:0 group-title="World",1+1 International
+http://88.212.7.14/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",1+1 Марафон
+http://88.212.7.14/live/1plus1_marathon/playlist.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",TVP World
@@ -837,8 +839,6 @@ http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
 http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="Music",Eska Rock
 http://81.15.109.89:8001/play/EskaRock
-#EXTINF:0 group-title="Music",Eska TV Extra
-http://81.15.109.89:8001/play/EskaTVExtra
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews English
@@ -865,10 +865,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:0 group-title="World",Africanews FR
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:0 group-title="i",Mediaset Italia
-http://213.169.39.30:5255
 #EXTINF:-1 group-title="World",Rai Italia
 http://181.78.192.238:8000/play/a2hd
+#EXTINF:0 group-title="i",Mediaset Italia
+http://213.169.39.30:5255
 #EXTINF:-1 group-title="World",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:-1 group-title="World",TVE
@@ -1442,19 +1442,19 @@ https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,700
-http://119.82.250.109:8080/nl.m3u8?id=1052
+http://91.146.94.234:10001/play/a131
 #EXTINF:0,701
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,702
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,703
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1981
+http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0,704
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1964
+http://cdn1.ayitistream.com/LIFETIME/index.m3u8
 #EXTINF:0,705
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1963
+http://cdn1.ayitistream.com/MCM/index.m3u8
 #EXTINF:0,706
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1980
+http://cdn1.ayitistream.com/M6-HD/index.m3u8
 #EXTINF:0,707
 http://78.130.250.2:8023/play/a045
 #EXTINF:0,708
@@ -1462,19 +1462,19 @@ http://78.130.250.2:8023/play/a06h
 #EXTINF:0,709
 http://78.130.250.2:8023/play/a06g
 #EXTINF:0,710
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1743
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,711
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1724
+http://176.65.146.100:8047/play/a07d
 #EXTINF:0,712
 http://176.65.146.100:8047/play/a073
 #EXTINF:0,713
 http://176.65.146.100:8047/play/a076
 #EXTINF:0,714
-http://91.146.94.234:10001/play/a131
+http://176.65.146.100:8047/play/a074
 #EXTINF:0,715
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+http://176.65.146.100:8047/play/a07a
 #EXTINF:0,716
-https://uvotv.zappr.stream/317.m3u8
+http://176.65.146.100:8047/play/a077
 #EXTINF:0,717
 http://91.146.94.234:10001/play/a08t
 #EXTINF:0,718
