@@ -815,18 +815,6 @@ https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
 http://88.212.7.14/live/test_nhk/playlist.m3u8
-#EXTINF:0 group-title="World",Freedom UATV
-http://88.212.7.14/live/test_uatv/playlist.m3u8
-#EXTINF:0 group-title="World",Current Time
-http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:0 group-title="World",24 Канал UA
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",Kvartal TV
-http://88.212.7.14/live/kvartal_tv/playlist.m3u8
-#EXTINF:0 group-title="World",1+1 International
-http://88.212.7.14/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:0 group-title="World",1+1 Марафон
-http://88.212.7.14/live/1plus1_marathon/playlist.m3u8
 #EXTINF:0 group-title="World",TRT World
 http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:0 group-title="World",TVP World
@@ -835,11 +823,23 @@ http://88.212.7.14/live/test_tvp_world/playlist.m3u8
 http://88.212.7.14/live/test_tvp_info/playlist.m3u8
 #EXTINF:0 group-title="World",TVP Polonia
 http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:0 group-title="Music",Eska TV
-http://91.246.72.88:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="Music",Eska Rock
-http://81.15.109.89:8001/play/EskaRock
-#EXTINF:-1 group-title="Music",Trace Urban
+#EXTINF:0 group-title="World",1+1 Марафон
+http://88.212.7.14/live/1plus1_marathon/playlist.m3u8
+#EXTINF:0 group-title="World",1+1 International
+http://88.212.7.14/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:0 group-title="World",Kvartal TV
+http://88.212.7.14/live/kvartal_tv/playlist.m3u8
+#EXTINF:0 group-title="World",Дім
+http://88.212.7.14/live/telekanal_dim/playlist.m3u8
+#EXTINF:0 group-title="World",Espreso TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:0 group-title="World",Current Time
+http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:0 group-title="World",Freedom UATV
+http://88.212.7.14/live/test_uatv/playlist.m3u8
+#EXTINF:0 group-title="World",24 Канал UA
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
@@ -893,8 +893,8 @@ http://41.205.93.154/MTVLIVE/mpegts
 http://41.205.93.154/MTVUSA/mpegts
 #EXTINF:0 group-title="World",KBS World
 http://119.82.250.109:8080/nl.m3u8?id=1154
-#EXTINF:0 group-title="World",_
-http://119.82.250.109:8080/nl.m3u8?id=1119
+#EXTINF:0 group-title="Music",Eska TV
+http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="World",_
 http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0 group-title="USA",CBS 2 NY
