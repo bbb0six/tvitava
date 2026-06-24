@@ -42,8 +42,8 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 http://84.22.55.2:8032/play/s364
 #EXTINF:-1 group-title="Regionali",A3 Veneto
 http://84.22.55.2:8032/play/s366
-#EXTINF:0 group-title="News",Class CNBC IT
-https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TV7 Triveneta Network
+http://84.22.55.2:8032/play/s369
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -109,8 +109,8 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
 https://alwaysdata-api.zappr.stream/frisbee.mpd
-#EXTINF:-1 group-title="Vari",Travel TV
-http://78.130.250.2:8023/play/a060/index.m3u8
+#EXTINF:-1 group-title="Vari",MANGA
+https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -461,9 +461,9 @@ http://84.17.50.102/w9/index.m3u8
 #EXTINF:0 group-title="FR",TMC
 http://84.17.50.102/tmc/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-http://176.65.146.100:8047/play/a07g
-#EXTINF:0 group-title="FR",GULLI
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/547
+http://176.65.146.100:8047/play/a07g/index.m3u8
+#EXTINF:0 group-title="FR",AB1
+http://145.239.5.177/332/mpegts
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
@@ -490,6 +490,10 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="FR",RTBF La Une
+http://145.239.5.177/329/mpegts
+#EXTINF:0 group-title="FR",RTL 9
+http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="UK",BBC ONE
@@ -498,9 +502,9 @@ http://109.61.81.129:80/51/index.m3u8
 http://109.61.81.129:80/16/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://109.61.81.129:80/17/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 4
+#EXTINF:0 group-title="UK",Channel 4
 http://109.61.81.129:80/18/index.m3u8
-#EXTINF:0 group-title="UK",5
+#EXTINF:0 group-title="UK",Channel 5
 http://109.61.81.129:80/19/index.m3u8
 #EXTINF:0 group-title="UK",BBC FOUR
 http://109.61.81.129:80/21/index.m3u8
@@ -516,10 +520,10 @@ http://109.61.81.129:80/25/index.m3u8
 http://109.61.81.129:80/26/index.m3u8
 #EXTINF:0 group-title="UK",5 USA
 http://109.61.81.129:80/27/index.m3u8
-#EXTINF:0 group-title="LU",RTL 9
-http://145.239.5.177/308/mpegts
-#EXTINF:0 group-title="DE",_
-http://92.117.129.131:9981/stream/channelid/1592245530?profile=pass
+#EXTINF:0 group-title="UK",5 STAR
+http://109.61.81.129:80/28/index.m3u8
+#EXTINF:0 group-title="UK",SKY MIX
+http://109.61.81.129:80/33/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -530,10 +534,6 @@ http://50.7.120.34:8080/RTP_3/index.m3u8
 http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
 #EXTINF:0 group-title="Vari",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
-#EXTINF:0 group-title="Vari",MANGA IT
-https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
-#EXTINF:0 group-title="Vari",7G ER
-https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0 group-title="ES",star
 http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="ES",tve
@@ -1555,7 +1555,7 @@ http://78.130.250.2:8023/play/a064/index.m3u8
 #EXTINF:0,757
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,758
-https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
+https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0,759
 https://lb.dstvmultimedia.com/RTSUN/mpegts
 #EXTINF:0,760
