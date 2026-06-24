@@ -270,10 +270,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",BBC Earth IT
 https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CH",SRF 1
-http://91.146.94.234:10001/play/a0fh
-#EXTINF:0 group-title="CH",SRF INFO
-http://91.146.94.234:10001/play/a08m
+#EXTINF:0 group-title="Vari",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="Vari",Gambero Rosso
+https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
@@ -344,16 +344,82 @@ https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 #EXTINF:0 group-title="Vari",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:0 group-title="Vari",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="Vari",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
 #EXTINF:0 group-title="Vari",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Vari",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:0 group-title="Vari",Telenova
-https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
-#EXTINF:0 group-title="Vari",Gambero Rosso
-https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="CH",SRF 1
+http://91.146.94.234:10001/play/a0fh
+#EXTINF:0 group-title="CH",SRF INFO
+http://91.146.94.234:10001/play/a08m
+#EXTINF:0 group-title="AT",ORF 1
+http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="AT",ORF 2
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:0 group-title="AT",Servus TV
+https://lb.dstvmultimedia.com/ServusTV/mpegts
+#EXTINF:0 group-title="DE",Das Erste
+http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="DE",ZDF
+http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="DE",3sat
+http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",RTL Television
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:0 group-title="DE",RTL Zwei
+http://193.239.187.106/RTL2/index.m3u8
+#EXTINF:0 group-title="DE",SIXX
+http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",ProSieben
+http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",SAT.1
+http://88.212.7.14/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",SAT.1 Gold
+http://88.212.7.14/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",ARTE DE
+http://88.212.7.14/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="DE",Kabel Eins
+http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",Super RTL
+http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",VOX
+http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",NITRO
+http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",Tele 5
+https://lb.dstvmultimedia.com/Tele5/mpegts
+#EXTINF:0 group-title="DE",ZDF info
+http://46.150.204.76:4022/udp/239.1.77.107:1234
+#EXTINF:0 group-title="DE",ZDF neo
+http://46.150.204.76:4022/udp/239.1.77.108:1234
+#EXTINF:0 group-title="DE",KIKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",WELT
+https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",BR
+http://88.212.7.14/live/test_br_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",HR
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",MDR
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",NDR
+https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",WDR
+https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",RBB
+https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:0 group-title="DE",SWR
+https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+#EXTINF:0 group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 group-title="Music",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 group-title="Music",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0 group-title="Music",Mezzo
+http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="UK",BBC ONE
 http://109.61.81.129:80/51/index.m3u8
 #EXTINF:0 group-title="UK",BBC TWO
@@ -432,74 +498,8 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
-#EXTINF:0 group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="Music",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:0 group-title="Music",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="Music",Mezzo
-http://185.98.209.11:81/mezzo/index.m3u8?token=test
-#EXTINF:0 group-title="AT",ORF 1
-http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",ORF 2
-http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",Servus TV
-https://lb.dstvmultimedia.com/ServusTV/mpegts
-#EXTINF:0 group-title="DE",Kabel Eins
-http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",Tele 5
-https://lb.dstvmultimedia.com/Tele5/mpegts
-#EXTINF:0 group-title="DE",SIXX
-http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ProSieben
-http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",SAT.1
-http://88.212.7.14/live/test_sat_eins_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",SAT.1 Gold
-http://88.212.7.14/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ARTE DE
-http://88.212.7.14/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="DE",Das Erste
-http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="DE",ZDF
-http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:0 group-title="DE",ZDF info
-http://46.150.204.76:4022/udp/239.1.77.107:1234
-#EXTINF:0 group-title="DE",ZDF neo
-http://46.150.204.76:4022/udp/239.1.77.108:1234
-#EXTINF:0 group-title="DE",3sat
-http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",RTL Television
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:0 group-title="DE",RTL Zwei
-http://193.239.187.106/RTL2/index.m3u8
-#EXTINF:0 group-title="DE",Super RTL
-http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",VOX
-http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",NITRO
-http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ALPHA
 http://92.117.129.131:9981/stream/channelid/1592245530?profile=pass
-#EXTINF:0 group-title="DE",BR
-http://88.212.7.14/live/test_br_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",HR
-https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",MDR
-https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",NDR
-https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",WDR
-https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",RBB
-https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",SWR
-https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",KIKA
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",WELT
-https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
