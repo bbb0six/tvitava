@@ -26,9 +26,9 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Svizzera",RSI La 1
+#EXTINF:0 group-title="CH",RSI La 1
 http://91.146.94.234:10001/play/a0jn
-#EXTINF:0 group-title="Svizzera",RSI La 2
+#EXTINF:0 group-title="CH",RSI La 2
 http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
@@ -231,8 +231,8 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Vari",TV Koper
-http://92.36.202.5:10001/play/a00r
+#EXTINF:0 group-title="CH",TV Koper
+http://92.36.202.5:10001/play/a05q
 #EXTINF:-1 group-title="Rai",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -336,20 +336,40 @@ https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
 #EXTINF:0 group-title="Regionali",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Tele A1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
-#EXTINF:0 group-title="Svizzera",Teleticino
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="Vari",EQU TV
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
 #EXTINF:0 group-title="Vari",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:0 group-title="Vari",Telenova
+#EXTINF:0 group-title="Regionali",Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
-#EXTINF:0 group-title="Vari",Bergamo TV
+#EXTINF:0 group-title="Regionali",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
-#EXTINF:0 group-title="Vari",Rete 55
+#EXTINF:0 group-title="Regionali",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:0 group-title="Regionali",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
+#EXTINF:0 group-title="Regionali",TeleFoggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
+#EXTINF:0 group-title="Regionali",Studio 100
+https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
+#EXTINF:0 group-title="Vari",Gold TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
+#EXTINF:0 group-title="CH",Teleticino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:0 group-title="Regionali",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
+#EXTINF:0 group-title="Regionali",Trentino TV
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+#EXTINF:0 group-title="Vari",RTTR
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:0 group-title="CH",RTS UN
+https://lb.dstvmultimedia.com/RTSUN/mpegts
+#EXTINF:0 group-title="CH",RTS INFO
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="CH",SRF 1
 http://91.146.94.234:10001/play/a0fh
 #EXTINF:0 group-title="CH",SRF INFO
@@ -420,32 +440,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
-#EXTINF:0 group-title="UK",BBC ONE
-http://109.61.81.129:80/51/index.m3u8
-#EXTINF:0 group-title="UK",BBC TWO
-http://109.61.81.129:80/16/index.m3u8
-#EXTINF:0 group-title="UK",ITV 1
-http://109.61.81.129:80/17/index.m3u8
-#EXTINF:0 group-title="UK",CHANNEL 4
-http://109.61.81.129:80/18/index.m3u8
-#EXTINF:0 group-title="UK",5
-http://109.61.81.129:80/19/index.m3u8
-#EXTINF:0 group-title="UK",BBC FOUR
-http://109.61.81.129:80/21/index.m3u8
-#EXTINF:0 group-title="UK",ITV 2
-http://109.61.81.129:80/22/index.m3u8
-#EXTINF:0 group-title="UK",ITV 3
-http://109.61.81.129:80/23/index.m3u8
-#EXTINF:0 group-title="UK",ITV 4
-http://109.61.81.129:80/24/index.m3u8
-#EXTINF:0 group-title="UK",E4
-http://109.61.81.129:80/25/index.m3u8
-#EXTINF:0 group-title="UK",MORE 4
-http://109.61.81.129:80/26/index.m3u8
-#EXTINF:0 group-title="UK",5 USA
-http://109.61.81.129:80/27/index.m3u8
-#EXTINF:0 group-title="LU",RTL 9
-http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",TF1
 http://84.17.50.102/tf1/index.m3u8
 #EXTINF:0 group-title="FR",France 2
@@ -498,7 +492,33 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
-#EXTINF:0 group-title="DE",ALPHA
+#EXTINF:0 group-title="UK",BBC ONE
+http://109.61.81.129:80/51/index.m3u8
+#EXTINF:0 group-title="UK",BBC TWO
+http://109.61.81.129:80/16/index.m3u8
+#EXTINF:0 group-title="UK",ITV 1
+http://109.61.81.129:80/17/index.m3u8
+#EXTINF:0 group-title="UK",CHANNEL 4
+http://109.61.81.129:80/18/index.m3u8
+#EXTINF:0 group-title="UK",5
+http://109.61.81.129:80/19/index.m3u8
+#EXTINF:0 group-title="UK",BBC FOUR
+http://109.61.81.129:80/21/index.m3u8
+#EXTINF:0 group-title="UK",ITV 2
+http://109.61.81.129:80/22/index.m3u8
+#EXTINF:0 group-title="UK",ITV 3
+http://109.61.81.129:80/23/index.m3u8
+#EXTINF:0 group-title="UK",ITV 4
+http://109.61.81.129:80/24/index.m3u8
+#EXTINF:0 group-title="UK",E4
+http://109.61.81.129:80/25/index.m3u8
+#EXTINF:0 group-title="UK",MORE 4
+http://109.61.81.129:80/26/index.m3u8
+#EXTINF:0 group-title="UK",5 USA
+http://109.61.81.129:80/27/index.m3u8
+#EXTINF:0 group-title="LU",RTL 9
+http://145.239.5.177/308/mpegts
+#EXTINF:0 group-title="DE",_
 http://92.117.129.131:9981/stream/channelid/1592245530?profile=pass
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
@@ -540,28 +560,12 @@ http://79.112.79.166:8069/udp/239.10.20.18:1234
 http://79.112.79.166:8069/udp/239.10.20.49:1234
 #EXTINF:0 group-title="Vari",GO TV
 https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
-#EXTINF:0 group-title="Vari",TVRS
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="Vari",TeleFoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
-#EXTINF:0 group-title="Vari",Studio 100
-https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
 #EXTINF:0 group-title="Vari",RTP Messina
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Rete 55
-https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:0 group-title="Vari",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
-#EXTINF:0 group-title="Vari",Gambero Rosso
-https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Vari",Telenova
-https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
 #EXTINF:0 group-title="Vari",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:0,Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
-#EXTINF:0,Trentino TV
-https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -634,8 +638,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 #EXTINF:0 group-title="Vari",Fano TV
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
-#EXTINF:0 group-title="Vari",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:0 group-title="Vari",_
+https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:0 group-title="Vari",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
