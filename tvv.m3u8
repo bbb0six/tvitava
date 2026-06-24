@@ -33,7 +33,7 @@ http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
-http://78.130.250.2:8023/play/a066
+http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
@@ -110,7 +110,7 @@ https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.
 #EXTINF:-1 group-title="WBD IT",Frisbee
 https://alwaysdata-api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="Vari",Travel TV
-http://78.130.250.2:8023/play/a060
+http://78.130.250.2:8023/play/a060/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
