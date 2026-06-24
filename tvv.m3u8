@@ -154,8 +154,8 @@ https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="Vari",Donna TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/master.m3u8
-#EXTINF:0 group-title="Vari",SI SoloCalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Vari",IlSole24OreTV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
@@ -229,15 +229,12 @@ http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:0 group-title="MDS",GF Regia 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="MDS",GF Regia 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="MDS",GF Un'ora fa
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="Vari",SI SoloCalcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Vari",TV Koper
+http://92.36.202.5:10001/play/a00r
+#EXTINF:-1 group-title="Rai",Rai Italia
+http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
@@ -372,13 +369,13 @@ http://109.61.81.129:80/29/index.m3u8
 http://109.61.81.129:80/30/index.m3u8
 #EXTINF:0 group-title="-",_
 http://92.36.202.5:10001/play/a00r
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="MDS",GF Regia 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="MDS",GF Un'ora fa
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="LU",RTL 9
@@ -448,11 +445,11 @@ http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
-http://38.147.104.162:80/premium11/mpegts
+https://lb.dstvmultimedia.com/ServusTV/mpegts
 #EXTINF:0 group-title="DE",Kabel Eins
 http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
-http://92.117.129.131:9981/stream/channelid/1862025439?profile=pass
+https://lb.dstvmultimedia.com/Tele5/mpegts
 #EXTINF:0 group-title="DE",SIXX
 http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ProSieben
@@ -561,10 +558,10 @@ https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telenova/telenova/master.m3u8
 #EXTINF:0 group-title="Vari",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:0 group-title="Vari",Radio 24
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
-#EXTINF:0 group-title="Vari",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
+#EXTINF:0,Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
+#EXTINF:0,Trentino TV
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -1558,13 +1555,13 @@ http://78.130.250.2:8023/play/a064/index.m3u8
 #EXTINF:0,757
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,758
-http://41.223.30.230/ZDF/mpegts
+https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
 #EXTINF:0,759
-http://timeshift.arpinet.am/233/index.m3u8
-#EXTINF:0,Alto Adige TV
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
-#EXTINF:0,Trentino TV
-https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+https://lb.dstvmultimedia.com/RTSUN/mpegts
+#EXTINF:0,760
+https://lb.dstvmultimedia.com/TVKoper/mpegts
+#EXTINF:0,761
+http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
 http://84.22.55.2:8032/play/s362
 #EXTINF:0,763
@@ -1655,8 +1652,8 @@ https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.c
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/567
+http://84.22.55.2:8004/play/s147
 #EXTINF:-1 group-title="test",799
-http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1982
+http://84.22.55.2:8006/play/s197
 #EXTINF:-1 group-title="test",800
 http://vipmdvmxqha.top:8080/VIP013571762707404108/b1fc3f5b5d18/1965
