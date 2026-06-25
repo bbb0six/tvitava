@@ -497,9 +497,9 @@ http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="UK",BBC ONE
-http://109.61.81.129:80/51/index.m3u8
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:0 group-title="UK",BBC TWO
-http://109.61.81.129:80/16/index.m3u8
+http://193.239.187.97/BBC2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://109.61.81.129:80/17/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
@@ -691,15 +691,15 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
-http://213.91.179.28:8000/play/a046
+http://85.14.32.26:8800/udp/239.100.10.24:5000
 #EXTINF:0 group-title="BG",BNT 2 BG
-http://213.91.179.28:8000/play/a049
+http://85.14.32.26:8800/udp/239.100.10.25:5000
 #EXTINF:0 group-title="BG",BNT 3 BG
 http://213.91.179.28:8000/play/a03x
 #EXTINF:0 group-title="BG",BNT 4 BG
-http://213.91.179.28:8000/play/a04u
+http://85.14.32.26:8800/udp/239.100.10.26:5000
 #EXTINF:0 group-title="BG",bTV BG
-http://213.91.179.28:8000/play/a03w
+http://85.14.32.26:8800/udp/239.100.10.2:5000
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -862,6 +862,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:0 group-title="World",Africanews FR
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:0 group-title="World",Telesur ES
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 group-title="World",Telesur EN
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="World",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:0 group-title="i",Mediaset Italia
@@ -876,10 +880,6 @@ http://202.169.224.202:8800/udp/239.6.1.3:1234
 http://202.169.224.202:8800/udp/239.6.3.3:1234
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:0 group-title="World",Telesur ES
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 group-title="World",Telesur EN
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="World",CCTV 1
 http://198.204.240.250:82/live/cctv1.m3u8
 #EXTINF:-1 group-title="World",CCTV 2
@@ -1280,22 +1280,22 @@ http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1 SK
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 group-title="HU",M1 HU
-http://46.149.191.217:9000/play/a04o
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
-#EXTINF:-1 group-title="HU",Duna TV
-http://46.149.191.217:9009/play/a02j
-#EXTINF:-1 group-title="HU",M4 Sport
-http://46.149.191.217:9010/play/a017
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="HU",Duna World
-http://46.149.191.217:9007/play/a02q
-#EXTINF:-1 group-title="HU",TV2 HU
-http://46.149.191.217:9005/play/a01q
-#EXTINF:-1 group-title="BG",BNT 1
+#EXTINF:-1 group-title="BG",BNT1 BG
 http://185.97.73.187:11000/play/bnt1/index.m3u8
+#EXTINF:-1 group-title="BG",bTV BG
+http://185.97.73.187:11000/play/btvhd/index.m3u8
+#EXTINF:-1 group-title="GR",ERT1 GR
+http://85.14.32.26:8800/udp/239.100.10.210:5000
+#EXTINF:-1 group-title="GR",ERT2 GR
+http://85.14.32.26:8800/udp/239.100.10.211:5000
+#EXTINF:-1 group-title="GR",ERT3 GR
+http://85.14.32.26:8800/udp/239.100.10.212:5000
+#EXTINF:-1 group-title="FR",M6 FR
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0 group-title="UK",BBC UK
 http://41.205.93.154/BBCONE/mpegts
 #EXTINF:0 group-title="NL",BBC NL
@@ -1325,7 +1325,7 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp
 #EXTINF:0 group-title="AZ",İctimai
 http://176.65.146.189:8701/play/a09l
 #EXTINF:0 group-title="AZ",AZTV
@@ -1545,7 +1545,7 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0,752
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0,753
-http://151.80.18.177:86/M6_HD/index.m3u8
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,754
 http://78.130.250.2:8023/play/a06h/index.m3u8
 #EXTINF:0,755
