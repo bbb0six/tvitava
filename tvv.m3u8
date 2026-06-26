@@ -665,7 +665,7 @@ http://217.73.139.200:5443/play/a01c
 #EXTINF:0 group-title="AL",SCAN
 http://217.73.139.200:5443/play/a009
 #EXTINF:0 group-title="AL",A2 CNN
-http://217.73.139.200:5443/play/a00d
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH Film
 http://217.73.139.200:5443/play/a00n
 #EXTINF:0 group-title="AL",RTSH Muzikë
@@ -760,8 +760,8 @@ https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="Music",Rebel CZ
-http://88.212.7.14/live/test_rebel/playlist.m3u8
+#EXTINF:0 group-title="Music",Óčko
+http://88.212.7.14/live/test_ocko/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Expres
 http://88.212.7.14/live/test_ocko_expres/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko Black
@@ -770,10 +770,10 @@ http://88.212.7.14/live/test_ocko_black/playlist.m3u8
 http://88.212.7.14/live/test_ocko_star/playlist.m3u8
 #EXTINF:0 group-title="Music",Stingray iConcerts
 http://88.212.7.14/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:0 group-title="Music",Rebel CZ
+http://88.212.7.14/live/test_rebel/playlist.m3u8
 #EXTINF:0 group-title="World",Docu Box
 http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:0 group-title="World",Fashion Box
-http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="World",Fast&Fun Box
 http://88.212.7.14/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="World",Film Box Arthouse
@@ -1294,8 +1294,8 @@ http://85.14.32.26:8800/udp/239.100.10.210:5000
 http://85.14.32.26:8800/udp/239.100.10.211:5000
 #EXTINF:-1 group-title="GR",ERT3 GR
 http://85.14.32.26:8800/udp/239.100.10.212:5000
-#EXTINF:-1 group-title="FR",M6 FR
-http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:0 group-title="World",Fashion Box
+http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC UK
 http://41.205.93.154/BBCONE/mpegts
 #EXTINF:0 group-title="NL",BBC NL
@@ -1340,12 +1340,12 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0 group-title="IL",9TV ISR
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="UK",BBC 1
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:0 group-title="UK",BBC 2
-http://193.239.187.97/BBC2/index.m3u8
+#EXTINF:-1 group-title="FR",M6 FR
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:0 group-title="UK",BBC UK
+http://41.205.93.154/BBCONE/mpegts
 #EXTINF:0 group-title="IL",CH 13 ISR
-http://77.137.40.221:8000/play/t018
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:0 group-title="IL",CH 14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:0 group-title="IL",MAKAN 33
@@ -1368,9 +1368,9 @@ http://185.9.2.18/chid_375/index.m3u8
 http://185.9.2.18/chid_376/index.m3u8
 #EXTINF:-1 group-title="SA",MBC 4
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:0 group-title="World",TV5 Monde Asia
-http://119.82.250.109:8080/nl.m3u8?id=1017
-#EXTINF:-1 group-title="Music",that's 90s 00s
+#EXTINF:-1 group-title="SA",_
+http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:-1 group-title="test",666
 http://119.82.250.109:8080/nl.m3u8?id=1044
 #EXTINF:-1 group-title="test",667
 http://92.116.180.193:9981/stream/channelid/256487830?profile=pass
@@ -1519,7 +1519,7 @@ http://38.147.104.162:80/premium3/index.m3u8
 #EXTINF:0,739
 http://213.169.39.30:5130
 #EXTINF:0,740
-http://45.84.187.172:3001/udp/239.100.10.67:5000
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:0,741
 http://88.212.7.14/live/duck_tv/index.m3u8
 #EXTINF:0,742
@@ -1529,9 +1529,9 @@ http://88.212.7.14/live/rik_atk/index.m3u8
 #EXTINF:0,744
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0,745
-https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/chunks.m3u8
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:0,746
-https://edge-004.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_1080p/chunks.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:0,747
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:0,748
@@ -1547,11 +1547,11 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0,753
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,754
-http://78.130.250.2:8023/play/a06h/index.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0,755
-http://78.130.250.2:8023/play/a05y/index.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:0,756
-http://78.130.250.2:8023/play/a064/index.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:0,757
 http://78.130.250.2:8023/play/a04g/index.m3u8
 #EXTINF:0,758
