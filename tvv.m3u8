@@ -356,8 +356,8 @@ https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 #EXTINF:0 group-title="Regionali",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
-#EXTINF:0 group-title="Vari",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
+#EXTINF:0 group-title="Vari",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="Regionali",Alto Adige TV
@@ -366,8 +366,8 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 group-title="CH",RTS UN
-https://lb.dstvmultimedia.com/RTSUN/mpegts
+#EXTINF:0 group-title="Vari",Gold TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="CH",SRF 1
@@ -532,11 +532,11 @@ http://50.7.120.34:8080/RTP_2/index.m3u8
 http://50.7.120.34:8080/RTP_3/index.m3u8
 #EXTINF:0 group-title="PT",RTP Memória
 http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
-#EXTINF:0 group-title="Vari",Orler TV
-https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
-#EXTINF:0 group-title="ES",star
+#EXTINF:0 group-title="PT",RTP Mundo
+http://202.169.224.202:8800/udp/239.6.2.1:1234
+#EXTINF:0 group-title="ES",Star TVE
 http://45.171.64.30:8800/play/a04z
-#EXTINF:0 group-title="ES",tve
+#EXTINF:0 group-title="ES",TVE America
 http://190.60.37.118:4000/play/a087
 #EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
@@ -836,8 +836,8 @@ http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="World",Vatican Media
+http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -866,34 +866,34 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",Rai Italia
-http://181.78.192.238:8000/play/a2hd
-#EXTINF:0 group-title="i",Mediaset Italia
-http://213.169.39.30:5255
-#EXTINF:-1 group-title="World",RTP Mundo
-http://202.169.224.202:8800/udp/239.6.2.1:1234
-#EXTINF:-1 group-title="World",TVE
+#EXTINF:-1 group-title="World",TVE Europa
 http://202.169.224.202:8800/udp/239.6.3.5:1234
 #EXTINF:-1 group-title="World",TV5 Monde
 http://202.169.224.202:8800/udp/239.6.1.3:1234
+#EXTINF:-1 group-title="World",RTP Mundo
+http://202.169.224.202:8800/udp/239.6.2.1:1234
+#EXTINF:-1 group-title="World",BBC One UK
+http://41.205.93.154/BBCONE/mpegts
+#EXTINF:-1 group-title="World",MTV Live
+http://41.205.93.154/MTVLIVE/mpegts
 #EXTINF:-1 group-title="World",CCTV 1
 http://198.204.240.250:82/live/cctv1.m3u8
-#EXTINF:-1 group-title="World",2M Monde
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:0 group-title="World",421
-http://193.239.186.231/NPO1/mpegts
-#EXTINF:0 group-title="World",422
-http://193.239.187.97/NPO2/mpegts
-#EXTINF:0 group-title="World",423
-http://193.239.186.231/NPO3/mpegts
-#EXTINF:0 group-title="World",424
-http://41.205.93.154/MTVUSA/mpegts
-#EXTINF:0 group-title="World",425
-http://41.205.93.154/MTVLIVE/mpegts
-#EXTINF:0 group-title="World",426
-http://41.205.93.154/BBCONE/mpegts
-#EXTINF:0 group-title="World",427
-http://202.169.224.202:8800/udp/239.6.3.4:1234
+#EXTINF:-1 group-title="Rai",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia US
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia SA
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia EU
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia AU
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 group-title="MDS",MDS Italia US
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 group-title="Rai",MDS Italia EU
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 group-title="Rai",MDS Italia AU
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -1340,15 +1340,13 @@ http://185.207.34.31:8000/play/21122/index.m3u8
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:-1 group-title="FR",M6 FR
-http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0 group-title="IL",9TV ISR
 https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",CH 13 ISR
+#EXTINF:0 group-title="IL",CH13 ISR
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 group-title="IL",CH 14 ISR
+#EXTINF:0 group-title="IL",CH14 ISR
 https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN 33
+#EXTINF:0 group-title="IL",MAKAN ISR
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -1356,19 +1354,21 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="Music",Bridge Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="DZ",TV2 Algeria
-http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="MA",2M Maroc
+#EXTINF:-1 group-title="World",2M Monde
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 group-title="World",2M Maroc
 http://185.9.2.18/chid_218/index.m3u8
-#EXTINF:-1 group-title="SA",MBC 1
+#EXTINF:-1 group-title="World",TV2 Algeria
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 group-title="World",MBC1 KSA
 http://185.9.2.18/chid_374/index.m3u8
-#EXTINF:-1 group-title="SA",MBC 2
+#EXTINF:-1 group-title="World",MBC2 KSA
 http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:-1 group-title="SA",MBC 3
+#EXTINF:-1 group-title="World",MBC3 KSA
 http://185.9.2.18/chid_376/index.m3u8
-#EXTINF:-1 group-title="SA",MBC 4
+#EXTINF:-1 group-title="World",MBC4 KSA
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:-1 group-title="SA",Dubai TV
+#EXTINF:-1 group-title="World",Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="test",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -1449,7 +1449,7 @@ http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0,704
 http://cdn1.ayitistream.com/LIFETIME/index.m3u8
 #EXTINF:0,705
-http://cdn1.ayitistream.com/MCM/index.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0,706
 http://cdn1.ayitistream.com/M6-HD/index.m3u8
 #EXTINF:0,707
@@ -1652,7 +1652,7 @@ https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.c
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
 #EXTINF:-1 group-title="test",798
-http://213.91.179.28:8000/play/a0bb
+http://91.146.94.234:10001/play/a06h
 #EXTINF:-1 group-title="test",799
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 group-title="test",800
