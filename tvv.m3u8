@@ -108,7 +108,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
-https://alwaysdata-api.zappr.stream/frisbee.mpd
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3682
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -691,14 +691,19 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="KS",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a046
 #EXTINF:0 group-title="BG",BNT 2 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
 #EXTINF:0 group-title="BG",BNT 3 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03x
 #EXTINF:0 group-title="BG",BNT 4 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
 #EXTINF:0 group-title="BG",bTV BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03w
 #EXTINF:0 group-title="HR",HRT 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
@@ -1040,41 +1045,41 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0,CNN ESPAÑOL
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
-#EXTINF:0,ESPN 1 ES
+#EXTINF:0 group-title="s",ESPN 1 ES
 http://181.78.192.238:8000/play/a28q
-#EXTINF:0,ESPN 2 ES
+#EXTINF:0 group-title="s",ESPN 2 ES
 http://138.121.15.230:9001/ESPN-2/index.m3u8
-#EXTINF:0,ESPN 3 ES
+#EXTINF:0 group-title="s",ESPN 3 ES
 http://138.121.15.230:9001/ESPN-3/index.m3u8
-#EXTINF:0,ESPN 4 ES
+#EXTINF:0 group-title="s",ESPN 4 ES
 http://138.121.15.230:9001/ESPN-4/index.m3u8
-#EXTINF:0,ESPN 5 ES
+#EXTINF:0 group-title="s",ESPN 5 ES
 http://138.121.15.230:9001/ESPN-5/index.m3u8
-#EXTINF:0,ESPN 6 ES
+#EXTINF:0 group-title="s",ESPN 6 ES
 http://138.121.15.230:9001/ESPN-6/index.m3u8
-#EXTINF:0,ESPN 7 ES
+#EXTINF:0 group-title="s",ESPN 7 ES
 http://138.121.15.230:9001/ESPN-7/index.m3u8
-#EXTINF:-1 group-title="SK",SPORT 1 SK
+#EXTINF:0 group-title="s",SPORT 1 SK
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",SPORT 2 SK
+#EXTINF:0 group-title="s",SPORT 2 SK
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 group-title="SK",Eurosport 4K
+#EXTINF:0 group-title="s",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
-#EXTINF:0,maxsport 1
+#EXTINF:0 group-title="s",maxsport 1
 http://77.46.130.252:99/maxsport1
-#EXTINF:0,maxsport 2
+#EXTINF:0 group-title="s",maxsport 2
 http://77.46.130.252:99/maxsport2
-#EXTINF:0,maxsport 3
+#EXTINF:0 group-title="s",maxsport 3
 http://77.46.130.252:99/maxsport3
-#EXTINF:0,maxsport 4
+#EXTINF:0 group-title="s",maxsport 4
 http://77.46.130.252:99/maxsport4
-#EXTINF:0,diema sport 1
-http://213.91.179.28:8000/play/a06q
-#EXTINF:0,diema sport 2
-http://213.91.179.28:8000/play/a08e
-#EXTINF:0,diema sport 3
-http://213.91.179.28:8000/play/a08f
-#EXTINF:0,nova sport
+#EXTINF:0 group-title="s",diema sport 1
+http://77.46.130.252:99/diema1
+#EXTINF:0 group-title="s",diema sport 2
+http://77.46.130.252:99/diema2
+#EXTINF:0 group-title="s",diema sport 3
+http://77.46.130.252:99/diema3
+#EXTINF:0,518
 http://213.91.179.28:8000/play/a04a
 #EXTINF:0,519
 http://45.71.202.124:8000/play/a001
@@ -1092,54 +1097,54 @@ http://86.87.15.10:8004/play/a02a/index.m3u8
 http://86.87.15.10:8009/play/a01d/index.m3u8
 #EXTINF:0,526
 http://86.87.15.10:8009/play/a01e/index.m3u8
-#EXTINF:-1 group-title="sports",527
-http://38.49.128.38:8000/play/a092/index.m3u8
-#EXTINF:-1 group-title="sports",528
-http://38.49.128.38:8000/play/a091/index.m3u8
-#EXTINF:-1 group-title="sports",529
-http://38.49.128.38:8000/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="sports",530
-http://38.49.128.38:8000/play/a0kf/index.m3u8
-#EXTINF:-1 group-title="sports",531
+#EXTINF:-1 group-title="s",527
+http://216.106.179.7:8080/ESPN3HD/index.m3u8
+#EXTINF:-1 group-title="s",528
+http://216.106.179.7:8080/ESPN4HD/index.m3u8
+#EXTINF:-1 group-title="s",529
+http://216.106.179.7:8080/ESPN5HD/index.m3u8
+#EXTINF:-1 group-title="s",530
+http://216.106.179.7:8080/ESPN6HD/index.m3u8
+#EXTINF:-1 group-title="s",531
 http://179.1.146.22:8000/play/a0hk
-#EXTINF:-1 group-title="sports",532
+#EXTINF:-1 group-title="s",532
 http://179.1.146.22:8000/play/a0hf
-#EXTINF:-1 group-title="sports",533
+#EXTINF:-1 group-title="s",533
 http://179.1.146.22:8000/play/a0l2
-#EXTINF:-1 group-title="sports",534
+#EXTINF:-1 group-title="s",534
 http://179.1.146.22:8000/play/a0gc
-#EXTINF:-1 group-title="sports",535
+#EXTINF:-1 group-title="s",535
 http://179.1.146.22:8000/play/a0kv
-#EXTINF:-1 group-title="sports",536
+#EXTINF:-1 group-title="s",536
 http://179.1.146.22:8000/play/a0kp
-#EXTINF:-1 group-title="sports",537
+#EXTINF:-1 group-title="s",537
 http://179.1.146.22:8000/play/a0g4
-#EXTINF:-1 group-title="sports",538
+#EXTINF:-1 group-title="s",538
 http://179.1.146.22:8000/play/a0ho
-#EXTINF:-1 group-title="sports",539
+#EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
 http://91.146.94.234:10001/play/a05n
 #EXTINF:0,541
-http://169.150.223.25/RSILa1/mpegts
+http://193.25.8.59:8000/fut
 #EXTINF:0,542
-http://169.150.223.25/RSILa2/mpegts
+http://193.25.8.59:8000/fut2
 #EXTINF:0,543
-http://216.106.179.7:8080/ESPN3HD/index.m3u8
+http://193.25.8.59:8000/fut3
 #EXTINF:0,544
-http://216.106.179.7:8080/ESPN4HD/index.m3u8
-#EXTINF:0,545
-http://216.106.179.7:8080/ESPN5HD/mpegts
-#EXTINF:0,546
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0,547
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:0,548
 http://99.27.51.147:8080/EuroSport/index.m3u8
+#EXTINF:0,545
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:0,546
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:0,547
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3653
+#EXTINF:0,548
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3655
 #EXTINF:0,549
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3657
 #EXTINF:0,550
-https://catchup.acdsolutions.it/jstag/videoplayerLiveFluid/TV?ch=0
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3696
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1301,11 +1306,11 @@ http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="BG",BNT1 BG
 http://185.97.73.187:11000/play/bnt1/index.m3u8
 #EXTINF:-1 group-title="PL",TVP1 PL
-http://91.246.72.88:8000/play/a00k/index.m3u8
+http://91.146.94.234:10001/play/a0c2
 #EXTINF:-1 group-title="PL",TVP2 PL
-http://91.246.72.88:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="PL",TVP3 Rzeszow
-http://91.246.72.88:8000/play/a00m/index.m3u8
+http://91.146.94.234:10001/play/a09f
+#EXTINF:-1 group-title="PL",TVP Sport
+http://91.146.94.234:10001/play/a07f
 #EXTINF:-1 group-title="PL",Eska TV
 http://91.246.72.88:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="AM",ARM TV1
