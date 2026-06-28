@@ -232,7 +232,7 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",TV Koper
-http://92.36.202.5:10001/play/a05q
+https://lb.dstvmultimedia.com/TVKoper/mpegts
 #EXTINF:-1 group-title="Rai",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -692,19 +692,19 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a046
+http://85.11.189.178:8080/BNT1HD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 2 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
 #EXTINF:0 group-title="BG",BNT 3 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a03x
+http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
 #EXTINF:0 group-title="BG",bTV BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a03w
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2 HR
