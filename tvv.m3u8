@@ -100,7 +100,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",K2
-https://alwaysdata-api.zappr.stream/k2.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3681
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -108,6 +109,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3682
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
@@ -1124,7 +1126,7 @@ http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
-http://91.146.94.234:10001/play/a05n
+http://91.146.94.234:10001/play/a05o
 #EXTINF:0,541
 http://193.25.8.59:8000/fut
 #EXTINF:0,542
@@ -1184,7 +1186,7 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-https://alpha.tv.online.tm/hls/ch004.m3u8
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,571
 http://45.84.187.172:3001/udp/239.100.100.2:5000
 #EXTINF:0,572
