@@ -1315,6 +1315,10 @@ http://89.44.231.117:7000/tvr2
 http://116.202.113.254:8888/tvr3
 #EXTINF:-1 group-title="RO",PRO TV
 http://89.44.231.117:7000/protvhd
+#EXTINF:-1 group-title="RO",Antena1 RO
+http://89.44.231.117:7000/antena1
+#EXTINF:-1 group-title="RO",Antena3 RO
+http://89.44.231.117:7000/antena3
 #EXTINF:0 group-title="AM",ARM TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1347,13 +1351,9 @@ http://185.207.34.31:8000/play/21122/index.m3u8
 http://185.207.34.31:8000/play/21025/index.m3u8
 #EXTINF:0 group-title="BE",VRT Canvas
 http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:0 group-title="IL",9TV ISR
-https://contact.gostreaming.tv/Con-11/playlist.m3u8
-#EXTINF:0 group-title="IL",CH13 ISR
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:0 group-title="IL",CH14 ISR
-https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN ISR
+#EXTINF:0 group-title="IL",KAN 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 group-title="IL",MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
