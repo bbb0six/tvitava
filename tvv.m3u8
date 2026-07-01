@@ -257,8 +257,9 @@ http://91.146.94.234:10001/play/a03q
 http://91.146.94.234:10001/play/a03b
 #EXTINF:0 group-title="IT",NOVE
 http://91.146.94.234:10001/play/a09q
-#EXTINF:0 group-title="IT",CIELO
-http://91.146.94.234:10001/play/a04w
+#EXTINF:0 group-title="-",_
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b3/b3-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -511,19 +512,19 @@ http://45.153.96.44:8006
 #EXTINF:0 group-title="UK",ITV 2
 http://45.153.96.44:8007
 #EXTINF:0 group-title="UK",ITV 3
-http://45.153.96.44:8008
+http://81.137.213.119:4201/bysid/8294
 #EXTINF:0 group-title="UK",ITV 4
 http://45.153.96.44:8009
 #EXTINF:0 group-title="UK",Channel 4
-http://109.61.81.129:80/18/index.m3u8
+http://81.137.213.119:4201/bysid/8384
 #EXTINF:0 group-title="UK",Channel 5
-http://109.61.81.129:80/19/index.m3u8
+http://81.137.213.119:4201/bysid/8500
+#EXTINF:0 group-title="UK",FILM 4
+http://81.137.213.119:4201/bysid/8385
 #EXTINF:0 group-title="UK",MORE 4
-http://109.61.81.129:80/26/index.m3u8
+http://81.137.213.119:4201/bysid/8442
 #EXTINF:0 group-title="UK",5 USA
 http://109.61.81.129:80/27/index.m3u8
-#EXTINF:0 group-title="UK",5 STAR
-http://109.61.81.129:80/28/index.m3u8
 #EXTINF:0 group-title="UK",BBC ONE
 http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
@@ -719,34 +720,34 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:-1 group-title="PL",TVP1 PL
+#EXTINF:0 group-title="PL",TVP 1 PL
 http://91.146.94.234:10001/play/a0c2
-#EXTINF:-1 group-title="PL",TVP2 PL
+#EXTINF:0 group-title="PL",TVP 2 PL
 http://91.146.94.234:10001/play/a09f
-#EXTINF:0 group-title="HR",CMC HR
-https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="BG",Diema BG
 http://213.91.179.28:8000/play/a045
+#EXTINF:-1 group-title="RO",PRO TV
+http://89.44.231.117:7000/protv
+#EXTINF:-1 group-title="RO",TVR 1
+http://89.44.231.117:7000/tvr1
+#EXTINF:-1 group-title="RO",TVR 2
+http://89.44.231.117:7000/tvr2
+#EXTINF:-1 group-title="RO",TVR 3
+http://116.202.113.254:8888/tvr3
+#EXTINF:-1 group-title="RO",Antena1 RO
+http://89.44.231.117:7000/antena1
+#EXTINF:-1 group-title="RO",Antena3 RO
+http://89.44.231.117:7000/antena3
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
-#EXTINF:0 group-title="NL",PLAY NL
-http://185.207.34.31:8000/play/7057/index.m3u8
 #EXTINF:0 group-title="NL",NPO 3 NL
 http://185.207.34.31:8000/play/21040/index.m3u8
-#EXTINF:0 group-title="NL",RTL 4 NL
-http://193.239.187.97/RTL4/index.m3u8
-#EXTINF:0 group-title="NL",RTL 5 NL
-http://193.239.186.231/RTL5/index.m3u8
-#EXTINF:0 group-title="NL",SBS 6 NL
-http://193.239.187.97/SBS6/index.m3u8
-#EXTINF:0 group-title="NL",RTL 7 NL
-http://193.239.187.97/RTL7/index.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL 2 LU
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 #EXTINF:0 group-title="LU",RTL Gold
-https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 2
@@ -879,10 +880,10 @@ http://202.169.224.202:8800/udp/239.6.3.5:1234
 http://202.169.224.202:8800/udp/239.6.1.3:1234
 #EXTINF:-1 group-title="World",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
-#EXTINF:-1 group-title="World",BBC One UK
-http://41.205.93.154/BBCONE/mpegts
+#EXTINF:0 group-title="World",Vatican Media
+http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:-1 group-title="World",MTV Live
-http://41.205.93.154/MTVLIVE/mpegts
+http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="World",CCTV 1
 http://198.204.240.250:82/live/cctv1.m3u8
 #EXTINF:-1 group-title="Rai",Rai World Premium
@@ -1353,8 +1354,8 @@ http://185.207.34.31:8000/play/21025/index.m3u8
 http://185.207.34.31:8000/play/21030/index.m3u8
 #EXTINF:0 group-title="IL",KAN 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",MAKAN
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Music",CMC HR
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge Hits
@@ -1450,21 +1451,21 @@ http://91.146.94.234:10001/play/a131
 #EXTINF:0,701
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,702
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:0,703
-http://cdn1.ayitistream.com/MSNBC/index.m3u8
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,704
 http://cdn1.ayitistream.com/LIFETIME/index.m3u8
 #EXTINF:0,705
-http://151.80.18.177:86/M6_HD/index.m3u8
+http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0,706
 http://cdn1.ayitistream.com/M6-HD/index.m3u8
 #EXTINF:0,707
-http://81.137.213.119:4202/bysid/17536
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0,708
-http://81.137.213.119:4202/bysid/17472
+http://81.137.213.119:4202/bysid/17536
 #EXTINF:0,709
-http://116.202.113.254:8888/tvr3
+http://81.137.213.119:4202/bysid/17472
 #EXTINF:0,710
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,711
@@ -1566,7 +1567,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0,759
 https://lb.dstvmultimedia.com/RTSUN/mpegts
 #EXTINF:0,760
-https://lb.dstvmultimedia.com/TVKoper/mpegts
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
