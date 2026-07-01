@@ -101,7 +101,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",K2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3681
+https://api.zappr.stream/k2.mpd
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -110,7 +110,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:-1 group-title="WBD IT",Frisbee
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3682
+https://api.zappr.stream/frisbee.mpd
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -498,34 +498,34 @@ http://145.239.5.177/329/mpegts
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
-#EXTINF:0 group-title="UK",BBC ONE
-http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:0 group-title="UK",BBC TWO
-http://193.239.187.97/BBC2/index.m3u8
+#EXTINF:0 group-title="UK",BBC 1
+http://45.153.96.44:8001
+#EXTINF:0 group-title="UK",BBC 2
+http://45.153.96.44:8002
+#EXTINF:0 group-title="UK",BBC 3
+http://45.153.96.44:8005
+#EXTINF:0 group-title="UK",BBC 4
+http://45.153.96.44:8004
 #EXTINF:0 group-title="UK",ITV 1
-http://109.61.81.129:80/17/index.m3u8
+http://45.153.96.44:8006
+#EXTINF:0 group-title="UK",ITV 2
+http://45.153.96.44:8007
+#EXTINF:0 group-title="UK",ITV 3
+http://45.153.96.44:8008
+#EXTINF:0 group-title="UK",ITV 4
+http://45.153.96.44:8009
 #EXTINF:0 group-title="UK",Channel 4
 http://109.61.81.129:80/18/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
 http://109.61.81.129:80/19/index.m3u8
-#EXTINF:0 group-title="UK",BBC FOUR
-http://109.61.81.129:80/21/index.m3u8
-#EXTINF:0 group-title="UK",ITV 2
-http://109.61.81.129:80/22/index.m3u8
-#EXTINF:0 group-title="UK",ITV 3
-http://109.61.81.129:80/23/index.m3u8
-#EXTINF:0 group-title="UK",ITV 4
-http://109.61.81.129:80/24/index.m3u8
-#EXTINF:0 group-title="UK",E4
-http://109.61.81.129:80/25/index.m3u8
 #EXTINF:0 group-title="UK",MORE 4
 http://109.61.81.129:80/26/index.m3u8
 #EXTINF:0 group-title="UK",5 USA
 http://109.61.81.129:80/27/index.m3u8
 #EXTINF:0 group-title="UK",5 STAR
 http://109.61.81.129:80/28/index.m3u8
-#EXTINF:0 group-title="UK",SKY MIX
-http://109.61.81.129:80/33/index.m3u8
+#EXTINF:0 group-title="UK",BBC ONE
+http://193.239.186.231/BBC1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -728,11 +728,11 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="BG",Diema BG
 http://213.91.179.28:8000/play/a045
 #EXTINF:0 group-title="NL",NPO 1 NL
-http://193.239.186.231/NPO1/index.m3u8
-#EXTINF:0 group-title="NL",NPO 2 NL
-http://193.239.187.97/NPO2/index.m3u8
+http://185.207.34.31:8000/play/21029/index.m3u8
+#EXTINF:0 group-title="NL",PLAY NL
+http://185.207.34.31:8000/play/7057/index.m3u8
 #EXTINF:0 group-title="NL",NPO 3 NL
-http://193.239.186.231/NPO3/index.m3u8
+http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:0 group-title="NL",RTL 4 NL
 http://193.239.187.97/RTL4/index.m3u8
 #EXTINF:0 group-title="NL",RTL 5 NL
