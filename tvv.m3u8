@@ -720,24 +720,24 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:0 group-title="PL",TVP 1 PL
-http://91.146.94.234:10001/play/a0c2
-#EXTINF:0 group-title="PL",TVP 2 PL
-http://91.146.94.234:10001/play/a09f
-#EXTINF:0 group-title="BG",Diema BG
-http://213.91.179.28:8000/play/a045
-#EXTINF:-1 group-title="RO",PRO TV
-http://89.44.231.117:7000/protv
-#EXTINF:-1 group-title="RO",TVR 1
+#EXTINF:-1 group-title="RO",TVR 1 RO
 http://89.44.231.117:7000/tvr1
-#EXTINF:-1 group-title="RO",TVR 2
+#EXTINF:-1 group-title="RO",TVR 2 RO
 http://89.44.231.117:7000/tvr2
-#EXTINF:-1 group-title="RO",TVR 3
+#EXTINF:-1 group-title="RO",TVR 3 RO
 http://116.202.113.254:8888/tvr3
+#EXTINF:-1 group-title="RO",ProTV RO
+http://89.44.231.117:7000/protv
 #EXTINF:-1 group-title="RO",Antena1 RO
 http://89.44.231.117:7000/antena1
 #EXTINF:-1 group-title="RO",Antena3 RO
 http://89.44.231.117:7000/antena3
+#EXTINF:-1 group-title="RO",PrimaTV RO
+http://89.44.231.117:7000/primatv
+#EXTINF:0 group-title="PL",TVP 1 PL
+http://91.146.94.234:10001/play/a0c2
+#EXTINF:0 group-title="PL",TVP 2 PL
+http://91.146.94.234:10001/play/a09f
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 3 NL
@@ -1141,9 +1141,9 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,546
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:0,547
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3653
+http://89.44.231.73:7000/eurosport
 #EXTINF:0,548
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3655
+http://89.44.231.73:7000/eurosport2
 #EXTINF:0,549
 http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3657
 #EXTINF:0,550
@@ -1308,18 +1308,6 @@ http://88.212.15.19/live/m2_hun/index.m3u8
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="BG",BNT1 BG
 http://185.97.73.187:11000/play/bnt1/index.m3u8
-#EXTINF:-1 group-title="RO",TVR 1
-http://89.44.231.117:7000/tvr1
-#EXTINF:-1 group-title="RO",TVR 2
-http://89.44.231.117:7000/tvr2
-#EXTINF:-1 group-title="RO",TVR 3
-http://116.202.113.254:8888/tvr3
-#EXTINF:-1 group-title="RO",PRO TV
-http://89.44.231.117:7000/protvhd
-#EXTINF:-1 group-title="RO",Antena1 RO
-http://89.44.231.117:7000/antena1
-#EXTINF:-1 group-title="RO",Antena3 RO
-http://89.44.231.117:7000/antena3
 #EXTINF:0 group-title="AM",ARM TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1350,9 +1338,21 @@ http://185.207.34.31:8000/play/21120/index.m3u8
 http://185.207.34.31:8000/play/21122/index.m3u8
 #EXTINF:0 group-title="BE",VRT 1
 http://185.207.34.31:8000/play/21025/index.m3u8
-#EXTINF:0 group-title="BE",VRT Canvas
+#EXTINF:0,646
 http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:0 group-title="IL",KAN 11
+#EXTINF:0,647
+http://89.44.231.117:7000/tvr1
+#EXTINF:0,648
+http://89.44.231.117:7000/tvr2
+#EXTINF:0,649
+http://116.202.113.254:8888/tvr3
+#EXTINF:0,650
+http://89.44.231.117:7000/protvhd
+#EXTINF:0,651
+http://89.44.231.117:7000/tvr1hd
+#EXTINF:0,652
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0,653
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
