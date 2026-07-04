@@ -369,8 +369,8 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 group-title="Vari",Gold TV
-https://streaming.softwarecreation.it/GoldTv/GoldTv/master.m3u8
+#EXTINF:0 group-title="CH",RTS UN
+https://rts1.zappr.stream/index.m3u8
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="CH",SRF 1
@@ -414,9 +414,9 @@ http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
 http://143.244.62.109:80/tele5/index.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-http://46.150.204.76:4022/udp/239.1.77.107:1234
+http://91.21.235.40:9981/tv/stream/channelid/1008679011?profile=pass
 #EXTINF:0 group-title="DE",ZDF neo
-http://46.150.204.76:4022/udp/239.1.77.108:1234
+http://91.21.235.40:9981/tv/stream/channelid/690045358?profile=pass
 #EXTINF:0 group-title="DE",KIKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
