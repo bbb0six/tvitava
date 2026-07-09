@@ -21,7 +21,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
 #EXTINF:0 group-title="Sky IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
+https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 group-title="WBD IT",NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
@@ -257,9 +257,9 @@ http://91.146.94.234:10001/play/a03q
 http://91.146.94.234:10001/play/a03b
 #EXTINF:0 group-title="IT",NOVE
 http://91.146.94.234:10001/play/a09q
-#EXTINF:0 group-title="-",_
+#EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b3/b3-clr.isml/manifest_hr.mpd
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1657,8 +1657,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"117d07fd98cc46ef8e09936d0d37c506":"b9528cb3f23eaad789f0f33bf6b01868","166b2f0d56fb32d9b46d4b1ca1b5bf16":"d78ee5c91eb3b9b6d37414a4f789bc9b"}
 #EXTINF:-1 group-title="test",797
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#EXTVLCOPT:http-referrer=https://zappr.stream/
-https://zappr.stream/clearkey/?url=https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"09af5f6eb89041ca8f5d164165142e86":"1989cc9c9ce5b2b52cb93edaaefe8420","d268d810d8a73bd8b7d54a6a087581d2":"1aaf297543168c625e05aa9e27344471"}
+https://live03-col.msf.cdn.mediaset.net/live/ch-rn/rn-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="test",798
 http://91.146.94.234:10001/play/a06h
 #EXTINF:-1 group-title="test",799
