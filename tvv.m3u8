@@ -379,7 +379,7 @@ http://91.146.94.234:10001/play/a0fh
 #EXTINF:0 group-title="CH",SRF INFO
 http://91.146.94.234:10001/play/a08m
 #EXTINF:0 group-title="AT",ORF 1
-http://88.212.7.14/live/test_orf_eins_tizen/playlist.m3u8
+https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
