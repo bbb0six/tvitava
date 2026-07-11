@@ -233,9 +233,11 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="MDS",Radio Norba
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-u4/u4-clr.isml/manifest.mpd
+#EXTINF:0 group-title="MDS",test ch 98
+#EXTVLCOPT:http-origin=https://mediasetinfinity.mediaset.it
+#EXTVLCOPT:http-referrer=https://mediasetinfinity.mediaset.it/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+https://live03p-col.msr.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="Rai",Rai 4K
