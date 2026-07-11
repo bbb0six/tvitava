@@ -33,7 +33,7 @@ http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Videolina
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(whNQH93A6p5I8vI58Wb4x24PAr4xAyGuFa8pFR4RE2SMPJKx0fc5vYzTw_-TDHY_8-CJ8RqNGE6c1LqZfhnTz-hDkq0jgwqPlFk3Ay1rudzgKRMZxSi0aHvENr-7whQn)/cloud/3/xa0aoxk/d/live-480.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
