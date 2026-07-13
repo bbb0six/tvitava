@@ -493,40 +493,40 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="FR",M6 Music FR
+http://145.239.5.177/320/mpegts
+#EXTINF:0 group-title="FR",AB1
+http://145.239.5.177/332/mpegts
 #EXTINF:0 group-title="FR",RTBF La Une
 http://145.239.5.177/329/mpegts
 #EXTINF:0 group-title="FR",RTL 9
 http://145.239.5.177/308/mpegts
-#EXTINF:0 group-title="FR",M6 Music FR
-http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="UK",BBC 1
-http://45.153.96.44:8001
-#EXTINF:0 group-title="UK",BBC 2
-http://45.153.96.44:8002
-#EXTINF:0 group-title="UK",BBC 3
-http://45.153.96.44:8005
-#EXTINF:0 group-title="UK",BBC 4
-http://45.153.96.44:8004
-#EXTINF:0 group-title="UK",ITV 1
-http://45.153.96.44:8006
-#EXTINF:0 group-title="UK",ITV 2
-http://45.153.96.44:8007
-#EXTINF:0 group-title="UK",ITV 3
-http://81.137.213.119:4201/bysid/8294
-#EXTINF:0 group-title="UK",ITV 4
-http://45.153.96.44:8009
-#EXTINF:0 group-title="UK",Channel 4
-http://81.137.213.119:4201/bysid/8384
-#EXTINF:0 group-title="UK",Channel 5
-http://81.137.213.119:4201/bysid/8500
-#EXTINF:0 group-title="UK",FILM 4
-http://81.137.213.119:4201/bysid/8385
-#EXTINF:0 group-title="UK",MORE 4
-http://81.137.213.119:4201/bysid/8442
-#EXTINF:0 group-title="UK",5 USA
-http://109.61.81.129:80/27/index.m3u8
-#EXTINF:0 group-title="UK",BBC ONE
 http://193.239.186.231/BBC1/index.m3u8
+#EXTINF:0 group-title="UK",BBC ONE
+http://82.68.56.43:9981/stream/channelid/991521084?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",BBC TWO
+http://82.68.56.43:9981/stream/channelid/1255004217?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",BBC 3
+http://82.68.56.43:9981/stream/channelid/696097480?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",BBC 4
+http://82.68.56.43:9981/stream/channelid/1388155388?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",ITV 1
+http://82.68.56.43:9981/stream/channelid/1524788546?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",ITV 2
+http://82.68.56.43:9981/stream/channelid/1207907172?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",ITV 3
+http://82.68.56.43:9981/stream/channelid/1380920585?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",ITV 4
+http://82.68.56.43:9981/stream/channelid/1770634429?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",Channel 4
+http://82.68.56.43:9981/stream/channelid/1452318392?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",Channel 5
+http://82.68.56.43:9981/stream/channelid/493611590?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",FILM 4
+http://82.68.56.43:9981/stream/channelid/809213068?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",MORE 4
+http://82.68.56.43:9981/stream/channelid/1866934835?profile=webtv-vp8-vorbis-webm
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -884,8 +884,8 @@ http://202.169.224.202:8800/udp/239.6.2.1:1234
 http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:-1 group-title="World",MTV Live
 http://40.160.24.53/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="World",CCTV 1
-http://198.204.240.250:82/live/cctv1.m3u8
+#EXTINF:-1 group-title="World",MTV Classic
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 group-title="Rai",Rai Italia US
@@ -1565,7 +1565,7 @@ http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0,758
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0,759
-https://lb.dstvmultimedia.com/RTSUN/mpegts
+https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
 #EXTINF:0,760
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0,761
