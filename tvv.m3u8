@@ -32,12 +32,12 @@ http://91.146.94.234:10001/play/a0jn
 http://91.146.94.234:10001/play/a0jo
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
-#EXTINF:0 group-title="Regionali",Videolina
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(whNQH93A6p5I8vI58Wb4x24PAr4xAyGuFa8pFR4RE2SMPJKx0fc5vYzTw_-TDHY_8-CJ8RqNGE6c1LqZfhnTz-hDkq0jgwqPlFk3Ay1rudzgKRMZxSi0aHvENr-7whQn)/cloud/3/xa0aoxk/d/live-480.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
+#EXTINF:0 group-title="Regionali",Top Calcio 24
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
 #EXTINF:-1 group-title="Regionali",A3 Veneto
@@ -233,11 +233,8 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="MDS",test ch 98
-#EXTVLCOPT:http-origin=https://mediasetinfinity.mediaset.it
-#EXTVLCOPT:http-referrer=https://mediasetinfinity.mediaset.it/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
-https://live03p-col.msr.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest_hr.mpd
+#EXTINF:0 group-title="Vari",Automoto
+https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -321,7 +318,7 @@ https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0 group-title="Regionali",Primantenna
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
-https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/master.m3u8
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleSardegna
 https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
 #EXTINF:0 group-title="Regionali",LaC Tv
@@ -385,7 +382,7 @@ https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
-https://lb.dstvmultimedia.com/ServusTV/mpegts
+http://213.47.175.190:9981/stream/channelid/2140495578?profile=pass
 #EXTINF:0 group-title="DE",Das Erste
 http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -415,7 +412,7 @@ http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
-http://143.244.62.109:80/tele5/index.m3u8
+http://213.47.175.190:9981/stream/channelid/594342400?profile=pass
 #EXTINF:0 group-title="DE",ZDF info
 http://91.21.235.40:9981/tv/stream/channelid/1008679011?profile=pass
 #EXTINF:0 group-title="DE",ZDF neo
@@ -447,35 +444,35 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
-http://84.17.50.102/tf1/index.m3u8
+http://176.148.194.209:9981/stream/channelid/512712551?profile=pass
 #EXTINF:0 group-title="FR",France 2
-http://84.17.50.102/france2/index.m3u8
+http://176.148.194.209:9981/stream/channelid/776552510?profile=pass
 #EXTINF:0 group-title="FR",France 3
-http://84.17.50.102/france3/index.m3u8
+http://176.148.194.209:9981/stream/channelid/1496002018?profile=pass
 #EXTINF:0 group-title="FR",France 4
-http://84.17.50.102/france4/index.m3u8
+http://176.148.194.209:9981/stream/channelid/1620373792?profile=pass
 #EXTINF:0 group-title="FR",France 5
-http://84.17.50.102/france5/index.m3u8
+http://176.148.194.209:9981/stream/channelid/407988088?profile=pass
 #EXTINF:0 group-title="FR",M6
-http://84.17.50.102/m6/index.m3u8
+http://176.148.194.209:9981/stream/channelid/1665704376?profile=pass
 #EXTINF:0 group-title="FR",Arte FR
-http://84.17.50.102/arte/index.m3u8
+http://176.148.194.209:9981/stream/channelid/729301925?profile=pass
 #EXTINF:0 group-title="FR",LCP
-http://176.65.146.100:8047/play/a07h/index.m3u8
+http://176.148.194.209:9981/stream/channelid/734128771?profile=pass
 #EXTINF:0 group-title="FR",W9
-http://84.17.50.102/w9/index.m3u8
+http://176.148.194.209:9981/stream/channelid/1941986618?profile=pass
 #EXTINF:0 group-title="FR",TMC
-http://84.17.50.102/tmc/index.m3u8
+http://176.148.194.209:9981/stream/channelid/1057687432?profile=pass
 #EXTINF:0 group-title="FR",TFX
-http://176.65.146.100:8047/play/a07g/index.m3u8
-#EXTINF:0 group-title="FR",AB1
-http://145.239.5.177/332/mpegts
+http://176.148.194.209:9981/stream/channelid/359563772?profile=pass
+#EXTINF:0 group-title="FR",Gulli
+http://176.148.194.209:9981/stream/channelid/198641718?profile=pass
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://84.17.50.102/lci/index.m3u8
+http://176.148.194.209:9981/stream/channelid/693688777?profile=pass
 #EXTINF:0 group-title="FR",franceinfo
 http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
@@ -483,13 +480,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:0 group-title="FR",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
 #EXTINF:0 group-title="FR",NOVO19
-http://173.229.4.239:5004/auto/v19
+http://176.148.194.209:9981/stream/channelid/133124560?profile=pass
 #EXTINF:0 group-title="FR",TF1 Series Film
 http://41.205.93.154/TF1SERIESFILMS/index.m3u8
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-http://84.17.50.102/6ter/index.m3u8
+http://176.148.194.209:9981/stream/channelid/564861123?profile=pass
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -724,11 +721,11 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:-1 group-title="RO",TVR 1 RO
-http://89.44.231.117:7000/tvr1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",TVR 2 RO
-http://89.44.231.117:7000/tvr2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",TVR 3 RO
-http://116.202.113.254:8888/tvr3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",ProTV RO
 http://89.44.231.117:7000/protv
 #EXTINF:-1 group-title="RO",Antena1 RO
@@ -1659,8 +1656,7 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTVLCOPT:http-referrer=https://zappr.stream/
 https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"117d07fd98cc46ef8e09936d0d37c506":"b9528cb3f23eaad789f0f33bf6b01868","166b2f0d56fb32d9b46d4b1ca1b5bf16":"d78ee5c91eb3b9b6d37414a4f789bc9b"}
 #EXTINF:-1 group-title="test",797
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-rn/rn-clr.isml/manifest_hr.mpd
+https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:-1 group-title="test",798
 http://91.146.94.234:10001/play/a06h
 #EXTINF:-1 group-title="test",799
