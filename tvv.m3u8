@@ -217,13 +217,13 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 group-title="RDS",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 group-title="Music",Music Box Hits
+#EXTINF:0 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
-#EXTINF:-1 group-title="Music",Music Box Dance
+#EXTINF:0 group-title="Music",Music Box Dance
 http://88.212.7.14/live/mb_dance/index.m3u8
-#EXTINF:-1 group-title="Music",Music Box Classic
+#EXTINF:0 group-title="Music",Music Box Classic
 http://88.212.7.14/live/mb_classic/index.m3u8
-#EXTINF:-1 group-title="Music",Music Box Sexy
+#EXTINF:0 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:0 group-title="News",BBC News
 http://88.212.7.14/live/test_bbc_world/playlist.m3u8
@@ -235,8 +235,8 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Automoto
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
-#EXTINF:-1 group-title="Rai",Rai Italia
-http://181.78.192.238:8000/play/a2hd
+#EXTINF:0 group-title="Music",MTV Live USA
+http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1
@@ -880,8 +880,8 @@ http://202.169.224.202:8800/udp/239.6.3.5:1234
 http://202.169.224.202:8800/udp/239.6.1.3:1234
 #EXTINF:-1 group-title="World",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
-#EXTINF:0 group-title="World",Vatican Media
-http://202.169.224.202:8800/udp/239.6.3.4:1234
+#EXTINF:0 group-title="World",Rai Italia
+http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="World",MTV Live
 http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="World",MTV Classic
@@ -973,7 +973,7 @@ http://40.160.24.53/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
 http://40.160.24.53/MTV2/index.m3u8
 #EXTINF:0 group-title="USA",MTV U
-http://41.205.70.146/MTVFRANCE/index.m3u8
+http://206.212.244.63/119/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
 http://206.212.244.63/118/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
