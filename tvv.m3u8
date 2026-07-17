@@ -444,27 +444,27 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
-http://176.148.194.209:9981/stream/channelid/512712551?profile=pass
+http://176.65.146.100:8047/play/a07d/index.m3u8
 #EXTINF:0 group-title="FR",France 2
-http://176.148.194.209:9981/stream/channelid/776552510?profile=pass
+http://41.205.93.154/FRANCE2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
-http://176.148.194.209:9981/stream/channelid/1496002018?profile=pass
+http://41.205.93.154/FRANCE3/index.m3u8
 #EXTINF:0 group-title="FR",France 4
-http://176.148.194.209:9981/stream/channelid/1620373792?profile=pass
+http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:0 group-title="FR",France 5
-http://176.148.194.209:9981/stream/channelid/407988088?profile=pass
+http://176.65.146.100:8047/play/a07a/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://176.148.194.209:9981/stream/channelid/1665704376?profile=pass
+http://176.65.146.100:8047/play/a077/index.m3u8
 #EXTINF:0 group-title="FR",Arte FR
-http://176.148.194.209:9981/stream/channelid/729301925?profile=pass
+http://176.65.146.100:8047/play/a079/index.m3u8
 #EXTINF:0 group-title="FR",LCP
-http://176.148.194.209:9981/stream/channelid/734128771?profile=pass
+http://176.65.146.100:8047/play/a07h/index.m3u8
 #EXTINF:0 group-title="FR",W9
-http://176.148.194.209:9981/stream/channelid/1941986618?profile=pass
+http://176.65.146.100:8047/play/a078/index.m3u8
 #EXTINF:0 group-title="FR",TMC
-http://176.148.194.209:9981/stream/channelid/1057687432?profile=pass
+http://176.65.146.100:8047/play/a07f/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-http://176.148.194.209:9981/stream/channelid/359563772?profile=pass
+http://176.65.146.100:8047/play/a07g/index.m3u8
 #EXTINF:0 group-title="FR",Gulli
 http://176.148.194.209:9981/stream/channelid/198641718?profile=pass
 #EXTINF:0 group-title="FR",BFM TV
