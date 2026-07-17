@@ -1068,19 +1068,19 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
-#EXTINF:0 group-title="s",maxsport 1
-http://77.46.130.252:99/maxsport1
-#EXTINF:0 group-title="s",maxsport 2
-http://77.46.130.252:99/maxsport2
-#EXTINF:0 group-title="s",maxsport 3
-http://77.46.130.252:99/maxsport3
-#EXTINF:0 group-title="s",maxsport 4
-http://77.46.130.252:99/maxsport4
-#EXTINF:0 group-title="s",diema sport 1
-http://77.46.130.252:99/diema1
-#EXTINF:0 group-title="s",diema sport 2
-http://77.46.130.252:99/diema2
-#EXTINF:0 group-title="s",diema sport 3
+#EXTINF:0 group-title="s",511
+http://vdin.latamvivohd.info:80/espn/index.m3u8
+#EXTINF:0 group-title="s",512
+http://vdin.latamvivohd.info:80/espn2/index.m3u8
+#EXTINF:0 group-title="s",513
+http://vdin.latamvivohd.info:80/espn3/index.m3u8
+#EXTINF:0 group-title="s",514
+http://vdin.latamvivohd.info:80/espn4/index.m3u8
+#EXTINF:0 group-title="s",515
+http://vdin.latamvivohd.info:80/espn5/index.m3u8
+#EXTINF:0 group-title="s",516
+http://vdin.latamvivohd.info:80/espnpremium/index.m3u8
+#EXTINF:0 group-title="s",517
 http://77.46.130.252:99/diema3
 #EXTINF:0,518
 http://213.91.179.28:8000/play/a04a
@@ -1288,20 +1288,20 @@ http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1 SK
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:0 group-title="RS",RTS1 RS
-http://143.244.62.109:80/rts1/index.m3u8
-#EXTINF:0 group-title="RS",RTS2 RS
-http://143.244.62.109:80/rts2/index.m3u8
-#EXTINF:0 group-title="RS",RTS3 RS
-http://143.244.62.109:80/rts3/index.m3u8
-#EXTINF:0 group-title="RS",Pink RS
-http://143.244.62.109:80/pink/index.m3u8
-#EXTINF:0 group-title="RS",Prva RS
-http://143.244.62.109:80/prva/index.m3u8
-#EXTINF:0 group-title="RS",Happy RS
-http://143.244.62.109:80/happy/index.m3u8
-#EXTINF:0 group-title="RS",B92 RS
-http://143.244.62.109:80/b92/index.m3u8
+#EXTINF:-1 group-title="-",621
+http://45.82.88.87:15153/udp/237.40.1.4:5000
+#EXTINF:-1 group-title="-",622
+https://budapest-cache-1.antik.sk/stream/hisi_m1/playlist_cbcs.mpd
+#EXTINF:-1 group-title="-",623
+https://budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
+#EXTINF:-1 group-title="-",624
+https://budapest-cache-1.antik.sk/stream/hisi_duna/playlist_cbcs.mpd
+#EXTINF:-1 group-title="-",625
+https://budapest-cache-1.antik.sk/stream/hisi_duna_world/playlist_cbcs.mpd
+#EXTINF:-1 group-title="-",626
+https://budapest-cache-1.antik.sk/stream/hisi_tv2/playlist_cbcs.mpd
+#EXTINF:0 group-title="-",627
+http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
