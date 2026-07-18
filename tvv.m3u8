@@ -414,9 +414,9 @@ http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
 http://213.47.175.190:9981/stream/channelid/594342400?profile=pass
 #EXTINF:0 group-title="DE",ZDF info
-http://91.21.235.40:9981/tv/stream/channelid/1008679011?profile=pass
+http://213.47.175.190:9981/stream/channelid/495923061?profile=pass
 #EXTINF:0 group-title="DE",ZDF neo
-http://91.21.235.40:9981/tv/stream/channelid/690045358?profile=pass
+http://213.47.175.190:9981/stream/channelid/84188517?profile=pass
 #EXTINF:0 group-title="DE",KIKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
@@ -978,7 +978,7 @@ http://206.212.244.63/119/index.m3u8
 http://206.212.244.63/118/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 http://206.212.244.63/117/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO West
+#EXTINF:0 group-title="USA",NAT GEO
 http://206.212.244.63/122/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
 http://206.212.244.63/123/index.m3u8
@@ -1069,21 +1069,21 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 #EXTINF:0 group-title="s",511
-http://vdin.latamvivohd.info:80/espn/index.m3u8
+http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",512
-http://vdin.latamvivohd.info:80/espn2/index.m3u8
+http://stream.mcquack.net/142/index.m3u8
 #EXTINF:0 group-title="s",513
-http://vdin.latamvivohd.info:80/espn3/index.m3u8
+http://stream.mcquack.net/185/index.m3u8
 #EXTINF:0 group-title="s",514
-http://vdin.latamvivohd.info:80/espn4/index.m3u8
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:0 group-title="s",515
-http://vdin.latamvivohd.info:80/espn5/index.m3u8
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:0 group-title="s",516
-http://vdin.latamvivohd.info:80/espnpremium/index.m3u8
+http://stream.mcquack.net/313/index.m3u8
 #EXTINF:0 group-title="s",517
-http://77.46.130.252:99/diema3
+http://stream.mcquack.net/390/index.m3u8
 #EXTINF:0,518
-http://213.91.179.28:8000/play/a04a
+http://vdin.latamvivohd.info:80/espn/index.m3u8
 #EXTINF:0,519
 http://45.71.202.124:8000/play/a001
 #EXTINF:0,520
@@ -1145,7 +1145,7 @@ http://89.44.231.73:7000/eurosport
 #EXTINF:0,548
 http://89.44.231.73:7000/eurosport2
 #EXTINF:0,549
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3657
+https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0,550
 http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3696
 #EXTINF:0,551
@@ -1288,18 +1288,18 @@ http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1 SK
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 group-title="-",621
-http://45.82.88.87:15153/udp/237.40.1.4:5000
-#EXTINF:-1 group-title="-",622
-https://budapest-cache-1.antik.sk/stream/hisi_m1/playlist_cbcs.mpd
-#EXTINF:-1 group-title="-",623
-https://budapest-cache-1.antik.sk/stream/m4_sport_hun/playlist_cbcs.mpd
-#EXTINF:-1 group-title="-",624
-https://budapest-cache-1.antik.sk/stream/hisi_duna/playlist_cbcs.mpd
+#EXTINF:-1 group-title="UA",UA: Pershyi HD
+http://stream.mcquack.net/437/index.m3u8
+#EXTINF:-1 group-title="UA",UA: Kultura HD
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 group-title="UA",UA: Kyiv HD
+http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1 group-title="UA",UA: 2+2
+http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="-",625
 https://budapest-cache-1.antik.sk/stream/hisi_duna_world/playlist_cbcs.mpd
 #EXTINF:-1 group-title="-",626
-https://budapest-cache-1.antik.sk/stream/hisi_tv2/playlist_cbcs.mpd
+http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0 group-title="-",627
 http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 group-title="HU",M2 HU
