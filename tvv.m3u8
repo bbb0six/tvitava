@@ -1049,7 +1049,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:0 group-title="USA",CNN ESPAÑOL
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 ES
-http://181.78.192.238:8000/play/a28q
+http://45.235.37.226/espnhd/index.m3u8
 #EXTINF:0 group-title="s",ESPN 2 ES
 http://138.121.15.230:9001/ESPN-2/index.m3u8
 #EXTINF:0 group-title="s",ESPN 3 ES
@@ -1147,7 +1147,7 @@ http://89.44.231.73:7000/eurosport2
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0,550
-http://salvacs.streaminc.biz:8691/605435965p3/vsFzyNp26EUS/3696
+http://181.78.192.238:8000/play/a2hd/index.m3u8
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1298,9 +1298,9 @@ http://stream.mcquack.net/439/index.m3u8
 http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="-",625
 https://budapest-cache-1.antik.sk/stream/hisi_duna_world/playlist_cbcs.mpd
-#EXTINF:-1 group-title="-",626
+#EXTINF:-1 group-title="World",RTRS INT
 http://45.82.88.87:15153/udp/237.40.1.4:5000
-#EXTINF:0 group-title="-",627
+#EXTINF:0 group-title="World",627
 http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
@@ -1380,11 +1380,11 @@ http://185.9.2.18/chid_377/index.m3u8
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="test",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="test",Deluxe Music
-http://92.116.180.193:9981/stream/channelid/256487830?profile=pass
-#EXTINF:-1 group-title="test",Deluxe Dance
+#EXTINF:-1 group-title="test",_
+http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:-1 group-title="test",_
 http://92.116.180.193:9981/stream/channelid/2129821524?profile=pass
-#EXTINF:-1 group-title="test",Deluxe Schlager
+#EXTINF:-1 group-title="test",_
 http://92.116.180.193:9981/stream/channelid/1575957472?profile=pass
 #EXTINF:-1 group-title="World",MTV India
 http://103.157.248.140:8000/play/a01p
