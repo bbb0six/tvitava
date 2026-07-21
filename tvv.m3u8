@@ -1653,13 +1653,12 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",796
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#EXTVLCOPT:http-referrer=https://zappr.stream/
-https://zappr.stream/clearkey/?url=https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage%3Dit&keys={"117d07fd98cc46ef8e09936d0d37c506":"b9528cb3f23eaad789f0f33bf6b01868","166b2f0d56fb32d9b46d4b1ca1b5bf16":"d78ee5c91eb3b9b6d37414a4f789bc9b"}
-#EXTINF:-1 group-title="test",797
 https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
-#EXTINF:-1 group-title="test",798
+#EXTINF:-1 group-title="test",797
 http://91.146.94.234:10001/play/a06h
-#EXTINF:-1 group-title="test",799
+#EXTINF:-1 group-title="test",798
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
-#EXTINF:-1 group-title="test",800
+#EXTINF:-1 group-title="test",799
 http://202.169.224.202:8800/udp/239.6.3.4:1234
+#EXTINF:-1 group-title="test",800
+https://hd-auth.skylinewebcams.com/live.m3u8?a=naocssdujvoserbj8c2djh3f12
