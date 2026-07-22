@@ -21,7 +21,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7/DASH/Live.mpd
 #EXTINF:0 group-title="Sky IT",TV8
-https://www.mytivu.it/Application/Channels/TV8.php
+https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 #EXTINF:-1 group-title="WBD IT",NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
@@ -369,8 +369,8 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 group-title="CH",RTS UN
-https://rts1.zappr.stream/index.m3u8
+#EXTINF:0 group-title="Regionali",Peer TV
+https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="CH",SRF 1
@@ -444,35 +444,35 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
-http://176.65.146.100:8047/play/a07d/index.m3u8
+http://151.80.18.177:86/TF1_HD/mpegts
 #EXTINF:0 group-title="FR",France 2
-http://41.205.93.154/FRANCE2/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:0 group-title="FR",France 3
-http://41.205.93.154/FRANCE3/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
 #EXTINF:0 group-title="FR",France 4
-http://176.65.146.100:8047/play/a074/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
 #EXTINF:0 group-title="FR",France 5
-http://176.65.146.100:8047/play/a07a/index.m3u8
+http://145.239.5.177/305/mpegts
 #EXTINF:0 group-title="FR",M6
-http://176.65.146.100:8047/play/a077/index.m3u8
+http://151.80.18.177:86/M6_HD/mpegts
 #EXTINF:0 group-title="FR",Arte FR
-http://176.65.146.100:8047/play/a079/index.m3u8
+http://151.80.18.177:86/ARTE_HD/mpegts
 #EXTINF:0 group-title="FR",LCP
 http://176.65.146.100:8047/play/a07h/index.m3u8
 #EXTINF:0 group-title="FR",W9
-http://176.65.146.100:8047/play/a078/index.m3u8
+http://151.80.18.177:86/W9_HD/mpegts
 #EXTINF:0 group-title="FR",TMC
-http://176.65.146.100:8047/play/a07f/index.m3u8
+http://151.80.18.177:86/TMC/mpegts
 #EXTINF:0 group-title="FR",TFX
 http://176.65.146.100:8047/play/a07g/index.m3u8
 #EXTINF:0 group-title="FR",Gulli
-http://176.148.194.209:9981/stream/channelid/198641718?profile=pass
+http://173.229.4.239:5004/auto/v12
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://176.148.194.209:9981/stream/channelid/693688777?profile=pass
+http://145.239.5.177/368/mpegts
 #EXTINF:0 group-title="FR",franceinfo
 http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
@@ -1296,18 +1296,18 @@ http://stream.mcquack.net/435/index.m3u8
 http://stream.mcquack.net/439/index.m3u8
 #EXTINF:-1 group-title="UA",UA: 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="-",625
-https://budapest-cache-1.antik.sk/stream/hisi_duna_world/playlist_cbcs.mpd
-#EXTINF:-1 group-title="World",RTRS INT
-http://45.82.88.87:15153/udp/237.40.1.4:5000
-#EXTINF:0 group-title="World",627
-http://103.253.18.58:8000/play/a01t
-#EXTINF:-1 group-title="HU",M2 HU
-http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="HU",M2 HU
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="BG",BNT1 BG
 http://185.97.73.187:11000/play/bnt1/index.m3u8
+#EXTINF:-1 group-title="BG",BTV BG
+http://185.97.73.187:11000/play/btvhd/index.m3u8
+#EXTINF:-1 group-title="World",RTRS INT
+http://45.82.88.87:15153/udp/237.40.1.4:5000
+#EXTINF:0 group-title="World",630
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="AM",ARM TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1316,14 +1316,14 @@ https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+#EXTINF:0 group-title="GE",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0 group-title="AZ",İctimai
 http://176.65.146.189:8701/play/a09l
 #EXTINF:0 group-title="TR",TRT 1
 http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
-#EXTINF:0 group-title="MT",TVM Sport
-https://server.streammalta.com/49206a12-dc5f-497a-81ac-19e7b32d48e2.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="NL",BBC NL
@@ -1380,14 +1380,14 @@ http://185.9.2.18/chid_377/index.m3u8
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="test",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="test",_
+#EXTINF:-1 group-title="test",667
 http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:-1 group-title="test",_
+#EXTINF:-1 group-title="test",668
 http://92.116.180.193:9981/stream/channelid/2129821524?profile=pass
-#EXTINF:-1 group-title="test",_
-http://92.116.180.193:9981/stream/channelid/1575957472?profile=pass
-#EXTINF:-1 group-title="World",MTV India
+#EXTINF:-1 group-title="test",669
 http://103.157.248.140:8000/play/a01p
+#EXTINF:-1 group-title="World",MTV India
+http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
