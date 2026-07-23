@@ -234,7 +234,7 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",MTV Classic
-http://40.160.24.58/MTV_CLASSIC_SD/mpegts
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="Music",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -1344,16 +1344,16 @@ http://185.207.34.31:8000/play/21030/index.m3u8
 http://89.44.231.117:7000/tvr1hd
 #EXTINF:0,648
 http://116.202.113.254:8888/tvr3
-#EXTINF:0,649
-http://89.44.231.117:7000/protvhd
+#EXTINF:0 group-title="World",KAN11 ISR
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",MAKAN ISR
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0 group-title="World",KAN 11 ISR
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Music",Viva Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 group-title="Music",Europa Plus TV
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
@@ -1455,15 +1455,15 @@ https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:0,703
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,704
-http://82.84.174.252:9981/stream/channelid/109931087?profile=pass
+http://213.91.179.28:8000/play/a05e
 #EXTINF:0,705
-http://82.84.174.252:9981/stream/channelid/1008471638?profile=pass
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:0,706
-http://82.84.174.252:9981/stream/channelid/1122869679?profile=pass
+https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
 #EXTINF:0,707
-http://82.84.174.252:9981/stream/channelid/1366317319?profile=pass
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,708
-http://82.84.174.252:9981/stream/channelid/1471392086?profile=pass
+https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:0,709
 http://82.84.174.252:9981/stream/channelid/1938376993?profile=pass
 #EXTINF:0,710
@@ -1549,9 +1549,9 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd
 #EXTINF:0,750
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,751
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
+https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:0,752
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+https://shift03.isp.bg/MTVHits/index.m3u8
 #EXTINF:0,753
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,754
@@ -1567,7 +1567,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0,759
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
 #EXTINF:0,760
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/xa0aoxk.m3u8?sec=TNSGfQBABV1wUNs6Cf1Xij2zX8AXFMmBtLBy4K9Ul0Y7b91fNNGEf7bZhau44DMw_Mlwb67Ia9vOLcKGXTifjbapPW372qTetUxKy2xU_vPGSUIYuw92JpoDlR1BrayV&dmTs=124748&dmV1st=be8ff5a3-a31b-4e6d-88c1-1876f8537ce9
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
