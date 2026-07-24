@@ -239,12 +239,12 @@ http://40.160.24.53/MTV_CLASSIC/index.m3u8
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:0 group-title="IT",RAI 1
-http://91.146.94.234:10001/play/a08y
-#EXTINF:0 group-title="IT",RAI 2
-http://91.146.94.234:10001/play/a132
-#EXTINF:0 group-title="IT",RAI 3
-http://91.146.94.234:10001/play/a133
+#EXTINF:0 group-title="IT",RAI 1 Sat
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0 group-title="IT",RAI 2 Sat
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:0 group-title="IT",RAI 3 Sat
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="IT",RETE 4
 http://91.146.94.234:10001/play/a03h
 #EXTINF:0 group-title="IT",CANALE 5
@@ -1465,17 +1465,25 @@ https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,708
 https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:0,709
-http://82.84.174.252:9981/stream/channelid/1938376993?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
+#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,710
-http://82.84.174.252:9981/stream/channelid/978484474?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
+#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,711
-http://176.65.146.100:8047/play/a07d
+rtp://239.186.64.7:10000
 #EXTINF:0,712
-http://176.65.146.100:8047/play/a073
+rtp://239.186.64.8:10000
 #EXTINF:0,713
-http://176.65.146.100:8047/play/a076
+udp://@233.50.230.118:5000
 #EXTINF:0,714
-http://176.65.146.100:8047/play/a074
+http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0,715
 http://176.65.146.100:8047/play/a07a
 #EXTINF:0,716
