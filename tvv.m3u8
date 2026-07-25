@@ -269,11 +269,14 @@ https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:0 group-title="IT",RAI 3 Sat
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="IT",RETE 4
-http://91.146.94.234:10001/play/a03h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135867
 #EXTINF:0 group-title="IT",CANALE 5
-http://91.146.94.234:10001/play/a03g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135830
 #EXTINF:0 group-title="IT",ITALIA 1
-http://91.146.94.234:10001/play/a03f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135833
 #EXTINF:0 group-title="IT",LA7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
@@ -284,14 +287,7 @@ https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010043c37b66261b7b08a4420e871324:abe412fe39ba5eff6ff576a6cdd8b845
-#KODIPROP:inputstream.adaptive.license_key=010152ad7ba3403fe31de4ef1b9a098b:e07059a95232b08e0c4f60268b83cd70
-#KODIPROP:inputstream.adaptive.license_key=0102079f94a152ab42228d541d895a12:103ed73228117befc316f36113d3225e
-#KODIPROP:inputstream.adaptive.license_key=01038123c12420f84a578c8b819921f7:30510416f237d108581b410687f340a2
-#KODIPROP:inputstream.adaptive.license_key=0104f7876c67c31f8815d9bcb3e5049c:9f90448ea253711e4204834a60e4f80e
-#KODIPROP:inputstream.adaptive.license_key=01051f2b5db19b13fe7402b4d1e53fb6:6292d73a6cb94d5de50de2f0668825ae
-https://api.zappr.stream/nove.mpd
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136215
 #EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
@@ -408,10 +404,10 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="Vari",Automoto
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
-#EXTINF:0 group-title="CH",SRF 1
-http://91.146.94.234:10001/play/a0fh
-#EXTINF:0 group-title="CH",SRF INFO
-http://91.146.94.234:10001/play/a08m
+#EXTINF:0 group-title="CH",RSILA1
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135869
+#EXTINF:0 group-title="CH",RSILA2
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135871
 #EXTINF:0 group-title="AT",ORF 1
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
@@ -1512,39 +1508,39 @@ https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/st
 #KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,711
-http://91.146.94.234:10001/play/a0jn
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135869
 #EXTINF:0,712
-http://91.146.94.234:10001/play/a0jo
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135871
 #EXTINF:0,713
 rtp://239.186.64.7:10000
 #EXTINF:0,714
-http://78.130.250.2:8023/play/a066/index.m3u8
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135867
 #EXTINF:0,715
-http://176.65.146.100:8047/play/a07a
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135830
 #EXTINF:0,716
-http://176.65.146.100:8047/play/a077
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135833
 #EXTINF:0,717
-http://91.146.94.234:10001/play/a08t
+http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0,718
-http://91.146.94.234:10001/play/a03n
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136230
 #EXTINF:0,719
-http://91.146.94.234:10001/play/a03m
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136215
 #EXTINF:0,720
-http://91.146.94.234:10001/play/a08s
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136235
 #EXTINF:0,721
-http://91.146.94.234:10001/play/a02p
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136223
 #EXTINF:0,722
-http://91.146.94.234:10001/play/a03i
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135878
 #EXTINF:0,723
-http://91.146.94.234:10001/play/a03a
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135881
 #EXTINF:0,724
-http://91.146.94.234:10001/play/a02r
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135879
 #EXTINF:0,725
-http://91.146.94.234:10001/play/a02q
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135893
 #EXTINF:0,726
-http://91.146.94.234:10001/play/a04w
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135889
 #EXTINF:0,727
-http://91.146.94.234:10001/play/a08u
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135887
 #EXTINF:0,728
 http://91.146.94.234:10001/play/ars1
 #EXTINF:0,729
