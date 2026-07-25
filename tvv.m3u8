@@ -27,9 +27,17 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI La 1
-http://91.146.94.234:10001/play/a0jn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
+#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0 group-title="CH",RSI La 2
-http://91.146.94.234:10001/play/a0jo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
+#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0 group-title="Regionali",Tele A
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
@@ -99,18 +107,32 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="MDS",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
-#EXTINF:-1 group-title="WBD IT",K2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://api.zappr.stream/k2.mpd
+#EXTINF:0 group-title="WBD IT",K2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217
+#KODIPROP:inputstream.adaptive.license_key=01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a
+#KODIPROP:inputstream.adaptive.license_key=0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080
+#KODIPROP:inputstream.adaptive.license_key=0103787a733983b31e18aaba92b71415:00000000000000000000000000000000
+#KODIPROP:inputstream.adaptive.license_key=010472105a5244ba4b541b3b43855bfb:00000000000000000000000000000000
+#KODIPROP:inputstream.adaptive.license_key=01056351ffba7a3e729c121c7f628509:00000000000000000000000000000000
+https://api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
-#EXTINF:-1 group-title="WBD IT",Frisbee
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://api.zappr.stream/frisbee.mpd
+#EXTINF:0 group-title="WBD IT",Frisbee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e
+#KODIPROP:inputstream.adaptive.license_key=01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826
+#KODIPROP:inputstream.adaptive.license_key=0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a
+#KODIPROP:inputstream.adaptive.license_key=0103892a0781b22a72b9c5021cee7788:00000000000000000000000000000000
+#KODIPROP:inputstream.adaptive.license_key=0104dcca92742fd2bcbdb6d0b9afa199:00000000000000000000000000000000
+#KODIPROP:inputstream.adaptive.license_key=0105514f047e00d36707f85733467540:00000000000000000000000000000000
+https://api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -242,6 +264,7 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:0 group-title="IT",RAI 1 Sat
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 2 Sat
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:0 group-title="IT",RAI 3 Sat
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
@@ -252,11 +275,23 @@ http://91.146.94.234:10001/play/a03g
 #EXTINF:0 group-title="IT",ITALIA 1
 http://91.146.94.234:10001/play/a03f
 #EXTINF:0 group-title="IT",LA7
-http://91.146.94.234:10001/play/a03q
-#EXTINF:0 group-title="IT",TV8
-http://91.146.94.234:10001/play/a03b
-#EXTINF:0 group-title="IT",NOVE
-http://91.146.94.234:10001/play/a09q
+https://d1chghleocc9sm.cloudfront.net/Live.m3u8
+#EXTINF:0 group-title="IT",TV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
+#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:0 group-title="IT",NOVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=010043c37b66261b7b08a4420e871324:abe412fe39ba5eff6ff576a6cdd8b845
+#KODIPROP:inputstream.adaptive.license_key=010152ad7ba3403fe31de4ef1b9a098b:e07059a95232b08e0c4f60268b83cd70
+#KODIPROP:inputstream.adaptive.license_key=0102079f94a152ab42228d541d895a12:103ed73228117befc316f36113d3225e
+#KODIPROP:inputstream.adaptive.license_key=01038123c12420f84a578c8b819921f7:30510416f237d108581b410687f340a2
+#KODIPROP:inputstream.adaptive.license_key=0104f7876c67c31f8815d9bcb3e5049c:9f90448ea253711e4204834a60e4f80e
+#KODIPROP:inputstream.adaptive.license_key=01051f2b5db19b13fe7402b4d1e53fb6:6292d73a6cb94d5de50de2f0668825ae
+https://api.zappr.stream/nove.mpd
 #EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
@@ -727,17 +762,17 @@ https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",TVR 3 RO
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",ProTV RO
-http://89.44.231.117:7000/protv
+https://aes.m3u8simplu.workers.dev:443/protv/index.m3u8
 #EXTINF:-1 group-title="RO",Antena1 RO
-http://89.44.231.117:7000/antena1
+https://aes.m3u8simplu.workers.dev:443/antena1/index.m3u8
 #EXTINF:-1 group-title="RO",Antena3 RO
-http://89.44.231.117:7000/antena3
+https://aes.m3u8simplu.workers.dev:443/antena3/index.m3u8
 #EXTINF:-1 group-title="RO",PrimaTV RO
-http://89.44.231.117:7000/primatv
-#EXTINF:0 group-title="PL",TVP 1 PL
-http://91.146.94.234:10001/play/a0c2
-#EXTINF:0 group-title="PL",TVP 2 PL
-http://91.146.94.234:10001/play/a09f
+https://aes.m3u8simplu.workers.dev:443/primatv/index.m3u8
+#EXTINF:-1 group-title="RO",KanalD1 RO
+https://aes.m3u8simplu.workers.dev:443/kanald/index.m3u8
+#EXTINF:-1 group-title="RO",KanalD2 RO
+https://aes.m3u8simplu.workers.dev:443/kanald2/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="NL",NPO 3 NL
@@ -1477,11 +1512,11 @@ https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/st
 #KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,711
-rtp://239.186.64.7:10000
+http://91.146.94.234:10001/play/a0jn
 #EXTINF:0,712
-rtp://239.186.64.8:10000
+http://91.146.94.234:10001/play/a0jo
 #EXTINF:0,713
-udp://@233.50.230.118:5000
+rtp://239.186.64.7:10000
 #EXTINF:0,714
 http://78.130.250.2:8023/play/a066/index.m3u8
 #EXTINF:0,715
