@@ -837,7 +837,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://88.212.7.14/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:0 group-title="World",Al Jazeera AR
 http://88.212.7.14/live/test_aljazeera/playlist.m3u8
-#EXTINF:0 group-title="World",CCTV 4
+#EXTINF:0 group-title="World",CCTV 4 EU
 http://88.212.7.14/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN
 http://88.212.7.14/live/test_cgtn/playlist.m3u8
@@ -1062,7 +1062,7 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://5.57.74.130:8000/play/a0dh/index.m3u8
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",ABC NEWS
@@ -1158,9 +1158,9 @@ http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
-http://91.146.94.234:10001/play/a05o
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,541
-http://193.25.8.59:8000/fut
+http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,542
 http://193.25.8.59:8000/fut2
 #EXTINF:0,543
@@ -1319,6 +1319,12 @@ http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1 SK
 http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="HU",M1 HU
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",M2 HU
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 group-title="HU",M5 HU
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="UA",UA: Pershyi HD
 http://stream.mcquack.net/437/index.m3u8
 #EXTINF:-1 group-title="UA",UA: Kultura HD
@@ -1327,18 +1333,12 @@ http://stream.mcquack.net/435/index.m3u8
 http://stream.mcquack.net/439/index.m3u8
 #EXTINF:-1 group-title="UA",UA: 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="HU",M5 HU
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="HU",M2 HU
-http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="BG",BNT1 BG
 http://185.97.73.187:11000/play/bnt1/index.m3u8
 #EXTINF:-1 group-title="BG",BTV BG
 http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="World",RTRS INT
 http://45.82.88.87:15153/udp/237.40.1.4:5000
-#EXTINF:0 group-title="World",630
-http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="AM",ARM TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",ARM News
@@ -1479,52 +1479,44 @@ https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:0,700
 http://213.91.179.28:8000/play/a0bb
-#EXTINF:0,701
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0,702
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
-#EXTINF:0,703
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0,704
-http://213.91.179.28:8000/play/a05e
-#EXTINF:0,705
-http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-#EXTINF:0,706
-https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
-#EXTINF:0,707
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:0,708
-https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
-#EXTINF:0,709
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
-#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0,710
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
-#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0,711
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135869
-#EXTINF:0,712
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135871
-#EXTINF:0,713
-rtp://239.186.64.7:10000
-#EXTINF:0,714
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135867
-#EXTINF:0,715
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135830
-#EXTINF:0,716
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135833
-#EXTINF:0,717
-http://78.130.250.2:8023/play/a066/index.m3u8
-#EXTINF:0,718
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136230
-#EXTINF:0,719
-http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136215
+#EXTINF:0,CCTV 1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:0,CCTV 2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:0,CCTV 3
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:0,CCTV 4
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:0,CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:0,CCTV 6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:0,CCTV 7
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:0,CCTV 8
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:0,CCTV 9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:0,CCTV 10
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:0,CCTV 11
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:0,CCTV 12
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:0,CCTV 13
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:0,CCTV 14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:0,CCTV 15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:0,CCTV 16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:0,CCTV 17
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:0,CCTV 5+
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:0,CCTV 4K
+http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0,720
 http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136235
 #EXTINF:0,721
@@ -1542,21 +1534,21 @@ http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135889
 #EXTINF:0,727
 http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135887
 #EXTINF:0,728
-http://91.146.94.234:10001/play/ars1
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136215
 #EXTINF:0,729
-http://91.146.94.234:10001/play/a03r
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136215
 #EXTINF:0,730
-http://91.146.94.234:10001/play/a03k
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/136230
 #EXTINF:0,731
-http://91.146.94.234:10001/play/a135
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135869
 #EXTINF:0,732
-http://91.146.94.234:10001/play/a0it
+http://rjcf.ofztvxv.top:8080/vip8191768397475/b92aad880dd6/135871
 #EXTINF:0,733
-http://91.146.94.234:10001/play/a09p
+http://213.91.179.28:8000/play/a05e
 #EXTINF:0,734
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0,735
-http://151.80.18.177:86/M6_HD/index.m3u8
+https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:0,736
 http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:0,737
