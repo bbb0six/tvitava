@@ -929,9 +929,9 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia US
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
-#EXTINF:-1 group-title="Rai",MDS Italia EU
+#EXTINF:-1 group-title="MDS",MDS Italia EU
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
-#EXTINF:-1 group-title="Rai",MDS Italia AU
+#EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
@@ -1158,13 +1158,13 @@ http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
 #EXTINF:0,540
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
-#EXTINF:0,541
-http://5.57.74.130:8000/play/a0dh/index.m3u8
-#EXTINF:0,542
 http://45.71.202.124:8000/play/a001
+#EXTINF:0,541
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:0,542
+http://stream.mcquack.net/142/index.m3u8
 #EXTINF:0,543
-http://193.25.8.59:8000/fut3
+http://stream.mcquack.net/185/index.m3u8
 #EXTINF:0,544
 http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,545
@@ -1345,18 +1345,20 @@ http://stream.mcquack.net/437/index.m3u8
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 group-title="UA",UA Kyiv
 http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1 group-title="UA",UA Krym
+http://stream.mcquack.net/436/index.m3u8
 #EXTINF:-1 group-title="UA",UA Sport
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 group-title="UA",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="World",RTRS INT
-http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0 group-title="AM",Armenia 1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 #EXTINF:0 group-title="AM",Armenia News
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AM",Armenia Film
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:-1 group-title="World",RTRS INT
+http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0 group-title="GE",GEO TV1
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
@@ -1364,22 +1366,20 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="GE",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0 group-title="AZ",İctimai
-http://176.65.146.189:8701/play/a09l
+http://46.32.176.50/ictimaitv/index.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp
+http://46.32.176.50/trt1/index.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:-1 group-title="BG",BNT1 BG
-http://185.97.73.187:11000/play/bnt1/index.m3u8
-#EXTINF:-1 group-title="BG",BTV BG
-http://185.97.73.187:11000/play/btvhd/index.m3u8
-#EXTINF:0,649
-http://89.44.231.117:7000/tvr1hd
-#EXTINF:0 group-title="World",KAN11 ISR
+#EXTINF:0 group-title="World",ISR CH 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:0 group-title="World",ISR CH 14
+http://stream.mcquack.net/454/index.m3u8
+#EXTINF:0 group-title="World",ISR KAN11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="World",MAKAN ISR
+#EXTINF:0 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
@@ -1546,11 +1546,11 @@ http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2685
 #EXTINF:0,733
 http://213.91.179.28:8000/play/a05e
 #EXTINF:0,734
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,735
-https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,736
-http://198.58.104.90:8989/mtv/index.m3u8
+https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:0,737
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:0,738
@@ -1568,7 +1568,7 @@ http://88.212.7.14/live/rik_atk/index.m3u8
 #EXTINF:0,744
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,745
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+http://stream.mcquack.net/31/index.m3u8
 #EXTINF:0,746
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:0,747
@@ -1673,9 +1673,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",792
-http://84.22.55.2:8004/play/s147
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test",793
-http://84.22.55.2:8006/play/s197
+http://stream.mcquack.net/318/index.m3u8
 #EXTINF:0 group-title="test",794
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -1684,12 +1684,12 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 group-title="test",796
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
+http://185.97.73.187:11000/play/bnt1/index.m3u8
 #EXTINF:-1 group-title="test",797
-http://91.146.94.234:10001/play/a06h
+http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 group-title="test",799
-http://202.169.224.202:8800/udp/239.6.3.4:1234
+https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 group-title="test",800
 https://hd-auth.skylinewebcams.com/live.m3u8?a=naocssdujvoserbj8c2djh3f12
