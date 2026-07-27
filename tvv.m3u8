@@ -1351,11 +1351,11 @@ http://stream.mcquack.net/436/index.m3u8
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 group-title="UA",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:0 group-title="AM",Armenia 1
+#EXTINF:0 group-title="AM",Armenia TV1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:0 group-title="AM",Armenia News
+#EXTINF:0 group-title="AM",Armenia TV2
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AM",Armenia Film
+#EXTINF:0 group-title="AM",Armenia TV3
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 group-title="World",RTRS INT
 http://45.82.88.87:15153/udp/237.40.1.4:5000
