@@ -570,8 +570,8 @@ http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
 http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:0 group-title="ES",Star TVE
 http://45.171.64.30:8800/play/a04z
-#EXTINF:0 group-title="ES",TVE America
-http://190.60.37.118:4000/play/a087
+#EXTINF:0 group-title="ES",TVE Int
+http://185.207.34.31:8000/play/a00e/index.m3u8
 #EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
@@ -1114,9 +1114,9 @@ http://stream.mcquack.net/313/index.m3u8
 #EXTINF:0 group-title="s",517
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:0,518
-http://vdin.latamvivohd.info:80/espn/index.m3u8
+http://88.212.15.19/live/esp1_hun/index.m3u8
 #EXTINF:0,519
-http://45.71.202.124:8000/play/a001
+http://88.212.15.19/live/esp2_hun/index.m3u8
 #EXTINF:0,520
 http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,521
@@ -1162,7 +1162,7 @@ https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,541
 http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,542
-http://193.25.8.59:8000/fut2
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,543
 http://193.25.8.59:8000/fut3
 #EXTINF:0,544
@@ -1323,26 +1323,40 @@ http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HU",M2 HU
 http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 group-title="HU",Duna TV
+http://88.212.15.19/live/duna_hun/index.m3u8
+#EXTINF:-1 group-title="HU",Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="UA",UA: Pershyi HD
+#EXTINF:-1 group-title="HU",TV2 HU
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",TV2 Super
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1 group-title="HU",TV2 Kids
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:-1 group-title="HU",TV4 HU
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="UA",UA Pershyi
 http://stream.mcquack.net/437/index.m3u8
-#EXTINF:-1 group-title="UA",UA: Kultura HD
+#EXTINF:-1 group-title="UA",UA Kultura
 http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 group-title="UA",UA: Kyiv HD
+#EXTINF:-1 group-title="UA",UA Kyiv
 http://stream.mcquack.net/439/index.m3u8
-#EXTINF:-1 group-title="UA",UA: 2+2
+#EXTINF:-1 group-title="UA",UA Sport
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="UA",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="BG",BNT1 BG
-http://185.97.73.187:11000/play/bnt1/index.m3u8
-#EXTINF:-1 group-title="BG",BTV BG
-http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="World",RTRS INT
 http://45.82.88.87:15153/udp/237.40.1.4:5000
-#EXTINF:0 group-title="AM",ARM TV1
+#EXTINF:0 group-title="AM",Armenia 1
 https://dash4.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:0 group-title="AM",ARM News
+#EXTINF:0 group-title="AM",Armenia News
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="AM",Armenia Film
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:0 group-title="GE",GEO TV1
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
@@ -1357,24 +1371,12 @@ http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0 group-title="NL",BBC NL
-http://185.207.34.31:8000/play/21168/index.m3u8
-#EXTINF:0 group-title="BE",VTM 1
-http://185.207.34.31:8000/play/7030/index.m3u8
-#EXTINF:0 group-title="BE",VTM 2
-http://185.207.34.31:8000/play/7056/index.m3u8
-#EXTINF:0 group-title="BE",VTM 3
-http://185.207.34.31:8000/play/21120/index.m3u8
-#EXTINF:0 group-title="BE",VTM 4
-http://185.207.34.31:8000/play/21122/index.m3u8
-#EXTINF:0 group-title="BE",VRT 1
-http://185.207.34.31:8000/play/21025/index.m3u8
-#EXTINF:0,646
-http://185.207.34.31:8000/play/21030/index.m3u8
-#EXTINF:0,647
+#EXTINF:-1 group-title="BG",BNT1 BG
+http://185.97.73.187:11000/play/bnt1/index.m3u8
+#EXTINF:-1 group-title="BG",BTV BG
+http://185.97.73.187:11000/play/btvhd/index.m3u8
+#EXTINF:0,649
 http://89.44.231.117:7000/tvr1hd
-#EXTINF:0,648
-http://116.202.113.254:8888/tvr3
 #EXTINF:0 group-title="World",KAN11 ISR
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",MAKAN ISR
@@ -1383,8 +1385,6 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Music",Viva Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1 group-title="Music",Europa Plus TV
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
@@ -1414,9 +1414,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="test",667
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:-1 group-title="test",668
-http://92.116.180.193:9981/stream/channelid/2129821524?profile=pass
+http://116.202.113.254:8888/tvr3
 #EXTINF:-1 group-title="test",669
-http://103.157.248.140:8000/play/a01p
+http://190.60.37.118:4000/play/a087
 #EXTINF:-1 group-title="World",MTV India
 http://103.253.18.58:8000/play/a01t
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
@@ -1466,7 +1466,7 @@ http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="RU",ТВ7
 http://95.47.155.244:8001/play/a023
 #EXTINF:-1 group-title="RU",8TV RU
-https://v4.proofix.ru/8tv-europe/index.m3u8
+https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="RU",RT EN
 https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT FR
@@ -1477,8 +1477,8 @@ https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,700
-http://213.91.179.28:8000/play/a0bb
+#EXTINF:0,CCTV 8K
+http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:0,CCTV 1
 http://198.204.228.26/live/cctv1hd.m3u8
 #EXTINF:0,CCTV 2
