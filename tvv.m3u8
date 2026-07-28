@@ -392,8 +392,8 @@ https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
 #EXTINF:0 group-title="Regionali",Videonola
 https://videonola.aswifi.it/videonola/live/index.m3u8
-#EXTINF:0 group-title="CH",Teleticino
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:0 group-title="Vari",SI SoloCalcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Alto Adige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Trentino TV
@@ -406,8 +406,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
 #EXTINF:0 group-title="Vari",San Marino RTV
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
-#EXTINF:0 group-title="-",_
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2707
+#EXTINF:0 group-title="CH",Teleticino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
@@ -447,7 +447,7 @@ http://213.47.175.190:9981/stream/channelid/594342400?profile=pass
 #EXTINF:0 group-title="DE",ZDF info
 http://213.47.175.190:9981/stream/channelid/495923061?profile=pass
 #EXTINF:0 group-title="DE",ZDF neo
-http://213.47.175.190:9981/stream/channelid/84188517?profile=pass
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",KIKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
@@ -477,25 +477,25 @@ http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
 http://151.80.18.177:86/TF1_HD/mpegts
 #EXTINF:0 group-title="FR",France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
+http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
+http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:0 group-title="FR",France 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-4.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/928
 #EXTINF:0 group-title="FR",France 5
-http://145.239.5.177/305/mpegts
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/927
 #EXTINF:0 group-title="FR",M6
 http://151.80.18.177:86/M6_HD/mpegts
 #EXTINF:0 group-title="FR",Arte FR
 http://151.80.18.177:86/ARTE_HD/mpegts
 #EXTINF:0 group-title="FR",LCP
-http://176.65.146.100:8047/play/a07h/index.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14716
 #EXTINF:0 group-title="FR",W9
 http://151.80.18.177:86/W9_HD/mpegts
 #EXTINF:0 group-title="FR",TMC
 http://151.80.18.177:86/TMC/mpegts
 #EXTINF:0 group-title="FR",TFX
-http://176.65.146.100:8047/play/a07g/index.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1812
 #EXTINF:0 group-title="FR",Gulli
 http://173.229.4.239:5004/auto/v12
 #EXTINF:0 group-title="FR",BFM TV
@@ -505,19 +505,19 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0 group-title="FR",LCI
 http://145.239.5.177/368/mpegts
 #EXTINF:0 group-title="FR",franceinfo
-http://145.239.5.177/306/mpegts
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14056
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
 #EXTINF:0 group-title="FR",NOVO19
-http://176.148.194.209:9981/stream/channelid/133124560?profile=pass
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/18203
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://41.205.93.154/TF1SERIESFILMS/index.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1814
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-http://176.148.194.209:9981/stream/channelid/564861123?profile=pass
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7310
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -1099,24 +1099,24 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 4K
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
-#EXTINF:0 group-title="s",511
+#EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
-#EXTINF:0 group-title="s",512
+#EXTINF:0 group-title="s",Match 2 RU
 http://stream.mcquack.net/142/index.m3u8
-#EXTINF:0 group-title="s",513
+#EXTINF:0 group-title="s",Match 3 RU
 http://stream.mcquack.net/185/index.m3u8
-#EXTINF:0 group-title="s",514
-http://stream.mcquack.net/234/index.m3u8
+#EXTINF:0 group-title="s",Match 4 RU
+http://stream.mcquack.net/193/index.m3u8
 #EXTINF:0 group-title="s",515
-http://stream.mcquack.net/235/index.m3u8
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:0 group-title="s",516
-http://stream.mcquack.net/313/index.m3u8
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:0 group-title="s",517
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:0 group-title="s",518
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:0,518
-http://88.212.15.19/live/esp1_hun/index.m3u8
-#EXTINF:0,519
-http://88.212.15.19/live/esp2_hun/index.m3u8
+#EXTINF:0 group-title="s",519
+http://stream.mcquack.net/72/index.m3u8
 #EXTINF:0,520
 http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,521
@@ -1157,14 +1157,14 @@ http://179.1.146.22:8000/play/a0g4
 http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
-#EXTINF:0,540
-http://45.71.202.124:8000/play/a001
-#EXTINF:0,541
-http://stream.mcquack.net/130/index.m3u8
-#EXTINF:0,542
-http://stream.mcquack.net/142/index.m3u8
+#EXTINF:0 group-title="s",Eurosport CZ
+http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
+#EXTINF:0 group-title="s",Eurosport 1 HU
+http://88.212.15.19/live/esp1_hun/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 2 HU
+http://88.212.15.19/live/esp2_hun/index.m3u8
 #EXTINF:0,543
-http://stream.mcquack.net/185/index.m3u8
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,544
 http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,545
@@ -1349,6 +1349,8 @@ http://stream.mcquack.net/439/index.m3u8
 http://stream.mcquack.net/436/index.m3u8
 #EXTINF:-1 group-title="UA",UA Sport
 http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="UA",UA 1+1
+http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 group-title="UA",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
 #EXTINF:0 group-title="AM",Armenia TV1
@@ -1357,8 +1359,6 @@ https://dash4.antik.sk/live/test_armenia/playlist.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="AM",Armenia TV3
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 group-title="World",RTRS INT
-http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0 group-title="GE",GEO TV1
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="GE",GEO TV2
@@ -1582,7 +1582,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:0,751
 https://shift03.isp.bg/MTVEurope/index.m3u8
 #EXTINF:0,752
-https://shift03.isp.bg/MTVHits/index.m3u8
+http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0,753
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,754
@@ -1690,6 +1690,6 @@ http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
 https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:-1 group-title="test",799
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
+http://5.180.164.197:8080/RAI1/index.m3u8
 #EXTINF:-1 group-title="test",800
-https://hd-auth.skylinewebcams.com/live.m3u8?a=naocssdujvoserbj8c2djh3f12
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2707
