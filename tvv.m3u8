@@ -253,8 +253,8 @@ http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:0 group-title="Vari",SI SoloCalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Vari",San Marino RTV
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 #EXTINF:0 group-title="Music",MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="Music",MTV Live
@@ -1365,28 +1365,28 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="GE",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:0 group-title="AZ",İctimai
-http://46.32.176.50/ictimaitv/index.m3u8
 #EXTINF:0 group-title="TR",TRT 1
-http://46.32.176.50/trt1/index.m3u8
+http://87.246.54.90:8080/TRT1/index.m3u8
 #EXTINF:0 group-title="TR",TRT 2
 http://87.246.54.90:8080/TRT2/index.m3u8
+#EXTINF:0 group-title="TR",ATV
+http://87.246.54.90:8080/ATV/index.m3u8
+#EXTINF:0 group-title="TR",Show Turk
+http://87.246.54.90:8080/ShowTV/index.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0 group-title="World",KAN11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0 group-title="World",KAN11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Music",Europa Plus TV
-https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 group-title="Music",Bridge Hits
