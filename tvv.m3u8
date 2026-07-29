@@ -1383,8 +1383,6 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Music",CMC HR
-https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
@@ -1399,6 +1397,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 group-title="World",Dubai TV
+http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="World",MBC1 KSA
 http://185.9.2.18/chid_374/index.m3u8
 #EXTINF:-1 group-title="World",MBC2 KSA
@@ -1407,17 +1407,17 @@ http://185.9.2.18/chid_375/index.m3u8
 http://185.9.2.18/chid_376/index.m3u8
 #EXTINF:-1 group-title="World",MBC4 KSA
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:-1 group-title="World",Dubai TV
-http://185.9.2.18/chid_139/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 11
+#EXTINF:0 group-title="IL",ISR CH 09
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:0 group-title="IL",ISR CH 11
 http://stream.mcquack.net/293/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 12
+#EXTINF:0 group-title="IL",ISR CH 12
 http://stream.mcquack.net/294/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 13
+#EXTINF:0 group-title="IL",ISR CH 13
 http://stream.mcquack.net/295/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 14
+#EXTINF:0 group-title="IL",ISR CH 14
 http://stream.mcquack.net/454/index.m3u8
-#EXTINF:0 group-title="World",ISR CH 24
+#EXTINF:0 group-title="IL",ISR CH 24
 http://stream.mcquack.net/42/index.m3u8
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
@@ -1675,11 +1675,7 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",792
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="test",793
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-host:live03p-col.msr.cdn.mediaset.net
-#EXTVLCOPT:http-origin=https://mediasetinfinity.mediaset.it
-#EXTVLCOPT:http-referer=https://mediasetinfinity.mediaset.it/
-https://live03p-col.msr.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest_hr.mpd
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 group-title="test",794
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
