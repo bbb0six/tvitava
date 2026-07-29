@@ -758,19 +758,19 @@ https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",TVR 3 RO
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 group-title="RO",ProTV RO
-https://aes.m3u8simplu.workers.dev:443/protv/index.m3u8
+http://89.44.231.73:7000/protv
 #EXTINF:-1 group-title="RO",Antena1 RO
-https://aes.m3u8simplu.workers.dev:443/antena1/index.m3u8
+http://89.44.231.73:7000/antena1
 #EXTINF:-1 group-title="RO",Antena3 RO
-https://aes.m3u8simplu.workers.dev:443/antena3/index.m3u8
+http://89.44.231.73:7000/antena3
 #EXTINF:-1 group-title="RO",PrimaTV RO
-https://aes.m3u8simplu.workers.dev:443/primatv/index.m3u8
-#EXTINF:-1 group-title="RO",KanalD1 RO
-https://aes.m3u8simplu.workers.dev:443/kanald/index.m3u8
-#EXTINF:-1 group-title="RO",KanalD2 RO
-https://aes.m3u8simplu.workers.dev:443/kanald2/index.m3u8
+http://89.44.231.73:7000/primatv
+#EXTINF:-1 group-title="RO",Digi24 RO
+http://89.44.231.73:7000/digi24hd
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
+#EXTINF:0 group-title="NL",NPO 2 NL
+http://46.149.191.219:9100/play/a00c
 #EXTINF:0 group-title="NL",NPO 3 NL
 http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
