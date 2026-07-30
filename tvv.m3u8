@@ -408,7 +408,7 @@ https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=aebc864537e959fda373d255bf4b2ac4:f56dffd402aeca4511f5ac104544ce15
 https://ac-014.live.p7s1video.net/f2bf4855/t_014/srf1-ch-hd/cenc-default.m3u8
 #EXTINF:0 group-title="AT",ORF 1
-https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+http://213.47.175.190:9981/stream/channelid/1051666676?profile=pass
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
@@ -1117,17 +1117,17 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTINF:0 group-title="s",519
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:0,520
-http://86.87.15.10:8005/play/a00v/index.m3u8
-#EXTINF:0,521
-http://86.87.15.10:8008/play/a01h/index.m3u8
-#EXTINF:0,522
-http://86.87.15.10:8004/play/a02b/index.m3u8
-#EXTINF:0,523
-http://86.87.15.10:8003/play/a02k/index.m3u8
-#EXTINF:0,524
-http://86.87.15.10:8004/play/a02a/index.m3u8
+https://streamer2.premio.link/nokep_hd/index.m3u8
+#EXTINF:0 group-title="s",SPORT 1 SK
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:0 group-title="s",SPORT 2 SK
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:0 group-title="s",SPORT 1 HU
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:0 group-title="s",SPORT 2 HU
+http://88.212.15.19/live/sport2_hun/index.m3u8
 #EXTINF:0,525
-http://86.87.15.10:8009/play/a01d/index.m3u8
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,526
 http://86.87.15.10:8009/play/a01e/index.m3u8
 #EXTINF:-1 group-title="s",527
@@ -1156,7 +1156,7 @@ http://179.1.146.22:8000/play/a0g4
 http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
 http://179.1.146.22:8000/play/a0js
-#EXTINF:0 group-title="s",Eurosport CZ
+#EXTINF:0 group-title="s",Eurosport 4k CZ
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 1 HU
 http://88.212.15.19/live/esp1_hun/index.m3u8
@@ -1175,7 +1175,7 @@ http://89.44.231.73:7000/eurosport
 #EXTINF:0,548
 http://89.44.231.73:7000/eurosport2
 #EXTINF:0,549
-https://streamer2.premio.link/nokep_hd/index.m3u8
+http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,550
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 #EXTINF:0,551
@@ -1219,19 +1219,19 @@ http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,571
-http://45.84.187.172:3001/udp/239.100.100.2:5000
+http://86.87.15.10:8008/play/a01h/index.m3u8
 #EXTINF:0,572
-http://45.84.187.172:3001/udp/239.100.100.28:5000
+http://86.87.15.10:8004/play/a02b/index.m3u8
 #EXTINF:0,573
-http://45.84.187.172:3001/udp/239.100.100.48:5000
+http://86.87.15.10:8003/play/a02k/index.m3u8
 #EXTINF:0,574
-http://45.84.187.172:3001/udp/239.100.100.64:5000
+http://86.87.15.10:8004/play/a02a/index.m3u8
 #EXTINF:0,575
-http://45.84.187.172:3001/udp/239.10.10.96:5000
+http://86.87.15.10:8009/play/a01d/index.m3u8
 #EXTINF:0,576
-http://45.84.187.172:3001/udp/239.10.10.141:5000
+http://86.87.15.10:8009/play/a01e/index.m3u8
 #EXTINF:0,577
-http://45.84.187.172:3001/udp/239.10.10.189:5000
+http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,578
 http://45.84.187.172:3001/udp/239.100.10.45:5000
 #EXTINF:0,579
