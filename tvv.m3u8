@@ -116,7 +116,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0103787a733983b31e18aaba92b71415:00000000000000000000000000000000
 #KODIPROP:inputstream.adaptive.license_key=010472105a5244ba4b541b3b43855bfb:00000000000000000000000000000000
 #KODIPROP:inputstream.adaptive.license_key=01056351ffba7a3e729c121c7f628509:00000000000000000000000000000000
-https://api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
+https://api.zappr.stream/k2.mpd
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -125,14 +125,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:0 group-title="WBD IT",Frisbee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01000c556114ed472c4affc91caf1bac:76b1c243b54f48913970a922b17c2c7e
-#KODIPROP:inputstream.adaptive.license_key=01018590ee8718d526c3da96f22216fc:b0cddac881058d9cc5e057dbac7ed826
-#KODIPROP:inputstream.adaptive.license_key=0102259b1109135dc496194857380cf8:0eec99deb59dc6991c6c7cea4c41a64a
-#KODIPROP:inputstream.adaptive.license_key=0103892a0781b22a72b9c5021cee7788:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0104dcca92742fd2bcbdb6d0b9afa199:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=0105514f047e00d36707f85733467540:00000000000000000000000000000000
-https://api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28440
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -989,14 +982,14 @@ http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:0 group-title="USA",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:0 group-title="USA",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:0 group-title="USA",MAGNOLIA
+http://206.212.244.63/107/index.m3u8
 #EXTINF:0 group-title="USA",LIFETIME
-http://rezofoot.tv/LIFETIME/index.m3u8
+http://206.212.244.63/103/index.m3u8
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",CMT East
@@ -1045,8 +1038,8 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 group-title="USA",IFC
-http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0 group-title="USA",TLC
+http://206.212.244.63/159/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
@@ -1061,8 +1054,8 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",CSPAN2
-http://41.205.93.154/CSPAN2/index.m3u8
+#EXTINF:0 group-title="USA",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
@@ -1071,10 +1064,10 @@ http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",ABC NEWS
-http://41.205.93.154/ABC/index.m3u8
-#EXTINF:0 group-title="USA",NBC
-http://41.205.93.154/NBC/index.m3u8
+#EXTINF:0 group-title="USA",NBC NY
+http://206.212.244.63/125/index.m3u8
+#EXTINF:0 group-title="USA",NBC News
+http://206.212.244.63/127/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
