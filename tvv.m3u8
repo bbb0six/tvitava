@@ -540,40 +540,40 @@ http://145.239.5.177/329/mpegts
 http://145.239.5.177/308/mpegts
 #EXTINF:0 group-title="FR",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:0 group-title="UK",BBC ONE
-http://82.68.56.43:9981/stream/channelid/991521084?profile=webtv-vp8-vorbis-webm
-#EXTINF:0 group-title="UK",BBC TWO
-http://82.68.56.43:9981/stream/channelid/1255004217?profile=webtv-vp8-vorbis-webm
+#EXTINF:0 group-title="UK",BBC 1
+http://51.178.182.222:80/BBC1/index.m3u8
+#EXTINF:0 group-title="UK",BBC 2
+http://51.178.182.222:80/BBC2/index.m3u8
 #EXTINF:0 group-title="UK",BBC 3
-http://82.68.56.43:9981/stream/channelid/696097480?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/BBC3/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-http://82.68.56.43:9981/stream/channelid/1388155388?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/BBC4/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-http://82.68.56.43:9981/stream/channelid/1524788546?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/ITV1/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-http://82.68.56.43:9981/stream/channelid/1207907172?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/ITV2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-http://82.68.56.43:9981/stream/channelid/1380920585?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/ITV3/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-http://82.68.56.43:9981/stream/channelid/1770634429?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/ITV4/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
-http://82.68.56.43:9981/stream/channelid/1452318392?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/Channel4/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
-http://82.68.56.43:9981/stream/channelid/493611590?profile=webtv-vp8-vorbis-webm
-#EXTINF:0 group-title="UK",FILM 4
-http://82.68.56.43:9981/stream/channelid/809213068?profile=webtv-vp8-vorbis-webm
-#EXTINF:0 group-title="UK",MORE 4
-http://82.68.56.43:9981/stream/channelid/1866934835?profile=webtv-vp8-vorbis-webm
+http://51.178.182.222:80/Channel5/index.m3u8
+#EXTINF:0 group-title="UK",4seven
+http://51.178.182.222:80/4seven/index.m3u8
+#EXTINF:0 group-title="UK",Film4
+http://51.178.182.222:80/Film4/index.m3u8
+#EXTINF:0 group-title="UK",More4
+http://51.178.182.222:80/More4/index.m3u8
+#EXTINF:0 group-title="UK",E4
+http://51.178.182.222:80/E4/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
 http://50.7.120.34:8080/RTP_2/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://50.7.120.34:8080/RTP_3/index.m3u8
-#EXTINF:0 group-title="PT",RTP Memória
-http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
-#EXTINF:0 group-title="PT",RTP Mundo
-http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:0 group-title="ES",Star TVE
 http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="ES",TVE Int
@@ -911,12 +911,12 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur EN
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="World",Antena 3 Int
+#EXTINF:0 group-title="World",A3 INT
 http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:-1 group-title="World",TVE Europa
-http://202.169.224.202:8800/udp/239.6.3.5:1234
+#EXTINF:-1 group-title="World",Globo
+http://190.83.85.68/globo/index.m3u8
 #EXTINF:0 group-title="World",Rai Italia
 http://181.78.192.238:8000/play/a2hd
 #EXTINF:-1 group-title="World",MTV Live
@@ -1550,7 +1550,7 @@ http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28470
 #EXTINF:0,732
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2685
 #EXTINF:0,733
-http://213.91.179.28:8000/play/a05e
+http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:0,734
 http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,735
