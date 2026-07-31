@@ -874,8 +874,8 @@ http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",Vatican Media
-http://202.169.224.202:8800/udp/239.6.3.4:1234
+#EXTINF:0 group-title="World",KBS World
+https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -1541,7 +1541,7 @@ http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2687
 #EXTINF:0,731
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28470
 #EXTINF:0,732
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2685
+http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0,733
 http://202.169.224.202:8800/udp/239.6.2.1:1234
 #EXTINF:0,734
