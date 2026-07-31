@@ -875,7 +875,7 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",399
-https://stream8.cinerama.uz/1448/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -1162,18 +1162,18 @@ http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 http://88.212.15.19/live/esp1_hun/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 2 HU
 http://88.212.15.19/live/esp2_hun/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 1 DE
-http://185.207.34.31:8000/play/a018/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 1 FR
-http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 1 RO
 http://89.44.231.73:7000/eurosport
 #EXTINF:0 group-title="s",Eurosport 2 RO
 http://89.44.231.73:7000/eurosport2
-#EXTINF:0,547
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:0,548
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 1 RS
+http://87.250.63.109:8000/play/a09h
+#EXTINF:0 group-title="s",Eurosport 2 RS
+http://87.250.63.109:8000/play/a09g
+#EXTINF:0 group-title="s",Eurosport 1 DE
+http://185.207.34.31:8000/play/a018/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 1 FR
+http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0,550
@@ -1235,7 +1235,7 @@ http://86.87.15.10:8005/play/a00v/index.m3u8
 #EXTINF:0,578
 http://45.84.187.172:3001/udp/239.100.10.45:5000
 #EXTINF:0,579
-http://45.84.187.172:3001/udp/239.100.10.46:5000
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:0,580
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1,581
@@ -1537,9 +1537,9 @@ http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28434
 #EXTINF:0,729
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28433
 #EXTINF:0,730
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2687
+https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,731
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28470
+http://31.148.48.15/KBS_World/index.m3u8
 #EXTINF:0,732
 http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0,733
@@ -1565,7 +1565,7 @@ https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
 http://88.212.7.14/live/rik_atk/index.m3u8
 #EXTINF:0,744
-https://live.jefimija.eu/hls/stream_src/index.m3u8
+https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:0,745
 http://stream.mcquack.net/31/index.m3u8
 #EXTINF:0,746
