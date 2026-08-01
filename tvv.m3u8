@@ -668,51 +668,51 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
-http://217.73.139.200:5443/play/a00f
+http://31.171.154.23:8005/play/s51
 #EXTINF:0 group-title="AL",RTSH 2
-http://217.73.139.200:5443/play/a00k
+http://31.171.154.23:8005/play/s58
 #EXTINF:0 group-title="AL",RTSH 24
-http://217.73.139.200:5443/play/a00s
-#EXTINF:0 group-title="AL",Klan TV
-http://217.73.139.200:5443/play/a002
+http://31.171.154.23:8005/play/s52
+#EXTINF:0 group-title="AL",Klan
+http://31.171.154.23:8000/play/s259
 #EXTINF:0 group-title="AL",Top Channel
-http://217.73.139.200:5443/play/a016
+http://31.171.154.23:8002/play/s14
 #EXTINF:0 group-title="AL",Klan Plus
-http://217.73.139.200:5443/play/a004
+http://31.171.154.23:8000/play/s262
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:0 group-title="AL",ABC News AL
-http://217.73.139.200:5443/play/a003
+#EXTINF:0 group-title="AL",ABC AL
+http://31.171.154.23:8001/play/s326
 #EXTINF:0 group-title="AL",Top News AL
-http://217.73.139.200:5443/play/a017
+http://31.171.154.23:8002/play/s17
 #EXTINF:0 group-title="AL",Report TV
-http://217.73.139.200:5443/play/a01c
+http://31.171.154.23:8000/play/s327
 #EXTINF:0 group-title="AL",SCAN
-http://217.73.139.200:5443/play/a009
+http://31.171.154.23:8000/play/s258
+#EXTINF:0 group-title="AL",SYRI
+http://31.171.154.23:8000/play/s257
+#EXTINF:0 group-title="AL",Klan News
+http://31.171.154.23:8000/play/s261
+#EXTINF:0 group-title="AL",Klan Nostalgji
+http://31.171.154.23:8000/play/s263
+#EXTINF:0 group-title="AL",RTSH Sport
+http://31.171.154.23:8005/play/s60
+#EXTINF:0 group-title="AL",RTSH Film
+http://31.171.154.23:8005/play/s55
+#EXTINF:0 group-title="AL",RTSH Muzikë
+http://31.171.154.23:8005/play/s56
+#EXTINF:0 group-title="AL",IN TV
+http://31.171.154.23:8004/play/s96
 #EXTINF:0 group-title="AL",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="AL",RTSH Film
-http://217.73.139.200:5443/play/a00n
-#EXTINF:0 group-title="AL",RTSH Muzikë
-http://217.73.139.200:5443/play/a00p
-#EXTINF:0 group-title="AL",RTSH Sport
-http://217.73.139.200:5443/play/a01d
-#EXTINF:0 group-title="AL",RTSH Shkollë
-http://217.73.139.200:5443/play/a00v
-#EXTINF:0 group-title="AL",Klan News
-http://217.73.139.200:5443/play/a005
-#EXTINF:0 group-title="AL",Klan Music
-http://217.73.139.200:5443/play/a008
+#EXTINF:0 group-title="AL",Euronews Albania
+http://31.171.154.23:8000/play/s253
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="AL",IN TV
-http://217.73.139.200:5443/play/a010
-#EXTINF:0 group-title="AL",SYRI TV
-http://217.73.139.200:5443/play/a006
 #EXTINF:0 group-title="KS",RTK 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="KS",RTK 3
@@ -1521,7 +1521,7 @@ http://116.202.113.254:8888/tvr3
 #EXTINF:0,724
 http://79.112.79.166:8069/udp/239.10.20.62:1234
 #EXTINF:0,725
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2699
+http://88.156.96.25:9999/udp/239.239.17.193:1234
 #EXTINF:0,726
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2697
 #EXTINF:0,727
@@ -1591,7 +1591,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0,759
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
 #EXTINF:0,760
-https://cdndirector.dailymotion.com/cdn/live/video/xa0aoxk.m3u8?sec=TNSGfQBABV1wUNs6Cf1Xij2zX8AXFMmBtLBy4K9Ul0Y7b91fNNGEf7bZhau44DMw_Mlwb67Ia9vOLcKGXTifjbapPW372qTetUxKy2xU_vPGSUIYuw92JpoDlR1BrayV&dmTs=124748&dmV1st=be8ff5a3-a31b-4e6d-88c1-1876f8537ce9
+https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
@@ -1685,4 +1685,7 @@ http://5.180.164.197:8080/RAI1/index.m3u8
 #EXTINF:-1 group-title="test",799
 http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:-1 group-title="test",800
-https://hd-auth.skylinewebcams.com/live.m3u8?a=6736q92r0iggkj94s5ij63tdh1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
