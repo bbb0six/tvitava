@@ -257,9 +257,9 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
-#EXTINF:0 group-title="Music",MTV Classic
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
-#EXTINF:0 group-title="Music",MTV Live
+#EXTINF:0 group-title="Music",Deluxe Music SD
+http://87.246.54.90:8080/DeluxeMusic/index.m3u8
+#EXTINF:0 group-title="Music",MTV Live US
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
