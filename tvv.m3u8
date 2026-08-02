@@ -96,6 +96,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 group-title="WBD IT",Discovery
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
@@ -215,20 +216,28 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="RTL 102.5",RADIOFRECCIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RADIOZETA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Traffic
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Disco
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Best
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Napulè
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Caliente
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Bro&Sis
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 group-title="RDS",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
@@ -397,10 +406,10 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="Regionali",TVRS
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="Vari",San Marino RTV
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 #EXTINF:0 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:0 group-title="CH",RTS INFO
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 http://213.47.175.190:9981/stream/channelid/1051666676?profile=pass
 #EXTINF:0 group-title="AT",ORF 2
@@ -490,7 +499,10 @@ http://151.80.18.177:86/TMC/mpegts
 #EXTINF:0 group-title="FR",TFX
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1812
 #EXTINF:0 group-title="FR",Gulli
-http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
@@ -519,14 +531,6 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="FR",M6 Music FR
 http://145.239.5.177/320/mpegts
-#EXTINF:0 group-title="FR",AB1
-http://145.239.5.177/332/mpegts
-#EXTINF:0 group-title="FR",RTBF La Une
-http://145.239.5.177/329/mpegts
-#EXTINF:0 group-title="FR",RTL 9
-http://145.239.5.177/308/mpegts
-#EXTINF:0 group-title="FR",RTS INFO
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="UK",BBC 1
 http://51.178.182.222:80/BBC1/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
@@ -555,18 +559,6 @@ http://51.178.182.222:80/Film4/index.m3u8
 http://51.178.182.222:80/More4/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://51.178.182.222:80/E4/index.m3u8
-#EXTINF:0 group-title="PT",RTP 1
-http://50.7.120.34:8080/RTP_1/index.m3u8
-#EXTINF:0 group-title="PT",RTP 2
-http://50.7.120.34:8080/RTP_2/index.m3u8
-#EXTINF:0 group-title="PT",RTP Notícias
-http://50.7.120.34:8080/RTP_3/index.m3u8
-#EXTINF:0 group-title="ES",Star TVE
-http://45.171.64.30:8800/play/a04z
-#EXTINF:0 group-title="ES",TVE Int
-http://185.207.34.31:8000/play/a00e/index.m3u8
-#EXTINF:0 group-title="ES",24h
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",La 1
 http://79.112.79.166:8069/udp/239.10.20.5:1234
 #EXTINF:0 group-title="ES",La 2
@@ -580,15 +572,35 @@ http://79.112.79.166:8069/udp/239.10.20.19:1234
 #EXTINF:0 group-title="ES",laSexta
 http://79.112.79.166:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="ES",TDP
-http://79.112.79.166:8069/udp/239.10.20.3:1234
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",Divinity
 http://79.112.79.166:8069/udp/239.10.20.18:1234
 #EXTINF:0 group-title="ES",Energy
 http://79.112.79.166:8069/udp/239.10.20.49:1234
+#EXTINF:0 group-title="ES",24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:0 group-title="ES",FDF
+http://79.112.79.166:8069/udp/239.10.20.17:1234
+#EXTINF:0 group-title="ES",Mega
+http://79.112.79.166:8069/udp/239.10.20.42:1234
+#EXTINF:0 group-title="ES",Neox
+http://79.112.79.166:8069/udp/239.10.20.13:1234
+#EXTINF:0 group-title="ES",Nova
+http://79.112.79.166:8069/udp/239.10.20.14:1234
 #EXTINF:0 group-title="ES",Boing España
 http://185.47.212.25/Boing/index.m3u8
 #EXTINF:0 group-title="ES",Clan
 https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
+#EXTINF:0 group-title="ES",Star TVE
+http://45.171.64.30:8800/play/a04z
+#EXTINF:0 group-title="ES",TVE Int
+http://185.207.34.31:8000/play/a00e/index.m3u8
+#EXTINF:0 group-title="PT",RTP 1
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -722,13 +734,13 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 http://85.11.189.178:8080/BNT1HD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 2 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a049
+http://87.246.54.90:8080/BNT2/index.m3u8
 #EXTINF:0 group-title="BG",BNT 3 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a04u
+http://87.246.54.90:8080/BNT4/index.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/bTV/index.m3u8
@@ -1211,25 +1223,25 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+http://87.246.54.90:8080/NovaSport/index.m3u8
 #EXTINF:0,571
-http://86.87.15.10:8008/play/a01h/index.m3u8
+http://87.246.54.90:8080/MaxSport1/index.m3u8
 #EXTINF:0,572
-http://86.87.15.10:8004/play/a02b/index.m3u8
+http://87.246.54.90:8080/MaxSport2/index.m3u8
 #EXTINF:0,573
-http://86.87.15.10:8003/play/a02k/index.m3u8
+http://87.246.54.90:8080/MaxSport3/index.m3u8
 #EXTINF:0,574
-http://86.87.15.10:8004/play/a02a/index.m3u8
+http://87.246.54.90:8080/MaxSport4/index.m3u8
 #EXTINF:0,575
-http://86.87.15.10:8009/play/a01d/index.m3u8
+http://87.246.54.90:8080/DiemaSport/index.m3u8
 #EXTINF:0,576
-http://86.87.15.10:8009/play/a01e/index.m3u8
+http://87.246.54.90:8080/DiemaSport2/index.m3u8
 #EXTINF:0,577
-http://86.87.15.10:8005/play/a00v/index.m3u8
+http://87.246.54.90:8080/DiemaSport3/index.m3u8
 #EXTINF:0,578
-http://45.84.187.172:3001/udp/239.100.10.45:5000
+http://87.246.54.90:8080/Eurosport/index.m3u8
 #EXTINF:0,579
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
+http://87.246.54.90:8080/Eurosport2/index.m3u8
 #EXTINF:0,580
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1,581
@@ -1251,7 +1263,7 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19157/mpegts
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1,591
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:-1,592
@@ -1685,7 +1697,4 @@ http://5.180.164.197:8080/RAI1/index.m3u8
 #EXTINF:-1 group-title="test",799
 http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:-1 group-title="test",800
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
-https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
