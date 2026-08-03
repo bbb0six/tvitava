@@ -591,8 +591,6 @@ http://79.112.79.166:8069/udp/239.10.20.14:1234
 http://185.47.212.25/Boing/index.m3u8
 #EXTINF:0 group-title="ES",Clan
 https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
-#EXTINF:0 group-title="ES",Star TVE
-http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="ES",TVE Int
 http://185.207.34.31:8000/play/a00e/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
@@ -601,6 +599,8 @@ http://50.7.120.34:8080/RTP_1/index.m3u8
 http://50.7.120.34:8080/RTP_2/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="ES",Star TVE
+http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -1123,7 +1123,7 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTINF:0 group-title="s",519
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:0 group-title="s",520
-http://45.71.202.124:8000/play/a001
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 2 SK
@@ -1132,10 +1132,10 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://88.212.15.19/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:-1 group-title="s",525
-http://88.212.15.19/live/test_arenasport/playlist.m3u8
-#EXTINF:-1 group-title="s",526
-http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:0 group-title="s",Sport 1 IL
+http://185.18.207.170:8080/sport1/index.m3u8
+#EXTINF:0 group-title="s",Sport 3 IL
+http://185.18.207.170:8080/sport3/index.m3u8
 #EXTINF:-1 group-title="s",527
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:-1 group-title="s",528
@@ -1535,13 +1535,13 @@ http://79.112.79.166:8069/udp/239.10.20.62:1234
 #EXTINF:0,725
 http://88.156.96.25:9999/udp/239.239.17.193:1234
 #EXTINF:0,726
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2697
+http://185.18.207.170:8080/kan11/index.m3u8
 #EXTINF:0,727
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28437
+http://185.18.207.170:8080/Nostalgiya/index.m3u8
 #EXTINF:0,728
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28434
+http://185.18.207.170:8080/MCM/index.m3u8
 #EXTINF:0,729
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28433
+http://45.71.202.124:8000/play/a001
 #EXTINF:0,730
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,731
