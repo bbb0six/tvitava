@@ -514,7 +514,7 @@ https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14056
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
+https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14058
 #EXTINF:0 group-title="FR",NOVO19
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/18203
 #EXTINF:0 group-title="FR",TF1 Series Film
@@ -529,8 +529,6 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:0 group-title="FR",M6 Music FR
-http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="UK",BBC 1
 http://51.178.182.222:80/BBC1/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
@@ -539,6 +537,8 @@ http://51.178.182.222:80/BBC2/index.m3u8
 http://51.178.182.222:80/BBC3/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
 http://51.178.182.222:80/BBC4/index.m3u8
+#EXTINF:0 group-title="UK",BBC First
+http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://51.178.182.222:80/ITV1/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
@@ -599,8 +599,8 @@ http://50.7.120.34:8080/RTP_1/index.m3u8
 http://50.7.120.34:8080/RTP_2/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://50.7.120.34:8080/RTP_3/index.m3u8
-#EXTINF:0 group-title="ES",Star TVE
-http://45.171.64.30:8800/play/a04z
+#EXTINF:0 group-title="Vari",Telecupole
+https://d4k.it/hls/live2/live.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -1569,9 +1569,9 @@ http://88.212.7.14/live/duck_tv/index.m3u8
 #EXTINF:0,742
 https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:0,743
-http://88.212.7.14/live/rik_atk/index.m3u8
+http://45.171.64.30:8800/play/a04z
 #EXTINF:0,744
-https://dash3.antik.sk/live/test_upnetwork/playlist.m3u8
+http://stream.mcquack.net/34/index.m3u8
 #EXTINF:0,745
 http://stream.mcquack.net/31/index.m3u8
 #EXTINF:0,746
