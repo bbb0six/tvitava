@@ -1603,7 +1603,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0,759
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
 #EXTINF:0,760
-https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+https://rtve01p.origin.c21livecloud.com/live-origin/24h-hls/master.m3u8
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
@@ -1631,11 +1631,11 @@ https://d4k.it/hls/live2/live.m3u8
 #EXTINF:0,773
 https://d4k.it/hls/live3/live.m3u8
 #EXTINF:0,774
-https://rtve01p.origin.c21livecloud.com/live-origin/24h-hls/master.m3u8
+https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,775
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
+https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,776
-https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
+https://rtve01p.origin.c21livecloud.com/live-origin/24h-hls/master.m3u8
 #EXTINF:0,777
 https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0,778
