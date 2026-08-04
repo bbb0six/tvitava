@@ -110,14 +110,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:0 group-title="WBD IT",K2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0100ba5d29a372845ef226049f684ec5:cb0e3ac2559b4537cffcd130644e5217
-#KODIPROP:inputstream.adaptive.license_key=01010dbb15af95a17086d1c21d5158df:3a167d7de6361eefe75d6d4eca03aa2a
-#KODIPROP:inputstream.adaptive.license_key=0102ec0417e0159d451394828b608b28:eed709c12d9202009dc6d105c957a080
-#KODIPROP:inputstream.adaptive.license_key=0103787a733983b31e18aaba92b71415:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=010472105a5244ba4b541b3b43855bfb:00000000000000000000000000000000
-#KODIPROP:inputstream.adaptive.license_key=01056351ffba7a3e729c121c7f628509:00000000000000000000000000000000
-https://api.zappr.stream/k2.mpd
+http://nocable.cc:8080/88064703/88064703/266397
 #EXTINF:-1 group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
