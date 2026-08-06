@@ -250,9 +250,9 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
-#EXTINF:0 group-title="Music",Deluxe Music SD
+#EXTINF:0 group-title="-",98
 http://87.246.54.90:8080/DeluxeMusic/index.m3u8
-#EXTINF:0 group-title="Music",MTV Live US
+#EXTINF:0 group-title="-",99
 http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
@@ -727,13 +727,13 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 http://85.11.189.178:8080/BNT1HD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 2 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://87.246.54.90:8080/BNT2/index.m3u8
+http://213.91.179.28:8000/play/a049
 #EXTINF:0 group-title="BG",BNT 3 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://87.246.54.90:8080/BNT4/index.m3u8
+http://213.91.179.28:8000/play/a04u
 #EXTINF:0 group-title="BG",bTV BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/bTV/index.m3u8
@@ -942,9 +942,9 @@ http://206.212.244.63/1/index.m3u8
 #EXTINF:0 group-title="USA",ABC News Live
 http://206.212.244.63/2/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
-http://206.212.244.63/13/index.m3u8
-#EXTINF:0 group-title="USA",BBC World News
-http://206.212.244.63/14/index.m3u8
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:0 group-title="USA",BBC News
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",BET (West)
 http://206.212.244.63/16/index.m3u8
 #EXTINF:0 group-title="USA",BET HER (West)
@@ -992,9 +992,9 @@ http://206.212.244.63/103/index.m3u8
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",CMT East
-http://206.212.244.63/39/index.m3u8
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",VH1
-http://206.212.244.63/169/index.m3u8
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
@@ -1004,13 +1004,13 @@ http://40.160.24.53/MTV2/index.m3u8
 #EXTINF:0 group-title="USA",MTV U
 http://206.212.244.63/119/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
-http://206.212.244.63/118/index.m3u8
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV CLASSIC
 http://206.212.244.63/117/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
-http://206.212.244.63/122/index.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
-http://206.212.244.63/123/index.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",NESN
@@ -1216,25 +1216,25 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://87.246.54.90:8080/NovaSport/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=ZonaDAZN
 #EXTINF:0,571
-http://87.246.54.90:8080/MaxSport1/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=EURO1IT
 #EXTINF:0,572
-http://87.246.54.90:8080/MaxSport2/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=EURO2IT
 #EXTINF:0,573
-http://87.246.54.90:8080/MaxSport3/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SKYSPORTUNOIT
 #EXTINF:0,574
-http://87.246.54.90:8080/MaxSport4/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SKYSPORTCALCIOIT
 #EXTINF:0,575
-http://87.246.54.90:8080/DiemaSport/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SkySportMaxIT
 #EXTINF:0,576
-http://87.246.54.90:8080/DiemaSport2/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SkySportMixIT
 #EXTINF:0,577
-http://87.246.54.90:8080/DiemaSport3/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SkySportArenaIT
 #EXTINF:0,578
-http://87.246.54.90:8080/Eurosport/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SkySportTennisIT
 #EXTINF:0,579
-http://87.246.54.90:8080/Eurosport2/index.m3u8
+https://ftv.itscwd273.workers.dev/?id=SkySport24IT
 #EXTINF:0,580
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1,581
@@ -1364,13 +1364,13 @@ https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="GE",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0 group-title="TR",TRT 1
-http://87.246.54.90:8080/TRT1/index.m3u8
-#EXTINF:0 group-title="TR",TRT 2
-http://87.246.54.90:8080/TRT2/index.m3u8
-#EXTINF:0 group-title="TR",ATV
-http://87.246.54.90:8080/ATV/index.m3u8
-#EXTINF:0 group-title="TR",Show Turk
-http://87.246.54.90:8080/ShowTV/index.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="-",645
+http://185.18.207.170:8080/1HD/index.m3u8
+#EXTINF:0 group-title="-",646
+http://185.18.207.170:8080/zoom/index.m3u8
+#EXTINF:0 group-title="-",647
+http://185.18.207.170:8080/channel8/index.m3u8
 #EXTINF:0 group-title="MT",TVM Malta
 https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
 #EXTINF:0 group-title="MT",ONE Malta
@@ -1534,7 +1534,7 @@ http://185.18.207.170:8080/Nostalgiya/index.m3u8
 #EXTINF:0,728
 http://185.18.207.170:8080/MCM/index.m3u8
 #EXTINF:0,729
-http://45.71.202.124:8000/play/a001
+http://185.18.207.170:8080/sport5gold/index.m3u8
 #EXTINF:0,730
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,731
@@ -1558,9 +1558,9 @@ http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0,740
 http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,741
-http://88.212.7.14/live/duck_tv/index.m3u8
+http://185.18.207.170:8080/Belarus_1/index.m3u8
 #EXTINF:0,742
-https://dash4.antik.sk/live/test_duck_plus/playlist.m3u8
+http://185.18.207.170:8080/Belarus_24/index.m3u8
 #EXTINF:0,743
 http://45.171.64.30:8800/play/a04z
 #EXTINF:0,744
