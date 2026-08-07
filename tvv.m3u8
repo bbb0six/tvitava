@@ -249,11 +249,14 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
+#EXTVLCOPT:network-caching=2000
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
-#EXTINF:0 group-title="-",98
-http://87.246.54.90:8080/DeluxeMusic/index.m3u8
-#EXTINF:0 group-title="-",99
-http://23.237.104.106:8080/USA_MTV_LIVE/mpegts
+#EXTINF:0 group-title="Vari",RSI La 1
+#EXTVLCOPT:network-caching=2000
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2707
+#EXTINF:0 group-title="Vari",RSI La 2
+#EXTVLCOPT:network-caching=2000
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2706
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1 Sat
@@ -899,22 +902,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:0 group-title="World",Africanews FR
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:0 group-title="World",Telesur ES
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 group-title="World",Telesur EN
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="World",A3 INT
-http://45.235.37.226/antena3/index.m3u8
-#EXTINF:0 group-title="World",Canal 13
-http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:-1 group-title="World",Globo
-http://190.83.85.68/globo/index.m3u8
-#EXTINF:0 group-title="World",Rai Italia
-http://181.78.192.238:8000/play/a2hd
-#EXTINF:-1 group-title="World",MTV Live
-http://40.160.24.53/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="World",MTV Classic
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 group-title="Rai",Rai Italia US
@@ -931,6 +918,23 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 group-title="World",20MIN FR
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:0 group-title="World",Telesur ES
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 group-title="World",Telesur EN
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:0 group-title="World",A3 INT
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:0 group-title="World",Canal 13
+http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:-1 group-title="World",Globo BR
+http://190.83.85.68/globo/index.m3u8
+#EXTINF:0 group-title="World",Rai Italia
+http://181.78.192.238:8000/play/a2hd
+#EXTINF:0 group-title="World",Rai Italia
+#EXTVLCOPT:network-caching=1000
+http://179.63.5.46:8000/play/a01n/index.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -985,13 +989,13 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:0 group-title="USA",MAGNOLIA
-http://206.212.244.63/107/index.m3u8
+#EXTINF:0 group-title="USA",HALLMARK
+http://40.160.24.53/HALLMARK/index.m3u8
 #EXTINF:0 group-title="USA",LIFETIME
-http://206.212.244.63/103/index.m3u8
+http://40.160.24.53/LIFETIME/index.m3u8
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 group-title="USA",CMT East
+#EXTINF:0 group-title="USA",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
@@ -1001,12 +1005,12 @@ http://dvr2.kablova.tv/MTV/index.m3u8
 http://40.160.24.53/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
 http://40.160.24.53/MTV2/index.m3u8
-#EXTINF:0 group-title="USA",MTV U
-http://206.212.244.63/119/index.m3u8
-#EXTINF:0 group-title="USA",MTV LIVE
+#EXTINF:0 group-title="USA",MTV LIVE SD
+http://40.160.24.53/MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",MTV LIVE US
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV CLASSIC
-http://206.212.244.63/117/index.m3u8
+#EXTINF:0 group-title="USA",MTV Classic
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
