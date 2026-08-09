@@ -249,14 +249,12 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN Int
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
-#EXTVLCOPT:network-caching=2000
+#EXTVLCOPT:network-caching=1000
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
-#EXTINF:0 group-title="Vari",RSI La 1
-#EXTVLCOPT:network-caching=2000
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2707
-#EXTINF:0 group-title="Vari",RSI La 2
-#EXTVLCOPT:network-caching=2000
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2706
+#EXTINF:0 group-title="Rai",Rai Italia
+http://179.63.5.46:8000/play/a01n/index.m3u8
+#EXTINF:0 group-title="Music",MTV Japan
+https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1 Sat
