@@ -246,22 +246,21 @@ http://88.212.7.14/live/mb_sexy/index.m3u8
 http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 group-title="News",SKY News
 http://88.212.7.14/live/test_skynews/playlist.m3u8
-#EXTINF:0 group-title="News",CNN Int
+#EXTINF:0 group-title="News",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:0 group-title="News",CNN Español
+http://179.63.5.46:8000/play/a03a/index.m3u8
 #EXTINF:0 group-title="Vari",San Marino RTV
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
 #EXTINF:0 group-title="Rai",Rai Italia
 http://179.63.5.46:8000/play/a01n/index.m3u8
-#EXTINF:0 group-title="Music",MTV Japan
-https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 1 Sat
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="IT",RAI 2 Sat
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:0 group-title="IT",RAI 3 Sat
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="IT",RETE 4
@@ -1006,6 +1005,7 @@ http://40.160.24.53/MTV2/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE SD
 http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE US
+#EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
@@ -1218,25 +1218,25 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-https://ftv.itscwd273.workers.dev/?id=ZonaDAZN
+http://179.63.5.46:8000/play/a071/index.m3u8
 #EXTINF:0,571
-https://ftv.itscwd273.workers.dev/?id=EURO1IT
+http://179.63.5.46:8000/play/a05b/index.m3u8
 #EXTINF:0,572
-https://ftv.itscwd273.workers.dev/?id=EURO2IT
+http://179.63.5.46:8000/play/a053/index.m3u8
 #EXTINF:0,573
-https://ftv.itscwd273.workers.dev/?id=SKYSPORTUNOIT
+http://179.63.5.46:8000/play/a04n/index.m3u8
 #EXTINF:0,574
-https://ftv.itscwd273.workers.dev/?id=SKYSPORTCALCIOIT
+http://179.63.5.46:8000/play/a065/index.m3u8
 #EXTINF:0,575
-https://ftv.itscwd273.workers.dev/?id=SkySportMaxIT
+http://179.63.5.46:8000/play/a04b/index.m3u8
 #EXTINF:0,576
-https://ftv.itscwd273.workers.dev/?id=SkySportMixIT
+http://179.63.5.46:8000/play/a044/index.m3u8
 #EXTINF:0,577
-https://ftv.itscwd273.workers.dev/?id=SkySportArenaIT
+http://179.63.5.46:8000/play/a05y/index.m3u8
 #EXTINF:0,578
-https://ftv.itscwd273.workers.dev/?id=SkySportTennisIT
+http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
-https://ftv.itscwd273.workers.dev/?id=SkySport24IT
+http://179.63.5.46:8000/play/a052/index.m3u8
 #EXTINF:0,580
 http://181.78.8.199:8000/play/a08y/index.m3u8
 #EXTINF:-1,581
@@ -1690,6 +1690,6 @@ http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
 http://5.180.164.197:8080/RAI1/index.m3u8
 #EXTINF:-1 group-title="test",799
-http://5.180.164.197:8080/RAI2/index.m3u8
-#EXTINF:-1 group-title="test",800
 http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
+#EXTINF:-1 group-title="test",800
+https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
