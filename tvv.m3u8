@@ -1688,9 +1688,10 @@ http://185.97.73.187:11000/play/bnt1/index.m3u8
 #EXTINF:-1 group-title="test",797
 http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
-http://5.180.164.197:8080/RAI1/index.m3u8
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 group-title="test",799
 http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:-1 group-title="test",800
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #EXTVLCOPT:network-caching=1000
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
