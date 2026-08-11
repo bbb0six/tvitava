@@ -404,11 +404,11 @@ https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:0 group-title="CH",RTS INFO
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
-http://213.47.175.190:9981/stream/channelid/1051666676?profile=pass
+http://176.65.153.29:2004/play/a070/index.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
-http://213.47.175.190:9981/stream/channelid/2140495578?profile=pass
+http://176.65.153.29:2004/play/a072/index.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -438,11 +438,11 @@ http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",Tele 5
-http://213.47.175.190:9981/stream/channelid/594342400?profile=pass
+http://176.65.153.29:2010/play/a06t/index.m3u8
 #EXTINF:0 group-title="DE",ZDF info
-http://213.47.175.190:9981/stream/channelid/495923061?profile=pass
+http://176.65.153.29:2005/play/a06x/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+http://176.65.153.29:2005/play/a06z/index.m3u8
 #EXTINF:0 group-title="DE",KIKA
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
@@ -462,11 +462,11 @@ https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SWR
 https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+http://176.65.153.29:2011/play/a073/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+http://176.65.153.29:2009/play/a06z/index.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+http://176.65.153.29:2009/play/a073/index.m3u8
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
