@@ -525,7 +525,7 @@ https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="UK",BBC 1
 http://89.46.123.5:80/stream/109/bbc1sd.ts
 #EXTINF:0 group-title="UK",BBC 2
-http://89.46.123.6:80/stream/362/index.m3u8
+http://79.143.16.74:80/stream/4/bbc2fhd.ts
 #EXTINF:0 group-title="UK",BBC 3
 http://89.46.123.6:80/stream/372/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
@@ -679,7 +679,7 @@ http://31.171.154.23:8005/play/s58
 #EXTINF:0 group-title="AL",RTSH 24
 http://31.171.154.23:8005/play/s52
 #EXTINF:0 group-title="AL",Klan
-http://31.171.154.23:8000/play/s259
+http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:0 group-title="AL",Top Channel
 http://31.171.154.23:8002/play/s14
 #EXTINF:0 group-title="AL",Klan Plus
@@ -1690,7 +1690,7 @@ http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 group-title="test",799
-http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
+http://149.62.177.107:9999/France_2/index.m3u8
 #EXTINF:-1 group-title="test",800
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #EXTVLCOPT:network-caching=1000
