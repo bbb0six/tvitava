@@ -1065,10 +1065,10 @@ http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",NBC NY
-http://206.212.244.63/125/index.m3u8
+#EXTINF:0 group-title="USA",ABC News
+http://4.30.180.36:8420/abc/index.m3u8?token=test
 #EXTINF:0 group-title="USA",NBC News
-http://206.212.244.63/127/index.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1076,7 +1076,7 @@ https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlis
 #EXTINF:0 group-title="USA",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",CNN LIVE
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://4.30.180.36:8420/cnn/index.m3u8?token=test
 #EXTINF:0 group-title="USA",CNN ESPAÑOL
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 ES
