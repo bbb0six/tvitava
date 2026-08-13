@@ -474,28 +474,26 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0 group-title="FR",France 2
 http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
-http://5.180.164.197:8080/FRANCE3/index.m3u8
+http://149.62.177.107:9999/France_3/index.m3u8
 #EXTINF:0 group-title="FR",France 4
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/928
+http://149.62.177.107:9999/France_4/index.m3u8
 #EXTINF:0 group-title="FR",France 5
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/927
+http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:0 group-title="FR",M6
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:0 group-title="FR",Arte FR
-http://151.80.18.177:86/ARTE_HD/index.m3u8
+http://149.62.177.107:9999/M6/index.m3u8
+#EXTINF:0 group-title="FR",Arte
+#EXTVLCOPT:network-caching=1000
+http://149.62.177.107:9999/Arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14716
+http://149.62.177.107:9999/LCP/index.m3u8
 #EXTINF:0 group-title="FR",W9
-http://151.80.18.177:86/W9_HD/mpegts
+http://149.62.177.107:9999/W9/index.m3u8
 #EXTINF:0 group-title="FR",TMC
-http://151.80.18.177:86/TMC/mpegts
+http://149.62.177.107:9999/TMC/index.m3u8
 #EXTINF:0 group-title="FR",TFX
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1812
+http://149.62.177.107:9999/TFX/index.m3u8
 #EXTINF:0 group-title="FR",Gulli
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
-https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+http://149.62.177.107:9999/Gulli/index.m3u8
 #EXTINF:0 group-title="FR",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
@@ -503,19 +501,19 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0 group-title="FR",LCI
 http://145.239.5.177/368/mpegts
 #EXTINF:0 group-title="FR",franceinfo
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14056
+http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/14058
+http://149.62.177.107:9999/t18/index.m3u8
 #EXTINF:0 group-title="FR",NOVO19
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/18203
+http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:0 group-title="FR",TF1 Series Film
 https://tv.streamboxtv.cc:443/testlivestream/testlivestream/1814
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/7310
+http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -789,10 +787,10 @@ https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 #EXTINF:-1 group-title="CH",TVM3 CH
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:0 group-title="World",3cat
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
-#EXTINF:0 group-title="World",3cat info
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="FR",RTL 9
+http://145.239.5.177/308/mpegts
+#EXTINF:0 group-title="Music",M6 Music
+http://145.239.5.177/320/mpegts
 #EXTINF:0 group-title="Music",FON Music RU
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -873,8 +871,8 @@ http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",RTRS INT
-http://45.82.88.87:15153/udp/237.40.1.4:5000
+#EXTINF:0 group-title="World",KBS World
+http://119.82.250.109:8080/nl.m3u8?id=1154
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -927,11 +925,10 @@ http://45.235.37.226/antena3/index.m3u8
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:-1 group-title="World",Globo BR
 http://190.83.85.68/globo/index.m3u8
-#EXTINF:0 group-title="World",Rai Italia
-http://181.78.192.238:8000/play/a2hd
-#EXTINF:0 group-title="World",Rai Italia
-#EXTVLCOPT:network-caching=1000
-http://179.63.5.46:8000/play/a01n/index.m3u8
+#EXTINF:0 group-title="World",3cat
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
+#EXTINF:0 group-title="World",3cat info
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -1530,17 +1527,20 @@ http://79.112.79.166:8069/udp/239.10.20.62:1234
 #EXTINF:0,725
 http://88.156.96.25:9999/udp/239.239.17.193:1234
 #EXTINF:0,726
-http://185.18.207.170:8080/kan11/index.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0,727
-http://185.18.207.170:8080/Nostalgiya/index.m3u8
+http://151.80.18.177:86/ARTE_HD/index.m3u8
 #EXTINF:0,728
-http://185.18.207.170:8080/MCM/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
 #EXTINF:0,729
 http://185.18.207.170:8080/sport5gold/index.m3u8
 #EXTINF:0,730
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,731
-http://31.148.48.15/KBS_World/index.m3u8
+http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0,732
 http://202.169.224.202:8800/udp/239.6.3.4:1234
 #EXTINF:0,733
