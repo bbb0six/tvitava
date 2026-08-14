@@ -915,20 +915,22 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 group-title="World",20MIN FR
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:0 group-title="World",Telesur ES
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 group-title="World",Telesur EN
-https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="World",A3 INT
-http://45.235.37.226/antena3/index.m3u8
-#EXTINF:0 group-title="World",Canal 13
-http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:-1 group-title="World",Globo BR
-http://190.83.85.68/globo/index.m3u8
 #EXTINF:0 group-title="World",3cat
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="World",Telesur ES
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:0 group-title="World",Telesur EN
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="World",Globo 1 BR
+http://190.83.85.68/globo/index.m3u8
+#EXTINF:-1 group-title="World",Globo 2 BR
+http://79.127.238.228:14173/
+#EXTINF:0 group-title="World",A3 INT
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:0 group-title="World",Canal 13
+http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="USA",CBS 2 NY
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
@@ -937,8 +939,6 @@ http://stream.cammonitorplus.net/1812/index.m3u8
 http://stream.cammonitorplus.net/1813/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://206.212.244.63/1/index.m3u8
-#EXTINF:0 group-title="USA",ABC News Live
-http://206.212.244.63/2/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
@@ -984,9 +984,9 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",HALLMARK
-http://40.160.24.53/HALLMARK/index.m3u8
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 #EXTINF:0 group-title="USA",LIFETIME
-http://40.160.24.53/LIFETIME/index.m3u8
+http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:0 group-title="USA",CMT
@@ -996,9 +996,9 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",MTV Global
 http://dvr2.kablova.tv/MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV 1
-http://40.160.24.53/MTV/index.m3u8
+http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
-http://40.160.24.53/MTV2/index.m3u8
+http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE SD
 http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE US
@@ -1275,7 +1275,8 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1,599
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:-1,600
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19074/mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1552,7 +1553,7 @@ https://gpuserver3.tier1streams.com/FOX/index.m3u8
 #EXTINF:0,736
 https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
 #EXTINF:0,737
-http://198.58.104.90:8989/mtv2/index.m3u8
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0,738
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:0,739
@@ -1673,13 +1674,14 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2707
 #EXTINF:0 group-title="test",RSI LA2 test
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2706
-#EXTINF:-1 group-title="test",La7 test
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://jmp2.uk/stvp-ITBD1500002NL
-#EXTINF:-1 group-title="test",794
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
+#EXTINF:-1 group-title="test",SRF Zwei test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
+#EXTINF:-1 group-title="test",ORF 1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
 #EXTINF:-1 group-title="test",795
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="test",796
