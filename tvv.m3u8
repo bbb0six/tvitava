@@ -671,47 +671,47 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH 1
-http://31.171.154.23:8005/play/s51
+http://217.73.139.200:5443/play/a00f
 #EXTINF:0 group-title="AL",RTSH 2
-http://31.171.154.23:8005/play/s58
+http://217.73.139.200:5443/play/a00k
 #EXTINF:0 group-title="AL",RTSH 24
-http://31.171.154.23:8005/play/s52
+http://217.73.139.200:5443/play/a00s
 #EXTINF:0 group-title="AL",Klan
 http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:0 group-title="AL",Top Channel
-http://31.171.154.23:8002/play/s14
+http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
-http://31.171.154.23:8000/play/s262
+http://217.73.139.200:5443/play/a004
 #EXTINF:0 group-title="AL",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC AL
-http://31.171.154.23:8001/play/s326
+http://217.73.139.200:5443/play/a003
 #EXTINF:0 group-title="AL",Top News AL
-http://31.171.154.23:8002/play/s17
+http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
-http://31.171.154.23:8000/play/s327
+http://217.73.139.200:5443/play/a01c
 #EXTINF:0 group-title="AL",SCAN
-http://31.171.154.23:8000/play/s258
+http://217.73.139.200:5443/play/a009
 #EXTINF:0 group-title="AL",SYRI
-http://31.171.154.23:8000/play/s257
+http://217.73.139.200:5443/play/a019
 #EXTINF:0 group-title="AL",Klan News
-http://31.171.154.23:8000/play/s261
-#EXTINF:0 group-title="AL",Klan Nostalgji
-http://31.171.154.23:8000/play/s263
+http://217.73.139.200:5443/play/a005
+#EXTINF:0 group-title="AL",Panorama
+http://159.69.221.56/panorama/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",RTSH Sport
-http://31.171.154.23:8005/play/s60
+http://217.73.139.200:5443/play/a01d
 #EXTINF:0 group-title="AL",RTSH Film
-http://31.171.154.23:8005/play/s55
+http://217.73.139.200:5443/play/a00n
 #EXTINF:0 group-title="AL",RTSH Muzikë
-http://31.171.154.23:8005/play/s56
+http://217.73.139.200:5443/play/a00p
 #EXTINF:0 group-title="AL",IN TV
-http://31.171.154.23:8004/play/s96
+http://217.73.139.200:5443/play/a010
 #EXTINF:0 group-title="AL",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="AL",Euronews Albania
-http://31.171.154.23:8000/play/s253
+http://217.73.139.200:5443/play/a007
 #EXTINF:0 group-title="AL",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
