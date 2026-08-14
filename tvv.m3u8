@@ -551,37 +551,37 @@ http://45.90.106.117:80/stream/402/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://79.143.16.74:80/stream/11/e4fhd.ts
 #EXTINF:0 group-title="ES",La 1
-http://79.112.79.166:8069/udp/239.10.20.5:1234
+http://88.6.113.4:9981/stream/channelid/547412540?profile=pass
 #EXTINF:0 group-title="ES",La 2
-http://79.112.79.166:8069/udp/239.10.20.8:1234
+http://88.6.113.4:9981/stream/channelid/1517748079?profile=pass
 #EXTINF:0 group-title="ES",Antena 3
-http://79.112.79.166:8069/udp/239.10.20.9:1234
+http://88.6.113.4:9981/stream/channelid/325685762?profile=pass
 #EXTINF:0 group-title="ES",Cuatro
-http://79.112.79.166:8069/udp/239.10.20.20:1234
+http://88.6.113.4:9981/stream/channelid/1407338055?profile=pass
 #EXTINF:0 group-title="ES",Telecinco
-http://79.112.79.166:8069/udp/239.10.20.19:1234
+http://88.6.113.4:9981/stream/channelid/1619367617?profile=pass
 #EXTINF:0 group-title="ES",laSexta
-http://79.112.79.166:8069/udp/239.10.20.11:1234
+http://88.6.113.4:9981/stream/channelid/1292397604?profile=pass
 #EXTINF:0 group-title="ES",TDP
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
+http://88.6.113.4:9981/stream/channelid/1142692973?profile=pass
 #EXTINF:0 group-title="ES",Divinity
-http://79.112.79.166:8069/udp/239.10.20.18:1234
+http://185.47.212.25/Divinity/index.m3u8
 #EXTINF:0 group-title="ES",Energy
-http://79.112.79.166:8069/udp/239.10.20.49:1234
+http://185.47.212.25/Energy/index.m3u8
 #EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",FDF
-http://79.112.79.166:8069/udp/239.10.20.17:1234
+http://185.47.212.25/FDF/index.m3u8
 #EXTINF:0 group-title="ES",Mega
-http://79.112.79.166:8069/udp/239.10.20.42:1234
+http://45.235.37.228/megahd/index.m3u8
 #EXTINF:0 group-title="ES",Neox
-http://79.112.79.166:8069/udp/239.10.20.13:1234
+http://185.47.212.25/neox/index.m3u8
 #EXTINF:0 group-title="ES",Nova
-http://79.112.79.166:8069/udp/239.10.20.14:1234
+http://185.47.212.25/nova/index.m3u8
 #EXTINF:0 group-title="ES",Boing España
 http://185.47.212.25/Boing/index.m3u8
 #EXTINF:0 group-title="ES",Clan
-https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
+http://88.6.113.4:9981/stream/channelid/1852055587?profile=pass
 #EXTINF:0 group-title="ES",TVE Int
 http://185.207.34.31:8000/play/a00e/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
@@ -1686,7 +1686,7 @@ https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="test",796
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://185.97.73.187:11000/play/bnt1/index.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 group-title="test",797
 http://185.97.73.187:11000/play/btvhd/index.m3u8
 #EXTINF:-1 group-title="test",798
