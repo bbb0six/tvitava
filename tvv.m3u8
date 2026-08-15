@@ -521,33 +521,33 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="UK",BBC 1
-http://89.46.123.5:80/stream/109/bbc1sd.ts
+http://45.14.84.37/bbc1/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
-http://79.143.16.74:80/stream/4/bbc2fhd.ts
+http://45.14.84.37/bbc2/index.m3u8
 #EXTINF:0 group-title="UK",BBC 3
-http://89.46.123.6:80/stream/372/index.m3u8
+http://45.14.84.37/bbc3/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-http://89.46.123.5:80/stream/378/index.m3u8
+http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:0 group-title="UK",BBC First
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-http://89.46.123.5:80/stream/110/itv1sd.ts
+http://45.14.84.37/itv1/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-http://89.46.123.6:80/stream/389/index.m3u8
+http://45.14.84.37/itv2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-http://89.46.123.6:80/stream/388/index.m3u8
+http://45.14.84.37/itv3/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-http://89.46.123.6:80/stream/387/index.m3u8
+http://45.14.84.37/itv4/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
-http://89.46.123.6:80/stream/390/index.m3u8
+http://45.14.84.37/ch4/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
-http://89.46.123.5:80/stream/417/ch5sd.ts
+http://45.14.84.37/ch5/index.m3u8
 #EXTINF:0 group-title="UK",4seven
 http://45.90.106.117:80/stream/131/4sevensd.ts
 #EXTINF:0 group-title="UK",Film4
-http://89.46.123.5:80/stream/379/index.m3u8
+http://45.14.84.37/film4/index.m3u8
 #EXTINF:0 group-title="UK",More4
-http://45.90.106.117:80/stream/402/index.m3u8
+http://45.14.84.37/more4/index.m3u8
 #EXTINF:0 group-title="UK",E4
 http://79.143.16.74:80/stream/11/e4fhd.ts
 #EXTINF:0 group-title="ES",La 1
