@@ -1104,17 +1104,17 @@ http://stream.mcquack.net/142/index.m3u8
 http://stream.mcquack.net/185/index.m3u8
 #EXTINF:0 group-title="s",Match 4 RU
 http://stream.mcquack.net/193/index.m3u8
-#EXTINF:0 group-title="s",515
+#EXTINF:0 group-title="s",SetantaSp1
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:0 group-title="s",516
+#EXTINF:0 group-title="s",SetantaSp2
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:0 group-title="s",517
+#EXTINF:0 group-title="s",SetantaSpUA
 http://stream.mcquack.net/313/index.m3u8
-#EXTINF:0 group-title="s",518
+#EXTINF:0 group-title="s",SetantaSpPlus
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:0 group-title="s",519
+#EXTINF:0 group-title="s",qazsport
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:0 group-title="s",520
+#EXTINF:0 group-title="s",Arena Sport
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
@@ -1124,10 +1124,10 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://88.212.15.19/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:0 group-title="s",525
-http://185.18.207.170:8080/sport1/index.m3u8
-#EXTINF:0 group-title="s",526
-http://185.18.207.170:8080/sport3/index.m3u8
+#EXTINF:0 group-title="s",Nova Sport 1
+http://88.212.15.19/live/test_ns1_hd_hevc/playlist.m3u8
+#EXTINF:0 group-title="s",Nova Sport 2
+http://88.212.15.19/live/test_ns2_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="s",527
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:-1 group-title="s",528
@@ -1297,11 +1297,11 @@ http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="SK",Barrandov Krimi
 http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="SK",STV1 Jednotka
+#EXTINF:-1 group-title="SK",STVR 1 Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",STV2 Dvojka
+#EXTINF:-1 group-title="SK",STVR 2 Dvojka
 http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",STV3 Trojka
+#EXTINF:-1 group-title="SK",STVR 24
 http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Markíza
 http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
@@ -1309,14 +1309,14 @@ http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
 http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",TV7 SK
-http://88.212.7.14/live/test_tv7/playlist.m3u8
+#EXTINF:-1 group-title="SK",Kanal 1 SK
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="SK",Televízia Slovensko
 http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:-1 group-title="SK",TV Bratislava
 http://88.212.7.14/live/test_batv/playlist.m3u8
-#EXTINF:-1 group-title="SK",Kanal 1 SK
-http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="HU",M4 Sport HU
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 group-title="HU",M1 HU
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HU",M2 HU
