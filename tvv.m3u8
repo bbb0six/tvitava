@@ -943,10 +943,10 @@ http://206.212.244.63/1/index.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",BET (West)
+#EXTINF:0 group-title="USA",BET
 http://206.212.244.63/16/index.m3u8
-#EXTINF:0 group-title="USA",BET HER (West)
-http://206.212.244.63/19/index.m3u8
+#EXTINF:0 group-title="USA",BET HER
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30018/mpegts
 #EXTINF:0 group-title="USA",CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:0 group-title="USA",MOREMAX
@@ -1005,7 +1005,7 @@ http://40.160.24.53/MTV_LIVE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
-http://40.160.24.53/MTV_CLASSIC/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/19157/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
