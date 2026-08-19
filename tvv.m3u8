@@ -473,9 +473,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Mezzo
 http://185.98.209.11:81/mezzo/index.m3u8?token=test
 #EXTINF:0 group-title="FR",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
+http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:0 group-title="FR",France 2
-http://5.180.164.197:8080/FRANCE2/index.m3u8
+http://149.62.177.107:9999/France_2/index.m3u8
 #EXTINF:0 group-title="FR",France 3
 http://149.62.177.107:9999/France_3/index.m3u8
 #EXTINF:0 group-title="FR",France 4
@@ -502,7 +502,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://145.239.5.177/368/mpegts
+http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:0 group-title="FR",franceinfo
 http://145.239.5.177/306/mpegts
 #EXTINF:0 group-title="FR",CSTAR
@@ -1522,13 +1522,13 @@ http://185.9.2.18/chid_521/mpegts
 #EXTINF:0,721
 http://190.60.37.118:4000/play/a087
 #EXTINF:0,722
-http://103.253.18.58:8000/play/a01t
+http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:0,723
 http://116.202.113.254:8888/tvr3
 #EXTINF:0,724
-http://79.112.79.166:8069/udp/239.10.20.62:1234
+http://145.239.5.177/368/mpegts
 #EXTINF:0,725
-http://88.156.96.25:9999/udp/239.239.17.193:1234
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0,726
 http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0,727
