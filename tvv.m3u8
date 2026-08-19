@@ -401,8 +401,9 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="CH",RTS INFO
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:0 group-title="AT",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://213.47.175.190:9981/stream/channelid/1400324108?profile=pass
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
@@ -410,12 +411,7 @@ https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="AT",Servus TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c7f3d4aadc504459a12bbd3bbd62944:efa707a9f828120b4c9807be11755e65
-#KODIPROP:inputstream.adaptive.license_key=7a53ee1bd88c5d9bbf9f0769d9feaa9f:88574801b89f422e6e092f9c1379e8ab
-#KODIPROP:inputstream.adaptive.license_key=03eb8d334a2055489e14cdb18c29ceb4:c35886f2ef9d2bbd9ca9c08172ca2107
-#KODIPROP:inputstream.adaptive.license_key=b6a904f4be2556a791d7e8b556c17351:5f51915595e204654422ece1cf7f5949
-https://fl-003.live.p7s1video.net/d25fcd73/t_003/servustv-at/cenc-default.m3u8
+http://213.47.175.190:9981/stream/channelid/2140495578?profile=pass
 #EXTINF:0 group-title="DE",Das Erste
 http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -684,13 +680,13 @@ http://217.73.139.200:5443/play/a00k
 #EXTINF:0 group-title="AL",RTSH 24
 http://217.73.139.200:5443/play/a00s
 #EXTINF:0 group-title="AL",Klan
-http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
+http://217.73.139.200:5443/play/a002
 #EXTINF:0 group-title="AL",Top Channel
 http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
 http://217.73.139.200:5443/play/a004
 #EXTINF:0 group-title="AL",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
+http://217.73.139.200:5443/play/a01b
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC AL
@@ -940,16 +936,16 @@ http://45.235.37.226/canal13hd/index.m3u8
 http://stream.cammonitorplus.net/1810/index.m3u8
 #EXTINF:0 group-title="USA",NBC 4 NY
 http://stream.cammonitorplus.net/1812/index.m3u8
-#EXTINF:0 group-title="USA",ABC 6 WPVI-TV
-http://stream.cammonitorplus.net/1813/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://206.212.244.63/1/index.m3u8
+#EXTINF:0 group-title="USA",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:0 group-title="USA",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",_
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30016/mpegts
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:0 group-title="USA",BET HER
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30018/mpegts
 #EXTINF:0 group-title="USA",CINEMAX
@@ -1233,9 +1229,9 @@ http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:0,575
 http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
 #EXTINF:0,576
-http://179.63.5.46:8000/play/a044/index.m3u8
+http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:0,577
-http://179.63.5.46:8000/play/a05y/index.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1700,6 +1696,6 @@ https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 group-title="test",799
 http://168.228.44.241:9999/play/a04s/index.m3u8
 #EXTINF:-1 group-title="test",800
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
