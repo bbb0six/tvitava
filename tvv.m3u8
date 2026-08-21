@@ -119,7 +119,7 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 #EXTINF:0 group-title="WBD IT",Frisbee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28440
+http://nocable.cc:8080/88064703/88064703/266393
 #EXTINF:-1 group-title="Vari",MANGA
 https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 #EXTINF:-1 group-title="MDS",Cartoonito
@@ -268,21 +268,18 @@ http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2710
 #EXTINF:0 group-title="IT",CANALE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2768
+http://nocable.cc:8080/88064703/88064703/266385
 #EXTINF:0 group-title="IT",ITALIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28436
+http://nocable.cc:8080/88064703/88064703/266395
 #EXTINF:0 group-title="IT",LA7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
-#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
-https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
+http://nocable.cc:8080/88064703/88064703/266434
 #EXTINF:0 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2759
+http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
