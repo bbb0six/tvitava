@@ -275,8 +275,7 @@ http://nocable.cc:8080/88064703/88064703/266395
 #EXTINF:0 group-title="IT",LA7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266434
+http://5.254.89.106/6163/index.m3u8
 #EXTINF:0 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
@@ -398,9 +397,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="AT",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://213.47.175.190:9981/stream/channelid/1400324108?profile=pass
+#EXTINF:0 group-title="CH",SRF INFO
+http://5.254.89.106/6158/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
@@ -687,7 +685,7 @@ http://217.73.139.200:5443/play/a01b
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",ABC AL
-http://217.73.139.200:5443/play/a003
+http://5.254.89.106:80/10023/index.m3u8
 #EXTINF:0 group-title="AL",Top News AL
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
@@ -869,8 +867,8 @@ http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://119.82.250.109:8080/nl.m3u8?id=1154
+#EXTINF:0 group-title="World",HRT INT
+http://45.82.88.87:15153/udp/237.40.1.11:5000
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -924,7 +922,7 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="World",Globo BR
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:-1 group-title="World",_
-http://79.127.238.228:14173/
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:0 group-title="World",A3 INT
 http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
@@ -1224,11 +1222,11 @@ http://190.83.85.68/espn3/index.m3u8
 #EXTINF:0,574
 http://190.83.85.68/espn4/index.m3u8
 #EXTINF:0,575
-http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+http://5.254.89.106:80/8796/index.m3u8
 #EXTINF:0,576
-http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+http://5.254.89.106:80/8797/index.m3u8
 #EXTINF:0,577
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_2.m3u8
+http://5.254.89.106:80/8798/index.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1548,7 +1546,7 @@ http://88.212.15.19/live/test_csrtv/playlist.m3u8
 #EXTINF:0,734
 http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,735
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:0,736
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:0,737
