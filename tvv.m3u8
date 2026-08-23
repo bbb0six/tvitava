@@ -275,7 +275,8 @@ http://nocable.cc:8080/88064703/88064703/266395
 #EXTINF:0 group-title="IT",LA7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
-http://5.254.89.106/6163/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266434
 #EXTINF:0 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
@@ -727,10 +728,10 @@ http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/bTV/index.m3u8
-#EXTINF:0 group-title="RS",RTS 1 RS
-http://87.250.63.109:8000/play/a03e
-#EXTINF:0 group-title="RS",RTS 2 RS
-http://87.250.63.109:8000/play/a03f
+#EXTINF:0 group-title="GR",ERT 1 GR
+http://5.254.89.106:80/6170/index.m3u8
+#EXTINF:0 group-title="HR",ERT 2 GR
+http://5.254.89.106:80/6171/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2 HR
@@ -919,17 +920,17 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",Globo BR
-http://190.83.85.68/globo/index.m3u8
-#EXTINF:-1 group-title="World",_
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 group-title="World",STAR TVE
+http://45.171.64.30:8800/play/a04z
+#EXTINF:-1 group-title="World",TVE INT
+http://190.60.37.118:4000/play/a087
 #EXTINF:0 group-title="World",A3 INT
 http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:0 group-title="USA",CBS 2 NY
-http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:0 group-title="USA",NBC 4 NY
+#EXTINF:-1 group-title="World",Globo BR
+http://190.83.85.68/globo/index.m3u8
+#EXTINF:0 group-title="USA",_
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://23.239.31.26:8989/aande/index.m3u8
@@ -971,10 +972,10 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:0 group-title="USA",CBS 2 NY
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:0 group-title="USA",NBC 4 NY
+http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",HLN
@@ -1515,7 +1516,7 @@ http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0,720
 http://185.9.2.18/chid_521/mpegts
 #EXTINF:0,721
-http://190.60.37.118:4000/play/a087
+http://5.254.89.106:80/6167/index.m3u8
 #EXTINF:0,722
 http://5.180.164.197:8080/FRANCE2/index.m3u8
 #EXTINF:0,723
@@ -1558,11 +1559,11 @@ http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0,740
 http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,741
-http://185.18.207.170:8080/Belarus_1/index.m3u8
+http://5.254.89.106:80/6160/index.m3u8
 #EXTINF:0,742
-http://185.18.207.170:8080/Belarus_24/index.m3u8
+http://5.254.89.106:80/6162/index.m3u8
 #EXTINF:0,743
-http://45.171.64.30:8800/play/a04z
+http://5.254.89.106:80/8708/index.m3u8
 #EXTINF:0,744
 http://stream.mcquack.net/34/index.m3u8
 #EXTINF:0,745
