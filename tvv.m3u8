@@ -443,23 +443,23 @@ http://176.65.153.29:2005/play/a06x/index.m3u8
 #EXTINF:0 group-title="DE",ZDF neo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",KIKA
-https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+http://88.212.7.14/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
-https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+http://88.212.7.14/live/test_welt_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",BR
 http://88.212.7.14/live/test_br_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",HR
-https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+http://88.212.7.14/live/test_hr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",MDR
-https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+http://88.212.7.14/live/test_mdr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NDR
-https://dash4.antik.sk/live/test_ndr_tizen/playlist.m3u8
+http://88.212.7.14/live/test_ndr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WDR
-https://dash4.antik.sk/live/test_wdr_tizen/playlist.m3u8
+http://88.212.7.14/live/test_wdr_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RBB
-https://dash4.antik.sk/live/test_rbb_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SWR
-https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
@@ -500,7 +500,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0 group-title="FR",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:0 group-title="FR",franceinfo
-http://145.239.5.177/306/mpegts
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
@@ -728,10 +728,10 @@ http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/bTV/index.m3u8
-#EXTINF:0 group-title="GR",ERT 1 GR
-http://5.254.89.106:80/6170/index.m3u8
-#EXTINF:0 group-title="HR",ERT 2 GR
-http://5.254.89.106:80/6171/index.m3u8
+#EXTINF:0 group-title="SI",SLO 1
+http://176.61.157.250/SLO1HD/index.m3u8
+#EXTINF:0 group-title="SI",SLO 2
+http://176.61.157.250/SLO2HD/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2 HR
@@ -784,10 +784,10 @@ https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
 #EXTINF:-1 group-title="CH",TVM3 CH
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-#EXTINF:0 group-title="FR",RTL 9
-http://145.239.5.177/308/mpegts
-#EXTINF:0 group-title="Music",M6 Music
-http://145.239.5.177/320/mpegts
+#EXTINF:0 group-title="MT",TVM Malta
+https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
+#EXTINF:0 group-title="MT",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -1385,10 +1385,10 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playli
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="MT",TVM Malta
-https://server.streammalta.com/memfs/db63354e-cb04-4508-aa59-79daa398883c.m3u8
-#EXTINF:0 group-title="MT",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:0 group-title="GR",ERT 1 GR
+http://5.254.89.106:80/6170/index.m3u8
+#EXTINF:0 group-title="GR",ERT 2 GR
+http://5.254.89.106:80/6171/index.m3u8
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
