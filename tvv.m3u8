@@ -437,12 +437,12 @@ http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
 http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",Tele 5
-http://176.65.153.29:2010/play/a06t/index.m3u8
-#EXTINF:0 group-title="DE",ZDF info
-http://176.65.153.29:2005/play/a06x/index.m3u8
-#EXTINF:0 group-title="DE",ZDF neo
+#EXTINF:0 group-title="DE",ONE
+http://5.180.164.197:8080/ONE/index.m3u8
+#EXTINF:0 group-title="DE",ZDF NEO
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
+#EXTINF:0 group-title="DE",Pro7Maxx
+http://5.180.164.197:8080/PRO7MAXX/index.m3u8
 #EXTINF:0 group-title="DE",KIKA
 http://88.212.7.14/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
