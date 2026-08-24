@@ -250,9 +250,10 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="News",CNN Español
 http://179.63.5.46:8000/play/a03a/index.m3u8
-#EXTINF:0 group-title="Vari",San Marino RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/2704
+#EXTINF:0 group-title="Music",MTV Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Rai",Rai Italia
 http://179.63.5.46:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -760,10 +761,10 @@ http://89.44.231.73:7000/antena3
 http://89.44.231.73:7000/primatv
 #EXTINF:-1 group-title="RO",Digi24 RO
 http://89.44.231.73:7000/digi24hd
+#EXTINF:0 group-title="HR",Nova HR
+http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
-#EXTINF:0 group-title="NL",NPO 2 NL
-http://46.149.191.219:9100/play/a00c
 #EXTINF:0 group-title="NL",NPO 3 NL
 http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:0 group-title="LU",RTL 1 LU
@@ -1273,8 +1274,7 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1,599
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
 #EXTINF:-1,600
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
+http://88.212.15.19/live/test_csrtv/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1516,13 +1516,13 @@ http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0,720
 http://185.9.2.18/chid_521/mpegts
 #EXTINF:0,721
-http://5.254.89.106:80/6167/index.m3u8
+http://88.212.15.19/live/test_joj_svet/playlist.m3u8
 #EXTINF:0,722
-http://5.180.164.197:8080/FRANCE2/index.m3u8
+http://88.212.15.19/live/joj_sport_2_avc/index.m3u8
 #EXTINF:0,723
-http://116.202.113.254:8888/tvr3
+http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:0,724
-http://145.239.5.177/368/mpegts
+http://116.202.113.254:8888/tvr3
 #EXTINF:0,725
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0,726
@@ -1557,7 +1557,7 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:0,739
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0,740
-http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
+http://5.254.89.106:80/6167/index.m3u8
 #EXTINF:0,741
 http://5.254.89.106:80/6160/index.m3u8
 #EXTINF:0,742
