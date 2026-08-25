@@ -525,15 +525,16 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="UK",BBC 1
-http://45.14.84.37/bbc1/index.m3u8
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 #EXTINF:0 group-title="UK",BBC 2
-http://45.14.84.37/bbc2/index.m3u8
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0 group-title="UK",BBC 3
 http://45.14.84.37/bbc3/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-http://45.14.84.37/bbc4/index.m3u8
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:0 group-title="UK",BBC First
-http://88.212.15.29/live/bbc_first/index.m3u8
+http://88.212.15.19/live/bbc_first/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://45.14.84.37/itv1/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
@@ -1395,10 +1396,10 @@ https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="GE",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:0 group-title="TR",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="AZ",İctimai
 https://cyriustv.cc/live/ictimaihdorig/index.m3u8?token=1697629cfd28c78b609c20f3a2569ed91f825e5c
+#EXTINF:0 group-title="AZ",AZTV
+http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0 group-title="GR",ERT 1 GR
 http://5.254.89.106:80/6170/index.m3u8
 #EXTINF:0 group-title="GR",ERT 2 GR
@@ -1654,13 +1655,13 @@ https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:-1 group-title="test",Rai 1 test
+#EXTINF:-1 group-title="test",781
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
-#EXTINF:-1 group-title="test",Rai 2 test
+#EXTINF:-1 group-title="test",782
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-#EXTINF:-1 group-title="test",Rai 3 test
+#EXTINF:-1 group-title="test",783
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 group-title="test",784
@@ -1680,22 +1681,22 @@ https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 #EXTINF:-1 group-title="test",789
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 group-title="test",790
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:0 group-title="test",TV8 test
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="test",791
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
 #KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="test",RSI LA2 test
+#EXTINF:0 group-title="test",792
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
-#EXTINF:-1 group-title="test",SRF Zwei test
+#EXTINF:-1 group-title="test",793
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
-#EXTINF:-1 group-title="test",ORF 1 test
+#EXTINF:-1 group-title="test",794
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
 #EXTINF:-1 group-title="test",795
