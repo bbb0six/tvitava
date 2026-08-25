@@ -343,8 +343,8 @@ https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 https://64b16f23efbee.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
 https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:0 group-title="Regionali",TeleSardegna
-https://streamcdnr3-f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95445963/z3dZO4LpABmG/manifest.mpd
+#EXTINF:0 group-title="Regionali",Antenna Sicilia
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
 https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
 #EXTINF:0 group-title="Regionali",LaC OnAir
@@ -539,17 +539,27 @@ http://45.14.84.37/itv3/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
 http://45.14.84.37/itv4/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
-http://45.14.84.37/ch4/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:0 group-title="UK",Channel 5
 http://45.14.84.37/ch5/index.m3u8
 #EXTINF:0 group-title="UK",4seven
-http://45.90.106.117:80/stream/131/4sevensd.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:0 group-title="UK",Film4
-http://45.14.84.37/film4/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #EXTINF:0 group-title="UK",More4
-http://45.14.84.37/more4/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #EXTINF:0 group-title="UK",E4
-http://79.143.16.74:80/stream/11/e4fhd.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:0 group-title="ES",La 1
 http://88.6.113.4:9981/stream/channelid/547412540?profile=pass
 #EXTINF:0 group-title="ES",La 2
@@ -565,21 +575,21 @@ http://88.6.113.4:9981/stream/channelid/1292397604?profile=pass
 #EXTINF:0 group-title="ES",TDP
 http://88.6.113.4:9981/stream/channelid/1142692973?profile=pass
 #EXTINF:0 group-title="ES",Divinity
-http://185.47.212.25/Divinity/index.m3u8
+http://88.6.113.4:9981/stream/channelid/1409835839?profile=pass
 #EXTINF:0 group-title="ES",Energy
-http://185.47.212.25/Energy/index.m3u8
+http://88.6.113.4:9981/stream/channelid/1794650826?profile=pass
 #EXTINF:0 group-title="ES",24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",FDF
-http://185.47.212.25/FDF/index.m3u8
+http://88.6.113.4:9981/stream/channelid/1945700119?profile=pass
 #EXTINF:0 group-title="ES",Mega
-http://45.235.37.228/megahd/index.m3u8
+http://88.6.113.4:9981/stream/channelid/966826630?profile=pass
 #EXTINF:0 group-title="ES",Neox
-http://185.47.212.25/neox/index.m3u8
+http://88.6.113.4:9981/stream/channelid/842737035?profile=pass
 #EXTINF:0 group-title="ES",Nova
-http://185.47.212.25/nova/index.m3u8
+http://88.6.113.4:9981/stream/channelid/252845736?profile=pass
 #EXTINF:0 group-title="ES",Boing España
-http://185.47.212.25/Boing/index.m3u8
+http://88.6.113.4:9981/stream/channelid/464096541?profile=pass
 #EXTINF:0 group-title="ES",Clan
 http://88.6.113.4:9981/stream/channelid/1852055587?profile=pass
 #EXTINF:0 group-title="ES",TVE Int
