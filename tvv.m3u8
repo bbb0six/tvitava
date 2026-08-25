@@ -242,6 +242,8 @@ http://88.212.7.14/live/mb_dance/index.m3u8
 http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
+#EXTINF:0 group-title="Music",Music Box UA
+https://cyriustv.cc/live/MUSICBOXPL_HD/index.m3u8?token=1697629cfd28c78b609c20f3a2569ed91f825e5c
 #EXTINF:0 group-title="News",BBC News
 http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 group-title="News",SKY News
@@ -250,10 +252,6 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="News",CNN Español
 http://179.63.5.46:8000/play/a03a/index.m3u8
-#EXTINF:0 group-title="Music",MTV Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 #EXTINF:0 group-title="Rai",Rai Italia
 http://179.63.5.46:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -1359,42 +1357,42 @@ http://stream.mcquack.net/444/index.m3u8
 http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 group-title="UA",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:0 group-title="AM",Armenia TV1
-https://dash4.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:0 group-title="AM",Armenia TV2
+#EXTINF:-1 group-title="IL",ISR i24News
+http://stream.mcquack.net/45/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 09
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:-1 group-title="IL",ISR KAN11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 11
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 13
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 14
+http://stream.mcquack.net/454/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 23
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 24
+http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1 group-title="IL",ISR MAKAN
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:0 group-title="AM",Armenia 1TV 
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="AM",Armenia Sport
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AM",Armenia TV3
+#EXTINF:0 group-title="AM",Armenia Movie
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:0 group-title="GE",GEO TV1
+#EXTINF:0 group-title="GE",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
-#EXTINF:0 group-title="GE",GEO TV2
+#EXTINF:0 group-title="GE",Georgia Sport
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
 #EXTINF:0 group-title="GE",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:0 group-title="IL",ISR CH 09
-http://stream.mcquack.net/20/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 11
-http://stream.mcquack.net/293/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 12
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 13
-http://stream.mcquack.net/295/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 14
-http://stream.mcquack.net/454/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 23
-http://stream.mcquack.net/378/index.m3u8
-#EXTINF:0 group-title="IL",ISR CH 24
-http://stream.mcquack.net/42/index.m3u8
-#EXTINF:0 group-title="IL",i24NEWS HE
-http://stream.mcquack.net/45/index.m3u8
-#EXTINF:0 group-title="IL",ZOOM
-http://stream.mcquack.net/377/index.m3u8
-#EXTINF:0 group-title="IL",MAKAN
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0 group-title="IL",KAN11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="TR",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="AZ",İctimai
+https://cyriustv.cc/live/ictimaihdorig/index.m3u8?token=1697629cfd28c78b609c20f3a2569ed91f825e5c
 #EXTINF:0 group-title="GR",ERT 1 GR
 http://5.254.89.106:80/6170/index.m3u8
 #EXTINF:0 group-title="GR",ERT 2 GR
