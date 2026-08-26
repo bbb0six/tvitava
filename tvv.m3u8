@@ -41,8 +41,8 @@ https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/st
 #KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
 #KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="Regionali",Tele A
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/87ea1bcb-43b8-40fe-99d3-6f56420a9124/source/index.m3u8
+#EXTINF:0 group-title="Regionali",Canale 8
+https://canale8.zappr.stream/live/main-204747824658.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
