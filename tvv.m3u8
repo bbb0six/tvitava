@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="Rai",Rai 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai 2
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai 3
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 group-title="MDS",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
@@ -260,12 +257,18 @@ http://179.63.5.46:8000/play/a03a/index.m3u8
 http://179.63.5.46:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:0 group-title="IT",RAI 1 Sat
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0 group-title="IT",RAI 2 Sat
-http://5.180.164.197:8080/RAI2/index.m3u8
-#EXTINF:0 group-title="IT",RAI 3 Sat
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 group-title="IT",RETE 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
@@ -401,8 +404,8 @@ https://iptv.peer.biz/live/peertv-it.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:0 group-title="CH",SRF INFO
-http://5.254.89.106/6158/index.m3u8
+#EXTINF:0 group-title="DE",ONE
+http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
@@ -1234,11 +1237,11 @@ http://190.83.85.68/espn3/index.m3u8
 #EXTINF:0,574
 http://190.83.85.68/espn4/index.m3u8
 #EXTINF:0,575
-http://5.254.89.106:80/8796/index.m3u8
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0,576
-http://5.254.89.106:80/8797/index.m3u8
+http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:0,577
-http://5.254.89.106:80/8798/index.m3u8
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1379,11 +1382,11 @@ http://stream.mcquack.net/378/index.m3u8
 http://stream.mcquack.net/42/index.m3u8
 #EXTINF:-1 group-title="IL",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:0 group-title="AM",Armenia 1TV 
+#EXTINF:0 group-title="AM",Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AM",Armenia Sport
+#EXTINF:0 group-title="AM",Armenia 2
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="AM",Armenia Movie
+#EXTINF:0 group-title="AM",Armenia 3
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:0 group-title="GE",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
@@ -1395,10 +1398,10 @@ http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 https://cyriustv.cc/live/ictimaihdorig/index.m3u8?token=1697629cfd28c78b609c20f3a2569ed91f825e5c
 #EXTINF:0 group-title="AZ",AZTV
 http://185.129.1.242:80/aztv/mpegts
-#EXTINF:0 group-title="GR",ERT 1 GR
-http://5.254.89.106:80/6170/index.m3u8
-#EXTINF:0 group-title="GR",ERT 2 GR
-http://5.254.89.106:80/6171/index.m3u8
+#EXTINF:0 group-title="TR",TRT 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FG5EGGEU2X7RLWZFG9VQARNY/2293/index.m3u8
+#EXTINF:0 group-title="TR",TRT 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MVRVAWFDC4M2C3/6884/index.m3u8
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
