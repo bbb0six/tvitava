@@ -280,10 +280,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:0 group-title="IT",LA7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
-#EXTINF:0 group-title="IT",TV8 HD
+#EXTINF:0 group-title="IT",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266434
-#EXTINF:0 group-title="IT",NOVE HD
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:0 group-title="IT",NOVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="MDS",GF Open House
@@ -552,17 +552,11 @@ https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:0 group-title="UK",Film4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+https://lb.iptvnetwork.net/ls28/10112/playlist.m3u8
 #EXTINF:0 group-title="UK",More4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 #EXTINF:0 group-title="UK",E4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 #EXTINF:0 group-title="ES",La 1
 http://88.6.113.4:9981/stream/channelid/547412540?profile=pass
 #EXTINF:0 group-title="ES",La 2
@@ -1286,7 +1280,7 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1,599
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
-#EXTINF:-1,600
+#EXTINF:-1 group-title="Music",MTV JP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://42.118.247.37:9394/stream/74.m3u8
@@ -1530,21 +1524,29 @@ http://198.204.228.26/live/cctv5p.m3u8
 http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0 group-title="CN",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:0,721
-http://88.212.15.19/live/test_joj_svet/playlist.m3u8
-#EXTINF:0,722
-http://88.212.15.19/live/joj_sport_2_avc/index.m3u8
-#EXTINF:0,723
-http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:0,724
-http://116.202.113.254:8888/tvr3
-#EXTINF:0,725
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:0,726
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:0,727
-http://151.80.18.177:86/ARTE_HD/index.m3u8
-#EXTINF:0,728
+#EXTINF:0 group-title="test",Óčko SD
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 group-title="test",10111
+https://lb.iptvnetwork.net/ls28/10111/playlist.m3u8
+#EXTINF:0 group-title="test",10115
+https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
+#EXTINF:0 group-title="test",4seven
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:0 group-title="test",Film4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:0 group-title="test",More4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:0 group-title="test",E4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+#EXTINF:0 group-title="test",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
@@ -1606,11 +1608,11 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 #EXTINF:0,753
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,754
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+http://116.202.113.254:8888/tvr3
 #EXTINF:0,755
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0,756
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:0,757
 http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0,758
