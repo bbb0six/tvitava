@@ -292,14 +292,14 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 #EXTINF:-1 group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 group-title="-",107
+#EXTINF:0 group-title="-",La7
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
-#EXTINF:0 group-title="-",108
+#EXTINF:0 group-title="-",TV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:0 group-title="-",109
+#EXTINF:0 group-title="MDS",Mediaset Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b2/b2-clr.isml/manifest_hr.mpd
+http://213.169.39.30:5255
 #EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
@@ -779,7 +779,7 @@ http://89.44.231.73:7000/tvr1
 #EXTINF:-1 group-title="RO",TVR 2
 http://89.44.231.73:7000/tvr2
 #EXTINF:-1 group-title="RO",TVR 3
-https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+http://116.202.113.254:8888/tvr3
 #EXTINF:-1 group-title="RO",ProTV RO
 http://89.44.231.73:7000/protv
 #EXTINF:-1 group-title="RO",Antena1 RO
@@ -891,7 +891,7 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",399
-http://ikitv.sqn.at:8000/play/a049/index.m3u8
+https://dash2.antik.sk/live/test_moldava/playlist.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -1234,16 +1234,15 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
+http://213.169.39.30:5144
 #EXTINF:0,571
-http://190.83.85.68/espn/index.m3u8
+http://213.169.39.30:5138
 #EXTINF:0,572
-http://190.83.85.68/espn2/index.m3u8
+http://213.169.39.30:5140
 #EXTINF:0,573
-http://190.83.85.68/espn3/index.m3u8
+http://213.169.39.30:5142
 #EXTINF:0,574
-http://190.83.85.68/espn4/index.m3u8
+http://213.169.39.30:5130
 #EXTINF:0,575
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:0,576
@@ -1542,8 +1541,11 @@ http://198.204.228.26/live/cctv8k.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0 group-title="test",10111
 https://lb.iptvnetwork.net/ls28/10111/playlist.m3u8
-#EXTINF:0 group-title="test",10115
-https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
+#EXTINF:0 group-title="test",Channel4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:0 group-title="test",4seven
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
@@ -1567,7 +1569,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,729
-http://45.82.88.87:15153/udp/237.40.1.4:5000
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0,730
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,731
@@ -1609,17 +1611,17 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0,748
 https://s6.hopslan.com/pro7z/index.m3u8
 #EXTINF:0,749
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-hd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--playlist.m3u8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,750
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,751
-https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0,752
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:0,753
-https://live-3.otcnet.ru/Mezzo/index.m3u8
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:0,754
-http://116.202.113.254:8888/tvr3
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0,755
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:0,756
@@ -1631,7 +1633,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:0,759
 https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
 #EXTINF:0,760
-https://geo.dailymotion.com/player/x1jo48.html?video=k5IzEKA6K34xZiEXbVm
+https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
@@ -1698,9 +1700,7 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_lo
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 group-title="test",789
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 group-title="test",790
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
