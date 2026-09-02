@@ -572,19 +572,19 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 #EXTINF:0 group-title="UK",E4
 https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
 #EXTINF:0 group-title="ES",La 1
-http://88.6.113.4:9981/stream/channelid/547412540?profile=pass
+https://kinowatch.com/iptv/stream/7dfe908baef635d84a8780.m3u8
 #EXTINF:0 group-title="ES",La 2
-http://88.6.113.4:9981/stream/channelid/1517748079?profile=pass
+https://kinowatch.com/iptv/stream/ec6e950cd675b295b1395a.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-http://88.6.113.4:9981/stream/channelid/325685762?profile=pass
+https://kinowatch.com/iptv/stream/1ad0f978067a872106c991.m3u8
 #EXTINF:0 group-title="ES",Cuatro
 http://88.6.113.4:9981/stream/channelid/1407338055?profile=pass
 #EXTINF:0 group-title="ES",Telecinco
-http://88.6.113.4:9981/stream/channelid/1619367617?profile=pass
+https://kinowatch.com/iptv/stream/34075d74f8865a151cdc6c.m3u8
 #EXTINF:0 group-title="ES",laSexta
 http://88.6.113.4:9981/stream/channelid/1292397604?profile=pass
-#EXTINF:0 group-title="ES",TDP
-http://88.6.113.4:9981/stream/channelid/1142692973?profile=pass
+#EXTINF:0 group-title="ES",TDP geoblocked
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",Divinity
 http://88.6.113.4:9981/stream/channelid/1409835839?profile=pass
 #EXTINF:0 group-title="ES",Energy
@@ -890,7 +890,7 @@ http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
 http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",KBS World
+#EXTINF:0 group-title="World",399
 http://ikitv.sqn.at:8000/play/a049/index.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
@@ -1563,8 +1563,9 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:0 group-title="test",TV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
-https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
+#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:0,729
 http://45.82.88.87:15153/udp/237.40.1.4:5000
 #EXTINF:0,730
@@ -1703,20 +1704,18 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 #EXTINF:-1 group-title="test",790
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="test",791
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
-#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
-https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="test",792
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
+#EXTINF:-1 group-title="test",791
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kinowatch.com/iptv/stream/fb00847293931c3819d34c.m3u8
+#EXTINF:-1 group-title="test",792
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kinowatch.com/iptv/stream/2e524d31eb735dd850da89.m3u8
 #EXTINF:-1 group-title="test",793
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-https://7nyaler.streamhostingcdn.top/stream/51/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kinowatch.com/iptv/stream/cce95b6cf619948f680b73.m3u8
 #EXTINF:-1 group-title="test",794
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kinowatch.com/iptv/stream/209156e6066f64c8b38a48.m3u8
 #EXTINF:-1 group-title="test",795
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="test",796
