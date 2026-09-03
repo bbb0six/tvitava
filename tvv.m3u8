@@ -707,8 +707,8 @@ http://217.73.139.200:5443/play/a004
 http://217.73.139.200:5443/play/a01b
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:0 group-title="AL",ABC AL
-http://217.73.139.200:5443/play/a003
+#EXTINF:0 group-title="AL",FaxNews
+http://217.73.139.200:5443/play/a012
 #EXTINF:0 group-title="AL",Top News AL
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
@@ -952,7 +952,7 @@ http://45.235.37.226/antena3/index.m3u8
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 group-title="World",Globo BR
+#EXTINF:-1 group-title="World",430
 http://190.83.85.68/globo/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://23.239.31.26:8989/aande/index.m3u8
@@ -1477,12 +1477,10 @@ http://95.47.155.244:8001/play/a018
 http://95.47.155.244:8001/play/a019
 #EXTINF:-1 group-title="RU",20 МУЗ ТВ
 http://95.47.155.244:8001/play/a020
-#EXTINF:-1 group-title="RU",Сибирь 24
-http://95.47.155.244:8001/play/a021
 #EXTINF:-1 group-title="RU",TVRTS RU
 http://95.47.155.244:8001/play/a022
-#EXTINF:-1 group-title="RU",ТВ7
-http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="RU",CTV7 RU
+https://ctv7.ru/live/1.m3u8
 #EXTINF:-1 group-title="RU",8TV RU
 https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="RU",RT EN
@@ -1493,6 +1491,8 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT DE
 https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT AR
+https://rt-fra.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 group-title="RU",RT Doc
 https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="RU",Shanson TV
@@ -1537,32 +1537,22 @@ http://198.204.228.26/live/cctv5p.m3u8
 http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0 group-title="CN",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:0 group-title="test",Óčko SD
+#EXTINF:0 group-title="KP",KCTV 1
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:0 group-title="KP",KCTV 2
+https://kctv.koryofront.org/stream/sports/index.m3u8
+#EXTINF:0 group-title="KP",KCTV 3
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:0 group-title="test",724
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 group-title="test",10111
+#EXTINF:0 group-title="test",725
 https://lb.iptvnetwork.net/ls28/10111/playlist.m3u8
-#EXTINF:0 group-title="test",Channel4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
-#EXTINF:0 group-title="test",4seven
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
-#EXTINF:0 group-title="test",Film4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-#EXTINF:0 group-title="test",More4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
-#EXTINF:0 group-title="test",E4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:0 group-title="test",TV8 HD
+#EXTINF:0 group-title="test",726
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0 group-title="test",727
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:0 group-title="test",728
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
@@ -1621,13 +1611,13 @@ https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:0,753
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:0,754
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:0,755
-http://151.80.18.177:86/TF1_HD/index.m3u8
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:0,756
-http://151.80.18.177:86/M6_HD/index.m3u8
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:0,757
-http://88.212.7.14/live/test_rtl_zwei_tizen/playlist.m3u8
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:0,758
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:0,759
@@ -1704,20 +1694,27 @@ https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1 group-title="test",790
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="test",791
+#EXTINF:0 group-title="test",791
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://kinowatch.com/iptv/stream/fb00847293931c3819d34c.m3u8
-#EXTINF:-1 group-title="test",792
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://kinowatch.com/iptv/stream/2e524d31eb735dd850da89.m3u8
-#EXTINF:-1 group-title="test",793
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://kinowatch.com/iptv/stream/cce95b6cf619948f680b73.m3u8
-#EXTINF:-1 group-title="test",794
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://kinowatch.com/iptv/stream/209156e6066f64c8b38a48.m3u8
-#EXTINF:-1 group-title="test",795
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:0 group-title="test",792
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:0 group-title="test",793
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:0 group-title="test",794
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:0 group-title="test",795
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 group-title="test",796
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
