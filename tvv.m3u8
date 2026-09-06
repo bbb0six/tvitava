@@ -487,7 +487,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:0 group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="Music",Mezzo
-http://185.98.209.11:81/mezzo/index.m3u8?token=test
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0 group-title="FR",TF1
 http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:0 group-title="FR",France 2
@@ -1246,7 +1246,7 @@ http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:0,576
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
 #EXTINF:0,577
-https://live-3.otcnet.ru/Mezzo/index.m3u8
+http://185.98.209.11:81/mezzo/index.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
