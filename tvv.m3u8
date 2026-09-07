@@ -180,27 +180,27 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 #EXTINF:0 group-title="Vari",BOM Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
-#EXTINF:-1 group-title="GEDI",Deejay TV
+#EXTINF:-1 group-title="Music",Deejay TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 group-title="Music",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Radionorba TV
+#EXTINF:-1 group-title="Music",Radionorba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
-#EXTINF:-1 group-title="Vari",RadioBruno TV
+#EXTINF:-1 group-title="Music",RadioBruno TV
 https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
 #EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Radio Kiss Kiss TV
+#EXTINF:-1 group-title="Music",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Vari",Kiss Kiss Napoli
+#EXTINF:-1 group-title="Music",Kiss Kiss Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="GEDI",Radio Capital TV
+#EXTINF:-1 group-title="Music",Radio Capital TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 group-title="GEDI",M2O TV
+#EXTINF:-1 group-title="Music",M2O TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 group-title="MDS",Radio Montecarlo TV
@@ -233,7 +233,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 #EXTINF:-1 group-title="RTL 102.5",RTL 102.5 Bro&Sis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 group-title="RDS",RDS Social TV
+#EXTINF:-1 group-title="Music",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
@@ -278,9 +278,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 #EXTINF:-1 group-title="Rai",Rai Movie dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 group-title="-",La7
+#EXTINF:0 group-title="Cairo",La7 Web
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
-#EXTINF:0 group-title="-",TV8
+#EXTINF:0 group-title="Sky IT",TV8 Web
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="MDS",Mediaset Italia
@@ -560,13 +560,13 @@ https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
 https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-https://kinowatch.com/iptv/stream/1ad0f978067a872106c991.m3u8
+http://31.43.191.125:8080/restream/restream/646
 #EXTINF:0 group-title="ES",Cuatro
-http://88.6.113.4:9981/stream/channelid/1407338055?profile=pass
+http://31.43.191.125:8080/restream/restream/651
 #EXTINF:0 group-title="ES",Telecinco
-https://kinowatch.com/iptv/stream/34075d74f8865a151cdc6c.m3u8
+http://31.43.191.125:8080/restream/restream/647
 #EXTINF:0 group-title="ES",laSexta
-http://88.6.113.4:9981/stream/channelid/1292397604?profile=pass
+http://31.43.191.125:8080/restream/restream/650
 #EXTINF:0 group-title="ES",RTVE tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE Clan
@@ -591,8 +591,8 @@ http://50.7.120.34:8080/TVI/index.m3u8
 http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://50.7.120.34:8080/CANAL_11/index.m3u8
-#EXTINF:0 group-title="-",_
-http://213.169.39.30:5255
+#EXTINF:0 group-title="test",259
+http://31.43.191.125:8080/restream/restream/652
 #EXTINF:0 group-title="Vari",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecupole
@@ -1177,7 +1177,7 @@ http://185.207.34.31:8000/play/a018/index.m3u8
 http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
-#EXTINF:0,550
+#EXTINF:0 group-title="test",550
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/test2/hls/playlist_mo.m3u8
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
