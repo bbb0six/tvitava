@@ -561,7 +561,7 @@ https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8
 #EXTINF:0 group-title="UK",Channel 5
 https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
-#EXTINF:0 group-title="UK",_
+#EXTINF:0 group-title="UK",Sky Mix
 https://lb.iptvnetwork.net/ls28/10111/playlist.m3u8
 #EXTINF:0 group-title="UK",Film4
 https://lb.iptvnetwork.net/ls28/10112/playlist.m3u8
@@ -589,26 +589,26 @@ https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",TVE Int
 http://185.207.34.31:8000/play/a00e/index.m3u8
-#EXTINF:0 group-title="ES",Boing España
-http://88.6.113.4:9981/stream/channelid/464096541?profile=pass
-#EXTINF:0 group-title="ES",Divinity
-http://88.6.113.4:9981/stream/channelid/1409835839?profile=pass
-#EXTINF:0 group-title="ES",Energy
-http://88.6.113.4:9981/stream/channelid/1794650826?profile=pass
-#EXTINF:0 group-title="ES",FDF
-http://88.6.113.4:9981/stream/channelid/1945700119?profile=pass
-#EXTINF:0 group-title="ES",Mega
-http://88.6.113.4:9981/stream/channelid/966826630?profile=pass
-#EXTINF:0 group-title="ES",Neox
-http://88.6.113.4:9981/stream/channelid/842737035?profile=pass
-#EXTINF:0 group-title="ES",Nova
-http://88.6.113.4:9981/stream/channelid/252845736?profile=pass
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
 http://50.7.120.34:8080/RTP_2/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="PT",SIC
+http://50.7.120.34:8080/SIC/index.m3u8
+#EXTINF:0 group-title="PT",TVI
+http://50.7.120.34:8080/TVI/index.m3u8
+#EXTINF:0 group-title="PT",Porto Canal
+http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
+#EXTINF:0 group-title="-",_
+http://88.6.113.4:9981/stream/channelid/966826630?profile=pass
+#EXTINF:0 group-title="-",_
+http://88.6.113.4:9981/stream/channelid/842737035?profile=pass
+#EXTINF:0 group-title="Vari",M'informo TV
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecupole
 https://d4k.it/hls/live2/live.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
@@ -1100,13 +1100,13 @@ http://45.235.37.226/espn2hd/index.m3u8
 #EXTINF:0 group-title="s",ESPN 3 ES
 http://45.235.37.226/espn3hd/index.m3u8
 #EXTINF:0 group-title="s",ESPN 4 ES
-http://138.121.15.230:9001/ESPN-4/index.m3u8
+http://138.121.15.230:9001/ESPN-4/mpegts
 #EXTINF:0 group-title="s",ESPN 5 ES
-http://138.121.15.230:9001/ESPN-5/index.m3u8
+http://138.121.15.230:9001/ESPN-5/mpegts
 #EXTINF:0 group-title="s",ESPN 6 ES
-http://138.121.15.230:9001/ESPN-6/index.m3u8
+http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",ESPN 7 ES
-http://138.121.15.230:9001/ESPN-7/index.m3u8
+http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
@@ -1121,16 +1121,16 @@ http://154.12.107.98:8000/play/a08t
 http://154.12.107.98:8000/play/a09x
 #EXTINF:0 group-title="s",ESPN 6 A
 http://154.12.107.98:8000/play/a0a0
+#EXTINF:0 group-title="s",Ziggo Sport 1
+https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
+#EXTINF:0 group-title="s",Ziggo Sport 2
+https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="s",BeinSports1 FR
 http://99.27.51.147:8080/BeinSport/index.m3u8
 #EXTINF:0 group-title="s",BeinSports2 FR
 http://99.27.51.147:8080/BeinSport2/index.m3u8
 #EXTINF:0 group-title="s",BeinSports3 FR
 http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:0 group-title="s",SetantaSp1
-http://stream.mcquack.net/234/index.m3u8
-#EXTINF:0 group-title="s",SetantaSp2
-http://stream.mcquack.net/235/index.m3u8
 #EXTINF:0 group-title="s",Arena Sport
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
