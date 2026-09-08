@@ -27,9 +27,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",RSI La 1
-http://176.65.153.57:5002/play/a06o/index.m3u8
+http://176.65.153.57:5002/play/a06o
 #EXTINF:0 group-title="Svizzera",RSI La 2
-http://176.65.153.57:5002/play/a06o/index.m3u8
+http://176.65.153.57:5002/play/a06p
 #EXTINF:0 group-title="Regionali",Canale 8
 https://canale8.zappr.stream/live/main-204747824658.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
@@ -263,12 +263,10 @@ http://176.65.153.57:5002/play/a06i/index.m3u8
 http://176.65.153.57:5002/play/a06j/index.m3u8
 #EXTINF:-1 group-title="CH",SRF INFO
 http://176.65.153.57:5002/play/a06n/index.m3u8
-#EXTINF:-1 group-title="CH",Test17205
-http://176.65.153.57:5002/play/a06m/index.m3u8
-#EXTINF:-1 group-title="CH",test
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/daffec9025e48592ae34ad.m3u8
+#EXTINF:-1 group-title="CH",LA 7
+http://176.65.153.4:7001/play/a07f/index.m3u8
+#EXTINF:-1 group-title="CH",LA 7 CINEMA
+http://176.65.153.4:7001/play/a07g/index.m3u8
 #EXTINF:0 group-title="MDS",Mediaset Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://213.169.39.30:5255
@@ -1161,7 +1159,9 @@ http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="test",550
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/test2/hls/playlist_mo.m3u8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://kinowatch.com/iptv/stream/daffec9025e48592ae34ad.m3u8
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1215,7 +1215,7 @@ http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:0,576
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
 #EXTINF:0,577
-http://185.98.209.11:81/mezzo/index.m3u8
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/test2/hls/playlist_mo.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1510,12 +1510,13 @@ https://kctv.koryofront.org/stream/index.m3u8
 https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:0 group-title="KP",KCTV 3
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
-#EXTINF:0 group-title="test",Klan test
-http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
-#EXTINF:0 group-title="test",Canale 5 test
+#EXTINF:0 group-title="test",724
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266406
+#EXTINF:0 group-title="test",725
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266385
-#EXTINF:0 group-title="test",Italia 1 test
+#EXTINF:0 group-title="test",726
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266395
 #EXTINF:0 group-title="test",727
@@ -1577,9 +1578,9 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:0,755
-http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:0,756
-http://185.9.2.18/chid_521/mpegts
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0,757
 http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0,758
