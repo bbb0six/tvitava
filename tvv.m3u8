@@ -283,12 +283,12 @@ https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="Sky IT",TV8 Web
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:0 group-title="Rai",Rai Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
 #EXTINF:0 group-title="MDS",Mediaset Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://213.169.39.30:5255
-#EXTINF:0 group-title="MDS",GF Open House
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -1379,12 +1379,12 @@ http://stream.mcquack.net/42/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="IL",ISR KAN11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="World",AZ İctimai
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MVRVAWFDC4M2C3/2195/mpegts
 #EXTINF:0 group-title="World",TR TRT 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MVRVAWFDC4M2C3/2293/mpegts
+http://176.65.153.35:6001/play/a01z/index.m3u8
 #EXTINF:0 group-title="World",TR TRT 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MVRVAWFDC4M2C3/6884/mpegts
+http://176.65.153.35:6001/play/a028/index.m3u8
+#EXTINF:0 group-title="World",TR TRT 3
+http://176.65.153.35:6001/play/a025/index.m3u8
 #EXTINF:0 group-title="World",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia Sport
