@@ -27,9 +27,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Svizzera",RSI La 1
-http://176.65.153.57:5002/play/a06o
+http://176.65.153.57:5002/play/a06o/index.m3u8
 #EXTINF:0 group-title="Svizzera",RSI La 2
-http://176.65.153.57:5002/play/a06p
+http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="Regionali",Canale 8
 https://canale8.zappr.stream/live/main-204747824658.m3u8
 #EXTINF:0 group-title="Regionali",Telelombardia
@@ -572,8 +572,8 @@ http://50.7.120.34:8080/TVI/index.m3u8
 http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://50.7.120.34:8080/CANAL_11/index.m3u8
-#EXTINF:0 group-title="test",259
-http://31.43.191.125:8080/restream/restream/652
+#EXTINF:0 group-title="test",Canale Italia
+https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
 #EXTINF:0 group-title="Vari",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecupole
