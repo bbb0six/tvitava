@@ -133,7 +133,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1 group-title="Vari",Casa Italia 53
-https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+https://liveac915sp.b-cdn.net/channel09/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
@@ -178,7 +178,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 group-title="Music",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Vari",Canale Italia
-https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radionorba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Music",RadioBruno TV
@@ -267,9 +267,9 @@ http://176.65.153.57:5002/play/a06n/index.m3u8
 http://176.65.153.4:7001/play/a07f/index.m3u8
 #EXTINF:-1 group-title="CH",LA 7 CINEMA
 http://176.65.153.4:7001/play/a07g/index.m3u8
-#EXTINF:0 group-title="MDS",Mediaset Italia
+#EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://213.169.39.30:5255
+https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -573,7 +573,7 @@ http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://50.7.120.34:8080/CANAL_11/index.m3u8
 #EXTINF:0 group-title="test",Canale Italia
-https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
+https://liveac915sp.b-cdn.net/channel11/playlist.m3u8
 #EXTINF:0 group-title="Vari",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecupole
@@ -1608,7 +1608,7 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:0,769
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,770
-https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
+http://213.169.39.30:5255
 #EXTINF:0,771
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,772
