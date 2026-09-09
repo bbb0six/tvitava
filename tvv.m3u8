@@ -32,12 +32,13 @@ http://176.65.153.57:5002/play/a06o/index.m3u8
 http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="Regionali",Canale 8
 https://canale8.zappr.stream/live/main-204747824658.m3u8
+#EXTINF:0 group-title="Regionali",Videolina
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://line.tivi-ott.net:80/MDB4KS/WDQVXG/177621
 #EXTINF:0 group-title="Regionali",Telelombardia
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
-#EXTINF:0 group-title="Regionali",Top Calcio 24
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
 #EXTINF:-1 group-title="Regionali",A3 Veneto
@@ -568,12 +569,12 @@ http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
 http://50.7.120.34:8080/SIC/index.m3u8
 #EXTINF:0 group-title="PT",TVI
 http://50.7.120.34:8080/TVI/index.m3u8
-#EXTINF:0 group-title="PT",Porto Canal
-http://50.7.120.34:8080/PORTO_CANAL/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://50.7.120.34:8080/CANAL_11/index.m3u8
-#EXTINF:0 group-title="test",Canale Italia
-https://liveac915sp.b-cdn.net/channel11/playlist.m3u8
+#EXTINF:0 group-title="ES",Squirrel
+https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+#EXTINF:0 group-title="ES",BOM Cine
+https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0 group-title="Vari",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:0 group-title="Vari",Telecupole
@@ -1211,11 +1212,11 @@ http://213.169.39.30:5142
 #EXTINF:0,574
 http://213.169.39.30:5130
 #EXTINF:0,575
-http://141.94.193.53:80/Sport_1_HD/index.m3u8
+http://213.169.39.30:5255
 #EXTINF:0,576
-http://141.94.193.53:80/Sport_2_HD/index.m3u8
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:0,577
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/test2/hls/playlist_mo.m3u8
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1274,21 +1275,21 @@ http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČTArt
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",A11 CZ
+http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Nova CZ
 http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Prima CZ
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 group-title="CZ",A11 CZ
-http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
-#EXTINF:-1 group-title="SK",TV Barrandov
-http://88.212.15.19/live/test_barrandov/playlist.m3u8
-#EXTINF:-1 group-title="SK",Barrandov Krimi
-http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="SK",Prima Cool
+http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Kanal 1 SK
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 1 Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 2 Dvojka
 http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",STVR 24
+#EXTINF:-1 group-title="SK",STVR 3 Trojka
 http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Markíza
 http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
@@ -1296,10 +1297,10 @@ http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
 http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
 http://88.212.15.19/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",Kanal 1 SK
-http://88.212.15.19/live/test_upnetwork/playlist.m3u8
-#EXTINF:-1 group-title="SK",Televízia Slovensko
-http://88.212.7.14/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1 group-title="SK",TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="SK",Barrandov Krimi
+http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="SK",TV Bratislava
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="HU",M4 Sport HU
@@ -1536,13 +1537,13 @@ http://88.212.15.19/live/joj_sport_2_avc/index.m3u8
 #EXTINF:0,733
 http://88.212.15.19/live/test_csrtv/playlist.m3u8
 #EXTINF:0,734
-http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
-#EXTINF:0,735
 http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
+#EXTINF:0,735
+http://line.tivi-ott.net:80/QXZT37/FLDMT3/177735
 #EXTINF:0,736
-https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
+http://line.tivi-ott.net:80/QXZT37/FLDMT3/177736
 #EXTINF:0,737
-http://198.58.104.90:8989/natgeo/index.m3u8
+https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPEN/playlist.m3u8
 #EXTINF:0,738
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0,739
@@ -1624,7 +1625,7 @@ http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0,777
 https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0,778
-https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:0,779
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
