@@ -703,9 +703,9 @@ http://217.73.139.200:5443/play/a007
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:0 group-title="AL",CNA TV
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="KS",RTK 1
+#EXTINF:0 group-title="AL",RTK 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
-#EXTINF:0 group-title="KS",RTK 3
+#EXTINF:0 group-title="AL",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -713,13 +713,12 @@ http://85.11.189.178:8080/BNT1HD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
+#EXTINF:0 group-title="BG",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 #EXTINF:0 group-title="BG",bTV BG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://85.11.189.178:8080/bTV/index.m3u8
-#EXTINF:0 group-title="SI",SLO 1
-http://176.61.157.250/SLO1HD/index.m3u8
-#EXTINF:0 group-title="SI",SLO 2
-http://176.61.157.250/SLO2HD/index.m3u8
+http://hls127.freeott.top:8080/BG_bTV_HD/video.m3u8
+#EXTINF:0 group-title="HR",HRT INT
+http://45.82.88.87:15153/udp/237.40.1.11:5000
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
