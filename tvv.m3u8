@@ -959,9 +959,9 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",CBS 2 NY
-http://stream.cammonitorplus.net/1810/index.m3u8
-#EXTINF:0 group-title="USA",NBC 4 NY
+#EXTINF:0 group-title="USA",_
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:0 group-title="USA",_
 http://stream.cammonitorplus.net/1812/index.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
@@ -1042,30 +1042,39 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:0 group-title="USA",Fox News
-http://4.30.180.36:8420/foxnews/index.m3u8?token=test
-#EXTINF:0 group-title="USA",Fox Live Now
-http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",ABC News
-http://4.30.180.36:8420/abc/index.m3u8?token=test
-#EXTINF:0 group-title="USA",NBC News
+#EXTINF:0 group-title="USA",NBC
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:0 group-title="USA",MSNBC
-http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
+#EXTINF:0 group-title="USA",MSNBC
+http://cdn1.ayitistream.com/MSNBC/index.m3u8
 #EXTINF:0 group-title="USA",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 group-title="USA",CNN LIVE
-http://4.30.180.36:8420/cnn/index.m3u8?token=test
-#EXTINF:0 group-title="USA",CNN ESPAÑOL
+#EXTINF:0 group-title="USA",Fox Live Now
+http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="USA",Fox News Channel
+#EXTVLCOPT:network-caching=1000
+http://109.104.153.220:80/FOX-NEWS-CHANNEL/index.m3u8
+#EXTINF:0 group-title="USA",ABC News
+#EXTVLCOPT:network-caching=1000
+http://109.104.153.220:80/ABC-NEWS/index.m3u8
+#EXTINF:0 group-title="USA",CNN
+#EXTVLCOPT:network-caching=1000
+http://109.104.153.220:80/CNN/index.m3u8
+#EXTINF:0 group-title="USA",500
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
+#EXTINF:0 group-title="s",Match 1 RU
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:0 group-title="s",Match 2 RU
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:0 group-title="s",Match 3 RU
+http://stream.mcquack.net/185/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 ES
 http://45.235.37.226/espnhd/index.m3u8
 #EXTINF:0 group-title="s",ESPN 2 ES
-http://45.235.37.226/espn2hd/index.m3u8
+http://138.121.15.230:9001/ESPN-2/mpegts
 #EXTINF:0 group-title="s",ESPN 3 ES
-http://45.235.37.226/espn3hd/index.m3u8
+http://138.121.15.230:9001/ESPN-3/mpegts
 #EXTINF:0 group-title="s",ESPN 4 ES
 http://138.121.15.230:9001/ESPN-4/mpegts
 #EXTINF:0 group-title="s",ESPN 5 ES
@@ -1074,12 +1083,6 @@ http://138.121.15.230:9001/ESPN-5/mpegts
 http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",ESPN 7 ES
 http://138.121.15.230:9001/ESPN-7/mpegts
-#EXTINF:0 group-title="s",Match 1 RU
-http://stream.mcquack.net/130/index.m3u8
-#EXTINF:0 group-title="s",Match 2 RU
-http://stream.mcquack.net/142/index.m3u8
-#EXTINF:0 group-title="s",Match 3 RU
-http://stream.mcquack.net/185/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 A
 http://154.12.107.98:8000/play/a08s
 #EXTINF:0 group-title="s",ESPN 2 A
@@ -1092,11 +1095,11 @@ http://154.12.107.98:8000/play/a0a0
 https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
 #EXTINF:0 group-title="s",Ziggo Sport 2
 https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
-#EXTINF:0 group-title="s",BeinSports1 FR
-http://99.27.51.147:8080/BeinSport/index.m3u8
-#EXTINF:0 group-title="s",BeinSports2 FR
+#EXTINF:0 group-title="s",Ziggo Sport 6
+https://lb.iptvnetwork.net/ls33/10047/playlist.m3u8
+#EXTINF:0 group-title="s",518
 http://99.27.51.147:8080/BeinSport2/index.m3u8
-#EXTINF:0 group-title="s",BeinSports3 FR
+#EXTINF:0 group-title="s",519
 http://99.27.51.147:8080/BeinSport3/index.m3u8
 #EXTINF:0 group-title="s",Arena Sport
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
@@ -1324,43 +1327,45 @@ http://88.212.15.19/live/tv2_comedy/index.m3u8
 http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTINF:-1 group-title="HU",TV4 HU
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="UA",UA Pershyi
+#EXTINF:-1 group-title="World",UA Pershyi
 http://stream.mcquack.net/437/index.m3u8
-#EXTINF:-1 group-title="UA",UA Kultura
+#EXTINF:-1 group-title="World",UA Kultura
 http://stream.mcquack.net/435/index.m3u8
-#EXTINF:-1 group-title="UA",UA Kyiv
+#EXTINF:-1 group-title="World",UA Kyiv
 http://stream.mcquack.net/439/index.m3u8
-#EXTINF:-1 group-title="UA",UA Krym
+#EXTINF:-1 group-title="World",UA Krym
 http://stream.mcquack.net/436/index.m3u8
-#EXTINF:-1 group-title="UA",UA Sport
+#EXTINF:-1 group-title="World",UA Sport
 http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 group-title="UA",UA 1+1
+#EXTINF:-1 group-title="World",UA 1+1
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 group-title="UA",UA 2+2
+#EXTINF:-1 group-title="World",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="World",LT LRT TV
 http://stream.mcquack.net/31/index.m3u8
 #EXTINF:-1 group-title="World",LV LTV1
 http://stream.mcquack.net/34/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 09
+#EXTINF:-1 group-title="World",ISR CH 09
 http://stream.mcquack.net/20/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 11
+#EXTINF:-1 group-title="World",ISR CH 11
 http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 12
+#EXTINF:-1 group-title="World",ISR CH 12
 http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 13
+#EXTINF:-1 group-title="World",ISR CH 13
 http://stream.mcquack.net/295/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 14
+#EXTINF:-1 group-title="World",ISR CH 14
 http://stream.mcquack.net/454/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 15
+#EXTINF:-1 group-title="World",ISR CH 15
 http://stream.mcquack.net/45/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 23
+#EXTINF:-1 group-title="World",ISR CH 23
 http://stream.mcquack.net/378/index.m3u8
-#EXTINF:-1 group-title="IL",ISR CH 24
+#EXTINF:-1 group-title="World",ISR CH 24
 http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1 group-title="IL",ISR MAKAN
+#EXTINF:-1 group-title="World",ISR ZOOM
+http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="IL",ISR KAN11
+#EXTINF:-1 group-title="World",ISR KAN11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",TR TRT 1
 http://176.65.153.35:6001/play/a01z/index.m3u8
@@ -1368,6 +1373,8 @@ http://176.65.153.35:6001/play/a01z/index.m3u8
 http://176.65.153.35:6001/play/a028/index.m3u8
 #EXTINF:0 group-title="World",TR TRT 3
 http://176.65.153.35:6001/play/a025/index.m3u8
+#EXTINF:0 group-title="World",AZ İctimai
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
 #EXTINF:0 group-title="World",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia Sport
@@ -1384,13 +1391,9 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="World",_
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
-#EXTINF:-1 group-title="World",MBC2 KSA
-http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:-1 group-title="World",MBC3 KSA
+#EXTINF:-1 group-title="World",663
 http://185.9.2.18/chid_376/index.m3u8
-#EXTINF:-1 group-title="World",MBC4 KSA
+#EXTINF:-1 group-title="World",664
 http://185.9.2.18/chid_377/index.m3u8
 #EXTINF:-1 group-title="World",Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
