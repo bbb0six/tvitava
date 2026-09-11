@@ -542,13 +542,13 @@ https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
 https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-http://31.43.191.125:8080/restream/restream/646
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5801
 #EXTINF:0 group-title="ES",Cuatro
-http://31.43.191.125:8080/restream/restream/651
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5802
 #EXTINF:0 group-title="ES",Telecinco
-http://31.43.191.125:8080/restream/restream/647
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5803
 #EXTINF:0 group-title="ES",laSexta
-http://31.43.191.125:8080/restream/restream/650
+https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5804
 #EXTINF:0 group-title="ES",RTVE tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE Clan
@@ -1384,8 +1384,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="World",MBC1 KSA
-http://185.9.2.18/chid_374/index.m3u8
+#EXTINF:-1 group-title="World",_
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
 #EXTINF:-1 group-title="World",MBC2 KSA
 http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:-1 group-title="World",MBC3 KSA
