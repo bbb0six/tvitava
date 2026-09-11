@@ -577,8 +577,8 @@ https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0 group-title="Vari",M'informo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:0 group-title="Vari",Telecupole
-https://d4k.it/hls/live2/live.m3u8
+#EXTINF:0 group-title="Vari",Primaset
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="Vari",E'TV Rete 7
@@ -927,9 +927,9 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",435
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:0 group-title="USA",BET HER
+#EXTINF:0 group-title="USA",436
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30018/mpegts
 #EXTINF:0 group-title="USA",CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
@@ -969,7 +969,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",HALLMARK
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:0 group-title="USA",LIFETIME
+#EXTINF:0 group-title="USA",_
 http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 #EXTINF:0 group-title="USA",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
@@ -996,7 +996,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:0 group-title="USA",HGTV
+#EXTINF:0 group-title="USA",_
 http://4.30.180.36:8420/hgtv/index.m3u8?token=test
 #EXTINF:0 group-title="USA",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
@@ -1010,7 +1010,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",Showtime
+#EXTINF:0 group-title="USA",_
 http://4.30.180.36:8420/showtime/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -1021,7 +1021,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TLC
-http://4.30.180.36:8420/tlc/index.m3u8?token=test
+http://109.104.153.220:80/TLC/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
