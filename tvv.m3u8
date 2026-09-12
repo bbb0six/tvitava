@@ -918,7 +918,7 @@ http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 group-title="World",430
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:0 group-title="USA",A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:0 group-title="USA",ACC Network
@@ -927,18 +927,33 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",435
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:0 group-title="USA",436
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VZL5TK4EKTYM2DYT7B8V5PXT/30018/mpegts
-#EXTINF:0 group-title="USA",CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:0 group-title="USA",MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 group-title="USA",5STARMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:0 group-title="USA",LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:0 group-title="USA",LMN
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:0 group-title="USA",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:0 group-title="USA",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:0 group-title="USA",MTV Global
+http://45.82.88.87:15153/udp/237.40.1.5:5000
+#EXTINF:0 group-title="USA",MTV 1
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:0 group-title="USA",MTV 2
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:0 group-title="USA",MTV USA
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:0 group-title="USA",MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:0 group-title="USA",MTV Classic
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19148/index.m3u8
+#EXTINF:0 group-title="USA",446
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/30018/index.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:0 group-title="USA",Cooking Channel
@@ -959,44 +974,31 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",458
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://stream.cammonitorplus.net/1812/index.m3u8
+#EXTINF:0 group-title="USA",459
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",HALLMARK
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://4.30.180.36:8420/lifetime/index.m3u8?token=test
-#EXTINF:0 group-title="USA",LMN
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:0 group-title="USA",CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:0 group-title="USA",VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:0 group-title="USA",MTV Global
+#EXTINF:0 group-title="USA",CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0 group-title="USA",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 group-title="USA",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0 group-title="USA",466
 http://dvr2.kablova.tv/MTV/index.m3u8
-#EXTINF:0 group-title="USA",MTV 1
-http://198.58.104.90:8989/mtv/index.m3u8
-#EXTINF:0 group-title="USA",MTV 2
-http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:0 group-title="USA",MTV USA
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:0 group-title="USA",MTV LIVE
-#EXTVLCOPT:network-caching=1000
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV Classic
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19148/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",470
 http://4.30.180.36:8420/hgtv/index.m3u8?token=test
 #EXTINF:0 group-title="USA",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
@@ -1006,11 +1008,9 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",476
 http://4.30.180.36:8420/showtime/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -1021,7 +1021,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",TLC
-http://109.104.153.220:80/TLC/index.m3u8
+http://41.205.93.154/TLC/mpegts
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
@@ -1054,35 +1054,35 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News Channel
 #EXTVLCOPT:network-caching=1000
-http://109.104.153.220:80/FOX-NEWS-CHANNEL/index.m3u8
+http://41.205.93.154/FOXNEWS/index.m3u8
 #EXTINF:0 group-title="USA",ABC News
 #EXTVLCOPT:network-caching=1000
-http://109.104.153.220:80/ABC-NEWS/index.m3u8
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 group-title="USA",CNN
 #EXTVLCOPT:network-caching=1000
-http://109.104.153.220:80/CNN/index.m3u8
-#EXTINF:0 group-title="USA",500
-http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
+http://41.205.93.154/CNN/index.m3u8
+#EXTINF:0 group-title="USA",CNN Español
+http://138.121.15.230:9001/CNN-ESPANOL/mpegts
+#EXTINF:0 group-title="s",ESPN 1 CO
+http://138.121.15.230:9001/ESPN-CO/mpegts
+#EXTINF:0 group-title="s",ESPN 2 CO
+http://138.121.15.230:9001/ESPN-2/mpegts
+#EXTINF:0 group-title="s",ESPN 3 CO
+http://138.121.15.230:9001/ESPN-3/mpegts
+#EXTINF:0 group-title="s",ESPN 4 CO
+http://138.121.15.230:9001/ESPN-4/mpegts
+#EXTINF:0 group-title="s",ESPN 5 CO
+http://138.121.15.230:9001/ESPN-5/mpegts
+#EXTINF:0 group-title="s",ESPN 6 CO
+http://138.121.15.230:9001/ESPN-6/mpegts
+#EXTINF:0 group-title="s",ESPN 7 CO
+http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:0 group-title="s",Match 3 RU
 http://stream.mcquack.net/185/index.m3u8
-#EXTINF:0 group-title="s",ESPN 1 ES
-http://45.235.37.226/espnhd/index.m3u8
-#EXTINF:0 group-title="s",ESPN 2 ES
-http://138.121.15.230:9001/ESPN-2/mpegts
-#EXTINF:0 group-title="s",ESPN 3 ES
-http://138.121.15.230:9001/ESPN-3/mpegts
-#EXTINF:0 group-title="s",ESPN 4 ES
-http://138.121.15.230:9001/ESPN-4/mpegts
-#EXTINF:0 group-title="s",ESPN 5 ES
-http://138.121.15.230:9001/ESPN-5/mpegts
-#EXTINF:0 group-title="s",ESPN 6 ES
-http://138.121.15.230:9001/ESPN-6/mpegts
-#EXTINF:0 group-title="s",ESPN 7 ES
-http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",ESPN 1 A
 http://154.12.107.98:8000/play/a08s
 #EXTINF:0 group-title="s",ESPN 2 A
@@ -1246,13 +1246,13 @@ http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1,591
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/index.m3u8
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19135/index.m3u8
 #EXTINF:-1,592
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19127/index.m3u8
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19127/index.m3u8
 #EXTINF:-1,593
-http://103.163.132.53/iptv/5KLVA2TCEWQTMK/19137/index.m3u8
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19137/index.m3u8
 #EXTINF:-1,594
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19132/mpegts
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19132/index.m3u8
 #EXTINF:-1,595
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:-1,596
