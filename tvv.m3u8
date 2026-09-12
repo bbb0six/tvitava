@@ -927,12 +927,12 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://41.205.93.154/BRAVO/mpegts
-#EXTINF:0 group-title="USA",TLC
-http://41.205.93.154/TLC/mpegts
-#EXTINF:0 group-title="USA",LIFETIME
-http://41.205.93.154/LIFETIME/mpegts
+#EXTINF:0 group-title="USA",_
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",CMT
@@ -949,10 +949,10 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19148/index.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO WILD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:0 group-title="USA",Destination America
@@ -963,10 +963,8 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",FX
+#EXTINF:0 group-title="USA",_
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:0 group-title="USA",FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
@@ -985,18 +983,14 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO WILD
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:0 group-title="USA",FUSE
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:0 group-title="USA",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",Disney jr
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:0 group-title="USA",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
@@ -1017,6 +1011,14 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WE TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://41.205.93.154/BRAVO/mpegts
+#EXTINF:0 group-title="USA",TLC
+http://41.205.93.154/TLC/mpegts
+#EXTINF:0 group-title="USA",LIFETIME
+http://41.205.93.154/LIFETIME/mpegts
+#EXTINF:0 group-title="USA",_
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
 #EXTINF:0 group-title="USA",_
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:0 group-title="USA",_
@@ -1031,8 +1033,6 @@ http://45.82.88.87:15153/udp/237.40.1.15:5000
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:0 group-title="USA",_
 http://45.82.88.87:15153/udp/237.40.1.5:5000
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",WGN
@@ -1370,7 +1370,9 @@ http://176.65.153.35:6001/play/a028/index.m3u8
 #EXTINF:0 group-title="World",TR TRT 3
 http://176.65.153.35:6001/play/a025/index.m3u8
 #EXTINF:0 group-title="World",AZ İctimai
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
+http://46.32.176.50/IctimaiHD/playlist.m3u8
+#EXTINF:0 group-title="World",AZ AZTV
+http://46.32.176.50/aztv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia Sport
@@ -1387,10 +1389,8 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="World",663
-http://185.9.2.18/chid_376/index.m3u8
-#EXTINF:-1 group-title="World",664
-http://185.9.2.18/chid_377/index.m3u8
+#EXTINF:-1 group-title="World",Azerbaijan
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
 #EXTINF:-1 group-title="World",Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
