@@ -988,8 +988,6 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
-http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO WILD 2
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:0 group-title="USA",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -1027,6 +1025,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 http://dvr1.kablova.tv/Senzi/index.m3u8
 #EXTINF:0 group-title="USA",_
 http://45.82.88.87:15153/udp/237.40.1.14:5000
+#EXTINF:0 group-title="USA",_
+http://45.82.88.87:15153/udp/237.40.1.15:5000
 #EXTINF:0 group-title="USA",_
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:0 group-title="USA",_
