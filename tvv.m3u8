@@ -26,25 +26,24 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="Svizzera",RSI La 1
+#EXTINF:-1 group-title="Svizzera",RSI LA 1
 http://176.65.153.57:5002/play/a06o/index.m3u8
-#EXTINF:0 group-title="Svizzera",RSI La 2
+#EXTINF:-1 group-title="Svizzera",RSI LA 2
 http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:0 group-title="Regionali",Canale 8
-https://canale8.zappr.stream/live/main-204747824658.m3u8
-#EXTINF:0 group-title="Regionali",Videolina
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://line.tivi-ott.net:80/MDB4KS/WDQVXG/177621
-#EXTINF:0 group-title="Regionali",Telelombardia
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
-#EXTINF:0 group-title="Regionali",Antenna 3
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
-#EXTINF:-1 group-title="Regionali",7Gold
+#EXTINF:-1 group-title="Svizzera",RTS 1
+http://176.65.153.57:5002/play/a06k/index.m3u8
+#EXTINF:-1 group-title="Svizzera",RTS 2
+http://176.65.153.57:5002/play/a06l/index.m3u8
+#EXTINF:-1 group-title="Svizzera",SRF 1
+http://176.65.153.57:5002/play/a06i/index.m3u8
+#EXTINF:-1 group-title="Svizzera",SRF 2
+http://176.65.153.57:5002/play/a06j/index.m3u8
+#EXTINF:-1 group-title="Svizzera",SRF INFO
+http://176.65.153.57:5002/play/a06n/index.m3u8
+#EXTINF:-1 group-title="Svizzera",Teleticino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 group-title="Regionali",7Gold Telepadova
 http://84.22.55.2:8032/play/s364
-#EXTINF:-1 group-title="Regionali",A3 Veneto
-http://84.22.55.2:8032/play/s366
-#EXTINF:-1 group-title="Regionali",TV7 Triveneta Network
-http://84.22.55.2:8032/play/s369
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -237,8 +236,6 @@ http://88.212.7.14/live/mb_dance/index.m3u8
 http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Sexy
 http://88.212.7.14/live/mb_sexy/index.m3u8
-#EXTINF:0 group-title="Music",4ever Music
-http://stream.mcquack.net/257/index.m3u8
 #EXTINF:0 group-title="News",BBC News
 http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 #EXTINF:0 group-title="News",SKY News
@@ -249,26 +246,29 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://179.63.5.46:8000/play/a03a/index.m3u8
 #EXTINF:0 group-title="Rai",Rai Italia
 http://179.63.5.46:8000/play/a01n/index.m3u8
+#EXTINF:0 group-title="MDS",Mediaset Italia
+http://213.169.39.30:5255
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="CH",RSI LA 1
-http://176.65.153.57:5002/play/a06o/index.m3u8
-#EXTINF:-1 group-title="CH",RSI LA 2
-http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:-1 group-title="CH",RTS 1
-http://176.65.153.57:5002/play/a06k/index.m3u8
-#EXTINF:-1 group-title="CH",RTS 2
-http://176.65.153.57:5002/play/a06l/index.m3u8
-#EXTINF:-1 group-title="CH",SRF 1
-http://176.65.153.57:5002/play/a06i/index.m3u8
-#EXTINF:-1 group-title="CH",SRF 2
-http://176.65.153.57:5002/play/a06j/index.m3u8
-#EXTINF:-1 group-title="CH",SRF INFO
-http://176.65.153.57:5002/play/a06n/index.m3u8
-#EXTINF:-1 group-title="CH",LA 7
-http://176.65.153.4:7001/play/a07f/index.m3u8
-#EXTINF:-1 group-title="CH",LA 7 CINEMA
-http://176.65.153.4:7001/play/a07g/index.m3u8
+#EXTINF:0 group-title="IT",Rai 1
+http://102.129.186.182:81/rai1/index.m3u8
+#EXTINF:0 group-title="IT",Rai 2
+http://102.129.186.182:81/rai2/index.m3u8
+#EXTINF:0 group-title="IT",Rai 3
+http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:0 group-title="IT",Rete 4
+http://176.65.153.52:5003/play/a07r/index.m3u8
+#EXTINF:0 group-title="IT",Canale 5
+http://176.65.153.52:5003/play/a07q/index.m3u8
+#EXTINF:0 group-title="IT",Italia 1
+http://176.65.153.52:5003/play/a07p/index.m3u8
+#EXTINF:0 group-title="IT",LA7 HD
+http://102.129.186.182:81/la7/index.m3u8
+#EXTINF:0 group-title="IT",TV8 HD
+http://102.129.186.182:81/tv8/index.m3u8
+#EXTINF:-1 group-title="IT",NOVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="MDS",GF Open House
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
@@ -349,10 +349,10 @@ https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4g
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Rei TV
 https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
+#EXTINF:0 group-title="Regionali",Canale 8
+https://canale8.zappr.stream/live/main-204747824658.m3u8
 #EXTINF:0 group-title="Regionali",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
 #EXTINF:0 group-title="Regionali",Telerent
 https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
 #EXTINF:0 group-title="Vari",EQU TV
@@ -383,10 +383,10 @@ https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Peer TV
 https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:0 group-title="Regionali",TVRS
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="CH",Teleticino
-https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:0 group-title="Regionali",Telelombardia
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
+#EXTINF:0 group-title="Regionali",Antenna 3
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
 #EXTINF:0 group-title="DE",ONE
 http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
@@ -576,8 +576,8 @@ http://50.7.120.34:8080/CANAL_11/index.m3u8
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0 group-title="ES",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-#EXTINF:0 group-title="Vari",M'informo TV
-https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:0 group-title="NL",NPO 1
+http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:0 group-title="Vari",Primaset
 https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 #EXTINF:0 group-title="Vari",Rete Oro
@@ -602,12 +602,12 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
 #EXTINF:0 group-title="Vari",Canale 122
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:0 group-title="Vari",Cafe TV 24
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:0 group-title="Vari",Tele Molise
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="Vari",Diciotto
-http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="Vari",Cafe TV 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:0 group-title="Vari",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -732,14 +732,15 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:0 group-title="HR",Nova TV
+#EXTINF:0 group-title="HR",Nova 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:0 group-title="HR",Nova 2
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:0 group-title="HR",Doma TV
 http://176.61.157.250/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT INT
 http://45.82.88.87:15153/udp/237.40.1.11:5000
-#EXTINF:0 group-title="NL",NPO 1 NL
-http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:-1 group-title="RO",TVR 1
 http://89.44.231.73:7000/tvr1
 #EXTINF:-1 group-title="RO",TVR 2
@@ -1578,10 +1579,9 @@ http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
 #EXTINF:0,756
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0,757
-http://185.129.1.242:80/aztv/mpegts
+http://176.65.153.4:7001/play/a07f/index.m3u8
 #EXTINF:0,758
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+http://176.65.153.4:7001/play/a07g/index.m3u8
 #EXTINF:0,759
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
