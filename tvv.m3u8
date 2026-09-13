@@ -26,23 +26,23 @@ https://www.mytivu.it/Application/Channels/TV8.php/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Svizzera",RSI LA 1
+#EXTINF:-1 group-title="CH",RSI LA 1
 http://176.65.153.57:5002/play/a06o/index.m3u8
-#EXTINF:-1 group-title="Svizzera",RSI LA 2
+#EXTINF:-1 group-title="CH",RSI LA 2
 http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:-1 group-title="Svizzera",RTS 1
+#EXTINF:-1 group-title="CH",RTS 1
 http://176.65.153.57:5002/play/a06k/index.m3u8
-#EXTINF:-1 group-title="Svizzera",RTS 2
+#EXTINF:-1 group-title="CH",RTS 2
 http://176.65.153.57:5002/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF 1
+#EXTINF:-1 group-title="CH",SRF 1
 http://176.65.153.57:5002/play/a06i/index.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF 2
+#EXTINF:-1 group-title="CH",SRF 2
 http://176.65.153.57:5002/play/a06j/index.m3u8
-#EXTINF:-1 group-title="Svizzera",SRF INFO
+#EXTINF:-1 group-title="CH",SRF INFO
 http://176.65.153.57:5002/play/a06n/index.m3u8
-#EXTINF:-1 group-title="Svizzera",Teleticino
+#EXTINF:-1 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 group-title="Regionali",7Gold Telepadova
+#EXTINF:-1 group-title="Regionali",7Gold
 http://84.22.55.2:8032/play/s364
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -379,16 +379,16 @@ https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Trentino TV
 https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+#EXTINF:0 group-title="Regionali",TV33 TN
+https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
 #EXTINF:0 group-title="Regionali",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Peer TV
 https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:0 group-title="Regionali",Telelombardia
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
-#EXTINF:0 group-title="Regionali",Antenna 3
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
-#EXTINF:0 group-title="DE",ONE
-http://5.180.164.197:8080/ONE/index.m3u8
+#EXTINF:0 group-title="Regionali",A3 Veneto
+http://84.22.55.2:8032/play/s366
+#EXTINF:0 group-title="Regionali",TV7 Triveneta
+http://84.22.55.2:8032/play/s369
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
@@ -771,12 +771,12 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 5
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
-#EXTINF:0 group-title="LU",RTL 1 LU
+#EXTINF:0 group-title="LU",_
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="LU",RTL 2 LU
+#EXTINF:0 group-title="LU",_
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="LU",RTL Gold
-https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
+#EXTINF:0 group-title="DE",ONE
+http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -959,14 +959,10 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:0 group-title="USA",Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:0 group-title="USA",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:0 group-title="USA",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
@@ -1019,22 +1015,6 @@ http://41.205.93.154/BRAVO/mpegts
 http://41.205.93.154/TLC/mpegts
 #EXTINF:0 group-title="USA",LIFETIME
 http://41.205.93.154/LIFETIME/mpegts
-#EXTINF:0 group-title="USA",_
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
-#EXTINF:0 group-title="USA",_
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:0 group-title="USA",_
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 group-title="test",_
-http://102.129.186.182:81/comedy/index.m3u8
-#EXTINF:0 group-title="test",_
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://5.57.74.130:8000/play/a0dh/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
-#EXTINF:0 group-title="USA",_
-http://45.82.88.87:15153/udp/237.40.1.5:5000
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",WGN
@@ -1059,22 +1039,42 @@ http://41.205.93.154/FOXNEWS/mpegts
 http://41.205.93.154/ABC/mpegts
 #EXTINF:0 group-title="USA",CNN
 http://41.205.93.154/CNN/mpegts
+#EXTINF:0 group-title="USA",_
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
+#EXTINF:0 group-title="USA",_
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:0 group-title="USA",_
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 group-title="test",_
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:0 group-title="test",_
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:0 group-title="USA",_
+http://5.57.74.130:8000/play/a0dh/index.m3u8
+#EXTINF:0 group-title="USA",_
+http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+#EXTINF:0 group-title="World",RTL 1 LU
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 group-title="World",RTL 2 LU
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="World",RTL Gold
+https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
 #EXTINF:0 group-title="USA",CNN Español
 http://138.121.15.230:9001/CNN-ESPANOL/mpegts
-#EXTINF:0 group-title="s",ESPN 1 CO
-http://138.121.15.230:9001/ESPN-CO/mpegts
-#EXTINF:0 group-title="s",ESPN 2 CO
-http://138.121.15.230:9001/ESPN-2/mpegts
-#EXTINF:0 group-title="s",ESPN 3 CO
-http://138.121.15.230:9001/ESPN-3/mpegts
-#EXTINF:0 group-title="s",ESPN 4 CO
-http://138.121.15.230:9001/ESPN-4/mpegts
-#EXTINF:0 group-title="s",ESPN 5 CO
-http://138.121.15.230:9001/ESPN-5/mpegts
-#EXTINF:0 group-title="s",ESPN 6 CO
-http://138.121.15.230:9001/ESPN-6/mpegts
-#EXTINF:0 group-title="s",ESPN 7 CO
-http://138.121.15.230:9001/ESPN-7/mpegts
+#EXTINF:0 group-title="s",MaxSport1 BG
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:0 group-title="s",MaxSport2 BG
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:0 group-title="s",MaxSport3 BG
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:0 group-title="s",MaxSport4 BG
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:0 group-title="s",DiemaSport1 BG
+http://hls127.freeott.top:8080/BG_Diema_Sport_HD/video.m3u8
+#EXTINF:0 group-title="s",DiemaSport2 BG
+http://hls127.freeott.top:8080/BG_Diema_Sport_2_HD/video.m3u8
+#EXTINF:0 group-title="s",DiemaSport3 BG
+http://hls127.freeott.top:8080/BG_Diema_Sport_3/video.m3u8
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
@@ -1096,10 +1096,10 @@ https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="s",Ziggo Sport 6
 https://lb.iptvnetwork.net/ls33/10047/playlist.m3u8
 #EXTINF:0 group-title="s",518
-http://99.27.51.147:8080/BeinSport2/index.m3u8
+http://176.65.153.4:4002/play/a06j/index.m3u8
 #EXTINF:0 group-title="s",519
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-#EXTINF:0 group-title="s",Arena Sport
+http://185.47.212.25/svt24/index.m3u8
+#EXTINF:0 group-title="s",520
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
@@ -1203,20 +1203,20 @@ http://190.60.37.118:4000/play/a0c8
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
 http://102.129.186.182:81/inter/index.m3u8
-#EXTINF:0,571
-http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-#EXTINF:0,572
-http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
-#EXTINF:0,573
-http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-#EXTINF:0,574
-http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
-#EXTINF:0,575
-http://hls127.freeott.top:8080/BG_Diema_Sport_HD/video.m3u8
-#EXTINF:0,576
-http://hls127.freeott.top:8080/BG_Diema_Sport_2_HD/video.m3u8
-#EXTINF:0,577
-http://hls127.freeott.top:8080/BG_Diema_Sport_3/video.m3u8
+#EXTINF:0 group-title="s",571
+http://138.121.15.230:9001/ESPN-CO/mpegts
+#EXTINF:0 group-title="s",572
+http://138.121.15.230:9001/ESPN-2/mpegts
+#EXTINF:0 group-title="s",573
+http://138.121.15.230:9001/ESPN-3/mpegts
+#EXTINF:0 group-title="s",574
+http://138.121.15.230:9001/ESPN-4/mpegts
+#EXTINF:0 group-title="s",575
+http://138.121.15.230:9001/ESPN-5/mpegts
+#EXTINF:0 group-title="s",576
+http://138.121.15.230:9001/ESPN-6/mpegts
+#EXTINF:0 group-title="s",577
+http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0,578
 http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
@@ -1522,8 +1522,7 @@ http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
 http://176.65.153.52:5003/play/a07w/index.m3u8
 #EXTINF:0 group-title="test",729
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266406
+http://176.65.153.52:5003/play/a07u/index.m3u8
 #EXTINF:0,730
 http://176.65.153.52:5003/play/a07o/index.m3u8
 #EXTINF:0,731
