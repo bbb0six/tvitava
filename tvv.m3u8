@@ -164,7 +164,8 @@ https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.
 #EXTINF:-1 group-title="Vari",supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f11919dca3bd.streamlock.net/almatv/_definst_/almatv/playlist.m3u8
 #EXTINF:-1 group-title="MDS",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
@@ -320,12 +321,12 @@ http://wms.shared.streamshow.it/telequattro/telequattro/master.m3u8
 https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
 #EXTINF:0 group-title="Regionali",TVA Vicenza
 https://fms.telemar.it:1936/live/diretta_1/master.m3u8
-#EXTINF:0 group-title="Regionali",Rete Veneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
-#EXTINF:0 group-title="Regionali",Telenuovo
-https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
 #EXTINF:0 group-title="Regionali",Telechiara
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
+#EXTINF:0 group-title="Regionali",Telenuovo
+https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
+#EXTINF:0 group-title="Regionali",Rete Veneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
 #EXTINF:0 group-title="Regionali",Primantenna
 https://64b16f23efbee.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Canale 10
@@ -710,6 +711,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNT1HD/index.m3u8
+#EXTINF:0 group-title="BG",BNT 2
+http://84.54.128.52:9999/BNT2
 #EXTINF:0 group-title="BG",BNT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
@@ -717,8 +720,6 @@ http://85.11.189.178:8080/BNTHD/index.m3u8
 http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 http://hls127.freeott.top:8080/BG_bTV_HD/video.m3u8
-#EXTINF:0 group-title="HR",HRT INT
-http://45.82.88.87:15153/udp/237.40.1.11:5000
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -735,10 +736,10 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:0 group-title="HR",Doma TV
 http://176.61.157.250/DomaTV/index.m3u8
+#EXTINF:0 group-title="HR",HRT INT
+http://45.82.88.87:15153/udp/237.40.1.11:5000
 #EXTINF:0 group-title="NL",NPO 1 NL
 http://185.207.34.31:8000/play/21029/index.m3u8
-#EXTINF:0 group-title="NL",NPO 3 NL
-http://185.207.34.31:8000/play/21040/index.m3u8
 #EXTINF:-1 group-title="RO",TVR 1
 http://89.44.231.73:7000/tvr1
 #EXTINF:-1 group-title="RO",TVR 2
@@ -897,8 +898,12 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 group-title="World",420
-https://d3k8wzt41aflvx.cloudfront.net/La7Italia/Live.m3u8
+#EXTINF:0 group-title="World",A3 INT
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:-1 group-title="World",TVE INT
+http://190.60.37.118:4000/play/a087
+#EXTINF:-1 group-title="World",STAR TVE
+http://45.171.64.30:8800/play/a04z
 #EXTINF:0 group-title="World",3cat
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
@@ -907,18 +912,14 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",STAR TVE
-http://45.171.64.30:8800/play/a04z
-#EXTINF:-1 group-title="World",TVE INT
-http://190.60.37.118:4000/play/a087
-#EXTINF:0 group-title="World",A3 INT
-http://45.235.37.226/antena3/index.m3u8
-#EXTINF:0 group-title="World",Canal 13
-http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:0 group-title="World",T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 group-title="World",430
+#EXTINF:-1 group-title="World",427
+http://185.207.34.31:8000/play/21029/index.m3u8
+#EXTINF:-1 group-title="World",428
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+#EXTINF:0 group-title="World",429
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:0 group-title="World",430
+http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:0 group-title="USA",ACC Network
@@ -927,8 +928,8 @@ http://23.237.104.106:8080/USA_ACCN/mpegts
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 group-title="USA",Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:0 group-title="USA",Paramount
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",FUSE
@@ -1023,12 +1024,12 @@ http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:0 group-title="USA",_
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:0 group-title="test",_
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:0 group-title="test",_
+http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="USA",_
-http://dvr1.kablova.tv/Senzi/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://45.82.88.87:15153/udp/237.40.1.14:5000
-#EXTINF:0 group-title="USA",_
-http://45.82.88.87:15153/udp/237.40.1.15:5000
+http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0 group-title="USA",_
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:0 group-title="USA",_
@@ -1200,7 +1201,7 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://213.169.39.30:5255
+http://102.129.186.182:81/inter/index.m3u8
 #EXTINF:0,571
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
 #EXTINF:0,572
@@ -1259,10 +1260,10 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19099/mpegts
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19100/mpegts
 #EXTINF:-1,599
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19096/mpegts
-#EXTINF:-1 group-title="Music",600
+#EXTINF:-1 group-title="test",600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
-http://42.118.247.37:9394/stream/74.m3u8
+http://donetex.com:80/test/test/49
 #EXTINF:-1 group-title="CZ",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
@@ -1389,10 +1390,10 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="World",Azerbaijan
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/2195/index.m3u8
 #EXTINF:-1 group-title="World",Dubai TV
 http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:0 group-title="Music",4ever Music
+http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 group-title="Music",euroindiemusic
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
@@ -1510,44 +1511,40 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:0 group-title="KP",KCTV 3
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:0 group-title="test",724
+http://176.65.153.52:5003/play/a07r/index.m3u8
+#EXTINF:0 group-title="test",725
+http://176.65.153.52:5003/play/a07q/index.m3u8
+#EXTINF:0 group-title="test",726
+http://176.65.153.52:5003/play/a07p/index.m3u8
+#EXTINF:0 group-title="test",727
+http://176.65.153.52:5003/play/a07x/index.m3u8
+#EXTINF:0 group-title="test",728
+http://176.65.153.52:5003/play/a07w/index.m3u8
+#EXTINF:0 group-title="test",729
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
-#EXTINF:0 group-title="test",725
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266385
-#EXTINF:0 group-title="test",726
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266395
-#EXTINF:0 group-title="test",727
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:0 group-title="test",728
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
-#EXTINF:0,729
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,730
-https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+http://176.65.153.52:5003/play/a07o/index.m3u8
 #EXTINF:0,731
-http://88.212.15.19/live/test_joj_svet/playlist.m3u8
+http://102.129.186.182:81/rai1/index.m3u8
 #EXTINF:0,732
-http://88.212.15.19/live/joj_sport_2_avc/index.m3u8
+http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:0,733
-http://88.212.15.19/live/test_csrtv/playlist.m3u8
+http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0,734
-http://88.212.7.14/live/test_fashionbox_medium_atk/playlist.m3u8
+http://102.129.186.182:81/rai4/index.m3u8
 #EXTINF:0,735
-http://line.tivi-ott.net:80/QXZT37/FLDMT3/177735
+http://102.129.186.182:81/rai5/index.m3u8
 #EXTINF:0,736
-http://line.tivi-ott.net:80/QXZT37/FLDMT3/177736
+http://102.129.186.182:81/raimovie/index.m3u8
 #EXTINF:0,737
-https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPEN/playlist.m3u8
+http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0,738
-http://198.58.104.90:8989/natgeowild/index.m3u8
+http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:0,739
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+http://102.129.186.182:81/realtime/index.m3u8
 #EXTINF:0,740
-https://live.jefimija.eu/hls/stream_src/index.m3u8
+http://102.129.186.182:81/dmax/index.m3u8
 #EXTINF:0 group-title="RO",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 2
@@ -1583,11 +1580,12 @@ http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0,757
 http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0,758
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0,759
-https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
-https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
+https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,761
 http://84.22.55.2:8032/play/s361
 #EXTINF:0,762
@@ -1609,21 +1607,21 @@ http://84.22.55.2:8032/play/s369
 #EXTINF:0,770
 http://213.169.39.30:5255
 #EXTINF:0,771
-https://d4k.it/hls/live1/live.m3u8
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,772
-https://d4k.it/hls/live2/live.m3u8
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:0,773
-https://d4k.it/hls/live3/live.m3u8
+https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,774
-https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:0,775
-https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,776
-http://5.57.74.130:8000/play/a0dh/index.m3u8
+https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,777
 https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0,778
-https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:0,779
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
