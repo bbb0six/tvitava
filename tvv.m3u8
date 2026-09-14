@@ -899,20 +899,16 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:0 group-title="World",A3 INT
-http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="USA",A&E
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:0 group-title="USA",ACC Network
-http://23.237.104.106:8080/USA_ACCN/index.m3u8
-#EXTINF:0 group-title="USA",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:0 group-title="USA",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:0 group-title="USA",Buzzr TV
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:0 group-title="USA",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:0 group-title="USA",Destination America
@@ -921,8 +917,12 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:0 group-title="USA",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:0 group-title="USA",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0 group-title="USA",ION
+http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:0 group-title="USA",HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:0 group-title="USA",CINEMAX
@@ -951,58 +951,62 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19148/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:0 group-title="USA",NAT GEO WILD
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-#EXTINF:-1 group-title="World",_
-http://190.60.37.118:4000/play/a087
-#EXTINF:0 group-title="World",_
-http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:0 group-title="USA",Revolt
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:0 group-title="USA",MAV TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 group-title="USA",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="USA",LIFETIME
 http://41.205.93.154/LIFETIME/mpegts
-#EXTINF:0 group-title="USA",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:0 group-title="USA",MAV TV
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:0 group-title="USA",NBA TV
-http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:0 group-title="USA",NAT GEO WILD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:0 group-title="USA",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:0 group-title="USA",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",Disney jr
+#EXTINF:0 group-title="USA",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:0 group-title="USA",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:0 group-title="USA",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:0 group-title="USA",Starz
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:0 group-title="USA",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0 group-title="USA",AMC
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="USA",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:0 group-title="USA",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 group-title="USA",Tennis Channel
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:0 group-title="USA",Vice TV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:0 group-title="USA",WE TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://41.205.93.154/TLC/mpegts
+#EXTINF:0 group-title="USA",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:0 group-title="USA",Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:0 group-title="USA",ACC Network
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:0 group-title="USA",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",ABC News
+http://41.205.93.154/ABC/mpegts
+#EXTINF:0 group-title="USA",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 group-title="USA",CNN News
+http://41.205.93.154/CNN/mpegts
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",OAN
@@ -1015,16 +1019,16 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://cdn1.ayitistream.com/MSNBC/index.m3u8
-#EXTINF:0 group-title="USA",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 group-title="USA",Fox Live Now
-http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="USA",Fox News
+http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19147/index.m3u8
 #EXTINF:0 group-title="USA",Fox News Channel
 http://41.205.93.154/FOXNEWS/mpegts
-#EXTINF:0 group-title="USA",ABC News
-http://41.205.93.154/ABC/mpegts
-#EXTINF:0 group-title="USA",CNN
-http://41.205.93.154/CNN/mpegts
+#EXTINF:0 group-title="USA",Fox Live Now
+http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="World",_
+http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:0 group-title="World",_
+http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="USA",_
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
 #EXTINF:0 group-title="USA",_
@@ -1042,9 +1046,7 @@ http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:-1 group-title="World",_
 http://185.207.34.31:8000/play/21029/index.m3u8
 #EXTINF:-1 group-title="World",_
-http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
-#EXTINF:0 group-title="World",_
-http://45.235.37.226/canal13hd/index.m3u8
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
 #EXTINF:0 group-title="World",3cat
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
