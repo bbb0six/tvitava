@@ -404,7 +404,7 @@ http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",3sat
 http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+http://88.212.15.19/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
 http://193.239.187.106/RTL2/index.m3u8
 #EXTINF:0 group-title="DE",SIXX
@@ -543,13 +543,13 @@ https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
 https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5801
+http://9d89hdnu.g31febgr.xyz:80/play/3vi1118816/bSWgyQjNa3Ck/1325150.ts
 #EXTINF:0 group-title="ES",Cuatro
-https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5802
+http://9d89hdnu.g31febgr.xyz:80/play/3vi1118816/bSWgyQjNa3Ck/1325156.ts
 #EXTINF:0 group-title="ES",Telecinco
-https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5803
+http://9d89hdnu.g31febgr.xyz:80/play/3vi1118816/bSWgyQjNa3Ck/1325159.ts
 #EXTINF:0 group-title="ES",laSexta
-https://main.gotencloud.xyz:8443/raul/fFR44D2VX95k/5804
+http://9d89hdnu.g31febgr.xyz:80/play/3vi1118816/bSWgyQjNa3Ck/1325162.ts
 #EXTINF:0 group-title="ES",RTVE tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE Clan
@@ -1030,11 +1030,11 @@ http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0 group-title="USA",484
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
 #EXTINF:0 group-title="test",485
-http://102.129.186.182:81/comedy/index.m3u8
+http://88.212.15.19/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",486
-http://102.129.186.182:81/nick/index.m3u8
+http://88.212.15.19/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",487
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+http://88.212.15.19/live/test_super_rtl_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",488
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:0 group-title="test",489
@@ -1516,7 +1516,7 @@ http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3
 #EXTINF:0 group-title="test",725
 http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
 #EXTINF:0 group-title="test",726
-http://176.65.153.52:5003/play/a07p/index.m3u8
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 #EXTINF:0 group-title="test",727
 http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
