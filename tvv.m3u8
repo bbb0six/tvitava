@@ -757,8 +757,8 @@ http://89.44.231.73:7000/antena3
 http://89.44.231.73:7000/primatv
 #EXTINF:-1 group-title="RO",Digi24 RO
 http://89.44.231.73:7000/digi24hd
-#EXTINF:0 group-title="MT",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:-1 group-title="RO",B1 RO
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 group-title="CH",TVM3 CH
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 1
@@ -771,12 +771,12 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 5
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
-#EXTINF:0 group-title="World",RTL 1 LU
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="World",RTL 2 LU
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="World",RTL Gold
-https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
+#EXTINF:0 group-title="World",3cat
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
+#EXTINF:0 group-title="World",3cat info
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="World",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -1025,32 +1025,30 @@ http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19147/index.m3u8
 http://41.205.93.154/FOXNEWS/mpegts
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="World",_
-http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:0 group-title="World",_
-http://45.235.37.226/antena3/index.m3u8
-#EXTINF:0 group-title="USA",_
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19179/index.m3u8
-#EXTINF:0 group-title="USA",_
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:0 group-title="USA",_
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:0 group-title="test",_
-http://102.129.186.182:81/comedy/index.m3u8
-#EXTINF:0 group-title="test",_
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="World",483
 http://5.57.74.130:8000/play/a0dh/index.m3u8
-#EXTINF:0 group-title="USA",_
+#EXTINF:0 group-title="USA",484
 http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
-#EXTINF:-1 group-title="World",_
-http://185.207.34.31:8000/play/21029/index.m3u8
-#EXTINF:-1 group-title="World",_
+#EXTINF:0 group-title="test",485
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:0 group-title="test",486
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:0 group-title="test",487
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:0 group-title="test",488
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0 group-title="test",489
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:0 group-title="test",490
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
 #EXTINF:0 group-title="World",3cat
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:0 group-title="World",Antena 3 Int
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:0 group-title="World",Canal 13
+http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",Telesur Español
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur English
