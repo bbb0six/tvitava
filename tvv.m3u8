@@ -42,8 +42,8 @@ http://176.65.153.57:5002/play/a06j/index.m3u8
 http://176.65.153.57:5002/play/a06n/index.m3u8
 #EXTINF:-1 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
-#EXTINF:-1 group-title="Regionali",7Gold
-http://84.22.55.2:8032/play/s364
+#EXTINF:-1 group-title="IT",Comedy Central
+http://102.129.186.182:81/comedy/index.m3u8
 #EXTINF:-1 group-title="MDS",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -1041,11 +1041,11 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:0 group-title="test",490
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
-#EXTINF:0 group-title="World",3cat
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
-#EXTINF:0 group-title="World",3cat info
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:0 group-title="World",Antena 3 Int
+#EXTINF:0 group-title="World",491
+http://45.171.108.253:8888/ATV/index.m3u8
+#EXTINF:0 group-title="World",NTN24
+http://45.235.37.226/ntn24/index.m3u8
+#EXTINF:0 group-title="World",A3 Internacional
 http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
