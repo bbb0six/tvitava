@@ -1019,30 +1019,14 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 http://cdn1.ayitistream.com/MSNBC/index.m3u8
+#EXTINF:0 group-title="USA",Fox Live Now
+http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox News
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19147/index.m3u8
 #EXTINF:0 group-title="USA",Fox News Channel
 http://41.205.93.154/FOXNEWS/mpegts
-#EXTINF:0 group-title="USA",Fox Live Now
-http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="World",483
+#EXTINF:0 group-title="USA",Fox News SD
 http://5.57.74.130:8000/play/a0dh/index.m3u8
-#EXTINF:0 group-title="USA",484
-http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
-#EXTINF:0 group-title="test",485
-http://88.212.15.19/live/test_rtl_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="test",486
-http://88.212.15.19/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:0 group-title="test",487
-http://88.212.15.19/live/test_super_rtl_tizen/playlist.m3u8
-#EXTINF:0 group-title="test",488
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0 group-title="test",489
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:0 group-title="test",490
-https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
-#EXTINF:0 group-title="World",491
-http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:0 group-title="World",NTN24
 http://45.235.37.226/ntn24/index.m3u8
 #EXTINF:0 group-title="World",A3 Internacional
@@ -1053,14 +1037,30 @@ http://45.235.37.226/canal13hd/index.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="World",RTL 1 LU
-https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="World",RTL 2 LU
-https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="World",RTL Gold
-https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
-#EXTINF:0 group-title="USA",CNN Español
-http://138.121.15.230:9001/CNN-ESPANOL/mpegts
+#EXTINF:0 group-title="World",Telemundo Internacional
+http://138.121.15.230:9001/TELEMUNDO/index.m3u8
+#EXTINF:0 group-title="World",CNN Español
+http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
+#EXTINF:0,491
+http://84.22.55.2:8032/play/s361
+#EXTINF:0,492
+http://84.22.55.2:8032/play/s362
+#EXTINF:0,493
+http://84.22.55.2:8032/play/s363
+#EXTINF:0,494
+http://84.22.55.2:8032/play/s364
+#EXTINF:0,495
+http://84.22.55.2:8032/play/s365
+#EXTINF:0,496
+http://84.22.55.2:8032/play/s366
+#EXTINF:0,497
+http://84.22.55.2:8032/play/s367
+#EXTINF:0,498
+http://84.22.55.2:8032/play/s368
+#EXTINF:0,499
+http://84.22.55.2:8032/play/s369
+#EXTINF:0,500
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="s",MaxSport1 BG
 http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
 #EXTINF:0 group-title="s",MaxSport2 BG
@@ -1096,9 +1096,9 @@ https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="s",Ziggo Sport 6
 https://lb.iptvnetwork.net/ls33/10047/playlist.m3u8
 #EXTINF:0 group-title="s",518
-http://176.65.153.4:4002/play/a06j/index.m3u8
+http://23.237.104.106:8080/DAZN_2/index.m3u8
 #EXTINF:0 group-title="s",519
-http://185.47.212.25/svt24/index.m3u8
+http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:0 group-title="s",520
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
@@ -1160,9 +1160,7 @@ http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="test",550
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://kinowatch.com/iptv/stream/daffec9025e48592ae34ad.m3u8
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1202,7 +1200,7 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://102.129.186.182:81/inter/index.m3u8
+http://195.178.110.110/espn/index.m3u8
 #EXTINF:0 group-title="s",571
 http://138.121.15.230:9001/ESPN-CO/mpegts
 #EXTINF:0 group-title="s",572
@@ -1222,7 +1220,7 @@ http://179.63.5.46:8000/play/a05e/index.m3u8
 #EXTINF:0,579
 http://179.63.5.46:8000/play/a052/index.m3u8
 #EXTINF:0,580
-http://181.78.8.199:8000/play/a08y/index.m3u8
+http://195.178.110.110/foxsports/index.m3u8
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1242,7 +1240,7 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1,591
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19135/index.m3u8
 #EXTINF:-1,592
@@ -1574,7 +1572,7 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:0,755
-http://95.107.165.101:5000/live/klanhdott/playlist.m3u8
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
 #EXTINF:0,756
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0,757
@@ -1586,31 +1584,31 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
 https://live.jefimija.eu/hls/stream_src/index.m3u8
 #EXTINF:0,761
-http://84.22.55.2:8032/play/s361
-#EXTINF:0,762
-http://84.22.55.2:8032/play/s362
-#EXTINF:0,763
-http://84.22.55.2:8032/play/s363
-#EXTINF:0,764
-http://84.22.55.2:8032/play/s364
-#EXTINF:0,765
-http://84.22.55.2:8032/play/s365
-#EXTINF:0,766
-http://84.22.55.2:8032/play/s366
-#EXTINF:0,767
-http://84.22.55.2:8032/play/s367
-#EXTINF:0,768
-http://84.22.55.2:8032/play/s368
-#EXTINF:0,769
-http://84.22.55.2:8032/play/s369
-#EXTINF:0,770
-http://213.169.39.30:5255
-#EXTINF:0,771
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:0,772
+#EXTINF:0,762
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:0,773
-https://d4k.it/hls/live1/live.m3u8
+#EXTINF:0,763
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:0,764
+http://193.33.39.108:8088/m1hd/index.m3u8
+#EXTINF:0,765
+https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+#EXTINF:0,766
+http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3EA56746ACEDEC842E150E&profile=pass
+#EXTINF:0,767
+http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
+#EXTINF:0,768
+http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+#EXTINF:0,769
+http://185.47.212.25/svt24/index.m3u8
+#EXTINF:0,770
+http://176.65.153.4:4002/play/a06j/index.m3u8
+#EXTINF:0 group-title="World",RTL 1 LU
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0 group-title="World",RTL 2 LU
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:0 group-title="World",RTL Gold
+https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
 #EXTINF:0,774
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
 #EXTINF:0,775
@@ -1620,7 +1618,7 @@ https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
 #EXTINF:0,777
 https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
 #EXTINF:0,778
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://d4k.it/hls/live1/live.m3u8
 #EXTINF:0,779
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
