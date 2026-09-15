@@ -728,19 +728,19 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0 group-title="HR",RTL 1
+#EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
-#EXTINF:0 group-title="HR",RTL 2
+#EXTINF:0 group-title="HR",RTL 2 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:0 group-title="HR",Nova 1
+#EXTINF:0 group-title="HR",Nova BH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:0 group-title="HR",Nova 2
+#EXTINF:0 group-title="HR",Nova HR
 http://176.61.157.250/NovaTV/index.m3u8
-#EXTINF:0 group-title="HR",Doma TV
+#EXTINF:0 group-title="HR",Doma HR
 http://176.61.157.250/DomaTV/index.m3u8
-#EXTINF:0 group-title="HR",HRT INT
-http://45.82.88.87:15153/udp/237.40.1.11:5000
+#EXTINF:0 group-title="HR",N1 HR
+http://176.61.157.250/N1/index.m3u8
 #EXTINF:-1 group-title="RO",TVR 1
 http://89.44.231.73:7000/tvr1
 #EXTINF:-1 group-title="RO",TVR 2
@@ -940,7 +940,7 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:0 group-title="USA",MTV Global
-http://45.82.88.87:15153/udp/237.40.1.5:5000
+http://212.70.131.37:8000/play/a063
 #EXTINF:0 group-title="USA",MTV 1
 http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:0 group-title="USA",MTV 2
@@ -1155,7 +1155,7 @@ http://87.250.63.109:8000/play/a09h
 http://87.250.63.109:8000/play/a09g
 #EXTINF:0 group-title="s",Eurosport 1 DE
 http://185.207.34.31:8000/play/a018/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 1 FR
+#EXTINF:0 group-title="s",548
 http://99.27.51.147:8080/EuroSport/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
