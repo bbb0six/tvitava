@@ -27,18 +27,25 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CH",RSI LA 1
-http://176.65.153.57:5002/play/a06o/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://176.65.153.57:5002/play/a06o
 #EXTINF:-1 group-title="CH",RSI LA 2
-http://176.65.153.57:5002/play/a06p/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://176.65.153.57:5002/play/a06p
 #EXTINF:-1 group-title="CH",RTS 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06k/index.m3u8
 #EXTINF:-1 group-title="CH",RTS 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06l/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06i/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06j/index.m3u8
 #EXTINF:-1 group-title="CH",SRF INFO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06n/index.m3u8
 #EXTINF:-1 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
@@ -1510,39 +1517,39 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:0 group-title="KP",KCTV 3
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:0 group-title="test",724
-http://stream.mcquack.net/92/index.m3u8
+http://102.129.186.182:81/rai4/index.m3u8
 #EXTINF:0 group-title="test",725
-http://stream.mcquack.net/272/index.m3u8
+http://102.129.186.182:81/rai5/index.m3u8
 #EXTINF:0 group-title="test",726
-http://stream.mcquack.net/318/index.m3u8
+http://102.129.186.182:81/raimovie/index.m3u8
 #EXTINF:0 group-title="test",727
 http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
 http://176.65.153.52:5003/play/a07w/index.m3u8
 #EXTINF:0 group-title="test",729
 http://176.65.153.52:5003/play/a07u/index.m3u8
-#EXTINF:0,730
+#EXTINF:0 group-title="test",730
 http://176.65.153.52:5003/play/a07o/index.m3u8
-#EXTINF:0,731
-http://102.129.186.182:81/rai1/index.m3u8
-#EXTINF:0,732
-http://102.129.186.182:81/rai2/index.m3u8
-#EXTINF:0,733
-http://102.129.186.182:81/rai3/index.m3u8
-#EXTINF:0,734
-http://102.129.186.182:81/rai4/index.m3u8
-#EXTINF:0,735
-http://102.129.186.182:81/rai5/index.m3u8
-#EXTINF:0,736
-http://102.129.186.182:81/raimovie/index.m3u8
-#EXTINF:0,737
-http://102.129.186.182:81/la7/index.m3u8
-#EXTINF:0,738
-http://102.129.186.182:81/tv8/index.m3u8
-#EXTINF:0,739
+#EXTINF:0 group-title="test",731
 http://102.129.186.182:81/realtime/index.m3u8
-#EXTINF:0,740
+#EXTINF:0 group-title="test",732
 http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:0 group-title="test",733
+http://102.129.186.182:81/discovery/index.m3u8
+#EXTINF:0 group-title="test",734
+http://102.129.186.182:81/giallo/index.m3u8
+#EXTINF:0 group-title="test",735
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:0 group-title="test",736
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:0 group-title="test",737
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0 group-title="test",738
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:0 group-title="test",739
+http://s1.00x00.es/10707/index.m3u8?token=6AC15D94169C
+#EXTINF:0 group-title="test",740
+http://s1.00x00.es/10718/index.m3u8?token=6AC15D94169C
 #EXTINF:0 group-title="RO",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 2
