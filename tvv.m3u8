@@ -243,9 +243,9 @@ http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:0 group-title="News",CNN Español
-http://179.63.5.46:8000/play/a03a/index.m3u8
+http://186.148.196.250:81/play/a0nb/index.m3u8
 #EXTINF:0 group-title="Rai",Rai Italia
-http://179.63.5.46:8000/play/a01n/index.m3u8
+http://186.148.196.250:81/play/a0ml/index.m3u8
 #EXTINF:0 group-title="MDS",Mediaset Italia
 http://213.169.39.30:5255
 #EXTINF:-1 group-title="Rai",Rai 4K
@@ -1216,9 +1216,9 @@ http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",577
 http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0,578
-http://179.63.5.46:8000/play/a05e/index.m3u8
+http://195.178.110.110/espnmx/index.m3u8
 #EXTINF:0,579
-http://179.63.5.46:8000/play/a052/index.m3u8
+http://195.178.110.110/espn2/index.m3u8
 #EXTINF:0,580
 http://195.178.110.110/foxsports/index.m3u8
 #EXTINF:-1,581
@@ -1510,11 +1510,11 @@ https://kctv.koryofront.org/stream/sports/index.m3u8
 #EXTINF:0 group-title="KP",KCTV 3
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:0 group-title="test",724
-http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3EA56746ACEDEC842E150E&profile=pass
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:0 group-title="test",725
-http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:0 group-title="test",726
-https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+http://stream.mcquack.net/318/index.m3u8
 #EXTINF:0 group-title="test",727
 http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
@@ -1598,7 +1598,7 @@ http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3
 #EXTINF:0,767
 http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
 #EXTINF:0,768
-http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 #EXTINF:0,769
 http://185.47.212.25/svt24/index.m3u8
 #EXTINF:0,770
@@ -1646,10 +1646,17 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="test",La7 test
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
-#EXTINF:-1 group-title="test",TV8 test
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 group-title="test",Cielo test
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:0 group-title="test",TV8 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
+#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:0 group-title="test",NOVE test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
 #EXTINF:-1 group-title="test",SkyTG24 test
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="test",RSI La 1
@@ -1685,13 +1692,9 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:0 group-title="test",TV8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
-#KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
-https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:-1 group-title="test",Rai Uno
+#EXTINF:-1 group-title="test",798
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 group-title="test",799
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 group-title="test",Rai Tre
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="test",800
+http://s1.00x00.es/10707/index.m3u8?token=6AC15D94169C
