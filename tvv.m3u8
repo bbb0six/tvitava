@@ -518,25 +518,25 @@ https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="FR",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:0 group-title="UK",BBC 1
-https://lb.iptvnetwork.net/ls28/10101/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10301/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC 2
-https://lb.iptvnetwork.net/ls28/10102/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10302/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC 3
 https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
+http://176.65.153.4:4001/play/a08g/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10303/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10306/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 3
-https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10307/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10308/playlist.m3u8
 #EXTINF:0 group-title="UK",Channel 4
-https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10304/playlist.m3u8
 #EXTINF:0 group-title="UK",Channel 5
-https://lb.iptvnetwork.net/ls28/10105/playlist.m3u8
+https://lb.iptvnetwork.net/ls28/10305/playlist.m3u8
 #EXTINF:0 group-title="UK",Sky Mix
 https://lb.iptvnetwork.net/ls28/10111/playlist.m3u8
 #EXTINF:0 group-title="UK",Film4
