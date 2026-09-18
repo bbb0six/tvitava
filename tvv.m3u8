@@ -78,6 +78,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="Cairo",La7Cinema
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 #EXTINF:-1 group-title="MDS",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -276,8 +277,8 @@ http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
-#EXTINF:-1 group-title="IT",Mediaset Extra
-http://176.65.153.52:5003/play/a07w/index.m3u8
+#EXTINF:0 group-title="IT",LA7Cinema HD
+http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:0 group-title="MDS",GF Regia 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
@@ -495,7 +496,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0 group-title="FR",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:0 group-title="FR",franceinfo
-http://176.65.153.84:7001/play/a07i/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
@@ -503,7 +504,7 @@ http://149.62.177.107:9999/t18/index.m3u8
 #EXTINF:0 group-title="FR",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://176.65.153.84:7001/play/a074/index.m3u8
+http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
@@ -1609,11 +1610,11 @@ http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 http://185.47.212.25/svt24/index.m3u8
 #EXTINF:0,770
 http://176.65.153.4:4002/play/a06j/index.m3u8
-#EXTINF:0 group-title="World",RTL 1 LU
+#EXTINF:0,771
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:0 group-title="World",RTL 2 LU
+#EXTINF:0,772
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
-#EXTINF:0 group-title="World",RTL Gold
+#EXTINF:0,773
 https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
 #EXTINF:0,774
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=2497&cntr=0
@@ -1701,6 +1702,14 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #EXTINF:-1 group-title="test",798
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 group-title="test",799
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
+#EXTVLCOPT:http-referrer=https://www.tivify.tv/
+https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 #EXTINF:-1 group-title="test",800
-http://s1.00x00.es/10707/index.m3u8?token=6AC15D94169C
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0cd888eabc05fd1e767c7ed273d93822":"a284a8d929485ff48e66192f38d1c568"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/svvzbaflv0/out/v1/e26493342f6c48988273441261c51c14/cenc.mpd
