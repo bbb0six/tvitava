@@ -26,12 +26,18 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CH",RSI LA 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://176.65.153.57:5002/play/a06o/index.m3u8
-#EXTINF:-1 group-title="CH",RSI LA 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://176.65.153.57:5002/play/a06p/index.m3u8
+#EXTINF:0 group-title="CH",RSI La 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
+#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:0 group-title="CH",RSI La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
+#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
 #EXTINF:-1 group-title="CH",RTS 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06k/index.m3u8
@@ -39,8 +45,13 @@ http://176.65.153.57:5002/play/a06k/index.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06l/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://176.65.153.57:5002/play/a06i/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c9f3984675be86ed142ee5c9b577cd:eca7370d90b992146ba9d297edb786ef
+#KODIPROP:inputstream.adaptive.license_key=6e98778a1a7555cb9af36f98739a3d90:0b371fce8ada2307b19827aede67bd3b
+#KODIPROP:inputstream.adaptive.license_key=f3f88d1b0fb858839a6b8a54af283214:77ea8cae71bdb3d4f60b504ebf5cdc46
+#KODIPROP:inputstream.adaptive.license_key=aebc864537e959fda373d255bf4b2ac4:f56dffd402aeca4511f5ac104544ce15
+https://ac-014.live.p7s1video.net/f2bf4855/t_014/srf1-ch-hd/cenc-default.m3u8
 #EXTINF:-1 group-title="CH",SRF 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06j/index.m3u8
@@ -524,7 +535,7 @@ https://lb.iptvnetwork.net/ls28/10302/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC 3
 https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-http://176.65.153.4:4001/play/a08g/index.m3u8
+https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 https://lb.iptvnetwork.net/ls28/10303/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 2
@@ -1667,18 +1678,12 @@ https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/st
 https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
 #EXTINF:-1 group-title="test",Euronews test
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0 group-title="test",RSI La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
-#KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
-https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="test",RSI La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
-#KODIPROP:inputstream.adaptive.license_key=166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:-1 group-title="test",RSI LA 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://176.65.153.57:5002/play/a06o/index.m3u8
+#EXTINF:-1 group-title="test",RSI LA 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="test",Channel4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
