@@ -724,9 +724,9 @@ http://84.54.128.52:9999/BNT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+https://e171-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MTAxLjU3LjIwNC45NztFPTE3ODk4NjM5ODk7QT0xO0s9MztQPTAxMTEwO1M9YjY0Yjc3YTJkNWFmNDIwNmI0Y2FmY2NmNWQzYWQwNjY0NTlkNmJhNA==/chunklist.m3u8
 #EXTINF:0 group-title="BG",bTV BG
-http://hls127.freeott.top:8080/BG_bTV_HD/video.m3u8
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
@@ -1068,20 +1068,20 @@ http://84.22.55.2:8032/play/s368
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,500
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0 group-title="s",MaxSport1 BG
-http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-#EXTINF:0 group-title="s",MaxSport2 BG
-http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
-#EXTINF:0 group-title="s",MaxSport3 BG
-http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-#EXTINF:0 group-title="s",MaxSport4 BG
-http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:0 group-title="s",BG Max Sport 1
+http://212.70.131.37:8000/play/a085
+#EXTINF:0 group-title="s",BG Max Sport 2
+http://212.70.131.37:8000/play/a086
+#EXTINF:0 group-title="s",BG Max Sport 3
+http://212.70.131.37:8000/play/a06h
+#EXTINF:0 group-title="s",BG Max Sport 4
+http://212.70.131.37:8000/play/a07n
 #EXTINF:0 group-title="s",DiemaSport1 BG
-http://hls127.freeott.top:8080/BG_Diema_Sport_HD/video.m3u8
+http://212.70.131.37:8000/play/a06e
 #EXTINF:0 group-title="s",DiemaSport2 BG
-http://hls127.freeott.top:8080/BG_Diema_Sport_2_HD/video.m3u8
+http://212.70.131.37:8000/play/a06p
 #EXTINF:0 group-title="s",DiemaSport3 BG
-http://hls127.freeott.top:8080/BG_Diema_Sport_3/video.m3u8
+http://212.70.131.37:8000/play/a06o
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
