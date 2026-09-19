@@ -38,12 +38,7 @@ http://176.65.153.57:5002/play/a06k/index.m3u8
 http://176.65.153.57:5002/play/a06l/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41c9f3984675be86ed142ee5c9b577cd:eca7370d90b992146ba9d297edb786ef
-#KODIPROP:inputstream.adaptive.license_key=6e98778a1a7555cb9af36f98739a3d90:0b371fce8ada2307b19827aede67bd3b
-#KODIPROP:inputstream.adaptive.license_key=f3f88d1b0fb858839a6b8a54af283214:77ea8cae71bdb3d4f60b504ebf5cdc46
-#KODIPROP:inputstream.adaptive.license_key=aebc864537e959fda373d255bf4b2ac4:f56dffd402aeca4511f5ac104544ce15
-https://ac-014.live.p7s1video.net/f2bf4855/t_014/srf1-ch-hd/cenc-default.m3u8
+http://176.65.153.57:5002/play/a06i/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06j/index.m3u8
@@ -1546,15 +1541,15 @@ http://102.129.186.182:81/giallo/index.m3u8
 #EXTINF:0 group-title="test",735
 http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="test",736
-http://102.129.186.182:81/la7d/index.m3u8
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="test",737
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+http://176.65.153.57:5002/play/a06o
 #EXTINF:0 group-title="test",738
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+http://176.65.153.57:5002/play/a06p
 #EXTINF:0 group-title="test",739
-http://s1.00x00.es/10707/index.m3u8?token=6AC15D94169C
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",740
-http://s1.00x00.es/10718/index.m3u8?token=6AC15D94169C
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 2
@@ -1670,7 +1665,7 @@ https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/st
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
 https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
-#EXTINF:-1 group-title="test",Euronews test
+#EXTINF:-1 group-title="test",790
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:0 group-title="test",RSI La 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
