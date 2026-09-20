@@ -248,12 +248,15 @@ http://88.212.7.14/live/test_bbc_world/playlist.m3u8
 http://88.212.7.14/live/test_skynews/playlist.m3u8
 #EXTINF:0 group-title="News",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:0 group-title="News",CNN Español
-http://186.148.196.250:81/play/a0nb/index.m3u8
-#EXTINF:0 group-title="Rai",Rai Italia
-http://186.148.196.250:81/play/a0ml/index.m3u8
-#EXTINF:0 group-title="MDS",Mediaset Italia
-http://213.169.39.30:5255
+#EXTINF:0 group-title="MDS",GF Regia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="MDS",GF Regia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="MDS",GF Un'ora fa
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",Rai 1
@@ -265,13 +268,11 @@ http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0 group-title="IT",Rete 4
 http://176.65.153.52:5003/play/a07r/index.m3u8
 #EXTINF:0 group-title="IT",Canale 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.52:5003/play/a07q/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.52:5003/play/a07p/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
-http://102.129.186.182:81/la7/index.m3u8
+http://176.65.153.4:7001/play/a07f/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
 http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 group-title="IT",NOVE HD
@@ -279,15 +280,12 @@ http://102.129.186.182:81/tv8/index.m3u8
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="IT",LA7Cinema HD
 http://102.129.186.182:81/la7d/index.m3u8
-#EXTINF:0 group-title="MDS",GF Regia 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="MDS",GF Regia 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
-#EXTINF:0 group-title="MDS",GF Un'ora fa
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+#EXTINF:0 group-title="IT",Real Time
+http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:0 group-title="IT",DMAX
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:0 group-title="IT",Discovery
+http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:0 group-title="Vari",BBC Series IT
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",BBC Earth IT
@@ -496,7 +494,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0 group-title="FR",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:0 group-title="FR",franceinfo
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+http://176.65.153.84:7001/play/a07i/index.m3u8
 #EXTINF:0 group-title="FR",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0 group-title="FR",T18
@@ -582,7 +580,7 @@ http://185.228.163.146:8000/play/a00z/index.m3u8
 #EXTINF:0 group-title="PT",TV Record
 http://185.228.163.146:8000/play/a01w/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1 NL
-http://86.85.245.213:9981/stream/channelid/366634623?profile=pass
+http://176.65.153.6:3002/play/a00l/index.m3u8
 #EXTINF:0 group-title="ES",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0 group-title="ES",BOM Cine
@@ -724,7 +722,7 @@ http://84.54.128.52:9999/BNT2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4
-https://e171-ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MTAxLjU3LjIwNC45NztFPTE3ODk4NjM5ODk7QT0xO0s9MztQPTAxMTEwO1M9YjY0Yjc3YTJkNWFmNDIwNmI0Y2FmY2NmNWQzYWQwNjY0NTlkNmJhNA==/chunklist.m3u8
+http://212.70.131.37:8000/play/a01s
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
@@ -1067,7 +1065,7 @@ http://84.22.55.2:8032/play/s368
 #EXTINF:0,499
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,500
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+http://186.148.196.250:81/play/a0ml/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 LA
 http://195.178.110.110/espn/index.m3u8
 #EXTINF:0 group-title="s",ESPN 2 LA
@@ -1583,9 +1581,9 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_ch
 #EXTINF:0,756
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:0,757
-http://176.65.153.4:7001/play/a07f/index.m3u8
+http://213.169.39.30:5255
 #EXTINF:0,758
-http://176.65.153.4:7001/play/a07g/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:0,759
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
