@@ -170,7 +170,7 @@ https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 group-title="Vari",Alma TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5f11919dca3bd.streamlock.net/almatv/_definst_/almatv/playlist.m3u8
+http://102.129.186.182:81/alice/index.m3u8
 #EXTINF:-1 group-title="MDS",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
@@ -272,7 +272,7 @@ http://176.65.153.52:5003/play/a07q/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
 http://176.65.153.52:5003/play/a07p/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
-http://176.65.153.4:7001/play/a07f/index.m3u8
+http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
 http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 group-title="IT",NOVE HD
@@ -280,12 +280,12 @@ http://102.129.186.182:81/tv8/index.m3u8
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="IT",LA7Cinema HD
 http://102.129.186.182:81/la7d/index.m3u8
-#EXTINF:0 group-title="IT",Real Time
+#EXTINF:0 group-title="IT",Real Time IT
 http://102.129.186.182:81/realtime/index.m3u8
-#EXTINF:0 group-title="IT",DMAX
+#EXTINF:0 group-title="IT",DMAX IT
 http://102.129.186.182:81/dmax/index.m3u8
-#EXTINF:0 group-title="IT",Discovery
-http://102.129.186.182:81/discovery/index.m3u8
+#EXTINF:0 group-title="Vari",NICK JR IT
+http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="Vari",BBC Series IT
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Vari",BBC Earth IT
@@ -370,14 +370,14 @@ https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
 #EXTINF:0 group-title="Regionali",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:0 group-title="Regionali",Telecupole
+https://cdn7-origin.azotosolutions.com:8443/cdnedge40/telecupole/index.m3u8
 #EXTINF:0 group-title="Regionali",TeleFoggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 #EXTINF:0 group-title="Regionali",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
-#EXTINF:0 group-title="Regionali",A3 Veneto
-http://84.22.55.2:8032/play/s366
-#EXTINF:0 group-title="Regionali",TV7 Triveneta
-http://84.22.55.2:8032/play/s369
+#EXTINF:0 group-title="Regionali",Videonola
+https://videonola.aswifi.it/videonola/live/index.m3u8
 #EXTINF:0 group-title="Vari",SI SoloCalcio
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Alto Adige TV
@@ -388,10 +388,10 @@ https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
 https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
 #EXTINF:0 group-title="Regionali",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Peer TV
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:0 group-title="Regionali",Videonola
-https://videonola.aswifi.it/videonola/live/index.m3u8
+#EXTINF:0 group-title="Regionali",Telelombardia
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
+#EXTINF:0 group-title="Regionali",Antenna 3
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
 #EXTINF:0 group-title="DE",ONE
 http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
@@ -570,7 +570,7 @@ http://185.228.163.146:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="PT",RTP Notícias
 http://185.228.163.146:8000/play/a007/index.m3u8
 #EXTINF:0 group-title="PT",RTP Memória
-http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+http://176.65.153.78:8201/play/a067/index.m3u8
 #EXTINF:0 group-title="PT",SIC
 http://185.228.163.146:8000/play/a004/index.m3u8
 #EXTINF:0 group-title="PT",TVI
@@ -580,7 +580,7 @@ http://185.228.163.146:8000/play/a00z/index.m3u8
 #EXTINF:0 group-title="PT",TV Record
 http://185.228.163.146:8000/play/a01w/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1 NL
-http://176.65.153.6:3002/play/a00l/index.m3u8
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
 #EXTINF:0 group-title="ES",Squirrel
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:0 group-title="ES",BOM Cine
@@ -595,8 +595,8 @@ https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:0 group-title="Vari",Reggio TV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
-#EXTINF:0 group-title="Vari",Telecupole
-https://cdn7-origin.azotosolutions.com:8443/cdnedge40/telecupole/index.m3u8
+#EXTINF:0 group-title="Vari",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="Vari",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:0 group-title="Vari",Fano TV
@@ -611,8 +611,8 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="Vari",Cafe TV 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:0 group-title="Vari",TVRS
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
+#EXTINF:0 group-title="Vari",Peer TV IT
+https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="Vari",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="Vari",Fishing TV
@@ -782,8 +782,8 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="World",ONE Malta
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
-#EXTINF:0 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="Music",MCM POP
+http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko
@@ -1398,8 +1398,8 @@ http://185.9.2.18/chid_347/index.m3u8
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0 group-title="Music",4ever Music
 http://stream.mcquack.net/257/index.m3u8
-#EXTINF:-1 group-title="Music",euroindiemusic
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
 #EXTINF:-1 group-title="Music",Bridge Hits
