@@ -190,15 +190,14 @@ https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Music",RadioBruno TV
 https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
-#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
-https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 group-title="Music",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 group-title="Music",Radio Kiss Kiss TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Kiss Kiss Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music",Radio Capital TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnr18-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
+#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
 #EXTINF:-1 group-title="Music",M2O TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
@@ -232,8 +231,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 #EXTINF:-1 group-title="Music",RTL 102.5 Bro&Sis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 group-title="Music",RDS Social TV
-https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 group-title="Music",Radio Capital TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr18-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
 #EXTINF:0 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Dance
@@ -431,7 +431,7 @@ http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDFinfo
-http://92.114.85.52:1453/play/a00a/index.m3u8
+http://78.43.230.75:9981/stream/channelid/1665580727?profile=pass
 #EXTINF:0 group-title="DE",ZDFneo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",Pro7Maxx
@@ -455,11 +455,11 @@ http://88.212.7.14/live/test_rbb_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",SWR
 http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
 #EXTINF:0 group-title="Music",Deluxe Music
-http://92.114.85.52:1453/play/a00r/index.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Dance
-http://92.114.85.52:1453/play/a02f/index.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:0 group-title="Music",Deluxe Rap
-http://92.114.85.52:1453/play/a02j/index.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="Music",Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0 group-title="FR",TF1
@@ -581,9 +581,9 @@ http://185.228.163.146:8000/play/a00z/index.m3u8
 http://185.228.163.146:8000/play/a01w/index.m3u8
 #EXTINF:0 group-title="NL",NPO 1 NL
 https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
-#EXTINF:0 group-title="ES",Squirrel
-https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
-#EXTINF:0 group-title="ES",BOM Cine
+#EXTINF:0 group-title="NL",NPO 2 NL
+https://lb.iptvnetwork.net/ls28/10002/playlist.m3u8
+#EXTINF:0 group-title="V",261
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:0 group-title="V",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
@@ -726,13 +726,13 @@ http://87.120.179.187:8000/play/a02j
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+http://45.82.88.87:15153/udp/237.40.1.7:5000
 #EXTINF:0 group-title="HR",HRT 2
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+http://45.82.88.87:15153/udp/237.40.1.8:5000
 #EXTINF:0 group-title="HR",HRT 3
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+http://94.100.50.220/HRT3/index.m3u8
 #EXTINF:0 group-title="HR",HRT 4
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+http://176.61.157.250/HRT4/index.m3u8
 #EXTINF:0 group-title="HR",RTL 1 HR
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
@@ -1663,15 +1663,15 @@ https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/st
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
 https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
-#EXTINF:-1 group-title="test",790
+#EXTINF:-1 group-title="test",Euronews test
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
-#EXTINF:0 group-title="test",RSI La 1
+#EXTINF:0 group-title="test",RSI La 1 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420
 #KODIPROP:inputstream.adaptive.license_key=d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
 https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="test",RSI La 2
+#EXTINF:0 group-title="test",RSI La 2 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868
