@@ -584,7 +584,7 @@ https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
 #EXTINF:0 group-title="NL",NPO 2 NL
 https://lb.iptvnetwork.net/ls28/10002/playlist.m3u8
 #EXTINF:0 group-title="V",261
-https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
+https://stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8
 #EXTINF:0 group-title="V",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="V",Primaset
@@ -726,16 +726,22 @@ http://87.120.179.187:8000/play/a02j
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="HR",HRT 1
-http://45.82.88.87:15153/udp/237.40.1.7:5000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 2
-http://45.82.88.87:15153/udp/237.40.1.8:5000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 3
-http://94.100.50.220/HRT3/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:0 group-title="HR",HRT 4
-http://176.61.157.250/HRT4/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 1 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 2 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 group-title="HR",Nova BH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
@@ -1577,13 +1583,13 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:0,755
-https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a
+http://45.82.88.87:15153/udp/237.40.1.7:5000
 #EXTINF:0,756
-http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+http://45.82.88.87:15153/udp/237.40.1.8:5000
 #EXTINF:0,757
-http://213.169.39.30:5255
+http://94.100.50.220/HRT3/index.m3u8
 #EXTINF:0,758
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+http://176.61.157.250/HRT4/index.m3u8
 #EXTINF:0,759
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
