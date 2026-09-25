@@ -431,7 +431,7 @@ http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDFinfo
-http://78.43.230.75:9981/stream/channelid/1665580727?profile=pass
+https://lb.iptvnetwork.net/ls28/10813/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDFneo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",Pro7Maxx
