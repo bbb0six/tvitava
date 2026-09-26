@@ -548,13 +548,13 @@ https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
 https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31825/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31825/mpegts
 #EXTINF:0 group-title="ES",Cuatro
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31827/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31827/mpegts
 #EXTINF:0 group-title="ES",Telecinco
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31828/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31828/mpegts
 #EXTINF:0 group-title="ES",laSexta
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/31833/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31833/mpegts
 #EXTINF:0 group-title="ES",RTVE tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE Clan
@@ -961,7 +961,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19148/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 #EXTINF:0 group-title="USA",Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
@@ -1267,7 +1267,7 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:-1,597
 http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19137/index.m3u8
 #EXTINF:-1,598
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19135/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:-1,599
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
 #EXTINF:-1 group-title="test",600
