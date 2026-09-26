@@ -583,10 +583,10 @@ http://185.228.163.146:8000/play/a01w/index.m3u8
 https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
 #EXTINF:0 group-title="NL",NPO 2 NL
 https://lb.iptvnetwork.net/ls28/10002/playlist.m3u8
-#EXTINF:0 group-title="V",261
-https://stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8
-#EXTINF:0 group-title="V",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:0 group-title="V",A3 Veneto
+http://84.22.55.2:8032/play/s366
+#EXTINF:0 group-title="V",7Gold Telepadova
+http://84.22.55.2:8032/play/s364
 #EXTINF:0 group-title="V",Primaset
 https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 #EXTINF:0 group-title="V",NTR 264
@@ -599,8 +599,8 @@ https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="V",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:0 group-title="V",Fano TV
-https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:0 group-title="V",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="V",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0 group-title="V",Canale 7
@@ -1609,7 +1609,7 @@ http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3
 #EXTINF:0,767
 http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
 #EXTINF:0,768
-https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+http://46.32.176.50/atvhd/playlist.m3u8
 #EXTINF:0,769
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,770
