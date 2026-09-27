@@ -26,24 +26,19 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:0 group-title="News",Euronews IT
 https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="CH",RSI La 1
-http://102.129.186.182:81/rsi1/index.m3u8
-#EXTINF:0 group-title="CH",RSI La 2
-http://102.129.186.182:81/rsi2/index.m3u8
+#EXTINF:0 group-title="CH",RSI LA 1
+http://176.65.153.57:5002/play/a06o/index.m3u8
+#EXTINF:0 group-title="CH",RSI LA 2
+http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:-1 group-title="CH",RTS 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06k/index.m3u8
 #EXTINF:-1 group-title="CH",RTS 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06l/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06i/index.m3u8
 #EXTINF:-1 group-title="CH",SRF 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06j/index.m3u8
 #EXTINF:-1 group-title="CH",SRF INFO
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://176.65.153.57:5002/play/a06n/index.m3u8
 #EXTINF:-1 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
@@ -280,10 +275,10 @@ http://102.129.186.182:81/tv8/index.m3u8
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="IT",LA7Cinema HD
 http://102.129.186.182:81/la7d/index.m3u8
-#EXTINF:0 group-title="IT",Real Time IT
-http://102.129.186.182:81/realtime/index.m3u8
-#EXTINF:0 group-title="IT",DMAX IT
-http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:0 group-title="IT",RSI La1
+http://102.129.186.182:81/rsi1/index.m3u8
+#EXTINF:0 group-title="IT",RSI La2
+http://102.129.186.182:81/rsi2/index.m3u8
 #EXTINF:0 group-title="V",NICK JR IT
 http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="V",BBC Series IT
@@ -1545,11 +1540,11 @@ http://102.129.186.182:81/giallo/index.m3u8
 #EXTINF:0 group-title="test",735
 http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:0 group-title="test",736
-https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+http://102.129.186.182:81/realtime/index.m3u8
 #EXTINF:0 group-title="test",737
-http://176.65.153.57:5002/play/a06o
+http://102.129.186.182:81/dmax/index.m3u8
 #EXTINF:0 group-title="test",738
-http://176.65.153.57:5002/play/a06p
+http://102.129.186.182:81/iris/index.m3u8
 #EXTINF:0 group-title="test",739
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",740
