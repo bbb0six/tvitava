@@ -1253,13 +1253,13 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
-http://38.147.104.162:80/premium20/mpegts
+http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1,591
-http://38.147.104.162:80/premium21/mpegts
+http://88.212.15.19/live/mb_dance/index.m3u8
 #EXTINF:-1,592
-http://38.147.104.162:80/premium24/mpegts
+http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1,593
-http://38.147.104.162:80/premium25/mpegts
+http://88.212.15.19/live/mb_sexy/index.m3u8
 #EXTINF:-1,594
 http://38.147.104.162:80/premium26/mpegts
 #EXTINF:-1,595
@@ -1267,7 +1267,7 @@ http://38.147.104.162:80/premium27/mpegts
 #EXTINF:-1,596
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:-1,597
-http://zpkcjms4.zyntras.top/iptv/BL5QFD5266596A/19137/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
 #EXTINF:-1,598
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
 #EXTINF:-1,599
