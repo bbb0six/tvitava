@@ -148,7 +148,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="WBD IT",HGTV Home&Garden
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
-#EXTINF:-1 group-title="Rai",Rai Scuola
+#EXTINF:-1 group-title="Rai",Italiana
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="Rai",Rai Sport
@@ -1166,9 +1166,9 @@ http://88.212.15.19/live/test_sport_2/playlist.m3u8
 http://88.212.15.19/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 1 BG
+#EXTINF:0,547
 http://45.84.187.172:3001/udp/224.156.69.106:5000
-#EXTINF:0 group-title="s",Eurosport 2 BG
+#EXTINF:0,548
 http://45.84.187.172:3001/udp/224.156.69.132:5000
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
@@ -1516,12 +1516,12 @@ http://198.204.228.26/live/cctv5p.m3u8
 http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0 group-title="CN",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
-#EXTINF:0 group-title="KP",KCTV 1
-https://kctv.koryofront.org/stream/index.m3u8
-#EXTINF:0 group-title="KP",KCTV 2
-https://kctv.koryofront.org/stream/sports/index.m3u8
-#EXTINF:0 group-title="KP",KCTV 3
-https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:0 group-title="test",721
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:0 group-title="test",722
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:0 group-title="test",723
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",724
 http://102.129.186.182:81/rai4/index.m3u8
 #EXTINF:0 group-title="test",725
@@ -1553,9 +1553,9 @@ http://102.129.186.182:81/dmax/index.m3u8
 #EXTINF:0 group-title="test",738
 http://102.129.186.182:81/iris/index.m3u8
 #EXTINF:0 group-title="test",739
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+http://213.169.39.30:5255
 #EXTINF:0 group-title="test",740
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:0 group-title="RO",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR 2
