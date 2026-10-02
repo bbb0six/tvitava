@@ -1376,14 +1376,14 @@ http://stream.mcquack.net/377/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",ISR KAN11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:0 group-title="World",TR TRT 1
-http://176.65.153.35:6001/play/a01z/index.m3u8
-#EXTINF:0 group-title="World",TR TRT 2
-http://176.65.153.35:6001/play/a028/index.m3u8
-#EXTINF:0 group-title="World",TR TRT 3
-http://176.65.153.35:6001/play/a025/index.m3u8
-#EXTINF:0 group-title="World",AZ İctimai
-http://46.32.176.50/IctimaiHD/playlist.m3u8
+#EXTINF:-1 group-title="World",TRT1
+https://deathless.pantonum1.workers.dev/trt1.m3u8
+#EXTINF:-1 group-title="World",ATV TR
+https://deathless.pantonum1.workers.dev/atv.m3u8
+#EXTINF:-1 group-title="World",ICTIMAI AZ
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32206/mpegts
+#EXTINF:-1 group-title="World",KBS World
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32217/mpegts
 #EXTINF:0 group-title="World",AZ AZTV
 http://46.32.176.50/aztv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia 1TV
@@ -1553,7 +1553,7 @@ http://102.129.186.182:81/dmax/index.m3u8
 #EXTINF:0 group-title="test",738
 http://102.129.186.182:81/iris/index.m3u8
 #EXTINF:0 group-title="test",739
-http://213.169.39.30:5255
+http://142.132.200.37:9000/RAI1
 #EXTINF:0 group-title="test",740
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:0 group-title="RO",TVR 1
