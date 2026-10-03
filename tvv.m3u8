@@ -678,7 +678,7 @@ http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
 http://217.73.139.200:5443/play/a004
 #EXTINF:0 group-title="AL",Vizion Plus
-http://217.73.139.200:5443/play/a01b
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_9.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",FaxNews
@@ -688,7 +688,7 @@ http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
 http://217.73.139.200:5443/play/a01c
 #EXTINF:0 group-title="AL",SCAN
-http://217.73.139.200:5443/play/a009
+https://scantvstream.pdf-to-img.com/Digitalb/Admin01/Admin01/playlist.m3u8
 #EXTINF:0 group-title="AL",SYRI
 http://217.73.139.200:5443/play/a019
 #EXTINF:0 group-title="AL",Klan News
@@ -1336,8 +1336,8 @@ http://88.212.15.19/live/tv2_comedy/index.m3u8
 http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTINF:-1 group-title="HU",TV4 HU
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="World",UA Pershyi
-http://stream.mcquack.net/437/index.m3u8
+#EXTINF:-1 group-title="World",RTS1SRB
+http://79.101.50.1:10101
 #EXTINF:-1 group-title="World",UA Kultura
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 group-title="World",UA Kyiv
@@ -1384,8 +1384,6 @@ https://deathless.pantonum1.workers.dev/atv.m3u8
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32206/mpegts
 #EXTINF:-1 group-title="World",KBS World
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32217/mpegts
-#EXTINF:0 group-title="World",AZ AZTV
-http://46.32.176.50/aztv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia Sport
@@ -1396,6 +1394,8 @@ https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="World",Armenia 3
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:0 group-title="World",Moldova 1
+http://178.76.68.60:7441/1/mpegts
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
