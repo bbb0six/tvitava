@@ -320,6 +320,8 @@ https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/master.m
 https://canale8.zappr.stream/live/main-204747824658.m3u8
 #EXTINF:0 group-title="Regionali",Telenord
 https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
+#EXTINF:0 group-title="Regionali",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telequattro
@@ -332,12 +334,10 @@ https://fms.telemar.it:1936/live/diretta_1/master.m3u8
 https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
 #EXTINF:0 group-title="Regionali",Telenuovo
 https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
-#EXTINF:0 group-title="Regionali",Rete Veneta
-https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/master.m3u8
 #EXTINF:0 group-title="Regionali",Primantenna
 https://64b16f23efbee.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:0 group-title="Regionali",Canale 10
-https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+#EXTINF:0 group-title="Regionali",Telecampione
+https://64b16f23efbee.streamlock.net/telecampione/telecampione/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:0 group-title="Regionali",LaC Tv
