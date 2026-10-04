@@ -185,7 +185,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 group-title="Music",RadioItalia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 group-title="V",Canale Italia
-https://liveac915sp.b-cdn.net/channel10/playlist.m3u8
+https://liveac915sp.b-cdn.net/channel11/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radionorba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="Music",RadioBruno TV
@@ -678,7 +678,7 @@ http://217.73.139.200:5443/play/a016
 #EXTINF:0 group-title="AL",Klan Plus
 http://217.73.139.200:5443/play/a004
 #EXTINF:0 group-title="AL",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_9.m3u8
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_3.m3u8
 #EXTINF:0 group-title="AL",News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:0 group-title="AL",FaxNews
@@ -686,11 +686,14 @@ http://217.73.139.200:5443/play/a012
 #EXTINF:0 group-title="AL",Top News AL
 http://217.73.139.200:5443/play/a017
 #EXTINF:0 group-title="AL",Report TV
-http://217.73.139.200:5443/play/a01c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://deb20stream.duckdns.org/signed/stream.m3u8
 #EXTINF:0 group-title="AL",SCAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://scantvstream.pdf-to-img.com/Digitalb/Admin01/Admin01/playlist.m3u8
 #EXTINF:0 group-title="AL",SYRI
-http://217.73.139.200:5443/play/a019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:0 group-title="AL",Klan News
 http://217.73.139.200:5443/play/a005
 #EXTINF:0 group-title="AL",Panorama
@@ -912,8 +915,8 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:0 group-title="USA",A&E
-http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:0,420
+https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
@@ -988,10 +991,10 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:0 group-title="USA",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:0 group-title="USA",Reelz
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:0 group-title="USA",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:0 group-title="USA",A&E
+http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:0 group-title="USA",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="USA",Starz Cinema
