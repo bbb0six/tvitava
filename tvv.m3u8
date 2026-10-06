@@ -683,8 +683,8 @@ https://lb.iptvnetwork.net/ls28/10007/playlist.m3u8
 https://lb.iptvnetwork.net/ls28/10008/playlist.m3u8
 #EXTINF:0 group-title="NL",SBS 9 NL
 https://lb.iptvnetwork.net/ls28/10009/playlist.m3u8
-#EXTINF:0 group-title="NL",NET 5 NL
-https://lb.iptvnetwork.net/ls28/10010/playlist.m3u8
+#EXTINF:0 group-title="NL",RTL Z NL
+https://lb.iptvnetwork.net/ls28/10024/playlist.m3u8
 #EXTINF:0 group-title="AL",Report TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://deb20stream.duckdns.org/signed/stream.m3u8
@@ -706,14 +706,14 @@ https://live1.mediadesk.al/oranews.m3u8
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="AL",320
-http://217.73.139.200:5443/play/a010
-#EXTINF:0 group-title="AL",321
-http://217.73.139.200:5443/play/a007
-#EXTINF:0 group-title="AL",322
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0 group-title="AL",323
-https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0 group-title="test",320
+http://176.65.153.6:3002/play/a00k/index.m3u8
+#EXTINF:0 group-title="FR",RTBF La Une
+http://41.205.93.154/LA-UNE/index.m3u8
+#EXTINF:0 group-title="test",322
+http://176.65.153.6:3002/play/a00k/index.m3u8
+#EXTINF:0 group-title="test",323
+https://lb.iptvnetwork.net/ls28/10026/playlist.m3u8
 #EXTINF:0 group-title="AL",RTK 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="AL",RTK 3
