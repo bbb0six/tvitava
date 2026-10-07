@@ -231,9 +231,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/pl
 #EXTINF:-1 group-title="Music",RTL 102.5 Bro&Sis
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 group-title="Music",Radio Capital TV
+#EXTINF:-1 group-title="Music",Music Box 80s
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnr18-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
+http://57.128.231.171:8080/229/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Hits
 http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:0 group-title="Music",Music Box Dance
@@ -394,16 +394,16 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
-#EXTINF:0 group-title="DE",ONE
-http://5.180.164.197:8080/ONE/index.m3u8
+#EXTINF:0 group-title="test",167
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",_
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://213.47.175.190:9981/stream/channelid/2140495578?profile=pass
+#EXTINF:0 group-title="DE",ONE
+http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -665,26 +665,26 @@ https://stream.paroledivita.org/paroledivita.m3u8
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
-#EXTINF:0 group-title="NL",NPO 1 NL
+#EXTINF:0 group-title="NL",NPO1 NL
 https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
-#EXTINF:0 group-title="NL",NPO 2 NL
+#EXTINF:0 group-title="NL",NPO2 NL
 https://lb.iptvnetwork.net/ls28/10002/playlist.m3u8
-#EXTINF:0 group-title="NL",NPO 3 NL
+#EXTINF:0 group-title="NL",NPO3 NL
 https://lb.iptvnetwork.net/ls28/10003/playlist.m3u8
-#EXTINF:0 group-title="NL",RTL 4 NL
+#EXTINF:0 group-title="NL",RTL4 NL
 https://lb.iptvnetwork.net/ls28/10004/playlist.m3u8
-#EXTINF:0 group-title="NL",RTL 5 NL
+#EXTINF:0 group-title="NL",RTL5 NL
 https://lb.iptvnetwork.net/ls28/10005/playlist.m3u8
-#EXTINF:0 group-title="NL",SBS 6 NL
+#EXTINF:0 group-title="NL",SBS6 NL
 https://lb.iptvnetwork.net/ls28/10006/playlist.m3u8
-#EXTINF:0 group-title="NL",RTL 7 NL
+#EXTINF:0 group-title="NL",RTL7 NL
 https://lb.iptvnetwork.net/ls28/10007/playlist.m3u8
-#EXTINF:0 group-title="NL",RTL 8 NL
+#EXTINF:0 group-title="NL",RTL8 NL
 https://lb.iptvnetwork.net/ls28/10008/playlist.m3u8
-#EXTINF:0 group-title="NL",SBS 9 NL
+#EXTINF:0 group-title="NL",SBS9 NL
 https://lb.iptvnetwork.net/ls28/10009/playlist.m3u8
-#EXTINF:0 group-title="NL",RTL Z NL
-https://lb.iptvnetwork.net/ls28/10024/playlist.m3u8
+#EXTINF:0 group-title="NL",NPO1 Extra NL
+https://lb.iptvnetwork.net/ls28/10026/playlist.m3u8
 #EXTINF:0 group-title="AL",Report TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://deb20stream.duckdns.org/signed/stream.m3u8
@@ -708,38 +708,38 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="FR",RTBF La Une
 http://41.205.93.154/LA-UNE/index.m3u8
-#EXTINF:-1 group-title="PL",TVP1 PL
-http://92.114.85.87:8009/play/a009/index.m3u8
-#EXTINF:-1 group-title="PL",TVP2 PL
-http://92.114.85.87:8015/play/a00b/index.m3u8
-#EXTINF:0 group-title="test",323
-https://lb.iptvnetwork.net/ls28/10026/playlist.m3u8
+#EXTINF:0 group-title="PL",TVP1 PL
+http://57.128.210.196:8080/144/index.m3u8
+#EXTINF:0 group-title="PL",TVP2 PL
+http://57.128.210.196:8080/143/index.m3u8
+#EXTINF:0 group-title="PL",TVPHD PL
+http://57.128.210.196:8080/141/index.m3u8
 #EXTINF:0 group-title="AL",RTK 1
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0 group-title="AL",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0 group-title="BG",BNT 1
+#EXTINF:0 group-title="BG",BNT 1 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNT1HD/index.m3u8
-#EXTINF:0 group-title="BG",BNT 2
+#EXTINF:0 group-title="BG",BNT 2 BG
 http://84.54.128.52:9999/BNT2
-#EXTINF:0 group-title="BG",BNT 3
+#EXTINF:0 group-title="BG",BNT 3 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNTHD/index.m3u8
-#EXTINF:0 group-title="BG",BNT 4
+#EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
-#EXTINF:0 group-title="HR",HRT 1
+#EXTINF:0 group-title="HR",HRT 1 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:0 group-title="HR",HRT 2
+#EXTINF:0 group-title="HR",HRT 2 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:0 group-title="HR",HRT 3
+#EXTINF:0 group-title="HR",HRT 3 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:0 group-title="HR",HRT 4
+#EXTINF:0 group-title="HR",HRT 4 HR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:0 group-title="HR",RTL 1 HR
@@ -757,11 +757,11 @@ http://176.61.157.250/NovaTV/index.m3u8
 http://176.61.157.250/DomaTV/index.m3u8
 #EXTINF:0 group-title="HR",N1 HR
 http://176.61.157.250/N1/index.m3u8
-#EXTINF:-1 group-title="RO",TVR 1
+#EXTINF:-1 group-title="RO",TVR1 RO
 http://89.44.231.73:7000/tvr1
-#EXTINF:-1 group-title="RO",TVR 2
+#EXTINF:-1 group-title="RO",TVR2 RO
 http://89.44.231.73:7000/tvr2
-#EXTINF:-1 group-title="RO",TVR 3
+#EXTINF:-1 group-title="RO",TVR3 RO
 http://116.202.113.254:8888/tvr3
 #EXTINF:-1 group-title="RO",ProTV RO
 http://89.44.231.73:7000/protv
@@ -1339,8 +1339,8 @@ http://88.212.15.19/live/tv2_comedy/index.m3u8
 http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTINF:-1 group-title="HU",TV4 HU
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 group-title="World",RTS1SRB
-http://79.101.50.1:10101
+#EXTINF:-1 group-title="World",UA Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="World",UA Kultura
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 group-title="World",UA Kyiv
@@ -1397,8 +1397,8 @@ https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="World",Armenia 3
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:0 group-title="World",Moldova 1
-http://178.76.68.60:7441/1/mpegts
+#EXTINF:-1 group-title="World",RTS1 RS
+http://79.101.50.1:10101
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
@@ -1614,7 +1614,7 @@ http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3
 #EXTINF:0,767
 http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
 #EXTINF:0,768
-http://46.32.176.50/atvhd/playlist.m3u8
+http://57.128.231.171:8080/227/index.m3u8
 #EXTINF:0,769
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,770
