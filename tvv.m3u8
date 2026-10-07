@@ -325,7 +325,7 @@ https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:0 group-title="Regionali",Telequattro
-http://wms.shared.streamshow.it/telequattro/telequattro/master.m3u8
+https://streamcdnm7-ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S94185256/bAFnpK1SnJ7a/master.m3u8
 #EXTINF:0 group-title="Regionali",Telefriuli
 https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
 #EXTINF:0 group-title="Regionali",TVA Vicenza
@@ -401,7 +401,7 @@ http://5.180.164.197:8080/ONE/index.m3u8
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="AT",Servus TV
+#EXTINF:0 group-title="AT",_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://213.47.175.190:9981/stream/channelid/2140495578?profile=pass
 #EXTINF:0 group-title="DE",Das Erste
