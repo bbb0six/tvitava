@@ -490,7 +490,7 @@ http://149.62.177.107:9999/TFX/index.m3u8
 #EXTINF:0 group-title="FR",Gulli
 http://149.62.177.107:9999/Gulli/index.m3u8
 #EXTINF:0 group-title="FR",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+http://149.62.177.107:9999/BFM_TV/index.m3u8
 #EXTINF:0 group-title="FR",CNEWS
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0 group-title="FR",LCI
@@ -706,12 +706,12 @@ https://live1.mediadesk.al/oranews.m3u8
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="test",320
-http://176.65.153.6:3002/play/a00k/index.m3u8
 #EXTINF:0 group-title="FR",RTBF La Une
 http://41.205.93.154/LA-UNE/index.m3u8
-#EXTINF:0 group-title="test",322
-http://176.65.153.6:3002/play/a00k/index.m3u8
+#EXTINF:-1 group-title="PL",TVP1 PL
+http://92.114.85.87:8009/play/a009/index.m3u8
+#EXTINF:-1 group-title="PL",TVP2 PL
+http://92.114.85.87:8015/play/a00b/index.m3u8
 #EXTINF:0 group-title="test",323
 https://lb.iptvnetwork.net/ls28/10026/playlist.m3u8
 #EXTINF:0 group-title="AL",RTK 1
@@ -773,8 +773,8 @@ http://89.44.231.73:7000/antena3
 http://89.44.231.73:7000/primatv
 #EXTINF:-1 group-title="RO",Digi24 RO
 http://89.44.231.73:7000/digi24hd
-#EXTINF:-1 group-title="PL",TVP1 PL
-http://92.114.85.87:8009/play/a009/index.m3u8
+#EXTINF:-1 group-title="RO",Moldova 1
+http://116.202.113.254:8888/Moldova1hd
 #EXTINF:-1 group-title="CH",TVM3 CH
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 1
@@ -916,7 +916,7 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:0,420
-https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",BBC News
