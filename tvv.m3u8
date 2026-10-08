@@ -1232,9 +1232,9 @@ http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",577
 http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0,578
-http://195.178.110.110/foxsports/index.m3u8
+http://38.147.104.162:80/premium26/mpegts
 #EXTINF:0,579
-http://195.178.110.110/foxsports2/index.m3u8
+http://38.147.104.162:80/premium27/mpegts
 #EXTINF:0,580
 http://195.178.110.110/foxsports3/index.m3u8
 #EXTINF:-1,581
@@ -1264,17 +1264,17 @@ http://88.212.15.19/live/mb_classic/index.m3u8
 #EXTINF:-1,593
 http://88.212.15.19/live/mb_sexy/index.m3u8
 #EXTINF:-1,594
-http://38.147.104.162:80/premium26/mpegts
-#EXTINF:-1,595
-http://38.147.104.162:80/premium27/mpegts
-#EXTINF:-1,596
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
-#EXTINF:-1,597
+#EXTINF:-1,595
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
-#EXTINF:-1,598
+#EXTINF:-1,596
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
-#EXTINF:-1,599
+#EXTINF:-1,597
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
+#EXTINF:-1,598
+http://102.129.186.182:81/milan/index.m3u8
+#EXTINF:-1,599
+http://102.129.186.182:81/inter/index.m3u8
 #EXTINF:-1 group-title="test",600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1377,13 +1377,13 @@ http://stream.mcquack.net/42/index.m3u8
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR KAN11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",TRT1
-https://deathless.pantonum1.workers.dev/trt1.m3u8
 #EXTINF:-1 group-title="World",ATV TR
 https://deathless.pantonum1.workers.dev/atv.m3u8
-#EXTINF:-1 group-title="World",ICTIMAI AZ
+#EXTINF:-1 group-title="World",TRT 1
+https://deathless.pantonum1.workers.dev/trt1.m3u8
+#EXTINF:0 group-title="World",AZTV
+http://185.129.1.242:80/aztv/mpegts
+#EXTINF:-1 group-title="World",İCTIMAI AZ
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32206/mpegts
 #EXTINF:-1 group-title="World",KBS World
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32217/mpegts
@@ -1522,7 +1522,7 @@ http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:0 group-title="test",721
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",722
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+http://142.132.200.37:9000/RAI2
 #EXTINF:0 group-title="test",723
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",724
@@ -1587,15 +1587,15 @@ https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:0,755
-http://45.82.88.87:15153/udp/237.40.1.7:5000
-#EXTINF:0,756
-http://45.82.88.87:15153/udp/237.40.1.8:5000
+#EXTINF:0 group-title="World",1TV AFG
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-1tvafg/index.m3u8
+#EXTINF:0 group-title="World",BFM TV FR
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0,757
 http://94.100.50.220/HRT3/index.m3u8
 #EXTINF:0,758
 http://176.61.157.250/HRT4/index.m3u8
-#EXTINF:0,759
+#EXTINF:0 group-title="World",CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0,760
 https://live.jefimija.eu/hls/stream_src/index.m3u8
