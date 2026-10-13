@@ -409,7 +409,7 @@ http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",3sat
 http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Television
-http://88.212.15.19/live/test_rtl_ger_tizen/playlist.m3u8
+http://88.212.7.14/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",RTL Zwei
 http://193.239.187.106/RTL2/index.m3u8
 #EXTINF:0 group-title="DE",SIXX
@@ -872,7 +872,7 @@ http://88.212.7.14/live/test_uatv/playlist.m3u8
 #EXTINF:0 group-title="World",24 Канал UA
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:0 group-title="World",BBC First
-http://88.212.15.19/live/bbc_first/index.m3u8
+http://88.212.7.14/live/bbc_first/index.m3u8
 #EXTINF:0 group-title="World",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:0 group-title="World",Euronews Français
@@ -1156,17 +1156,17 @@ https://balance.footballii.ir/hls2/bein1.m3u8
 #EXTINF:0 group-title="s",Eurosport 4k CZ
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 1 HU
-http://88.212.15.19/live/esp1_hun/index.m3u8
+http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 2 HU
-http://88.212.15.19/live/esp2_hun/index.m3u8
+http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 2 SK
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
+http://88.212.7.14/live/test_sport_2/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 HU
-http://88.212.15.19/live/sport1_hun/index.m3u8
+http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
-http://88.212.15.19/live/sport2_hun/index.m3u8
+http://88.212.7.14/live/sport2_hun/index.m3u8
 #EXTINF:0,547
 http://45.84.187.172:3001/udp/224.156.69.106:5000
 #EXTINF:0,548
@@ -1254,13 +1254,13 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
-http://88.212.15.19/live/mb_hits/index.m3u8
+http://88.212.7.14/live/mb_hits/index.m3u8
 #EXTINF:-1,591
-http://88.212.15.19/live/mb_dance/index.m3u8
+http://88.212.7.14/live/mb_dance/index.m3u8
 #EXTINF:-1,592
-http://88.212.15.19/live/mb_classic/index.m3u8
+http://88.212.7.14/live/mb_classic/index.m3u8
 #EXTINF:-1,593
-http://88.212.15.19/live/mb_sexy/index.m3u8
+http://88.212.7.14/live/mb_sexy/index.m3u8
 #EXTINF:-1,594
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:-1,595
@@ -1278,65 +1278,65 @@ http://102.129.186.182:81/inter/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://donetex.com:80/test/test/49
 #EXTINF:-1 group-title="CZ",ČT1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+http://88.212.7.14/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+http://88.212.7.14/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+http://88.212.7.14/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČTSport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+http://88.212.7.14/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",ČTArt
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+http://88.212.7.14/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",A11 CZ
 http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Nova CZ
-http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+http://88.212.7.14/live/nova_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CZ",Prima CZ
-http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+http://88.212.7.14/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Prima Cool
-http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
+http://88.212.7.14/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Kanal 1 SK
-http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+http://88.212.7.14/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 1 Jednotka
-http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+http://88.212.7.14/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 2 Dvojka
-http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+http://88.212.7.14/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 3 Trojka
-http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
+http://88.212.7.14/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Markíza
-http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
+http://88.212.7.14/live/test_markiza_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",TA3 SK
-http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
+http://88.212.7.14/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
-http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+http://88.212.7.14/live/test_joj_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",TV Barrandov
-http://88.212.15.19/live/test_barrandov/playlist.m3u8
+http://88.212.7.14/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="SK",Barrandov Krimi
 http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="SK",TV Bratislava
 http://88.212.7.14/live/test_batv/playlist.m3u8
 #EXTINF:-1 group-title="HU",M4 Sport HU
-http://88.212.15.19/live/uatlmvixrr/index.m3u8
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 group-title="HU",M1 HU
-http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HU",M2 HU
-http://88.212.15.19/live/m2_hun/index.m3u8
+http://88.212.7.14/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna TV
-http://88.212.15.19/live/duna_hun/index.m3u8
+http://88.212.7.14/live/duna_hun/index.m3u8
 #EXTINF:-1 group-title="HU",Duna World
-http://88.212.15.19/live/duna_world_hun/index.m3u8
+http://88.212.7.14/live/duna_world_hun/index.m3u8
 #EXTINF:-1 group-title="HU",M5 HU
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="HU",TV2 HU
-http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HU",TV2 Super
-http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="HU",TV2 Comedy
-http://88.212.15.19/live/tv2_comedy/index.m3u8
+http://88.212.7.14/live/tv2_comedy/index.m3u8
 #EXTINF:-1 group-title="HU",TV2 Kids
-http://88.212.15.19/live/tv2_kids/index.m3u8
+http://88.212.7.14/live/tv2_kids/index.m3u8
 #EXTINF:-1 group-title="HU",TV4 HU
-http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="World",UA Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="World",UA Kultura
