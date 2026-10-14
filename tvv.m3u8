@@ -161,8 +161,8 @@ https://distribution.sportitalialive.it/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:0 group-title="V",Club TV
 https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
 #EXTINF:0 group-title="V",Donna TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5f11919dca3bd.streamlock.net/donnatv/_definst_/donnatv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+https://5f11919dca3bd.streamlock.net/donnatv/_definst_/donnatv/chunklist_w1338314090.m3u8
 #EXTINF:0 group-title="V",IlSole24OreTV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 #EXTINF:-1 group-title="V",supertennis
@@ -520,9 +520,9 @@ http://176.65.153.4:4001/play/a08e/index.m3u8
 #EXTINF:0 group-title="UK",BBC 2
 http://176.65.153.4:4001/play/a08f/index.m3u8
 #EXTINF:0 group-title="UK",BBC 3
-https://lb.iptvnetwork.net/ls28/10109/playlist.m3u8
+http://176.65.153.4:4001/play/a08p/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-https://lb.iptvnetwork.net/ls28/10110/playlist.m3u8
+http://176.65.153.4:4001/play/a08g/index.m3u8
 #EXTINF:0 group-title="UK",ITV 1
 http://176.65.153.4:4004/play/a07k/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
@@ -530,19 +530,21 @@ http://176.65.153.4:4004/play/a07l/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
 http://176.65.153.4:4004/play/a07o/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-https://lb.iptvnetwork.net/ls28/10308/playlist.m3u8
+http://176.65.153.4:4004/play/a07j/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
-https://lb.iptvnetwork.net/ls28/10304/playlist.m3u8
+http://176.65.153.4:4007/play/a074/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
-https://lb.iptvnetwork.net/ls28/10305/playlist.m3u8
+http://176.65.153.4:4003/play/a06m/index.m3u8
 #EXTINF:0 group-title="UK",Sky Mix
 http://176.65.153.4:4007/play/a071/index.m3u8
-#EXTINF:0 group-title="UK",Film4
-https://lb.iptvnetwork.net/ls28/10112/playlist.m3u8
-#EXTINF:0 group-title="UK",E4
-https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
-#EXTINF:0 group-title="UK",More4
-https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
+#EXTINF:0 group-title="UK",ETV4
+http://176.65.153.4:4001/play/a08o/index.m3u8
+#EXTINF:0 group-title="UK",STV
+http://176.65.153.4:4007/play/a073/index.m3u8
+#EXTINF:0 group-title="UK",240
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:0 group-title="ES",RTVE La1
 https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
@@ -567,14 +569,14 @@ http://185.228.163.146:8000/play/a00q/index.m3u8
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
 http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="PT",RTP Notícias
-http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="PT",RTP Memória
-http://176.65.153.78:8201/play/a067/index.m3u8
 #EXTINF:0 group-title="PT",SIC
 http://185.228.163.146:8000/play/a004/index.m3u8
 #EXTINF:0 group-title="PT",TVI
 http://185.228.163.146:8000/play/a005/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://185.228.163.146:8000/play/a007/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://176.65.153.78:8201/play/a067/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://185.228.163.146:8000/play/a00z/index.m3u8
 #EXTINF:0 group-title="PT",TV Record
@@ -664,25 +666,25 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="NL",NPO1 NL
-https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+http://176.65.153.6:3002/play/a00l/index.m3u8
 #EXTINF:0 group-title="NL",NPO2 NL
-https://lb.iptvnetwork.net/ls28/10002/playlist.m3u8
+http://176.65.153.6:3001/play/a007/index.m3u8
 #EXTINF:0 group-title="NL",NPO3 NL
-https://lb.iptvnetwork.net/ls28/10003/playlist.m3u8
+http://176.65.153.6:3002/play/a00o/index.m3u8
 #EXTINF:0 group-title="NL",RTL4 NL
-https://lb.iptvnetwork.net/ls28/10004/playlist.m3u8
+http://176.65.153.6:3001/play/a00g/index.m3u8
 #EXTINF:0 group-title="NL",RTL5 NL
-https://lb.iptvnetwork.net/ls28/10005/playlist.m3u8
+http://176.65.153.6:3001/play/a00h/index.m3u8
 #EXTINF:0 group-title="NL",SBS6 NL
-https://lb.iptvnetwork.net/ls28/10006/playlist.m3u8
+http://176.65.153.6:3001/play/a008/index.m3u8
 #EXTINF:0 group-title="NL",RTL7 NL
-https://lb.iptvnetwork.net/ls28/10007/playlist.m3u8
+http://176.65.153.6:3001/play/a00i/index.m3u8
 #EXTINF:0 group-title="NL",RTL8 NL
-https://lb.iptvnetwork.net/ls28/10008/playlist.m3u8
+http://176.65.153.6:3001/play/a00k/index.m3u8
 #EXTINF:0 group-title="NL",SBS9 NL
-https://lb.iptvnetwork.net/ls28/10009/playlist.m3u8
-#EXTINF:0 group-title="NL",NPO1 Extra NL
-https://lb.iptvnetwork.net/ls28/10026/playlist.m3u8
+http://176.65.153.6:3002/play/a00b/index.m3u8
+#EXTINF:0 group-title="NL",VRT1 BE
+http://176.65.153.6:3002/play/a00k/index.m3u8
 #EXTINF:0 group-title="AL",Report TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://deb20stream.duckdns.org/signed/stream.m3u8
@@ -1075,58 +1077,58 @@ http://84.22.55.2:8032/play/s368
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,500
 http://186.148.196.250:81/play/a0ml/index.m3u8
-#EXTINF:0 group-title="s",ESPN 1 LA
-http://195.178.110.110/espn/index.m3u8
-#EXTINF:0 group-title="s",ESPN 2 LA
-http://195.178.110.110/espn2/index.m3u8
-#EXTINF:0 group-title="s",ESPN 3 LA
-http://195.178.110.110/espn3/index.m3u8
-#EXTINF:0 group-title="s",ESPN 4 LA
-http://195.178.110.110/espn4/index.m3u8
-#EXTINF:0 group-title="s",ESPN 5 LA
-http://195.178.110.110/espn5/index.m3u8
-#EXTINF:0 group-title="s",ESPN 6 LA
-http://195.178.110.110/espn6/index.m3u8
-#EXTINF:0 group-title="s",ESPN 7 LA
-http://195.178.110.110/espn7/index.m3u8
+#EXTINF:0 group-title="s",ESPN 1
+http://181.78.0.107:8006/play/a08p/index.m3u8
+#EXTINF:0 group-title="s",ESPN 2
+http://181.78.0.107:8006/play/a07d/index.m3u8
+#EXTINF:0 group-title="s",ESPN 3
+http://181.78.0.107:8006/play/a07j/index.m3u8
+#EXTINF:0 group-title="s",ESPN 4
+http://181.78.0.107:8006/play/a07k/index.m3u8
+#EXTINF:0 group-title="s",ESPN 5
+http://181.78.0.107:8006/play/a03p/index.m3u8
+#EXTINF:0 group-title="s",ESPN 6
+http://181.78.0.107:8006/play/a03n/index.m3u8
+#EXTINF:0 group-title="s",ESPN 7
+http://181.78.0.107:8006/play/a080/index.m3u8
+#EXTINF:0 group-title="s",ESPN Premium
+http://181.78.0.107:8006/play/a05o/index.m3u8
+#EXTINF:0 group-title="s",509
+http://45.84.187.172:3001/udp/239.100.100.48:5000
+#EXTINF:0 group-title="s",510
+http://45.84.187.172:3001/udp/239.100.100.64:5000
+#EXTINF:0 group-title="s",MAX Sport 1
+http://212.70.131.37:8000/play/a085
+#EXTINF:0 group-title="s",MAX Sport 2
+http://212.70.131.37:8000/play/a086
+#EXTINF:0 group-title="s",MAX Sport 3
+http://212.70.131.37:8000/play/a06h
+#EXTINF:0 group-title="s",MAX Sport 4
+http://212.70.131.37:8000/play/a07n
+#EXTINF:0 group-title="s",Diema Sport 1
+http://212.70.131.37:8000/play/a06e
+#EXTINF:0 group-title="s",Diema Sport 2
+http://212.70.131.37:8000/play/a06p
+#EXTINF:0 group-title="s",Diema Sport 3
+http://212.70.131.37:8000/play/a06o
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:0 group-title="s",Match 3 RU
 http://stream.mcquack.net/185/index.m3u8
-#EXTINF:0 group-title="s",ESPN 1 MX
-http://195.178.110.110/espnmx/index.m3u8
-#EXTINF:0 group-title="s",ESPN 2 MX
-http://195.178.110.110/espn2mx/index.m3u8
-#EXTINF:0 group-title="s",ESPN 3 MX
-http://195.178.110.110/espn3mx/index.m3u8
-#EXTINF:0 group-title="s",ESPN 4 MX
-http://195.178.110.110/espn4mx/index.m3u8
 #EXTINF:0 group-title="s",ESPN 1 AR
 http://154.12.107.98:8000/play/a08s
 #EXTINF:0 group-title="s",ESPN 2 AR
 http://154.12.107.98:8000/play/a08t
 #EXTINF:0 group-title="s",ESPN 3 AR
 http://154.12.107.98:8000/play/a09x
-#EXTINF:0 group-title="s",ESPN 6 AR
-http://154.12.107.98:8000/play/a0a0
-#EXTINF:0 group-title="s",519
-http://45.84.187.172:3001/udp/239.100.100.48:5000
-#EXTINF:0 group-title="s",520
-http://45.84.187.172:3001/udp/239.100.100.64:5000
 #EXTINF:0 group-title="s",Ziggo Sport 1
 https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
 #EXTINF:0 group-title="s",Ziggo Sport 2
 https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
-#EXTINF:0 group-title="s",Ziggo Sport 6
-https://lb.iptvnetwork.net/ls33/10047/playlist.m3u8
-#EXTINF:0 group-title="s",524
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0 group-title="s",525
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:0 group-title="s",526
-http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:0 group-title="s",ESPN 6 AR
+http://154.12.107.98:8000/play/a0a0
 #EXTINF:-1 group-title="s",527
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:-1 group-title="s",528
@@ -1715,7 +1717,7 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
 #EXTVLCOPT:http-referrer=https://www.tivify.tv/
 https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
-#EXTINF:-1 group-title="test",b1
+#EXTINF:-1 group-title="test",b1 test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="test",Euronews test
