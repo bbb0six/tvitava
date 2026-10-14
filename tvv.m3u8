@@ -1216,7 +1216,7 @@ http://190.60.37.118:4000/play/a0c8
 #EXTINF:0,569
 http://190.60.37.118:4000/play/a0c9
 #EXTINF:0,570
-http://195.178.110.110/espn/index.m3u8
+http://45.181.121.57:2909/play/212
 #EXTINF:0 group-title="s",571
 http://138.121.15.230:9001/ESPN-CO/mpegts
 #EXTINF:0 group-title="s",572
@@ -1232,11 +1232,11 @@ http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",577
 http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0,578
-http://38.147.104.162:80/premium26/mpegts
+http://45.181.121.57:2909/play/214
 #EXTINF:0,579
-http://38.147.104.162:80/premium27/mpegts
+http://45.181.121.57:2909/play/216
 #EXTINF:0,580
-http://195.178.110.110/foxsports3/index.m3u8
+http://45.181.121.57:2909/play/218
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1256,25 +1256,25 @@ http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:-1,589
 http://181.78.8.199:8000/play/a07f/index.m3u8
 #EXTINF:-1,590
-http://88.212.7.14/live/mb_hits/index.m3u8
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 #EXTINF:-1,591
-http://88.212.7.14/live/mb_dance/index.m3u8
-#EXTINF:-1,592
-http://88.212.7.14/live/mb_classic/index.m3u8
-#EXTINF:-1,593
-http://88.212.7.14/live/mb_sexy/index.m3u8
-#EXTINF:-1,594
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
-#EXTINF:-1,595
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
-#EXTINF:-1,596
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
-#EXTINF:-1,597
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
-#EXTINF:-1,598
 http://102.129.186.182:81/milan/index.m3u8
-#EXTINF:-1,599
+#EXTINF:-1,592
 http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:-1,593
+http://102.129.186.182:81/lazio/index.m3u8
+#EXTINF:-1,594
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:-1,595
+http://102.129.186.182:81/pescacaccia/index.m3u8
+#EXTINF:-1,596
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
+#EXTINF:-1,597
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
+#EXTINF:-1,598
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+#EXTINF:-1,599
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
 #EXTINF:-1 group-title="test",600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -1303,7 +1303,7 @@ http://88.212.7.14/live/test_upnetwork/playlist.m3u8
 http://88.212.7.14/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",STVR 2 Dvojka
 http://88.212.7.14/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",STVR 3 Trojka
+#EXTINF:-1 group-title="SK",STVR 24
 http://88.212.7.14/live/test_trojka_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",Markíza
 http://88.212.7.14/live/test_markiza_25p/playlist.m3u8
@@ -1311,7 +1311,7 @@ http://88.212.7.14/live/test_markiza_25p/playlist.m3u8
 http://88.212.7.14/live/test_ta3_25p/playlist.m3u8
 #EXTINF:-1 group-title="SK",JOJ SK
 http://88.212.7.14/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 group-title="SK",TV Barrandov
+#EXTINF:-1 group-title="SK",Barrandov SK
 http://88.212.7.14/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 group-title="SK",Barrandov Krimi
 http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
