@@ -706,8 +706,8 @@ https://live1.mediadesk.al/oranews.m3u8
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:0 group-title="AL",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="FR",RTBF La Une
-http://41.205.93.154/LA-UNE/index.m3u8
+#EXTINF:0 group-title="World",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:0 group-title="GR",ERT 1 GR
 http://176.65.153.4:8301/play/a05x/index.m3u8
 #EXTINF:0 group-title="GR",ERT 2 GR
@@ -791,8 +791,8 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
-#EXTINF:0 group-title="World",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:0 group-title="World",MTV
+http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="Music",MCM POP
 http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -980,11 +980,11 @@ http://41.205.93.154/LIFETIME/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
-http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:0 group-title="USA",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+http://198.58.104.90:8989/animalplanet/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+http://198.58.104.90:8989/bbcamerica/index.m3u8
 #EXTINF:0 group-title="USA",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:0 group-title="USA",Bounce
@@ -1096,7 +1096,7 @@ http://181.78.0.107:8006/play/a05o/index.m3u8
 #EXTINF:0 group-title="s",509
 http://45.84.187.172:3001/udp/239.100.100.48:5000
 #EXTINF:0 group-title="s",510
-http://45.84.187.172:3001/udp/239.100.100.64:5000
+https://jmp2.uk/stvp-IT2900003UK
 #EXTINF:0 group-title="s",MAX Sport 1
 http://212.70.131.37:8000/play/a085
 #EXTINF:0 group-title="s",MAX Sport 2
@@ -1154,7 +1154,7 @@ http://179.1.146.22:8000/play/a0g4
 #EXTINF:-1 group-title="s",538
 http://179.1.146.22:8000/play/a0ho
 #EXTINF:-1 group-title="s",539
-https://balance.footballii.ir/hls2/bein1.m3u8
+http://45.84.187.172:3001/udp/239.100.100.64:5000
 #EXTINF:0 group-title="s",Eurosport 4k CZ
 http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 #EXTINF:0 group-title="s",Eurosport 1 HU
