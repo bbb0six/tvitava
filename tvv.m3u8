@@ -601,7 +601,7 @@ https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="V",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:0 group-title="V",_
+#EXTINF:0 group-title="V",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="V",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
@@ -933,22 +933,22 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="World",RTÉ ONE IE
 http://41.180.140.146:4200/bysid/2101
-#EXTINF:0 group-title="USA",A&E
-http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:0 group-title="USA",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:0 group-title="USA",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:0 group-title="USA",IFC
-http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:0 group-title="USA",ION
-http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:0 group-title="USA",MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 group-title="USA",5STARMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="test",429
+http://4.30.180.36:8420/abc/index.m3u8?token=test
+#EXTINF:0 group-title="test",430
+http://5.57.74.130:8000/play/a0dh/index.m3u8
+#EXTINF:0 group-title="USA",ABC News
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+#EXTINF:0 group-title="USA",NBC News
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:0 group-title="USA",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 group-title="USA",Fox News
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:0 group-title="USA",MSNBC
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+#EXTINF:0 group-title="USA",CNBC
+https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",VH1
@@ -971,8 +971,8 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
 http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",MSG
-http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:0 group-title="USA",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="USA",LIFETIME
@@ -981,6 +981,16 @@ http://41.205.93.154/LIFETIME/mpegts
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 group-title="USA",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0 group-title="USA",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:0 group-title="USA",AMC
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
@@ -991,14 +1001,18 @@ http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:0 group-title="USA",Buzzr TV
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-#EXTINF:0 group-title="USA",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:0 group-title="USA",Destination America
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:0 group-title="USA",E! Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:0 group-title="USA",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:0 group-title="USA",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0 group-title="USA",ION
+http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
@@ -1017,30 +1031,16 @@ http://23.237.104.106:8080/USA_ACCN/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",ABC News
-http://4.30.180.36:8420/abc/index.m3u8?token=test
-#EXTINF:0 group-title="USA",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 group-title="USA",CNN News
-http://41.205.93.154/CNN/mpegts
 #EXTINF:0 group-title="USA",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:0 group-title="USA",NBC
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:0 group-title="USA",CNBC
-https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
-#EXTINF:0 group-title="USA",MSNBC
-http://4.30.180.36:8420/msnbc/index.m3u8?token=test
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",Fox News
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19147/index.m3u8
-#EXTINF:0 group-title="USA",Fox News SD
-http://5.57.74.130:8000/play/a0dh/index.m3u8
+#EXTINF:0 group-title="USA",Bloomberg
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",NTN24
