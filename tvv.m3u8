@@ -1107,9 +1107,9 @@ http://212.70.131.37:8000/play/a085
 #EXTINF:0 group-title="s",MAX Sport 2
 http://212.70.131.37:8000/play/a086
 #EXTINF:0 group-title="s",MAX Sport 3
-http://45.84.187.172:3001/udp/239.100.100.48:5000
+http://212.70.131.37:8000/play/a06h
 #EXTINF:0 group-title="s",MAX Sport 4
-http://45.84.187.172:3001/udp/239.100.100.64:5000
+http://212.70.131.37:8000/play/a07n
 #EXTINF:0 group-title="s",Diema Sport 1
 http://212.70.131.37:8000/play/a06e
 #EXTINF:0 group-title="s",Diema Sport 2
@@ -1525,17 +1525,17 @@ http://198.204.228.26/live/cctv4k.m3u8
 #EXTINF:0 group-title="CN",CCTV 8K
 http://198.204.228.26/live/cctv8k.m3u8
 #EXTINF:0 group-title="test",721
-http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+https://jmp2.uk/stvp-IT1000002TG
 #EXTINF:0 group-title="test",722
-http://142.132.200.37:9000/RAI2
+https://jmp2.uk/stvp-IT800003V4
 #EXTINF:0 group-title="test",723
-http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+https://jmp2.uk/stvp-IT500010AQ
 #EXTINF:0 group-title="test",724
-http://102.129.186.182:81/rai4/index.m3u8
+https://jmp2.uk/stvp-ITBA2200008IM
 #EXTINF:0 group-title="test",725
-http://102.129.186.182:81/rai5/index.m3u8
+https://jmp2.uk/stvp-ITBC2100001G9
 #EXTINF:0 group-title="test",726
-http://102.129.186.182:81/raimovie/index.m3u8
+http://102.129.186.182:81/iris/index.m3u8
 #EXTINF:0 group-title="test",727
 http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
@@ -1543,23 +1543,23 @@ http://176.65.153.52:5003/play/a07w/index.m3u8
 #EXTINF:0 group-title="test",729
 http://176.65.153.52:5003/play/a07u/index.m3u8
 #EXTINF:0 group-title="test",730
-http://45.84.187.172:3001/udp/224.156.69.201:5000
-#EXTINF:0 group-title="test",731
-http://45.84.187.172:3001/udp/224.156.69.74:5000
-#EXTINF:0 group-title="test",732
-http://45.84.187.172:3001/udp/224.156.69.174:5000
-#EXTINF:0 group-title="test",733
-http://45.84.187.172:3001/udp/224.156.69.75:5000
-#EXTINF:0 group-title="test",734
-http://102.129.186.182:81/giallo/index.m3u8
-#EXTINF:0 group-title="test",735
 http://102.129.186.182:81/discovery/index.m3u8
-#EXTINF:0 group-title="test",736
+#EXTINF:0 group-title="test",731
 http://102.129.186.182:81/realtime/index.m3u8
-#EXTINF:0 group-title="test",737
+#EXTINF:0 group-title="test",732
 http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:0 group-title="test",733
+http://102.129.186.182:81/giallo/index.m3u8
+#EXTINF:0 group-title="test",734
+http://102.129.186.182:81/rai4/index.m3u8
+#EXTINF:0 group-title="test",735
+http://102.129.186.182:81/rai5/index.m3u8
+#EXTINF:0 group-title="test",736
+http://102.129.186.182:81/raimovie/index.m3u8
+#EXTINF:0 group-title="test",737
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",738
-http://102.129.186.182:81/iris/index.m3u8
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:0 group-title="test",739
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:0 group-title="test",740
@@ -1644,28 +1644,28 @@ https://d4k.it/hls/live1/live.m3u8
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
 https://5f204aff97bee.streamlock.net/Ritmo80TV/livestream/master.m3u8
-#EXTINF:-1 group-title="Rai",Rai 1 dvr
+#EXTINF:-1 group-title="Rai",Rai 1 test
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 2 dvr
+#EXTINF:-1 group-title="Rai",Rai 2 test
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 3 dvr
+#EXTINF:-1 group-title="Rai",Rai 3 test
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 4 dvr
+#EXTINF:-1 group-title="Rai",Rai 4 test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai 5 dvr
+#EXTINF:-1 group-title="Rai",Rai 5 test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="Rai",Rai Movie dvr
+#EXTINF:-1 group-title="Rai",Rai Movie test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="test",La7 test
+#EXTINF:-1 group-title="test",La7 test 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
 #EXTINF:0 group-title="test",TV8 test
@@ -1715,16 +1715,10 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:-1 group-title="test",LaSexta test
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
-#EXTVLCOPT:http-referrer=https://www.tivify.tv/
-https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
-#EXTINF:-1 group-title="test",b1 test
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live03-col.msf.cdn.mediaset.net/live/ch-b1/b1-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="test",La7 test 2
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:-1 group-title="test",Euronews test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:-1 group-title="test",800
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
