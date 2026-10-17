@@ -556,7 +556,12 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31827/mpegts
 #EXTINF:0 group-title="ES",Telecinco
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31828/mpegts
 #EXTINF:0 group-title="ES",laSexta
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31833/mpegts
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
+#EXTVLCOPT:http-referrer=https://www.tivify.tv/
+https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 #EXTINF:0 group-title="ES",RTVE tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
 #EXTINF:0 group-title="ES",RTVE Clan
@@ -1094,7 +1099,7 @@ http://181.78.0.107:8006/play/a080/index.m3u8
 #EXTINF:0 group-title="s",ESPN Premium
 http://181.78.0.107:8006/play/a05o/index.m3u8
 #EXTINF:0 group-title="s",509
-http://45.84.187.172:3001/udp/239.100.100.48:5000
+http://91.205.196.7:8000/play/a02z
 #EXTINF:0 group-title="s",510
 https://jmp2.uk/stvp-IT2900003UK
 #EXTINF:0 group-title="s",MAX Sport 1
@@ -1102,9 +1107,9 @@ http://212.70.131.37:8000/play/a085
 #EXTINF:0 group-title="s",MAX Sport 2
 http://212.70.131.37:8000/play/a086
 #EXTINF:0 group-title="s",MAX Sport 3
-http://212.70.131.37:8000/play/a06h
+http://45.84.187.172:3001/udp/239.100.100.48:5000
 #EXTINF:0 group-title="s",MAX Sport 4
-http://212.70.131.37:8000/play/a07n
+http://45.84.187.172:3001/udp/239.100.100.64:5000
 #EXTINF:0 group-title="s",Diema Sport 1
 http://212.70.131.37:8000/play/a06e
 #EXTINF:0 group-title="s",Diema Sport 2
@@ -1123,12 +1128,12 @@ http://154.12.107.98:8000/play/a08s
 http://154.12.107.98:8000/play/a08t
 #EXTINF:0 group-title="s",ESPN 3 AR
 http://154.12.107.98:8000/play/a09x
-#EXTINF:0 group-title="s",Ziggo Sport 1
-https://lb.iptvnetwork.net/ls33/10045/playlist.m3u8
-#EXTINF:0 group-title="s",Ziggo Sport 2
-https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
 #EXTINF:0 group-title="s",ESPN 6 AR
 http://154.12.107.98:8000/play/a0a0
+#EXTINF:-1 group-title="s",525
+https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
+#EXTINF:-1 group-title="s",526
+http://176.65.153.6:3002/play/a00e/index.m3u8
 #EXTINF:-1 group-title="s",527
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:-1 group-title="s",528
@@ -1161,6 +1166,10 @@ http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 2 HU
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 1 BG
+http://45.84.187.172:3001/udp/224.156.69.106:5000
+#EXTINF:0 group-title="s",Eurosport 2 BG
+http://45.84.187.172:3001/udp/224.156.69.132:5000
 #EXTINF:0 group-title="s",Sport 1 SK
 http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 2 SK
@@ -1169,10 +1178,6 @@ http://88.212.7.14/live/test_sport_2/playlist.m3u8
 http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
 http://88.212.7.14/live/sport2_hun/index.m3u8
-#EXTINF:0,547
-http://45.84.187.172:3001/udp/224.156.69.106:5000
-#EXTINF:0,548
-http://45.84.187.172:3001/udp/224.156.69.132:5000
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="test",550
