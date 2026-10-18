@@ -576,16 +576,16 @@ http://185.228.163.146:8000/play/a003/index.m3u8
 http://185.228.163.146:8000/play/a004/index.m3u8
 #EXTINF:0 group-title="PT",TVI
 http://185.228.163.146:8000/play/a005/index.m3u8
-#EXTINF:0 group-title="PT",RTP Notícias
+#EXTINF:0 group-title="PT",RTP N
 http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="PT",RTP Memória
-http://176.65.153.78:8201/play/a067/index.m3u8
+#EXTINF:0 group-title="PT",SIC N
+http://185.228.163.146:8000/play/a00y/index.m3u8
 #EXTINF:0 group-title="PT",Canal 11
 http://185.228.163.146:8000/play/a00z/index.m3u8
 #EXTINF:0 group-title="PT",TV Record
 http://185.228.163.146:8000/play/a01w/index.m3u8
-#EXTINF:0 group-title="PT",GLOBO PT
-http://176.65.153.78:8201/play/a062/index.m3u8
+#EXTINF:0 group-title="PT",TV Galicia
+http://185.228.163.146:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="V",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:0 group-title="V",TeleFoggia
@@ -796,8 +796,8 @@ http://85.11.189.178:8080/BNTHD/index.m3u8
 http://87.120.179.187:8000/play/a02j
 #EXTINF:0 group-title="World",MTV
 http://45.84.187.172:3001/udp/239.100.10.67:5000
-#EXTINF:0 group-title="Music",MCM POP
-http://176.65.153.78:8201/play/a070/index.m3u8
+#EXTINF:0 group-title="Music",MCM TOP
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko
@@ -918,8 +918,8 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 group-title="CH",TVM3 CH
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="Music",2TV LT
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
 #EXTINF:-1 group-title="CH",carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 2
@@ -930,14 +930,14 @@ https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 5
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+#EXTINF:-1 group-title="CH",TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:0 group-title="World",3cat
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="World",RTÉ ONE IE
 http://41.180.140.146:4200/bysid/2101
-#EXTINF:0 group-title="test",429
-http://4.30.180.36:8420/abc/index.m3u8?token=test
 #EXTINF:0 group-title="test",430
 http://5.57.74.130:8000/play/a0dh/index.m3u8
 #EXTINF:0 group-title="USA",ABC News
@@ -1168,13 +1168,13 @@ http://88.212.7.14/live/esp2_hun/index.m3u8
 http://45.84.187.172:3001/udp/224.156.69.106:5000
 #EXTINF:0 group-title="s",Eurosport 2 BG
 http://45.84.187.172:3001/udp/224.156.69.132:5000
-#EXTINF:0 group-title="s",Sport 1 SK
-http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
-#EXTINF:0 group-title="s",Sport 2 SK
-http://88.212.7.14/live/test_sport_2/playlist.m3u8
-#EXTINF:0 group-title="s",Sport 1 HU
+#EXTINF:0 group-title="s",Eurosport 1 PT
+http://185.228.163.146:8000/play/a03z/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 2 PT
+http://185.228.163.146:8000/play/a048/index.m3u8
+#EXTINF:0 group-title="s",547
 http://88.212.7.14/live/sport1_hun/index.m3u8
-#EXTINF:0 group-title="s",Sport 2 HU
+#EXTINF:0 group-title="s",548
 http://88.212.7.14/live/sport2_hun/index.m3u8
 #EXTINF:0,549
 https://streamer2.premio.link/nokep_hd/index.m3u8
@@ -1234,12 +1234,12 @@ http://138.121.15.230:9001/ESPN-5/mpegts
 http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",577
 http://138.121.15.230:9001/ESPN-7/mpegts
-#EXTINF:0,578
-http://45.181.121.57:2909/play/214
-#EXTINF:0,579
-http://45.181.121.57:2909/play/216
-#EXTINF:0,580
-http://45.181.121.57:2909/play/218
+#EXTINF:0 group-title="s",578
+http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
+#EXTINF:0 group-title="s",579
+http://88.212.7.14/live/test_sport_2/playlist.m3u8
+#EXTINF:0 group-title="s",580
+http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
