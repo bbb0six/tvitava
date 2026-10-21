@@ -118,7 +118,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266393
 #EXTINF:-1 group-title="V",MANGA
-https://streamcdnm6-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -788,12 +788,12 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
-#EXTINF:0,_
+#EXTINF:0,355
 http://57.128.210.196:8080/141/index.m3u8
-#EXTINF:0,_
+#EXTINF:0,356
 http://57.128.210.196:8080/144/index.m3u8
-#EXTINF:0,_
-http://57.128.210.196:8080/143/index.m3u8
+#EXTINF:0,357
+http://185.228.163.146:8000/play/a02k/index.m3u8
 #EXTINF:0 group-title="World",MTV
 http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="Music",MCM TOP
@@ -1719,4 +1719,4 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",800
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
