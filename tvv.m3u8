@@ -1,16 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="Rai",Rai 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai 2
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai 3
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
 #EXTINF:-1 group-title="MDS",Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
@@ -57,16 +54,16 @@ http://102.129.186.182:81/comedy/index.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
 #EXTINF:-1 group-title="MDS",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 group-title="Rai",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 #EXTINF:-1 group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
@@ -779,12 +776,6 @@ http://89.44.231.73:7000/primatv
 http://89.44.231.73:7000/digi24hd
 #EXTINF:-1 group-title="RO",Moldova 1
 http://116.202.113.254:8888/Moldova1hd
-#EXTINF:0 group-title="PL",TVPHD PL
-http://57.128.210.196:8080/141/index.m3u8
-#EXTINF:0 group-title="PL",TVP1 PL
-http://57.128.210.196:8080/144/index.m3u8
-#EXTINF:0 group-title="PL",TVP2 PL
-http://57.128.210.196:8080/143/index.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
@@ -797,6 +788,12 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
+#EXTINF:0,_
+http://57.128.210.196:8080/141/index.m3u8
+#EXTINF:0,_
+http://57.128.210.196:8080/144/index.m3u8
+#EXTINF:0,_
+http://57.128.210.196:8080/143/index.m3u8
 #EXTINF:0 group-title="World",MTV
 http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="Music",MCM TOP
@@ -1645,24 +1642,27 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
 #EXTINF:0,780
 https://streamcdnr18-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
-#EXTINF:-1 group-title="Rai",Rai 1 test
-#EXTVLCOPT:http-user-agent=rainet/4.0.5
-https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 2 test
+#EXTINF:-1 group-title="Rai",Rai 1 dvr
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 2 dvr
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 3 dvr
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 4 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 3 test
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 5 dvr
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 4 test
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 5 test
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai Movie test
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 group-title="test",La7 test 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 https://d1chghleocc9sm.cloudfront.net/Live.m3u8
