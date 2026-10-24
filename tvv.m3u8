@@ -1381,9 +1381,9 @@ http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",ATV TR
-https://deathless.pantonum1.workers.dev/atv.m3u8
+http://176.65.153.12:6005/play/a02x/index.m3u8
 #EXTINF:-1 group-title="World",TRT 1
-https://deathless.pantonum1.workers.dev/trt1.m3u8
+http://176.65.153.12:6001/play/a04f/index.m3u8
 #EXTINF:0 group-title="World",AZTV
 http://185.129.1.242:80/aztv/mpegts
 #EXTINF:-1 group-title="World",İCTIMAI AZ
