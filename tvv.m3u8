@@ -545,9 +545,9 @@ http://176.65.153.4:4007/play/a073/index.m3u8
 #EXTINF:0 group-title="ES",RTVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",RTVE La1
-https://rtve01p.origin.c21livecloud.com/live-origin/la1hd-hls/master.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
-https://rtve01p.origin.c21livecloud.com/live-origin/la2hd-hls/master.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",Antena 3
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31825/mpegts
 #EXTINF:0 group-title="ES",Cuatro
@@ -789,14 +789,14 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
-#EXTINF:0,355
-http://57.128.210.196:8080/141/index.m3u8
-#EXTINF:0,356
-http://57.128.210.196:8080/144/index.m3u8
-#EXTINF:0,357
-http://185.228.163.146:8000/play/a02k/index.m3u8
-#EXTINF:0 group-title="World",MTV
-http://45.84.187.172:3001/udp/239.100.10.67:5000
+#EXTINF:0 group-title="World",355
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:0 group-title="World",356
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:0 group-title="World",357
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:0 group-title="World",358
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 group-title="Music",MCM TOP
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -848,7 +848,7 @@ http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN ES
 https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",CGTN FR
-https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+https://dash3.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
 #EXTINF:0 group-title="World",Arirang TV
 http://88.212.7.14/live/test_arirang/playlist.m3u8
 #EXTINF:0 group-title="World",NHK World Japan
