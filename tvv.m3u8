@@ -431,8 +431,8 @@ http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
 http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ZDFinfo
-https://lb.iptvnetwork.net/ls28/10813/playlist.m3u8
+#EXTINF:0 group-title="DE",Tele 5
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:0 group-title="DE",ZDFneo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",Pro7Maxx
@@ -547,7 +547,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",RTVE La1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:0 group-title="ES",RTVE La2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31829/mpegts
 #EXTINF:0 group-title="ES",Antena 3
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31825/mpegts
 #EXTINF:0 group-title="ES",Cuatro
@@ -555,18 +555,13 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31827/mpegts
 #EXTINF:0 group-title="ES",Telecinco
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31828/mpegts
 #EXTINF:0 group-title="ES",laSexta
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
-#EXTVLCOPT:http-referrer=https://www.tivify.tv/
-https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
-#EXTINF:0 group-title="ES",RTVE tdp
-https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/master.m3u8
-#EXTINF:0 group-title="ES",RTVE Clan
-https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/master.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31833/mpegts
+#EXTINF:0 group-title="ES",Nova
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31837/mpegts
 #EXTINF:0 group-title="ES",A3Series
 http://176.65.153.52:8401/play/a093/index.m3u8
+#EXTINF:0 group-title="ES",BeMad TV
+http://176.65.153.52:8401/play/a094/index.m3u8
 #EXTINF:0 group-title="ES",TVE Int
 http://185.228.163.146:8000/play/a00q/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
@@ -1534,7 +1529,7 @@ https://jmp2.uk/stvp-ITBA2200008IM
 #EXTINF:0 group-title="test",725
 https://jmp2.uk/stvp-ITBC2100001G9
 #EXTINF:0 group-title="test",726
-http://102.129.186.182:81/iris/index.m3u8
+https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0 group-title="test",727
 http://176.65.153.52:5003/play/a07x/index.m3u8
 #EXTINF:0 group-title="test",728
@@ -1602,7 +1597,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0,759
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0,760
-http://57.128.231.171:8080/227/index.m3u8
+http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31826/mpegts
 #EXTINF:0,761
 http://92.114.85.87:8001/play/a011/index.m3u8
 #EXTINF:0,762
@@ -1714,8 +1709,13 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:-1 group-title="test",La7 test 2
-https://jmp2.uk/stvp-ITBD1500002NL
+#EXTINF:-1 group-title="test",laSexta test
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
+#EXTVLCOPT:http-referrer=https://www.tivify.tv/
+https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
 #EXTINF:-1 group-title="test",Euronews test
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
