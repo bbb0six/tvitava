@@ -476,7 +476,6 @@ http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:0 group-title="FR",M6
 http://149.62.177.107:9999/M6/index.m3u8
 #EXTINF:0 group-title="FR",Arte
-#EXTVLCOPT:network-caching=1000
 http://149.62.177.107:9999/Arte/index.m3u8
 #EXTINF:0 group-title="FR",LCP
 http://149.62.177.107:9999/LCP/index.m3u8
@@ -531,7 +530,7 @@ http://176.65.153.4:4004/play/a07l/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
 http://176.65.153.4:4004/play/a07o/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-http://176.65.153.4:4004/play/a07j/index.m3u8
+http://81.78.186.155:7000/stream/channelid/1298265077?ticket=A5625CE05265F01794A7B88042E8B7E75C911C37&profile=pass
 #EXTINF:0 group-title="UK",Channel 4
 http://176.65.153.4:4007/play/a074/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
@@ -1076,22 +1075,22 @@ http://84.22.55.2:8032/play/s368
 http://84.22.55.2:8032/play/s369
 #EXTINF:0,500
 http://186.148.196.250:81/play/a0ml/index.m3u8
-#EXTINF:0 group-title="s",ESPN 1
-http://181.78.0.107:8006/play/a08p/index.m3u8
-#EXTINF:0 group-title="s",ESPN 2
-http://181.78.0.107:8006/play/a07d/index.m3u8
-#EXTINF:0 group-title="s",ESPN 3
-http://181.78.0.107:8006/play/a07j/index.m3u8
-#EXTINF:0 group-title="s",ESPN 4
-http://181.78.0.107:8006/play/a07k/index.m3u8
-#EXTINF:0 group-title="s",ESPN 5
-http://181.78.0.107:8006/play/a03p/index.m3u8
-#EXTINF:0 group-title="s",ESPN 6
-http://181.78.0.107:8006/play/a03n/index.m3u8
-#EXTINF:0 group-title="s",ESPN 7
-http://181.78.0.107:8006/play/a080/index.m3u8
-#EXTINF:0 group-title="s",ESPN Premium
-http://181.78.0.107:8006/play/a05o/index.m3u8
+#EXTINF:0 group-title="s",501
+http://186.148.196.250:81/play/a0cv/index.m3u8
+#EXTINF:0 group-title="s",502
+http://186.148.196.250:81/play/a0id/index.m3u8
+#EXTINF:0 group-title="s",503
+http://186.148.196.250:81/play/a0in/index.m3u8
+#EXTINF:0 group-title="s",504
+http://186.148.196.250:81/play/a0io/index.m3u8
+#EXTINF:0 group-title="s",505
+http://186.148.196.250:81/play/a0fy/index.m3u8
+#EXTINF:0 group-title="s",506
+http://186.148.196.250:81/play/a0i7/index.m3u8
+#EXTINF:0 group-title="s",507
+http://186.148.196.250:81/play/a0i7/index.m3u8
+#EXTINF:0 group-title="s",508
+http://186.148.196.250:81/play/a0cx/index.m3u8
 #EXTINF:0 group-title="s",509
 http://91.205.196.7:8000/play/a02z
 #EXTINF:0 group-title="s",510
@@ -1116,6 +1115,10 @@ http://stream.mcquack.net/130/index.m3u8
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:0 group-title="s",Match 3 RU
 http://stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 group-title="s",521
+http://91.205.196.7:8000/play/a02z
+#EXTINF:-1 group-title="s",522
+http://91.205.196.7:8000/play/a030
 #EXTINF:0 group-title="s",ESPN 1 AR
 http://154.12.107.98:8000/play/a08s
 #EXTINF:0 group-title="s",ESPN 2 AR
@@ -1124,10 +1127,6 @@ http://154.12.107.98:8000/play/a08t
 http://154.12.107.98:8000/play/a09x
 #EXTINF:0 group-title="s",ESPN 6 AR
 http://154.12.107.98:8000/play/a0a0
-#EXTINF:-1 group-title="s",525
-https://lb.iptvnetwork.net/ls33/10046/playlist.m3u8
-#EXTINF:-1 group-title="s",526
-http://176.65.153.6:3002/play/a00e/index.m3u8
 #EXTINF:-1 group-title="s",527
 http://216.106.179.7:8080/ESPN3HD/index.m3u8
 #EXTINF:-1 group-title="s",528
