@@ -349,7 +349,7 @@ https://streamcdnr6-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HV
 #EXTINF:0 group-title="Regionali",Video Calabria
 https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
 #EXTINF:0 group-title="Regionali",RTI Calabria
-https://stream.ets-sistemi.it:8081/rticalabria/playlist.m3u8
+https://stream.ets-sistemi.it:2020/hls/rticalabria/rticalabria.m3u8
 #EXTINF:0 group-title="Regionali",Video Mediterraneo
 https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TeleOne
@@ -530,7 +530,7 @@ http://176.65.153.4:4004/play/a07l/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
 http://176.65.153.4:4004/play/a07o/index.m3u8
 #EXTINF:0 group-title="UK",ITV 4
-http://81.78.186.155:7000/stream/channelid/1298265077?ticket=A5625CE05265F01794A7B88042E8B7E75C911C37&profile=pass
+http://176.65.153.4:4004/play/a07j/index.m3u8
 #EXTINF:0 group-title="UK",Channel 4
 http://176.65.153.4:4007/play/a074/index.m3u8
 #EXTINF:0 group-title="UK",Channel 5
@@ -653,7 +653,7 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="V",Le Cronache
 http://77.68.40.210:8888/hls/cronache.m3u8
-#EXTINF:0 group-title="V",TRSP
+#EXTINF:0 group-title="V",_
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/master.m3u8
 #EXTINF:0 group-title="V",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
