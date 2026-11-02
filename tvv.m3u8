@@ -265,14 +265,15 @@ http://5.180.164.197:8080/RAI1/index.m3u8
 http://5.180.164.197:8080/RAI2/index.m3u8
 #EXTINF:0 group-title="IT",Rai 3
 http://5.180.164.197:8080/RAI3/index.m3u8
-#EXTINF:0 group-title="IT",Rete 4
-http://176.65.153.52:5003/play/a07r/index.m3u8
-#EXTINF:0 group-title="IT",Canale 5
+#EXTINF:0 group-title="IT",104
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://ottlunasp.xyz:80/live/boukadjar/040426/6074.m3u8
+#EXTINF:0 group-title="IT",105
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266385
-#EXTINF:0 group-title="IT",Italia 1
+#EXTINF:0 group-title="IT",106
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266395
+http://ottlunasp.xyz:80/live/boukadjar/040426/6076.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
 http://176.65.153.4:7001/play/a07f/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
@@ -545,7 +546,7 @@ http://176.65.153.4:4001/play/a08o/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",RTVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:0 group-title="ES",RTVE La1
+#EXTINF:0 group-title="ES",241
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:0 group-title="V",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
@@ -1396,9 +1397,9 @@ http://185.129.1.242:80/aztv/mpegts
 #EXTINF:-1 group-title="World",658
 http://94.100.50.220/HRT3/index.m3u8
 #EXTINF:-1 group-title="World",659
-http://176.61.157.250/HRT4/index.m3u8
+http://ottlunasp.xyz:80/live/boukadjar/040426/6337.m3u8
 #EXTINF:-1 group-title="World",660
-http://192.142.9.48:88/BBC1/index.m3u8
+http://ottlunasp.xyz:80/live/boukadjar/040426/6339.m3u8
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
