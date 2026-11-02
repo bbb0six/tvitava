@@ -1232,9 +1232,9 @@ http://138.121.15.230:9001/ESPN-6/mpegts
 #EXTINF:0 group-title="s",577
 http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",578
-http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
+http://donetex.com/test/test/49
 #EXTINF:0 group-title="s",579
-http://88.212.7.14/live/test_sport_2/playlist.m3u8
+http://donetex.com/test/test/23
 #EXTINF:0 group-title="s",580
 https://www.87tv.it/hls/vmix/720p/index.m3u8
 #EXTINF:-1,581
@@ -1369,6 +1369,8 @@ http://stream.mcquack.net/295/index.m3u8
 http://stream.mcquack.net/454/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 15
 http://stream.mcquack.net/45/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 16
+https://ch16israel-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="World",ISR CH 23
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 24
@@ -1377,8 +1379,6 @@ http://stream.mcquack.net/42/index.m3u8
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR KAN11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",Armenia 1
 https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="World",Armenia 2
