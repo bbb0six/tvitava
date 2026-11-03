@@ -551,7 +551,7 @@ https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe
 #EXTINF:0 group-title="V",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:0 group-title="V",243
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:0 group-title="V",244
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:0 group-title="V",245
@@ -560,8 +560,8 @@ https://stream.paroledivita.org/paroledivita.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",247
 https://stream.paroledivita.org/bjy/live/stream_1.m3u8
-#EXTINF:0 group-title="ES",248
-http://176.65.153.52:8401/play/a093/index.m3u8
+#EXTINF:0 group-title="V",248
+https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ES",249
 http://176.65.153.52:8401/play/a094/index.m3u8
 #EXTINF:0 group-title="IT",250
@@ -667,10 +667,10 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="-",301
-http://176.65.153.40:3002/play/a02j/index.m3u8
-#EXTINF:0 group-title="NL",302
-http://176.65.153.40:3001/play/a01w/index.m3u8
-#EXTINF:0 group-title="NL",303
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:0 group-title="-",302
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:0 group-title="-",303
 http://176.65.153.40:3002/play/a02l/index.m3u8
 #EXTINF:0 group-title="-",304
 http://176.65.153.40:3001/play/a02c/index.m3u8
@@ -968,7 +968,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:0 group-title="USA",MTV Classic
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19148/mpegts
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/12819.ts
 #EXTINF:0 group-title="USA",Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:0 group-title="USA",MAV TV
@@ -1274,9 +1274,9 @@ http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
 #EXTINF:-1,597
 http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
 #EXTINF:-1,598
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19135/mpegts
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
 #EXTINF:-1,599
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19137/mpegts
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
 #EXTINF:-1 group-title="test",600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
