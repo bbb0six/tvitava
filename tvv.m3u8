@@ -397,15 +397,15 @@ https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
 #EXTINF:0 group-title="Regionali",Antenna 3
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
-#EXTINF:0 group-title="V",Canale Italia
-https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
+#EXTINF:0 group-title="DE",ONE
+http://5.180.164.197:8080/ONE/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 #EXTINF:0 group-title="AT",ORF 2
 http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",ONE
-http://5.180.164.197:8080/ONE/index.m3u8
+#EXTINF:0 group-title="DE",Tele 5
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:0 group-title="DE",Das Erste
 http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDF
@@ -434,8 +434,8 @@ http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
 http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",NITRO
 http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
-#EXTINF:0 group-title="DE",Tele 5
-https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:0 group-title="DE",ZDFinfo
+http://90.183.52.46:4000/play/a05k/index.m3u8
 #EXTINF:0 group-title="DE",ZDFneo
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:0 group-title="DE",Pro7Maxx
@@ -563,7 +563,7 @@ https://stream.paroledivita.org/bjy/live/stream_1.m3u8
 #EXTINF:0 group-title="V",248
 https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="ES",249
-http://176.65.153.52:8401/play/a094/index.m3u8
+https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
 #EXTINF:0 group-title="IT",250
 http://185.228.163.146:8000/play/a00s/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
@@ -686,7 +686,7 @@ http://176.65.153.52:8401/play/a095/index.m3u8
 #EXTINF:0 group-title="-",309
 http://176.65.153.52:8401/play/a096/index.m3u8
 #EXTINF:0 group-title="-",310
-http://176.65.153.6:3002/play/a00k/index.m3u8
+http://185.19.191.171:8090/NRK1/index.m3u8
 #EXTINF:0 group-title="AL",Report TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
 https://deb20stream.duckdns.org/signed/stream.m3u8
@@ -946,7 +946,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-https://tvsen6.aynaott.com/foxnews/index.m3u8
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/30076/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -977,7 +977,7 @@ http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/mpegts
-#EXTINF:0 group-title="USA",LIFETIME
+#EXTINF:0 group-title="USA",_
 http://41.205.93.154/LIFETIME/mpegts
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -1092,7 +1092,7 @@ http://186.148.196.250:81/play/a0fy/index.m3u8
 #EXTINF:0 group-title="s",506
 http://186.148.196.250:81/play/a0i7/index.m3u8
 #EXTINF:0 group-title="s",507
-http://186.148.196.250:81/play/a0i7/index.m3u8
+http://186.148.196.250:81/play/a04i/index.m3u8
 #EXTINF:0 group-title="s",508
 http://186.148.196.250:81/play/a0cx/index.m3u8
 #EXTINF:0 group-title="s",509
@@ -1163,10 +1163,10 @@ http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 2 HU
 http://88.212.7.14/live/esp2_hun/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 1 PT
-http://185.228.163.146:8000/play/a03z/index.m3u8
-#EXTINF:0 group-title="s",Eurosport 2 PT
-http://185.228.163.146:8000/play/a048/index.m3u8
+#EXTINF:0 group-title="s",Sport 1 CZ
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:0 group-title="s",Sport 2 CZ
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 SK
 http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 2 SK
@@ -1200,11 +1200,11 @@ http://38.191.80.20:8023/play/a011
 #EXTINF:0,560
 http://38.191.80.20:8023/play/a015
 #EXTINF:0,561
-http://190.60.37.118:4000/play/a0b1
+http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:0,562
-http://190.60.37.118:4000/play/a0bu
+http://185.228.163.146:8000/play/a048/index.m3u8
 #EXTINF:0,563
-http://190.60.37.118:4000/play/a0c1
+http://190.60.37.118:4000/play/a087
 #EXTINF:0,564
 http://190.60.37.118:4000/play/a0bj
 #EXTINF:0,565
@@ -1270,9 +1270,9 @@ http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1,595
 https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 #EXTINF:-1,596
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19133/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/19137/mpegts
 #EXTINF:-1,597
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/19101/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/19148/mpegts
 #EXTINF:-1,598
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
 #EXTINF:-1,599
@@ -1600,21 +1600,21 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:0,759
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0,760
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/32206/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/32206/mpegts
 #EXTINF:0,761
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31826/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31826/mpegts
 #EXTINF:0,762
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31829/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31829/mpegts
 #EXTINF:0,763
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31825/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31825/mpegts
 #EXTINF:0,764
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31827/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31827/mpegts
 #EXTINF:0,765
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31828/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31828/mpegts
 #EXTINF:0,766
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31833/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
 #EXTINF:0,767
-http://byxeqgvr.megatv.fun/iptv/5KLVA2TCEWQTMK/31837/mpegts
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
 #EXTINF:0,768
 http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3EA56746ACEDEC842E150E&profile=pass
 #EXTINF:0,769
