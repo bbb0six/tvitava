@@ -275,14 +275,14 @@ https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
-http://176.65.153.4:7001/play/a07f/index.m3u8
+http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
 http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 group-title="IT",NOVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="IT",LA7Cinema HD
-http://176.65.153.4:7001/play/a07g/index.m3u8
+http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:0 group-title="CH",RSI LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06o/index.m3u8
@@ -546,50 +546,50 @@ http://176.65.153.4:4001/play/a08o/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",RTVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
-#EXTINF:0 group-title="ES",241
-https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="V",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:0 group-title="V",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:0 group-title="V",243
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="V",244
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:0 group-title="V",245
+#EXTINF:0 group-title="V",RTP Messina
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:0 group-title="V",Cafe TV 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:0 group-title="V",Parole Di Vita
 https://stream.paroledivita.org/paroledivita.m3u8
 #EXTINF:0 group-title="V",246
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:0 group-title="V",247
+#EXTINF:0 group-title="V",BeJoy Kids
 https://stream.paroledivita.org/bjy/live/stream_1.m3u8
 #EXTINF:0 group-title="V",248
 https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="ES",249
+#EXTINF:0 group-title="V",249
 https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
-#EXTINF:0 group-title="IT",250
+#EXTINF:0 group-title="V",250
 http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="PT",RTP 1
-http://185.228.163.146:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="PT",RTP 2
-http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="PT",SIC
-http://185.228.163.146:8000/play/a004/index.m3u8
-#EXTINF:0 group-title="PT",TVI
+#EXTINF:0 group-title="V",251
+http://185.228.163.146:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="V",252
+http://185.228.163.146:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="V",253
+https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="V",254
 http://185.228.163.146:8000/play/a005/index.m3u8
-#EXTINF:0 group-title="PT",RTP N
-http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="PT",SIC N
-http://185.228.163.146:8000/play/a00y/index.m3u8
-#EXTINF:0 group-title="PT",Canal 11
-http://185.228.163.146:8000/play/a00z/index.m3u8
-#EXTINF:0 group-title="PT",TV Record
-http://185.228.163.146:8000/play/a01w/index.m3u8
-#EXTINF:0 group-title="PT",TV Galicia
-http://185.228.163.146:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="V",Telerama
 https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",Telefoggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 #EXTINF:0 group-title="V",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
+#EXTINF:0 group-title="V",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:0 group-title="V",Canale 18 Molise
+http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="V",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
+#EXTINF:0 group-title="V",Canale 7
+https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
+#EXTINF:0 group-title="V",Canale 122
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:0 group-title="V",Primaset
 https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 #EXTINF:0 group-title="V",NTR 264
@@ -602,18 +602,18 @@ https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="V",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-#EXTINF:0 group-title="V",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:0 group-title="V",Canale 2
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
-#EXTINF:0 group-title="V",Canale 7
-https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
-#EXTINF:0 group-title="V",Canale 122
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:0 group-title="V",Tele Molise
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="V",Cafe TV 24
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:0 group-title="V",269
+http://185.91.68.35:1935/live/cdn3/playlist.m3u8
+#EXTINF:0 group-title="V",270
+http://185.91.68.35:1935/live/cdn5/playlist.m3u8
+#EXTINF:0 group-title="V",Canale Italia
+https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
+#EXTINF:0 group-title="V",272
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="V",273
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="V",274
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="V",TRC Modena
 https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="V",Value24
@@ -660,8 +660,8 @@ http://77.68.40.210:8888/hls/cronache.m3u8
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="V",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:0 group-title="V",Parole Di Vita
-https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:0 group-title="V",298
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="V",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
@@ -671,9 +671,9 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:0 group-title="-",302
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:0 group-title="-",303
-http://176.65.153.40:3002/play/a02l/index.m3u8
+http://185.228.163.146:8000/play/a00s/index.m3u8
 #EXTINF:0 group-title="-",304
-http://176.65.153.40:3001/play/a02c/index.m3u8
+http://90.183.52.46:4000/play/a049/index.m3u8
 #EXTINF:0 group-title="-",305
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266385
@@ -687,29 +687,26 @@ http://176.65.153.52:8401/play/a095/index.m3u8
 http://176.65.153.52:8401/play/a096/index.m3u8
 #EXTINF:0 group-title="-",310
 http://185.19.191.171:8090/NRK1/index.m3u8
-#EXTINF:0 group-title="AL",Report TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-https://deb20stream.duckdns.org/signed/stream.m3u8
-#EXTINF:0 group-title="AL",SCAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-https://scantvstream.pdf-to-img.com/Digitalb/Admin01/Admin01/playlist.m3u8
-#EXTINF:0 group-title="AL",SYRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-https://stream.syritv.al/live/syritv/playlist.m3u8
-#EXTINF:0 group-title="AL",News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:0 group-title="AL",Panorama
-http://159.69.221.56/panorama/livestream/playlist.m3u8
-#EXTINF:0 group-title="AL",Vizion Plus
-https://tringliveviz.akamaized.net/delta/105/out/u/1220_3.m3u8
-#EXTINF:0 group-title="AL",Ora News
-https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:0 group-title="AL",CNA TV
-https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:0 group-title="AL",A2 CNN
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:0 group-title="World",ONE Malta
-https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:0 group-title="PT",RTP 1
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:0 group-title="PT",SIC
+http://185.228.163.146:8000/play/a004/index.m3u8
+#EXTINF:0 group-title="PT",TVI
+http://185.228.163.146:8000/play/a005/index.m3u8
+#EXTINF:0 group-title="PT",RTP N
+http://185.228.163.146:8000/play/a007/index.m3u8
+#EXTINF:0 group-title="PT",SIC N
+http://185.228.163.146:8000/play/a00y/index.m3u8
+#EXTINF:0 group-title="PT",Canal 11
+http://185.228.163.146:8000/play/a00z/index.m3u8
+#EXTINF:0 group-title="PT",TV Record
+http://185.228.163.146:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="PT",TV Galicia
+http://185.228.163.146:8000/play/a00p/index.m3u8
+#EXTINF:0 group-title="PT",CNN Portugal
+http://185.228.163.146:8000/play/a03i/index.m3u8
 #EXTINF:0 group-title="GR",ERT 1 GR
 http://176.65.153.4:8301/play/a05x/index.m3u8
 #EXTINF:0 group-title="GR",ERT 2 GR
@@ -938,7 +935,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="World",RTÉ ONE IE
 http://41.180.140.146:4200/bysid/2101
 #EXTINF:0 group-title="test",430
-http://5.57.74.130:8000/play/a0dh/index.m3u8
+http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="USA",ABC News
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 #EXTINF:0 group-title="USA",NBC News
@@ -946,7 +943,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/30076/index.m3u8
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1391,16 +1388,19 @@ https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
 #EXTINF:0 group-title="World",Georgia 2
 https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
-#EXTINF:-1 group-title="World",656
-http://195.142.194.26:5656/play/a05t
-#EXTINF:0 group-title="World",657
-http://185.129.1.242:80/aztv/mpegts
-#EXTINF:-1 group-title="World",658
-http://94.100.50.220/HRT3/index.m3u8
-#EXTINF:-1 group-title="World",659
-http://ottlunasp.xyz:80/live/boukadjar/040426/6337.m3u8
-#EXTINF:-1 group-title="World",660
-http://ottlunasp.xyz:80/live/boukadjar/040426/6339.m3u8
+#EXTINF:0 group-title="World",Syri TV Albania
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:0 group-title="World",News 24 Albania
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="World",Ora News Albania
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:0 group-title="World",CNA TV Albania
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:0 group-title="World",Scan Tv Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
+https://scantvstream.pdf-to-img.com/Digitalb/Admin01/Admin01/playlist.m3u8
+#EXTINF:0 group-title="World",ONE Malta
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
 #EXTINF:-1 group-title="World",2M Monde
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 group-title="World",2M Maroc
@@ -1415,8 +1415,6 @@ http://stream.mcquack.net/257/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Bridge TV
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 group-title="Music",Bridge Hits
-http://stream.mcquack.net/315/index.m3u8
 #EXTINF:-1 group-title="Music",Bridge Classic
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
@@ -1616,7 +1614,7 @@ http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
 #EXTINF:0,767
 http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
 #EXTINF:0,768
-http://62.129.183.89:9981/stream/channelid/1258506449?ticket=DDC8180B8AB6B0148D3EA56746ACEDEC842E150E&profile=pass
+http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0,769
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,770
