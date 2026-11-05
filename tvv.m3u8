@@ -266,11 +266,11 @@ http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:0 group-title="IT",Rai 3
 http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0 group-title="IT",Rete 4
-http://185.227.34.62:80/stream/14/index.m3u8
+http://185.227.34.62/stream/14/index.m3u8
 #EXTINF:0 group-title="IT",Canale 5
-http://185.227.34.62:80/stream/18/index.m3u8
+http://185.227.34.62/stream/18/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
-http://185.227.34.62:80/stream/21/index.m3u8
+http://185.227.34.62/stream/21/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
 http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
@@ -288,14 +288,14 @@ http://176.65.153.57:5002/play/a06o/index.m3u8
 http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="V",NICK JR IT
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="V",BBC Series IT
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="V",BBC Earth IT
-https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="V",Nickelodeon
+http://185.227.34.104/stream/118/index.m3u8
+#EXTINF:0 group-title="V",Cartoon Network
+http://185.227.34.104/stream/123/index.m3u8
+#EXTINF:0 group-title="V",DeA Kids
+http://185.227.34.104/stream/113/index.m3u8
 #EXTINF:0 group-title="V",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
-#EXTINF:0 group-title="V",Gambero Rosso
-https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="News",Euronews EN
@@ -608,18 +608,18 @@ http://185.91.68.35:1935/live/cdn5/playlist.m3u8
 https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
 #EXTINF:0 group-title="V",Giornale Radio TV
 https://gr.fluid.stream/GR_tv/livestream/index.m3u8
-#EXTINF:0 group-title="V",273
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="V",Value24
-https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
-#EXTINF:0 group-title="V",Fishing TV
-https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:0 group-title="V",Sport Outdoor TV
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="V",Automoto
-https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
 #EXTINF:0 group-title="V",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:0 group-title="V",Value24
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:0 group-title="V",Sport Outdoor TV
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="V",Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:0 group-title="V",277
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:0 group-title="V",278
+http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="V",Nokep TV
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="Music",Rock TV
@@ -636,12 +636,12 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #EXTINF:0 group-title="Music",Radio Ticino
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
-#EXTINF:0 group-title="V",Peer TV IT
-https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:0 group-title="V",BBC Series IT
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="V",BBC Earth IT
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
-#EXTINF:0 group-title="V",289
-http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="V",TMC Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
 #EXTINF:0 group-title="V",Super Six
@@ -655,10 +655,10 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="test",295
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="test",296
-https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
-#EXTINF:0 group-title="V",297
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:0 group-title="World",BBC Asia
 http://103.255.250.188:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying&uin=0&ts=0&sign=)
-#EXTINF:0 group-title="V",298
+#EXTINF:0 group-title="World",CNN Asia
 http://103.255.250.188:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
@@ -941,7 +941,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-https://tvsen6.aynaott.com/foxnews/index.m3u8
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -984,10 +984,6 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",5STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:0 group-title="USA",A&E
-http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:0 group-title="USA",AMC
-http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
@@ -1028,7 +1024,7 @@ http://23.237.104.106:8080/USA_ACCN/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",WGN
+#EXTINF:0 group-title="USA",WGN 9
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
@@ -1038,6 +1034,10 @@ http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:0 group-title="test",_
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:0 group-title="test",_
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",NTN24
@@ -1231,9 +1231,9 @@ http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",578
 http://donetex.com/test/test/49
 #EXTINF:0 group-title="s",579
-http://donetex.com/test/test/23
+https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 #EXTINF:0 group-title="s",580
-https://www.87tv.it/hls/vmix/720p/index.m3u8
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1532,9 +1532,9 @@ https://jmp2.uk/stvp-ITBD1500002NL
 #EXTINF:0 group-title="test",727
 https://jmp2.uk/stvp-IT2900003UK
 #EXTINF:0 group-title="test",728
-http://102.129.186.182:81/la5/index.m3u8
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
 #EXTINF:0 group-title="test",729
-http://102.129.186.182:81/iris/index.m3u8
+http://102.129.186.182:81/la5/index.m3u8
 #EXTINF:0 group-title="test",730
 http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:0 group-title="test",731
