@@ -564,7 +564,7 @@ https://stream.paroledivita.org/bjy/live/stream_1.m3u8
 https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="V",TVRS
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="V",250
+#EXTINF:0 group-title="Sky IT",Sport Web
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="V",Le Cronache
 http://77.68.40.210:8888/hls/cronache.m3u8
@@ -621,8 +621,8 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="V",Automoto
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
-#EXTINF:0 group-title="V",278
-https://liveac915ha.streamcloud.it/channel04/playlist.m3u8
+#EXTINF:0 group-title="V",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="V",Nokep TV
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="Music",Rock TV
@@ -643,7 +643,7 @@ https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
 https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 #EXTINF:0 group-title="V",288
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
-#EXTINF:0 group-title="V",Orler TV
+#EXTINF:0 group-title="V",289
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="V",TMC Telemontecarlo
 https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
@@ -658,9 +658,9 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="V",295
 https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8
 #EXTINF:0 group-title="V",296
-https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
-#EXTINF:0 group-title="V",297
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="V",297
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="V",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="V",Uninettuno TV
