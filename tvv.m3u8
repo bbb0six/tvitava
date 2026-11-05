@@ -560,34 +560,35 @@ https://stream.paroledivita.org/paroledivita.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",BeJoy Kids
 https://stream.paroledivita.org/bjy/live/stream_1.m3u8
-#EXTINF:0 group-title="V",248
-https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="V",249
-http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="V",250
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="V",TRC Modena
 https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="V",TVRS
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="V",Radio Radio
-https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="V",250
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="V",Le Cronache
 http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:0 group-title="V",Radio Radio
+https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="V",GRP Vera TV
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:0 group-title="V",Telerama
 https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",Telefoggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
 #EXTINF:0 group-title="V",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
-#EXTINF:0 group-title="V",Tele Molise
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="V",Canale 18 Molise
-http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="V",Gambero Rosso
+https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
 #EXTINF:0 group-title="V",Canale 7
 https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
+#EXTINF:0 group-title="V",Urania
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
+#EXTINF:0 group-title="V",Tele A1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 OPR/139.0.0.0
+https://stream.ets-sistemi.it:2020/hls/telea1-live/telea1-live.m3u8
 #EXTINF:0 group-title="V",Canale 122
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:0 group-title="V",Primaset
@@ -598,25 +599,20 @@ https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
 https://primaset.servizistreaming.it/hls/streamingcanale3.m3u8
 #EXTINF:0 group-title="V",Reggio TV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
-#EXTINF:0 group-title="V",267
-https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
-#EXTINF:0 group-title="V",GRP
-https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+#EXTINF:0 group-title="V",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:0 group-title="V",Canale 18 Molise
+http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="V",269
 http://185.91.68.35:1935/live/cdn3/playlist.m3u8
 #EXTINF:0 group-title="V",270
 http://185.91.68.35:1935/live/cdn5/playlist.m3u8
 #EXTINF:0 group-title="V",Canale Italia
 https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
-#EXTINF:0 group-title="V",272
-https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:0 group-title="V",Giornale Radio TV
+https://gr.fluid.stream/GR_tv/livestream/index.m3u8
 #EXTINF:0 group-title="V",273
-https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
-#EXTINF:0 group-title="V",274
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 OPR/139.0.0.0
-https://stream.ets-sistemi.it:2020/hls/telea1-live/telea1-live.m3u8
-#EXTINF:0 group-title="V",275
-https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
+https://liveac915ha.streamcloud.it/channel03/playlist.m3u8
 #EXTINF:0 group-title="V",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:0 group-title="V",Fishing TV
@@ -624,7 +620,11 @@ https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:0 group-title="V",Sport Outdoor TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="V",Automoto
-https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
+https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
+#EXTINF:0 group-title="V",278
+https://liveac915ha.streamcloud.it/channel04/playlist.m3u8
+#EXTINF:0 group-title="V",Nokep TV
+https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="Music",Rock TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 #EXTINF:0 group-title="Music",Hip Hop TV
@@ -639,10 +639,10 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
 https://company.fluid.stream/CompanyTV/livestream/index.m3u8
 #EXTINF:0 group-title="Music",Radio Ticino
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
-#EXTINF:0 group-title="V",Giornale Radio TV
-https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8
-#EXTINF:0 group-title="V",Radio Radio
-https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:0 group-title="V",287
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:0 group-title="V",288
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 #EXTINF:0 group-title="V",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
 #EXTINF:0 group-title="V",TMC Telemontecarlo
@@ -656,7 +656,7 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="V",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="V",295
-https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+https://d2objm2dlouur1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z33qeimgfowbx-prod/giornaleradio/index.m3u8
 #EXTINF:0 group-title="V",296
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 #EXTINF:0 group-title="V",297
@@ -1161,6 +1161,10 @@ http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:0 group-title="s",Eurosport 2 HU
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:0 group-title="s",Eurosport 1
+http://88.212.15.30/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:0 group-title="s",Eurosport 2
+http://88.212.15.30/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 1 CZ
 http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
 #EXTINF:0 group-title="s",Sport 2 CZ
@@ -1173,10 +1177,6 @@ http://88.212.7.14/live/test_sport_2/playlist.m3u8
 http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:0 group-title="s",Sport 2 HU
 http://88.212.7.14/live/sport2_hun/index.m3u8
-#EXTINF:0,549
-https://streamer2.premio.link/nokep_hd/index.m3u8
-#EXTINF:0 group-title="test",550
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0,551
 https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
 #EXTINF:0,552
@@ -1268,7 +1268,7 @@ http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1,595
 https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 #EXTINF:-1,596
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/19137/mpegts
+http://88.212.15.30/live/real_madrid_tv/index.m3u8
 #EXTINF:-1,597
 http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/19148/mpegts
 #EXTINF:-1,598
