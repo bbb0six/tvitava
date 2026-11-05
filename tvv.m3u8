@@ -556,24 +556,24 @@ http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:0 group-title="V",Parole Di Vita
 https://stream.paroledivita.org/paroledivita.m3u8
-#EXTINF:0 group-title="V",246
+#EXTINF:0 group-title="V",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",BeJoy Kids
 https://stream.paroledivita.org/bjy/live/stream_1.m3u8
 #EXTINF:0 group-title="V",248
 https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",249
-https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
+http://185.228.163.146:8000/play/a00s/index.m3u8
 #EXTINF:0 group-title="V",250
-http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="V",251
-http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="V",252
-http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="V",253
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:0 group-title="V",TRC Modena
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
+#EXTINF:0 group-title="V",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
+#EXTINF:0 group-title="V",Radio Radio
 https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
-#EXTINF:0 group-title="V",254
-http://185.228.163.146:8000/play/a005/index.m3u8
+#EXTINF:0 group-title="V",Le Cronache
+http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:0 group-title="V",Telerama
 https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
 #EXTINF:0 group-title="V",Telefoggia
@@ -594,11 +594,11 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
 #EXTINF:0 group-title="V",NTR 264
 https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
-#EXTINF:0 group-title="V",RTP Messina
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:0 group-title="V",Notix TV
+https://primaset.servizistreaming.it/hls/streamingcanale3.m3u8
 #EXTINF:0 group-title="V",Reggio TV
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
-#EXTINF:0 group-title="V",TVRS
+#EXTINF:0 group-title="V",267
 https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
 #EXTINF:0 group-title="V",GRP
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
@@ -613,8 +613,9 @@ https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe
 #EXTINF:0 group-title="V",273
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="V",274
-https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
-#EXTINF:0 group-title="V",TRC Modena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 OPR/139.0.0.0
+https://stream.ets-sistemi.it:2020/hls/telea1-live/telea1-live.m3u8
+#EXTINF:0 group-title="V",275
 https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="V",Value24
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
@@ -654,14 +655,14 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="V",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="V",Le Cronache
-http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:0 group-title="V",295
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:0 group-title="V",296
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+#EXTINF:0 group-title="V",297
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="V",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:0 group-title="V",Padre Pio TV
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:0 group-title="V",298
-https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="V",Uninettuno TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
 #EXTINF:0 group-title="Rai",Rai Südtirol
