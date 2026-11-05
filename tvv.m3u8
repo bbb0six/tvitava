@@ -260,20 +260,17 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:0 group-title="IT",Rai 1
-http://5.180.164.197:8080/RAI1/index.m3u8
+http://102.129.186.182:81/rai1/index.m3u8
 #EXTINF:0 group-title="IT",Rai 2
-http://5.180.164.197:8080/RAI2/index.m3u8
+http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:0 group-title="IT",Rai 3
-http://5.180.164.197:8080/RAI3/index.m3u8
+http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0 group-title="IT",Rete 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+http://185.227.34.62:80/stream/14/index.m3u8
 #EXTINF:0 group-title="IT",Canale 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+http://185.227.34.62:80/stream/18/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+http://185.227.34.62:80/stream/21/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
 http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
@@ -398,7 +395,7 @@ https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivest
 #EXTINF:0 group-title="Regionali",Antenna 3
 https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
 #EXTINF:0 group-title="DE",ONE
-http://5.180.164.197:8080/ONE/index.m3u8
+http://90.183.52.46:4000/play/a01w/index.m3u8
 #EXTINF:0 group-title="AT",ORF 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
@@ -437,9 +434,9 @@ http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",ZDFinfo
 http://90.183.52.46:4000/play/a05k/index.m3u8
 #EXTINF:0 group-title="DE",ZDFneo
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+http://90.183.52.46:4000/play/a05l/index.m3u8
 #EXTINF:0 group-title="DE",Pro7Maxx
-http://5.180.164.197:8080/PRO7MAXX/index.m3u8
+https://s6.hopslan.com/pro7maxxX/index.m3u8
 #EXTINF:0 group-title="DE",KIKA
 http://88.212.7.14/live/test_kika_tizen/playlist.m3u8
 #EXTINF:0 group-title="DE",WELT
@@ -642,7 +639,7 @@ https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
 #EXTINF:0 group-title="V",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="V",Uninettuno TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/master.m3u8
+https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
 #EXTINF:0 group-title="V",289
 http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="V",TMC Telemontecarlo
@@ -657,12 +654,12 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:0 group-title="test",295
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
-#EXTINF:0 group-title="V",296
+#EXTINF:0 group-title="test",296
 https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
 #EXTINF:0 group-title="V",297
-https://live-3.otcnet.ru/Mezzo/index.m3u8
-#EXTINF:0 group-title="V",298
 http://103.255.250.188:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying&uin=0&ts=0&sign=)
+#EXTINF:0 group-title="V",298
+http://103.255.250.188:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="Rai",Rai Südtirol
