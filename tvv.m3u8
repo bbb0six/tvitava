@@ -682,8 +682,8 @@ http://176.65.153.52:8401/play/a093/index.m3u8
 http://176.65.153.52:8401/play/a094/index.m3u8
 #EXTINF:0 group-title="ES",NOVA
 http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
-#EXTINF:0 group-title="-",310
-http://nocable.cc:8080/88064703/88064703/266385
+#EXTINF:0 group-title="ES",TVE
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31824/mpegts
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -945,8 +945,8 @@ http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://41.205.93.154/BRAVO/mpegts
+#EXTINF:0 group-title="USA",Fox Live Now
+http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",5STARMAX
@@ -1007,30 +1007,30 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:0 group-title="USA",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:0 group-title="USA",ACC Network
-http://23.237.104.106:8080/USA_ACCN/index.m3u8
-#EXTINF:0 group-title="USA",SEC Network
-http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",ACC Network
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:0 group-title="USA",WGN 9
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 #EXTINF:0 group-title="USA",OAN
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:0 group-title="USA",NEWSMAX
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:0 group-title="USA",Fox Live Now
-http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:0 group-title="test",475
+http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="test",476
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
-#EXTINF:0 group-title="test",477
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
-#EXTINF:0 group-title="test",478
+#EXTINF:0 group-title="test",477
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/12819.ts
-#EXTINF:0 group-title="test",479
+#EXTINF:0 group-title="test",478
 http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:0 group-title="test",479
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
 #EXTINF:0 group-title="World",MTV Global
 http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="test",481
