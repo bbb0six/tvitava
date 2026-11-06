@@ -616,10 +616,10 @@ https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="V",Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
-#EXTINF:0 group-title="V",277
-http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
-#EXTINF:0 group-title="V",278
-http://185.202.128.1:1935/Telemolise2-FB/Telemolise2/playlist.m3u8
+#EXTINF:0 group-title="V",Tele Molise
+https://654be07bf207c.streamlock.net/Telemolise4k-NEW/_definst_/Telemolise4K/playlist.m3u8
+#EXTINF:0 group-title="V",18 Molise
+https://654be07bf207c.streamlock.net/Telemolise2-FB/_definst_/Telemolise2/playlist.m3u8
 #EXTINF:0 group-title="V",Nokep TV
 https://streamer2.premio.link/nokep_hd/index.m3u8
 #EXTINF:0 group-title="Music",Rock TV
@@ -652,9 +652,9 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:0 group-title="V",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:0 group-title="test",295
+#EXTINF:0 group-title="test",Rete A
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
-#EXTINF:0 group-title="test",296
+#EXTINF:0 group-title="test",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:0 group-title="World",BBC Asia
 http://103.255.250.188:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying&uin=0&ts=0&sign=)
@@ -940,23 +940,23 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://200.115.120.1:8000/play/ca124/index.m3u8
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0 group-title="USA",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:0 group-title="USA",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:0 group-title="USA",MTV Global
-http://45.84.187.172:3001/udp/239.100.10.67:5000
-#EXTINF:0 group-title="USA",MTV 1
-http://198.58.104.90:8989/mtv/index.m3u8
-#EXTINF:0 group-title="USA",MTV 2
-http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:0 group-title="USA",MTV USA
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
@@ -971,18 +971,12 @@ http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/mpegts
-#EXTINF:0 group-title="USA",_
-http://41.205.93.154/LIFETIME/mpegts
+#EXTINF:0 group-title="USA",450
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:0 group-title="USA",MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 group-title="USA",5STARMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:0 group-title="USA",BBC America
@@ -1033,9 +1027,15 @@ http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:0 group-title="test",_
+#EXTINF:0 group-title="USA",478
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:0 group-title="USA",479
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:0 group-title="World",MTV Global
+http://45.84.187.172:3001/udp/239.100.10.67:5000
+#EXTINF:0 group-title="test",481
 http://5.57.74.130:8000/play/a0dh
-#EXTINF:0 group-title="test",_
+#EXTINF:0 group-title="test",482
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
@@ -1404,14 +1404,14 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:-1 group-title="World",Dubai TV
+#EXTINF:-1 group-title="World",_
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:0 group-title="Music",4ever Music
 http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Bridge TV
-http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="Music",Stars TV
+http://185.227.34.179:8080/stars-tv/index.m3u8
 #EXTINF:-1 group-title="Music",Bridge Classic
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:0 group-title="Music",FON Music RU
