@@ -289,7 +289,7 @@ http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="IT",Nickelodeon
 http://185.227.34.104/stream/118/index.m3u8
 #EXTINF:0 group-title="IT",Nick JR
-http://185.227.34.104:80/stream/115/index.m3u8
+http://185.227.34.104/stream/115/index.m3u8
 #EXTINF:0 group-title="IT",Cartoon Network
 http://185.227.34.104/stream/123/index.m3u8
 #EXTINF:0 group-title="IT",DeA Kids
@@ -940,13 +940,13 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-https://tvsen6.aynaott.com/foxnews/index.m3u8
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
-#EXTINF:0 group-title="USA",Paramount
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="USA",MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",5STARMAX
@@ -961,18 +961,10 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:0 group-title="USA",MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:0 group-title="USA",MTV Classic
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/12819.ts
+#EXTINF:0 group-title="USA",Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:0 group-title="USA",Revolt
 http://23.237.104.106:8080/USA_REVOLT/index.m3u8
-#EXTINF:0 group-title="USA",MAV TV
-http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
-#EXTINF:0 group-title="USA",SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://41.205.93.154/BRAVO/mpegts
-#EXTINF:0 group-title="USA",450
-http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:0 group-title="USA",NAT GEO WILD
@@ -999,6 +991,10 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:0 group-title="USA",ION
 http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:0 group-title="USA",MAV TV
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:0 group-title="USA",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:0 group-title="USA",Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:0 group-title="USA",TruTV
@@ -1027,16 +1023,20 @@ http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:0 group-title="USA",478
-http://198.58.104.90:8989/mtv/index.m3u8
-#EXTINF:0 group-title="USA",479
+#EXTINF:0 group-title="test",476
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+#EXTINF:0 group-title="test",477
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
+#EXTINF:0 group-title="test",478
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/12819.ts
+#EXTINF:0 group-title="test",479
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:0 group-title="World",MTV Global
 http://45.84.187.172:3001/udp/239.100.10.67:5000
 #EXTINF:0 group-title="test",481
 http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="test",482
-http://23.239.31.26:8989/amc/index.m3u8
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",NTN24
@@ -1230,9 +1230,9 @@ http://138.121.15.230:9001/ESPN-7/mpegts
 #EXTINF:0 group-title="s",578
 http://donetex.com/test/test/49
 #EXTINF:0 group-title="s",579
-https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+http://donetex.com/test/test/29
 #EXTINF:0 group-title="s",580
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
 #EXTINF:-1,581
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1,582
@@ -1262,7 +1262,7 @@ http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1,594
 http://102.129.186.182:81/pescacaccia/index.m3u8
 #EXTINF:-1,595
-https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1,596
 http://88.212.15.30/live/real_madrid_tv/index.m3u8
 #EXTINF:-1,597
@@ -1657,23 +1657,23 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forc
 #EXTINF:-1 group-title="Rai",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 group-title="test",La7 test 1
+#EXTINF:-1 group-title="test",Canale 5 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-https://d1chghleocc9sm.cloudfront.net/Live.m3u8
+http://nocable.cc:8080/88064703/88064703/266385
+#EXTINF:-1 group-title="test",Italia 1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266385
+#EXTINF:0 group-title="test",NOVE test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
 #EXTINF:0 group-title="test",TV8 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bf1cd65e85c4f6ab2f2ee9ac8403b9b:9142f7e62d011a8793e9b15ed36d7b7f
 #KODIPROP:inputstream.adaptive.license_key=f867332c642e3d7497970d55f0334c3b:6111dda68d5eb9e29ef5fab147e31149
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
-#EXTINF:0 group-title="test",NOVE test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0e63271f18f3a8b84b0a5d5bbf4c685:40fe6c26be09e5678fb729a9ab69b336
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
-#EXTINF:-1 group-title="test",La7Cinema test
-#EXTVLCOPT:Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
-https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 #EXTINF:0 group-title="test",RSI La 1 test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1707,14 +1707,10 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
-#EXTINF:-1 group-title="test",laSexta test
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8a56a25be1ed5c6a946edc8493d42d1d":"0332ad7b0a05c7ff5854cfb0cf8737fe","1179fa165d8354a58a02377eb9e9ad52":"05d8d60b479a1bbf2b9b21765dfe63e6","3a192ebf13e05c528459dc66031e2da2":"8179c86be8e1f3ad9053aa8ccd977408"}
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.tivify.tv
-#EXTVLCOPT:http-referrer=https://www.tivify.tv/
-https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
-#EXTINF:-1 group-title="test",Euronews test
+#EXTINF:-1 group-title="test",798
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://nocable.cc:8080/88064703/88064703/266434
+#EXTINF:-1 group-title="test",799
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
 #EXTINF:-1 group-title="test",800
