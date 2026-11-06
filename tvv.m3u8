@@ -286,15 +286,15 @@ http://176.65.153.57:5002/play/a06o/index.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:0 group-title="V",NICK JR IT
-http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="V",Nickelodeon
+#EXTINF:0 group-title="IT",Nickelodeon
 http://185.227.34.104/stream/118/index.m3u8
-#EXTINF:0 group-title="V",Cartoon Network
+#EXTINF:0 group-title="IT",Nick JR
+http://185.227.34.104:80/stream/115/index.m3u8
+#EXTINF:0 group-title="IT",Cartoon Network
 http://185.227.34.104/stream/123/index.m3u8
-#EXTINF:0 group-title="V",DeA Kids
+#EXTINF:0 group-title="IT",DeA Kids
 http://185.227.34.104/stream/113/index.m3u8
-#EXTINF:0 group-title="V",WeDo Movies
+#EXTINF:0 group-title="IT",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
@@ -664,27 +664,26 @@ http://103.255.250.188:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying&
 http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
-#EXTINF:0 group-title="-",301
+#EXTINF:0 group-title="ES",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
-#EXTINF:0 group-title="-",302
+#EXTINF:0 group-title="ES",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:0 group-title="-",303
-http://185.228.163.146:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="-",304
-http://90.183.52.46:4000/play/a049/index.m3u8
-#EXTINF:0 group-title="-",305
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://nocable.cc:8080/88064703/88064703/266385
-#EXTINF:0 group-title="-",306
+#EXTINF:0 group-title="ES",Antena 3
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31825/mpegts
+#EXTINF:0 group-title="ES",Cuatro
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31827/mpegts
+#EXTINF:0 group-title="ES",Telecinco
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31828/mpegts
+#EXTINF:0 group-title="ES",La Sexta
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
+#EXTINF:0 group-title="ES",La Séptima
 http://176.65.153.52:8401/play/a093/index.m3u8
-#EXTINF:0 group-title="-",307
+#EXTINF:0 group-title="ES",DKISS
 http://176.65.153.52:8401/play/a094/index.m3u8
-#EXTINF:0 group-title="-",308
-http://176.65.153.52:8401/play/a095/index.m3u8
-#EXTINF:0 group-title="-",309
-http://176.65.153.52:8401/play/a096/index.m3u8
+#EXTINF:0 group-title="ES",NOVA
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
 #EXTINF:0 group-title="-",310
-http://185.19.191.171:8090/NRK1/index.m3u8
+http://nocable.cc:8080/88064703/88064703/266385
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -932,8 +931,8 @@ https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:0 group-title="World",RTÉ ONE IE
 http://41.180.140.146:4200/bysid/2101
-#EXTINF:0 group-title="test",430
-http://5.57.74.130:8000/play/a0dh
+#EXTINF:0 group-title="World",NRK 1 NO
+http://185.19.191.171:8090/NRK1/index.m3u8
 #EXTINF:0 group-title="USA",ABC News
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 #EXTINF:0 group-title="USA",NBC News
@@ -1035,7 +1034,7 @@ http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 #EXTINF:0 group-title="test",_
-http://23.239.31.26:8989/aande/index.m3u8
+http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="test",_
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
