@@ -680,10 +680,10 @@ http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
 http://176.65.153.52:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="ES",DKISS
 http://176.65.153.52:8401/play/a094/index.m3u8
-#EXTINF:0 group-title="ES",NOVA
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
+#EXTINF:0 group-title="ES",Star TVE
+http://45.5.116.228:8000/play/a0h0/index.m3u8
 #EXTINF:0 group-title="ES",TVE
-http://190.60.37.118:4000/play/a087
+http://45.5.116.228:8000/play/a058/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
