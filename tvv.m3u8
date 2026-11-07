@@ -537,8 +537,8 @@ http://176.65.153.4:4007/play/a074/index.m3u8
 http://176.65.153.4:4003/play/a06m/index.m3u8
 #EXTINF:0 group-title="UK",Sky Mix
 http://176.65.153.4:4007/play/a071/index.m3u8
-#EXTINF:0 group-title="UK",ETV4
-http://176.65.153.4:4001/play/a08o/index.m3u8
+#EXTINF:0 group-title="ES",Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",TVE Int EU
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",RTVE 24h
@@ -665,9 +665,9 @@ http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
 #EXTINF:0 group-title="ES",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+https://lge-lgla2.otteravision.com/lge/lgla1/lgla1.m3u8
 #EXTINF:0 group-title="ES",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+https://lge-lgla2.otteravision.com/lge/lgla2/lgla2.m3u8
 #EXTINF:0 group-title="ES",Antena 3
 http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31825/mpegts
 #EXTINF:0 group-title="ES",Cuatro
@@ -680,10 +680,10 @@ http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
 http://176.65.153.52:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="ES",DKISS
 http://176.65.153.52:8401/play/a094/index.m3u8
-#EXTINF:0 group-title="ES",Star TVE
-http://45.5.116.228:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="ES",TVE
-http://45.5.116.228:8000/play/a058/index.m3u8
+#EXTINF:0 group-title="ES",tdp
+https://lge-lgla2.otteravision.com/lge/lgtdp/lgtdp.m3u8
+#EXTINF:0 group-title="ES",clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:0 group-title="PT",RTP 1
 http://185.228.163.146:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -1026,17 +1026,17 @@ http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="test",476
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
 #EXTINF:0 group-title="test",477
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/12819.ts
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="test",478
-http://198.58.104.90:8989/mtv2/index.m3u8
+http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="test",479
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
 #EXTINF:0 group-title="World",MTV Global
 http://45.84.187.172:3001/udp/239.100.10.67:5000
-#EXTINF:0 group-title="test",481
-http://5.57.74.130:8000/play/a0dh
-#EXTINF:0 group-title="test",482
-http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:0 group-title="World",Star TVE
+http://45.5.116.228:8000/play/a0h0/index.m3u8
+#EXTINF:0 group-title="World",TVE
+http://45.5.116.228:8000/play/a058/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
 #EXTINF:0 group-title="World",NTN24
@@ -1405,7 +1405,7 @@ http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 group-title="World",TV2 Algeria
 http://185.9.2.18/chid_347/index.m3u8
 #EXTINF:-1 group-title="World",_
-http://185.9.2.18/chid_139/index.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:0 group-title="Music",4ever Music
 http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
