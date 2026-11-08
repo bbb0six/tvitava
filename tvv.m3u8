@@ -656,9 +656,9 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
 #EXTINF:0 group-title="test",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:0 group-title="World",BBC Asia
+#EXTINF:0 group-title="World",BBC World
 http://103.255.250.188:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying&uin=0&ts=0&sign=)
-#EXTINF:0 group-title="World",CNN Asia
+#EXTINF:0 group-title="World",CNN World
 http://103.255.250.188:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying&uin=0&ts=0&sign=)
 #EXTINF:0 group-title="Music",MTV Japan
 http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
@@ -947,10 +947,10 @@ https://tvsen6.aynaott.com/msnbc/index.m3u8
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="USA",MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:0 group-title="USA",5STARMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:0 group-title="USA",VH1
@@ -1021,8 +1021,8 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:0 group-title="test",475
-http://41.205.93.154/BRAVO/mpegts
+#EXTINF:0 group-title="USA",475
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="test",476
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
 #EXTINF:0 group-title="test",477
@@ -1094,19 +1094,19 @@ http://91.205.196.7:8000/play/a02z
 #EXTINF:0 group-title="s",510
 http://91.205.196.7:8000/play/a030
 #EXTINF:0 group-title="s",511
-http://212.70.131.37:8000/play/a085
+http://79.124.49.162:15027
 #EXTINF:0 group-title="s",512
-http://212.70.131.37:8000/play/a086
+http://79.124.49.162:15028
 #EXTINF:0 group-title="s",513
-http://212.70.131.37:8000/play/a06h
+http://79.124.49.162:15029
 #EXTINF:0 group-title="s",514
-http://212.70.131.37:8000/play/a07n
+http://79.124.49.162:15030
 #EXTINF:0 group-title="s",515
-http://212.70.131.37:8000/play/a06e
+http://79.124.49.162:15023
 #EXTINF:0 group-title="s",516
-http://212.70.131.37:8000/play/a06p
+http://79.124.49.162:15024
 #EXTINF:0 group-title="s",517
-http://212.70.131.37:8000/play/a06o
+http://79.124.49.162:15025
 #EXTINF:0 group-title="s",Match 1 RU
 http://stream.mcquack.net/130/index.m3u8
 #EXTINF:0 group-title="s",Match 2 RU
