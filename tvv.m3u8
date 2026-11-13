@@ -268,9 +268,9 @@ http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0 group-title="IT",Rete 4
 http://185.227.34.62/stream/14/index.m3u8
 #EXTINF:0 group-title="IT",Canale 5
-http://185.227.34.62/stream/18/index.m3u8
+http://95.141.36.9:8080/stream/172/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
-http://185.227.34.62/stream/21/index.m3u8
+http://95.141.36.9:8080/stream/171/index.m3u8
 #EXTINF:0 group-title="IT",LA7 HD
 http://102.129.186.182:81/la7/index.m3u8
 #EXTINF:0 group-title="IT",TV8 HD
@@ -563,8 +563,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://stream.paroledivita.org/bjy/live/stream_1.m3u8
 #EXTINF:0 group-title="V",248 TV
 https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:0 group-title="V",249 TV
-https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
+#EXTINF:0 group-title="V",Top Calcio 24
+http://95.141.36.9:8080/stream/167/index.m3u8
 #EXTINF:0 group-title="Sky IT",Sport Web
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:0 group-title="V",Le Cronache
@@ -951,8 +951,8 @@ https://tvsen6.aynaott.com/msnbc/index.m3u8
 https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
 #EXTINF:0 group-title="USA",Fox Live Now
 http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="USA",BRAVO
-http://41.205.93.154/BRAVO/mpegts
+#EXTINF:0 group-title="USA",5 STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:0 group-title="USA",MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:0 group-title="USA",FUSE
@@ -1025,8 +1025,8 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
 #EXTINF:0 group-title="USA",Bloomberg
 https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:0 group-title="USA",475
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:0 group-title="USA",BRAVO
+http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="test",476
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
 #EXTINF:0 group-title="test",477
@@ -1493,27 +1493,27 @@ http://109.169.87.42:8080/stream/26/index.m3u8
 #EXTINF:0 group-title="test",706
 http://109.169.87.42:8080/stream/30/index.m3u8
 #EXTINF:0 group-title="test",707
-https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F128126488561be9a87267f
-#EXTINF:0 group-title="test",708
 http://185.227.34.62:80/stream/2/index.ts
+#EXTINF:0 group-title="test",708
+http://nocable.cc:8080/88064703/88064703/266434
 #EXTINF:0 group-title="test",709
 http://nocable.cc:8080/88064703/88064703/266434
 #EXTINF:0 group-title="test",710
-https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2343767125eb4977361e91
+http://77.85.236.219:6061/play/MTV/index.m3u8
 #EXTINF:0 group-title="test",711
-https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32202484989ac14421915
+http://77.85.236.219:6061/play/MAX_Sport_1_HD/index.m3u8
 #EXTINF:0 group-title="test",712
-http://198.204.228.26/live/cctv12hd.m3u8
+http://77.85.236.219:6061/play/MAX_Sport_2_HD/index.m3u8
 #EXTINF:0 group-title="test",713
-http://198.204.228.26/live/cctv13hd.m3u8
+http://77.85.236.219:6061/play/MAX_Sport_3_HD/index.m3u8
 #EXTINF:0 group-title="test",714
-http://198.204.228.26/live/cctv14hd.m3u8
+http://77.85.236.219:6061/play/MAX_Sport_4_HD/index.m3u8
 #EXTINF:0 group-title="test",715
-http://95.141.36.9:8080/stream/172/index.m3u8
+http://77.85.236.219:6061/play/Diema_Sport_HD/index.m3u8
 #EXTINF:0 group-title="test",716
-http://198.204.228.26/live/cctv16hd.m3u8
+http://77.85.236.219:6061/play/Diema_Sport_2_HD/index.m3u8
 #EXTINF:0 group-title="test",717
-http://198.204.228.26/live/cctv17hd.m3u8
+http://77.85.236.219:6061/play/Diema_Sport_3_HD/index.m3u8
 #EXTINF:0 group-title="test",718
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
 #EXTINF:0 group-title="test",719
@@ -1597,21 +1597,21 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:0,758
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0,759
-http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
+http://nocable.cc:8080/88064703/88064703/266434
 #EXTINF:0,760
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/32206/mpegts
+http://77.85.236.219:6061/play/bTV_HD/index.m3u8
 #EXTINF:0,761
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31826/mpegts
+http://77.85.236.219:6061/play/BNT_1/index.m3u8
 #EXTINF:0,762
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31829/mpegts
+http://77.85.236.219:6061/play/BNT_2/index.m3u8
 #EXTINF:0,763
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31825/mpegts
+http://77.85.236.219:6061/play/BNT_3_HD/index.m3u8
 #EXTINF:0,764
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31827/mpegts
+http://77.85.236.219:6061/play/BNT_4/index.m3u8
 #EXTINF:0,765
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31828/mpegts
+http://185.17.107.180:80/stream/181/index.m3u8
 #EXTINF:0,766
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
+http://185.17.107.180:80/stream/158/index.m3u8
 #EXTINF:0,767
 http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
 #EXTINF:0,768
