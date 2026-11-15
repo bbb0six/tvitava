@@ -517,14 +517,14 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="FR",Paris Première
+http://176.65.153.84:7001/play/a07f/index.m3u8
 #EXTINF:0 group-title="FR",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:0 group-title="test",227
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-#EXTINF:0 group-title="ES",TVE Int EU
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:0 group-title="ES",TVE Int EU
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:0 group-title="ES",RTVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:0 group-title="UK",BBC One
@@ -785,13 +785,13 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
-#EXTINF:0 group-title="World",355
+#EXTINF:0 group-title="World",i24news EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",356
+#EXTINF:0 group-title="World",i24news FR
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",357
+#EXTINF:0 group-title="World",i24news HE
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",358
+#EXTINF:0 group-title="World",i24news AR
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 group-title="Music",MCM TOP
 http://185.228.163.146:8000/play/a00g/index.m3u8
@@ -944,7 +944,7 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="USA",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 group-title="USA",Fox News
-http://4.30.180.36:8420/foxnews/index.m3u8?token=test
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:0 group-title="USA",MSNBC
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:0 group-title="USA",CNBC
@@ -1028,18 +1028,18 @@ https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 #EXTINF:0 group-title="USA",BRAVO
 http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="test",476
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:0 group-title="test",477
 http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="test",478
 http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="test",479
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
-#EXTINF:0 group-title="World",MTV Global
-http://45.84.187.172:3001/udp/239.100.10.67:5000
-#EXTINF:0 group-title="World",Star TVE
+#EXTINF:0 group-title="World",MTV
+http://77.85.236.219:6061/play/MTV/index.m3u8
+#EXTINF:0 group-title="test",481
 http://45.5.116.228:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="World",TVE
+#EXTINF:0 group-title="test",482
 http://45.5.116.228:8000/play/a058/index.m3u8
 #EXTINF:0 group-title="World",Canal 13
 http://45.235.37.226/canal13hd/index.m3u8
