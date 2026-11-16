@@ -688,26 +688,26 @@ http://176.65.153.52:8401/play/a094/index.m3u8
 https://lge-lgla2.otteravision.com/lge/lgtdp/lgtdp.m3u8
 #EXTINF:0 group-title="ES",clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:0 group-title="ES",FDF
+http://90.163.85.113:8093/stream/20/index.m3u8
+#EXTINF:0 group-title="ES",MEGA
+http://90.163.85.113:8093/stream/11/index.m3u8
+#EXTINF:0 group-title="ES",NEOX
+http://90.163.85.113:8093/stream/22/index.m3u8
+#EXTINF:0 group-title="ES",24h
+https://lge-lgla2.otteravision.com/lge/lg24h/lg24h.m3u8
+#EXTINF:0 group-title="ES",BeMad tv
+http://90.163.85.113:8093/stream/25/index.m3u8
+#EXTINF:0 group-title="ES",Boing ES
+http://90.163.85.113:8093/stream/19/index.m3u8
+#EXTINF:0 group-title="ES",Energy
+http://90.163.85.113:8093/stream/18/index.m3u8
+#EXTINF:0 group-title="ES",Divinity
+http://90.163.85.113:8093/stream/40/index.m3u8
 #EXTINF:0 group-title="PT",RTP 1
-http://185.228.163.146:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="PT",RTP 2
-http://185.228.163.146:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="PT",SIC
-http://185.228.163.146:8000/play/a004/index.m3u8
+http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",TVI
-http://185.228.163.146:8000/play/a005/index.m3u8
-#EXTINF:0 group-title="PT",RTP N
-http://185.228.163.146:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="PT",SIC N
-http://185.228.163.146:8000/play/a00y/index.m3u8
-#EXTINF:0 group-title="PT",Canal 11
-http://185.228.163.146:8000/play/a00z/index.m3u8
-#EXTINF:0 group-title="PT",TV Record
-http://185.228.163.146:8000/play/a01w/index.m3u8
-#EXTINF:0 group-title="PT",TV Galicia
-http://185.228.163.146:8000/play/a00p/index.m3u8
-#EXTINF:0 group-title="PT",CNN Portugal
-http://185.228.163.146:8000/play/a03i/index.m3u8
+http://50.7.120.34:8080/TVI/index.m3u8
 #EXTINF:0 group-title="GR",ERT 1 GR
 http://176.65.153.4:8301/play/a05x/index.m3u8
 #EXTINF:0 group-title="GR",ERT 2 GR
@@ -1588,8 +1588,8 @@ https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:0 group-title="test",ERT1 test
-https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:0,755
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:0,756
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 #EXTINF:0,757
