@@ -689,7 +689,7 @@ https://lge-lgla2.otteravision.com/lge/lgtdp/lgtdp.m3u8
 #EXTINF:0 group-title="ES",clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:0 group-title="ES",FDF
-http://90.163.85.113:8093/stream/20/index.m3u8
+http://90.163.85.113:8093/stream/39/index.m3u8
 #EXTINF:0 group-title="ES",MEGA
 http://90.163.85.113:8093/stream/11/index.m3u8
 #EXTINF:0 group-title="ES",NEOX
@@ -773,8 +773,8 @@ http://89.44.231.73:7000/primatv
 http://89.44.231.73:7000/digi24hd
 #EXTINF:-1 group-title="RO",Moldova 1
 http://116.202.113.254:8888/Moldova1hd
-#EXTINF:0 group-title="BG",bTV BG
-http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:0 group-title="World",MTV
+http://77.85.236.219:6061/play/MTV/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.11.189.178:8080/BNT1HD/index.m3u8
@@ -785,6 +785,8 @@ http://84.54.128.52:9999/BNT2
 http://85.11.189.178:8080/BNTHD/index.m3u8
 #EXTINF:0 group-title="BG",BNT 4 BG
 http://87.120.179.187:8000/play/a02j
+#EXTINF:0 group-title="BG",bTV BG
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="World",i24news EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 group-title="World",i24news FR
@@ -793,8 +795,6 @@ https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:0 group-title="World",i24news AR
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="Music",MCM TOP
-http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
 http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0 group-title="Music",Óčko
@@ -1035,7 +1035,7 @@ http://200.115.120.1:8000/play/ca124/index.m3u8
 http://5.57.74.130:8000/play/a0dh
 #EXTINF:0 group-title="test",479
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
-#EXTINF:0 group-title="World",MTV
+#EXTINF:0 group-title="test",480
 http://77.85.236.219:6061/play/MTV/index.m3u8
 #EXTINF:0 group-title="test",481
 http://45.5.116.228:8000/play/a0h0/index.m3u8
