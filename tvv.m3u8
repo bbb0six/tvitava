@@ -287,15 +287,15 @@ http://176.65.153.57:5002/play/a06o/index.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:0 group-title="IT",Nickelodeon
-http://185.227.34.104/stream/118/index.m3u8
-#EXTINF:0 group-title="IT",Nick JR
+#EXTINF:0 group-title="V",Boing Plus
+http://185.17.107.180:80/stream/181/index.m3u8
+#EXTINF:0 group-title="Sky IT",Nick JR
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="IT",Cartoon Network
-http://185.227.34.104/stream/123/index.m3u8
-#EXTINF:0 group-title="IT",DeA Kids
-http://185.227.34.104/stream/113/index.m3u8
-#EXTINF:0 group-title="IT",WeDo Movies
+#EXTINF:0 group-title="V",BBC Series IT
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="V",BBC Earth IT
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u88
+#EXTINF:0 group-title="V",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
