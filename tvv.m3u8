@@ -266,7 +266,8 @@ http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:0 group-title="IT",Rai 3
 http://102.129.186.182:81/rai3/index.m3u8
 #EXTINF:0 group-title="IT",Rete 4
-http://185.227.34.62/stream/14/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:0 group-title="IT",Canale 5
 http://95.141.36.9:8080/stream/172/index.m3u8
 #EXTINF:0 group-title="IT",Italia 1
@@ -289,7 +290,7 @@ http://176.65.153.57:5002/play/a06p/index.m3u8
 #EXTINF:0 group-title="IT",Nickelodeon
 http://185.227.34.104/stream/118/index.m3u8
 #EXTINF:0 group-title="IT",Nick JR
-http://185.227.34.104/stream/115/index.m3u8
+http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="IT",Cartoon Network
 http://185.227.34.104/stream/123/index.m3u8
 #EXTINF:0 group-title="IT",DeA Kids
@@ -1613,7 +1614,7 @@ http://185.17.107.180:80/stream/181/index.m3u8
 #EXTINF:0,766
 http://185.17.107.180:80/stream/158/index.m3u8
 #EXTINF:0,767
-http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
+https://n-121-5.il.cdn-redge.media/livehls/oil/freetv/live/ch9/live.livx/playlist.m3u8
 #EXTINF:0,768
 http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0,769
