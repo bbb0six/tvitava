@@ -294,7 +294,7 @@ http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:0 group-title="V",BBC Series IT
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",BBC Earth IT
-https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u88
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
@@ -1112,11 +1112,11 @@ http://79.124.49.162:15023
 http://79.124.49.162:15024
 #EXTINF:0 group-title="s",517
 http://79.124.49.162:15025
-#EXTINF:0 group-title="s",Match 1 RU
+#EXTINF:0 group-title="s",518
 http://stream.mcquack.net/130/index.m3u8
-#EXTINF:0 group-title="s",Match 2 RU
+#EXTINF:0 group-title="s",519
 http://stream.mcquack.net/142/index.m3u8
-#EXTINF:0 group-title="s",Match 3 RU
+#EXTINF:0 group-title="s",520
 http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1 group-title="s",521
 http://45.235.37.226/espnhd/index.m3u8
@@ -1354,20 +1354,20 @@ http://stream.mcquack.net/444/index.m3u8
 http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 group-title="World",UA 2+2
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="World",LT LRT TV
-http://stream.mcquack.net/31/index.m3u8
-#EXTINF:-1 group-title="World",LV LTV1
-http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 group-title="World",NPO 1 NL
+http://86.85.245.213:9981/stream/channelid/366634623?profile=pass
+#EXTINF:-1 group-title="World",RTL 4 NL
+http://176.65.153.40:3001/play/a02c/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 09
-http://stream.mcquack.net/20/index.m3u8
+https://n-121-5.il.cdn-redge.media/livehls/oil/freetv/live/ch9/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",ISR CH 11
 http://stream.mcquack.net/293/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 12
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 13
-http://stream.mcquack.net/295/index.m3u8
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 14
-http://stream.mcquack.net/454/index.m3u8
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",ISR CH 15
 http://stream.mcquack.net/45/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 16
@@ -1376,8 +1376,8 @@ https://ch16israel-cdn.encoders.immergo.tv/master.m3u8
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 group-title="World",ISR CH 24
 http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1 group-title="World",ISR ZOOM
-http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 group-title="World",ISR KAN11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:0 group-title="World",Armenia 1
@@ -1411,8 +1411,8 @@ http://185.9.2.18/chid_218/index.m3u8
 http://185.9.2.18/chid_347/index.m3u8
 #EXTINF:-1 group-title="World",_
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:0 group-title="Music",4ever Music
-http://stream.mcquack.net/257/index.m3u8
+#EXTINF:0 group-title="World",_
+http://90.183.52.46:4000/play/a060/index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Stars TV
@@ -1610,11 +1610,11 @@ http://77.85.236.219:6061/play/BNT_3_HD/index.m3u8
 #EXTINF:0,764
 http://77.85.236.219:6061/play/BNT_4/index.m3u8
 #EXTINF:0,765
-http://185.17.107.180:80/stream/181/index.m3u8
-#EXTINF:0,766
 http://185.17.107.180:80/stream/158/index.m3u8
+#EXTINF:0,766
+https://4.hls.gd/ch2618/mono.m3u8?token=olgasergej.v2_0L-wlfH79zLTC-AQbIYMGIZpLszzFX4xPioKjtffrnDI1LRdT9HpBDh1EabDUpl_m14fNWRwF17LwGk
 #EXTINF:0,767
-https://n-121-5.il.cdn-redge.media/livehls/oil/freetv/live/ch9/live.livx/playlist.m3u8
+https://4.hls.gd/ch2619/mono.m3u8?token=olgasergej.v2_RDBH0KJMoM11t5Tea9PjWO8IBgoGbr6DwAnltWOK5ShPRj8S2-Y-7TICiIkMmKl1VIEyYy9OS7_RlTg
 #EXTINF:0,768
 http://185.129.1.242:80/aztv/mpegts
 #EXTINF:0,769
