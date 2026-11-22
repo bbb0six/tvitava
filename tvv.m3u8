@@ -280,6 +280,10 @@ http://102.129.186.182:81/tv8/index.m3u8
 http://nocable.cc:8080/88064703/88064703/266406
 #EXTINF:0 group-title="IT",LA7Cinema HD
 http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:0 group-title="Sky IT",Eurosport 1 IT
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Sky IT",Eurosport 2 IT
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
 #EXTINF:0 group-title="CH",RSI LA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06o/index.m3u8
@@ -290,10 +294,6 @@ http://176.65.153.57:5002/play/a06p/index.m3u8
 http://185.17.107.180:80/stream/181/index.m3u8
 #EXTINF:0 group-title="Sky IT",Nick JR
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:0 group-title="V",BBC Series IT
-https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="V",BBC Earth IT
-https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="V",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
@@ -771,8 +771,8 @@ http://89.44.231.73:7000/antena3
 http://89.44.231.73:7000/primatv
 #EXTINF:-1 group-title="RO",Digi24 RO
 http://89.44.231.73:7000/digi24hd
-#EXTINF:-1 group-title="test",349
-http://116.202.113.254:8888/Moldova1hd
+#EXTINF:-1 group-title="RO",ProTV HD
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd
 #EXTINF:0 group-title="World",MTV
 http://77.85.236.219:6061/play/MTV/index.m3u8
 #EXTINF:0 group-title="BG",BNT 1 BG
@@ -788,9 +788,9 @@ http://87.120.179.187:8000/play/a02j
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="test",356
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+http://89.44.231.73:7000/tvr1hd
 #EXTINF:0 group-title="test",357
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_italia/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",358
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",M6 Music
@@ -1505,15 +1505,15 @@ https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.
 #EXTINF:0 group-title="test",712
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",713
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/das_erste/live.livx/playlist.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",714
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/das_erste/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",715
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",716
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",717
-http://77.85.236.219:6061/play/Diema_Sport_HD/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",718
 http://77.85.236.219:6061/play/Diema_Sport_2_HD/index.m3u8
 #EXTINF:0 group-title="test",719
