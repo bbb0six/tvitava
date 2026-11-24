@@ -118,8 +118,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:0 group-title="WBD IT",frisbee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://nocable.cc:8080/88064703/88064703/266393
-#EXTINF:-1 group-title="V",MANGA
-https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
+#EXTINF:0 group-title="MDS",Boing Plus
+http://185.17.107.180:80/stream/181/index.m3u8
 #EXTINF:-1 group-title="MDS",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -290,14 +290,14 @@ http://176.65.153.57:5002/play/a06o/index.m3u8
 #EXTINF:0 group-title="CH",RSI LA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06p/index.m3u8
-#EXTINF:0 group-title="V",Boing Plus
-http://185.17.107.180:80/stream/181/index.m3u8
-#EXTINF:0 group-title="Sky IT",Nick JR
-http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:0 group-title="V",MANGA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
 #EXTINF:0 group-title="V",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
 #EXTINF:0 group-title="News",Class CNBC IT
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="News",Class Moda
+http://90.183.52.46:4000/play/a060/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 http://88.212.7.14/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
@@ -518,7 +518,7 @@ https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 group-title="FR",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:0 group-title="FR",Paris Première
-http://176.65.153.84:7001/play/a07f/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:0 group-title="ES",Star TVE
@@ -673,13 +673,13 @@ https://lge-lgla2.otteravision.com/lge/lgla1/lgla1.m3u8
 #EXTINF:0 group-title="ES",La 2
 https://lge-lgla2.otteravision.com/lge/lgla2/lgla2.m3u8
 #EXTINF:0 group-title="ES",Antena 3
-http://90.163.85.113:8093/stream/20/index.m3u8
+http://79.116.29.121:8069/udp/239.10.20.9:1234
 #EXTINF:0 group-title="ES",Cuatro
-http://90.163.85.113:8093/stream/42/index.m3u8
+http://79.116.29.121:8069/udp/239.250.5.2:1234
 #EXTINF:0 group-title="ES",Telecinco
-http://90.163.85.113:8093/stream/41/index.m3u8
+http://79.116.29.121:8069/udp/239.250.5.1:1234
 #EXTINF:0 group-title="ES",La Sexta
-http://90.163.85.113:8093/stream/21/index.m3u8
+http://79.116.29.121:8069/udp/239.10.20.11:1234
 #EXTINF:0 group-title="ES",La Séptima
 http://176.65.153.52:8401/play/a093/index.m3u8
 #EXTINF:0 group-title="ES",DKISS
@@ -689,21 +689,21 @@ https://lge-lgla2.otteravision.com/lge/lgtdp/lgtdp.m3u8
 #EXTINF:0 group-title="ES",clan
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 #EXTINF:0 group-title="ES",FDF
-http://90.163.85.113:8093/stream/39/index.m3u8
-#EXTINF:0 group-title="ES",MEGA
-http://90.163.85.113:8093/stream/11/index.m3u8
-#EXTINF:0 group-title="ES",NEOX
-http://90.163.85.113:8093/stream/22/index.m3u8
+http://79.116.29.121:8069/udp/239.250.5.3:1234
+#EXTINF:0 group-title="ES",Divinity
+http://79.116.29.121:8069/udp/239.250.5.4:1234
+#EXTINF:0 group-title="ES",Energy
+http://79.116.29.121:8069/udp/239.10.20.49:1234
 #EXTINF:0 group-title="ES",24h
 https://lge-lgla2.otteravision.com/lge/lg24h/lg24h.m3u8
-#EXTINF:0 group-title="ES",BeMad tv
-http://90.163.85.113:8093/stream/25/index.m3u8
+#EXTINF:0 group-title="ES",mega
+http://79.116.29.121:8069/udp/239.10.20.42:1234
+#EXTINF:0 group-title="ES",neox
+http://79.116.29.121:8069/udp/239.10.20.13:1234
+#EXTINF:0 group-title="ES",nova
+http://79.116.29.121:8069/udp/239.10.20.14:1234
 #EXTINF:0 group-title="ES",Boing ES
-http://90.163.85.113:8093/stream/19/index.m3u8
-#EXTINF:0 group-title="ES",Energy
-http://90.163.85.113:8093/stream/18/index.m3u8
-#EXTINF:0 group-title="ES",Divinity
-http://90.163.85.113:8093/stream/40/index.m3u8
+http://79.116.29.121:8069/udp/239.10.20.50:1234
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",TVI
@@ -789,10 +789,10 @@ http://87.120.179.187:8000/play/a02j
 http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:0 group-title="test",356
 http://89.44.231.73:7000/tvr1hd
-#EXTINF:0 group-title="test",357
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_italia/live.livx/playlist.m3u8
-#EXTINF:0 group-title="test",358
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+#EXTINF:0 group-title="Music",2TV LT
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:0 group-title="Music",HIT TV
+http://79.116.29.121:8069/udp/239.10.20.62:1234
 #EXTINF:0 group-title="Music",M6 Music
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:0 group-title="Music",360 TuneBox
@@ -915,8 +915,8 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 group-title="Music",2TV LT
-https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 group-title="MDS",TGCOM24 INT
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 group-title="CH",carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 2
@@ -933,10 +933,10 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
 #EXTINF:0 group-title="World",3cat info
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:0 group-title="World",RTÉ ONE IE
-http://41.180.140.146:4200/bysid/2101
-#EXTINF:0 group-title="World",NRK 1 NO
-http://185.19.191.171:8090/NRK1/index.m3u8
+#EXTINF:0 group-title="test",429
+http://5.57.74.130:8000/play/a0dh
+#EXTINF:0 group-title="test",430
+http://200.115.120.1:8000/play/ca124/index.m3u8
 #EXTINF:0 group-title="USA",ABC News
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 #EXTINF:0 group-title="USA",NBC News
@@ -1029,24 +1029,6 @@ https://tvsen6.aynaott.com/bloombergtv/index.m3u8
 http://41.205.93.154/BRAVO/mpegts
 #EXTINF:0 group-title="test",476
 http://4.30.180.36:8420/foxnews/index.m3u8?token=test
-#EXTINF:0 group-title="test",477
-http://200.115.120.1:8000/play/ca124/index.m3u8
-#EXTINF:0 group-title="test",478
-http://5.57.74.130:8000/play/a0dh
-#EXTINF:0 group-title="test",479
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
-#EXTINF:0 group-title="test",480
-http://77.85.236.219:6061/play/MTV/index.m3u8
-#EXTINF:0 group-title="test",481
-http://45.5.116.228:8000/play/a0h0/index.m3u8
-#EXTINF:0 group-title="test",482
-http://45.5.116.228:8000/play/a058/index.m3u8
-#EXTINF:0 group-title="World",Canal 13
-http://45.235.37.226/canal13hd/index.m3u8
-#EXTINF:0 group-title="World",NTN24
-http://45.235.37.226/ntn24/index.m3u8
-#EXTINF:0 group-title="World",A3 Internacional
-http://45.235.37.226/antena3/index.m3u8
 #EXTINF:0 group-title="World",Telesur Español
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 group-title="World",Telesur English
@@ -1055,26 +1037,44 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 http://138.121.15.230:9001/TELEMUNDO/index.m3u8
 #EXTINF:0 group-title="World",CNN Español
 http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
+#EXTINF:0 group-title="World",CNN Chile
+http://45.235.37.227/cnnchilehd/index.m3u8
+#EXTINF:0 group-title="World",Canal 13
+http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:0 group-title="World",NTN24
+http://45.235.37.226/ntn24/index.m3u8
+#EXTINF:0 group-title="World",A3 Internacional
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:0,485
+http://84.22.55.2:8032/play/s361
+#EXTINF:0,486
+http://84.22.55.2:8032/play/s362
+#EXTINF:0,487
+http://84.22.55.2:8032/play/s363
+#EXTINF:0,488
+http://84.22.55.2:8032/play/s364
+#EXTINF:0,489
+http://84.22.55.2:8032/play/s365
 #EXTINF:0,490
 http://88.212.15.93/live/mb_hits/index.m3u8
 #EXTINF:0,491
-http://84.22.55.2:8032/play/s361
+http://88.212.15.93/live/mb_dance/index.m3u8
 #EXTINF:0,492
-http://84.22.55.2:8032/play/s362
+http://88.212.15.93/live/mb_classic/index.m3u8
 #EXTINF:0,493
-http://84.22.55.2:8032/play/s363
+http://88.212.15.93/live/mb_sexy/index.m3u8
 #EXTINF:0,494
-http://84.22.55.2:8032/play/s364
+http://84.22.55.2:8032/play/s361
 #EXTINF:0,495
-http://84.22.55.2:8032/play/s365
+http://84.22.55.2:8032/play/s362
 #EXTINF:0,496
-http://84.22.55.2:8032/play/s366
+http://84.22.55.2:8032/play/s363
 #EXTINF:0,497
-http://84.22.55.2:8032/play/s367
+http://84.22.55.2:8032/play/s365
 #EXTINF:0,498
-http://84.22.55.2:8032/play/s368
+http://84.22.55.2:8032/play/s367
 #EXTINF:0,499
-http://84.22.55.2:8032/play/s369
+http://84.22.55.2:8032/play/s368
 #EXTINF:0,500
 http://186.148.196.250:81/play/a0ml/index.m3u8
 #EXTINF:0 group-title="s",501
@@ -1341,41 +1341,41 @@ http://88.212.7.14/live/tv2_kids/index.m3u8
 http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="World",UA Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 group-title="World",_
-http://stream.mcquack.net/435/index.m3u8
+#EXTINF:0 group-title="World",NRK 1 NO
+http://185.19.191.171:8090/NRK1/index.m3u8
+#EXTINF:0 group-title="World",RTÉ ONE IE
+http://41.180.140.146:4200/bysid/2101
 #EXTINF:-1 group-title="World",NPO 1 NL
 http://86.85.245.213:9981/stream/channelid/366634623?profile=pass
 #EXTINF:-1 group-title="World",RTL 4 NL
 http://176.65.153.40:3001/play/a02c/index.m3u8
-#EXTINF:0 group-title="World",i24news EN
+#EXTINF:0 group-title="IL",i24news EN
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",i24news FR
+#EXTINF:0 group-title="IL",i24news FR
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",i24news HE
+#EXTINF:0 group-title="IL",i24news HE
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:0 group-title="World",i24news AR
+#EXTINF:0 group-title="IL",i24news AR
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="World",ISR CH 09
+#EXTINF:-1 group-title="IL",ISR CH 09
 https://n-121-5.il.cdn-redge.media/livehls/oil/freetv/live/ch9/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",test
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8
-#EXTINF:-1 group-title="World",ISR CH 11
+#EXTINF:-1 group-title="IL",ISR CH 11
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kan11_subs/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR CH 12
+#EXTINF:-1 group-title="IL",ISR CH 12
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/keshet_12/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR CH 13
+#EXTINF:-1 group-title="IL",ISR CH 13
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/reshet_13/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR CH 14
+#EXTINF:-1 group-title="IL",ISR CH 14
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR CH 15
+#EXTINF:-1 group-title="IL",ISR CH 15
 https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/i24_he/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR CH 16
+#EXTINF:-1 group-title="IL",ISR CH 16
 https://ch16israel-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="World",ch14
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR KAN11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="World",ISR MAKAN
+#EXTINF:-1 group-title="IL",ISR CH 23
+https://n-121-7.il.cdn-redge.media/livehls/oil/freetv/live/edu23/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="IL",ISR CH 24
+https://n-121-7.il.cdn-redge.media/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="IL",ISR MAKAN
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="World",AZTV
 http://185.129.1.242:80/aztv/mpegts
