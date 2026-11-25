@@ -464,53 +464,49 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:0 group-title="Music",Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:0 group-title="FR",TF1
-http://176.65.153.84:7001/play/a07k/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",France 2
-http://176.65.153.84:7001/play/a07g/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",France 3
-http://176.65.153.84:7001/play/a07j/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",France 4
-http://176.65.153.84:7001/play/a07h/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",France 5
-http://176.65.153.84:7001/play/a07c/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",M6
-http://176.65.153.84:7001/play/a079/index.m3u8
-#EXTINF:0 group-title="FR",Arte
-http://176.65.153.84:7001/play/a07b/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",Arte FR
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",LCP
-http://176.65.153.84:7001/play/a07n/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/lcp/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",W9
-http://176.65.153.84:7001/play/a07a/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",TMC
-http://176.65.153.84:7001/play/a07l/index.m3u8
-#EXTINF:0 group-title="FR",TFX
-http://176.65.153.84:7001/play/a07m/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",TFX HD
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",Gulli
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
-https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/gulli/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
-#EXTINF:0 group-title="FR",CNEWS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",CNews
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cnews/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",LCI
-http://176.65.153.84:7001/play/a07o/index.m3u8
-#EXTINF:0 group-title="FR",franceinfo
-http://176.65.153.84:7001/play/a07i/index.m3u8
-#EXTINF:0 group-title="FR",CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",France Info
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",CStar
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",T18
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
-#EXTINF:0 group-title="FR",NOVO19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099
-https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
+#EXTINF:0 group-title="FR",Novo 19
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",TF1 Series Film
-http://176.65.153.84:7001/play/a074/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",L'équipe
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 #EXTINF:0 group-title="FR",6Ter
-http://176.65.153.84:7001/play/a07d/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:0 group-title="FR",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:0 group-title="FR",RMC Decouverte
@@ -1054,7 +1050,7 @@ http://84.22.55.2:8032/play/s363
 #EXTINF:0,488
 http://84.22.55.2:8032/play/s364
 #EXTINF:0,489
-http://84.22.55.2:8032/play/s365
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
 #EXTINF:0,490
 http://88.212.15.93/live/mb_hits/index.m3u8
 #EXTINF:0,491
@@ -1412,14 +1408,14 @@ http://185.9.2.18/chid_347/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:0 group-title="World",666
 http://90.183.52.46:4000/play/a060/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Stars TV
-http://185.227.34.179:8080/stars-tv/index.m3u8
-#EXTINF:-1 group-title="Music",Bridge Classic
+#EXTINF:-1 group-title="World",667
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 group-title="World",668
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 group-title="World",669
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:0 group-title="Music",FON Music RU
-http://stream.mcquack.net/317/index.m3u8
+#EXTINF:0 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
 http://95.47.155.244:8001/play/a001
 #EXTINF:-1 group-title="RU",02 РОССИЯ-1
@@ -1588,16 +1584,20 @@ https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:0 group-title="RO",TVR Targu Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:0,755
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-#EXTINF:0,756
-https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:0 group-title="test",Gulli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05614a18d93436c59383bcfa64a26265:fa44f0cdbd1a5d97732d4f55e461175c
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:0 group-title="test",NOVO19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d49c8fa0c3a546e2ad4185d5e38611cd:363ee79a774e401bfaa88cf22cad0099
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
 #EXTINF:0,757
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:0,758
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:0,759
-http://nocable.cc:8080/88064703/88064703/266434
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
 #EXTINF:0,760
 http://77.85.236.219:6061/play/bTV_HD/index.m3u8
 #EXTINF:0,761
@@ -1615,7 +1615,7 @@ https://4.hls.gd/ch2618/mono.m3u8?token=olgasergej.v2_0L-wlfH79zLTC-AQbIYMGIZpLs
 #EXTINF:0,767
 https://4.hls.gd/ch2619/mono.m3u8?token=olgasergej.v2_RDBH0KJMoM11t5Tea9PjWO8IBgoGbr6DwAnltWOK5ShPRj8S2-Y-7TICiIkMmKl1VIEyYy9OS7_RlTg
 #EXTINF:0,768
-http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
 #EXTINF:0,769
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:0,770
