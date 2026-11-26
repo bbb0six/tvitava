@@ -524,23 +524,23 @@ https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3
 #EXTINF:0 group-title="FR",France 3 Nice
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC One
-http://176.65.153.4:4001/play/a08e/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
 #EXTINF:0 group-title="UK",BBC Two
-http://176.65.153.4:4001/play/a08f/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
 #EXTINF:0 group-title="UK",ITV 1
-http://176.65.153.4:4004/play/a07k/index.m3u8
+http://88.24.158.226:4028/bysid/1004
 #EXTINF:0 group-title="UK",Channel 4
-http://176.65.153.4:4007/play/a074/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
 #EXTINF:0 group-title="UK",Channel 5
 http://176.65.153.4:4003/play/a06m/index.m3u8
 #EXTINF:0 group-title="UK",ITV 2
-http://176.65.153.4:4004/play/a07l/index.m3u8
+http://185.19.191.171:8090/ITV2/index.m3u8
 #EXTINF:0 group-title="UK",ITV 3
 http://176.65.153.4:4004/play/a07o/index.m3u8
 #EXTINF:0 group-title="UK",BBC 3
 http://176.65.153.4:4001/play/a08p/index.m3u8
 #EXTINF:0 group-title="UK",BBC 4
-http://176.65.153.4:4001/play/a08g/index.m3u8
+http://88.24.158.226:4028/bysid/1003
 #EXTINF:0 group-title="UK",ITV 4
 http://176.65.153.4:4004/play/a07j/index.m3u8
 #EXTINF:0 group-title="V",Rete Oro
