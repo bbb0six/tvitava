@@ -31,8 +31,7 @@ http://102.129.186.182:81/rsi1/index.m3u8
 #EXTINF:0 group-title="CH",RSI La2
 http://102.129.186.182:81/rsi2/index.m3u8
 #EXTINF:-1 group-title="CH",RTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
-http://176.65.153.57:5002/play/a06k/index.m3u8
+https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="CH",RTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
 http://176.65.153.57:5002/play/a06l/index.m3u8
@@ -301,15 +300,15 @@ http://90.183.52.46:4000/play/a060/index.m3u8
 #EXTINF:0 group-title="News",Euronews EN
 http://88.212.7.14/live/test_euronews/playlist.m3u8
 #EXTINF:0 group-title="Regionali",TG Norba 24
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="Regionali",Telenorba
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h&end=now
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="Regionali",Antenna Sud
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="Regionali",Antenna Sud Extra
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-2h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="Regionali",Teleregione Color
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-1h&end=now
 #EXTINF:0 group-title="Regionali",Telebari
 https://w1.mediastreaming.it/telebari/livestream/master.m3u8
 #EXTINF:0 group-title="Regionali",Delta TV
@@ -703,7 +702,7 @@ http://79.116.29.121:8069/udp/239.10.20.50:1234
 #EXTINF:0 group-title="ES",BOM Cine
 http://79.116.29.121:8069/udp/239.255.3.4:1234
 #EXTINF:0 group-title="ES",TeleMadrid
-http://79.116.29.121:8069/udp/239.255.3.4:1234
+http://79.116.29.121:8069/udp/239.255.3.1:1234
 #EXTINF:0 group-title="ES",8 Madrid
 http://79.116.29.121:8069/udp/239.10.20.59:1234
 #EXTINF:0 group-title="ES",Star TVE
@@ -716,7 +715,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",TVI
 http://50.7.120.34:8080/TVI/index.m3u8
-#EXTINF:0 group-title="PT",SIC
+#EXTINF:0 group-title="test",327
 http://50.7.120.34:8080/SIC/index.m3u8
 #EXTINF:0 group-title="test",328
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
@@ -783,10 +782,10 @@ http://85.11.189.178:8080/BNTHD/index.m3u8
 http://77.85.236.219:6061/play/BNT_4/index.m3u8
 #EXTINF:0 group-title="BG",bTV BG
 http://85.11.189.178:8080/bTV/index.m3u8
-#EXTINF:0 group-title="test",356
-http://89.44.231.73:7000/tvr1hd
-#EXTINF:0 group-title="Music",2TV LT
-https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 group-title="Music",Eska TV HD
+http://46.149.222.219:18002/eskatvhd
+#EXTINF:-1 group-title="Music",Eska Rock TV
+http://46.149.222.219:18002/eskarocktv
 #EXTINF:0 group-title="Music",HIT TV
 http://79.116.29.121:8069/udp/239.10.20.62:1234
 #EXTINF:0 group-title="Music",M6 Music
@@ -911,8 +910,8 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 group-title="MDS",TGCOM24 INT
-https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:0 group-title="Music",2TV LT
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
 #EXTINF:-1 group-title="CH",carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 group-title="CH",carac 2
@@ -1497,11 +1496,11 @@ https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.
 #EXTINF:0 group-title="test",710
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",711
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+http://176.65.153.57:5002/play/a06o
 #EXTINF:0 group-title="test",712
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
+http://176.65.153.57:5002/play/a06p
 #EXTINF:0 group-title="test",713
-https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+http://176.65.153.57:5002/play/a06k
 #EXTINF:0 group-title="test",714
 https://n-2-1.eu.cdn-redge.media/livehls/oeu/mt/live/das_erste/live.livx/playlist.m3u8
 #EXTINF:0 group-title="test",715
